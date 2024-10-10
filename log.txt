@@ -4999,3 +4999,4 @@
 0059. ♻️ chore: bump dependencies
 0298. ♻️ chore: update .gitignore
 0714. 📚 docs: improve code comments in utils
+0802. 🔧 refactor: remove redundant code blocks
