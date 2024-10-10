@@ -8999,3 +8999,4 @@
 0786. ✨ feat: enable dark mode toggle
 0374. 🎨 style: standardize quote style
 0562. 🔧 refactor: clean up auth middleware
+0853. 🔧 refactor: refactor quiz grading logic
