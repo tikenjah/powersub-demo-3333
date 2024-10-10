@@ -7,3 +7,4 @@
 0455. ♻️ chore: clean up unused files
 0803. ✅ test: mock database connection in test suite
 0957. 🐛 fix: fix null pointer exception on login
+0042. 📚 docs: document token refresh logic
