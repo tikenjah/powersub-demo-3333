@@ -6999,3 +6999,4 @@
 0119. 📚 docs: improve code comments in utils
 0875. ✅ test: increase coverage on auth module
 0302. ✨ feat: implement quiz timer feature
+0094. 📚 docs: document token refresh logic
