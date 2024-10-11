@@ -28,3 +28,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0175. 📚 docs: add API usage examples
 0928. 🎨 style: apply consistent indentation
+0749. ✨ feat: support email verification
