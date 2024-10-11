@@ -6003,3 +6003,4 @@
 0523. ♻️ chore: bump dependencies
 0554. 📚 docs: improve code comments in utils
 0898. 🐛 fix: fix broken CSS in mobile view
+0224. 🐛 fix: fix broken CSS in mobile view
