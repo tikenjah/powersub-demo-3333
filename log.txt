@@ -8001,3 +8001,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0482. ✨ feat: add export to CSV option
 0659. 📚 docs: add API usage examples
+0218. 🔧 refactor: clean up auth middleware
