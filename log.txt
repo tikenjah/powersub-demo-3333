@@ -16,3 +16,4 @@
 0324. 📚 docs: document token refresh logic
 0083. 🎨 style: reformat files with black
 0662. ♻️ chore: clean up unused files
+0422. 🔧 refactor: organize models into subfolders
