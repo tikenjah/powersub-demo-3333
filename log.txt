@@ -25,3 +25,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0395. 📚 docs: write FAQ section
 0826. 📚 docs: clarify environment setup
+0703. 🔧 refactor: clean up auth middleware
