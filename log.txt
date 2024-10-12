@@ -8004,3 +8004,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0846. ✨ feat: implement quiz timer feature
 0922. 📚 docs: write FAQ section
+0889. 🚀 perf: lazy-load components
