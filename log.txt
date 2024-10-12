@@ -40,3 +40,4 @@
 0910. 🎨 style: remove trailing whitespace
 0055. 📚 docs: update README with setup steps
 0485. 📚 docs: update README with setup steps
+0990. ♻️ chore: rename env.example
