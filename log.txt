@@ -30,3 +30,4 @@
 0928. 🎨 style: apply consistent indentation
 0749. ✨ feat: support email verification
 0627. 📚 docs: document token refresh logic
+0306. 🎨 style: apply consistent indentation
