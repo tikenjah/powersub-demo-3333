@@ -34,3 +34,4 @@
 0341. 🚀 perf: lazy-load components
 0197. 📚 docs: update README with setup steps
 0327. 🔧 refactor: split large controller into smaller functions
+0824. 🚀 perf: lazy-load components
