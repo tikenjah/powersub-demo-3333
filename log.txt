@@ -10002,3 +10002,4 @@
 0773. 📚 docs: document token refresh logic
 0635. 🎨 style: apply consistent indentation
 0347. ♻️ chore: update .gitignore
+0175. 📚 docs: add API usage examples
