@@ -10003,3 +10003,4 @@
 0635. 🎨 style: apply consistent indentation
 0347. ♻️ chore: update .gitignore
 0175. 📚 docs: add API usage examples
+0460. 📚 docs: write FAQ section
