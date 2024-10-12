@@ -9005,3 +9005,4 @@
 0604. 📚 docs: add API usage examples
 0432. 🎨 style: apply consistent indentation
 0610. 🚀 perf: lazy-load components
+0607. 🐛 fix: prevent crash on empty input
