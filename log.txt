@@ -29,3 +29,4 @@
 0175. 📚 docs: add API usage examples
 0928. 🎨 style: apply consistent indentation
 0749. ✨ feat: support email verification
+0627. 📚 docs: document token refresh logic
