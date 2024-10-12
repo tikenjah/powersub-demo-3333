@@ -10001,3 +10001,4 @@
 0873. 🚀 perf: cache repeated calculations
 0773. 📚 docs: document token refresh logic
 0635. 🎨 style: apply consistent indentation
+0347. ♻️ chore: update .gitignore
