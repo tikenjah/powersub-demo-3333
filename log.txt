@@ -35,3 +35,4 @@
 0197. 📚 docs: update README with setup steps
 0327. 🔧 refactor: split large controller into smaller functions
 0824. 🚀 perf: lazy-load components
+0511. 🐛 fix: fix broken CSS in mobile view
