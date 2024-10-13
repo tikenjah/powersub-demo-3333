@@ -45,3 +45,4 @@
 0693. 📚 docs: add API usage examples
 0370. 🚀 perf: reduce image load time
 0970. ♻️ chore: update .gitignore
+0679. ♻️ chore: bump dependencies
