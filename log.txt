@@ -6007,3 +6007,4 @@
 0474. ✅ test: add unit test for quiz service
 0361. ✨ feat: support email verification
 0311. 🎨 style: apply consistent indentation
+0323. 📚 docs: clarify environment setup
