@@ -9008,3 +9008,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0006. 🐛 fix: prevent crash on empty input
 0458. ✨ feat: create admin dashboard
+0440. 📚 docs: update README with setup steps
