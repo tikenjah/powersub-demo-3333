@@ -44,3 +44,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0693. 📚 docs: add API usage examples
 0370. 🚀 perf: reduce image load time
+0970. ♻️ chore: update .gitignore
