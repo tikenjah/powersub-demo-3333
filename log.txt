@@ -50,3 +50,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0301. 🎨 style: apply consistent indentation
 0590. 🐛 fix: fix null pointer exception on login
+0477. 🐛 fix: fix broken CSS in mobile view
