@@ -9012,3 +9012,4 @@
 0592. 📚 docs: add API usage examples
 0431. 🎨 style: reformat files with black
 0942. ✅ test: increase coverage on auth module
+0200. 🐛 fix: handle 500 error in quiz API
