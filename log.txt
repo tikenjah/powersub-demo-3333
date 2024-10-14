@@ -56,3 +56,4 @@
 0060. ♻️ chore: clean up unused files
 0417. 🎨 style: rename variables for clarity
 0024. 📚 docs: write FAQ section
+0167. 🚀 perf: reduce image load time
