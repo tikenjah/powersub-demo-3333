@@ -55,3 +55,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0060. ♻️ chore: clean up unused files
 0417. 🎨 style: rename variables for clarity
+0024. 📚 docs: write FAQ section
