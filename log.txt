@@ -52,3 +52,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0477. 🐛 fix: fix broken CSS in mobile view
 0997. ✅ test: increase coverage on auth module
+0613. 🐛 fix: prevent crash on empty input
