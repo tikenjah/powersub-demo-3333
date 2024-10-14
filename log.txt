@@ -5009,3 +5009,4 @@
 0687. 🎨 style: remove trailing whitespace
 0132. ✅ test: add unit test for quiz service
 0559. 🔧 refactor: split large controller into smaller functions
+0929. ✨ feat: support email verification
