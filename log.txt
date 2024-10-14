@@ -9011,3 +9011,4 @@
 0440. 📚 docs: update README with setup steps
 0592. 📚 docs: add API usage examples
 0431. 🎨 style: reformat files with black
+0942. ✅ test: increase coverage on auth module
