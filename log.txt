@@ -6013,3 +6013,4 @@
 0044. ✅ test: add unit test for quiz service
 0498. ✅ test: mock database connection in test suite
 0636. ✅ test: increase coverage on auth module
+0048. 📚 docs: update README with setup steps
