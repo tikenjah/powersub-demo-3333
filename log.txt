@@ -70,3 +70,4 @@
 0956. 📚 docs: clarify environment setup
 0071. 🔧 refactor: refactor quiz grading logic
 0323. 📚 docs: clarify environment setup
+0836. 🚀 perf: optimize database query for quiz results
