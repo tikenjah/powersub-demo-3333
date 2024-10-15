@@ -67,3 +67,4 @@
 0204. 🎨 style: standardize quote style
 0347. ♻️ chore: update .gitignore
 0864. 🐛 fix: correct typo in registration form
+0956. 📚 docs: clarify environment setup
