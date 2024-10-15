@@ -75,3 +75,4 @@
 0424. ✨ feat: add user authentication
 0624. ✅ test: add unit test for quiz service
 0994. 🚀 perf: reduce image load time
+0165. 🎨 style: remove trailing whitespace
