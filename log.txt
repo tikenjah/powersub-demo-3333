@@ -7004,3 +7004,4 @@
 0980. 🎨 style: reformat files with black
 0971. 🎨 style: standardize quote style
 0262. 🎨 style: remove trailing whitespace
+0929. ✨ feat: support email verification
