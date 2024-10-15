@@ -77,3 +77,4 @@
 0994. 🚀 perf: reduce image load time
 0165. 🎨 style: remove trailing whitespace
 0347. ♻️ chore: update .gitignore
+0791. 🔧 refactor: clean up auth middleware
