@@ -8011,3 +8011,4 @@
 0098. 🎨 style: rename variables for clarity
 0412. ✅ test: increase coverage on auth module
 0133. 🐛 fix: fix null pointer exception on login
+0533. ♻️ chore: add GitHub actions badge
