@@ -79,3 +79,4 @@
 0347. ♻️ chore: update .gitignore
 0791. 🔧 refactor: clean up auth middleware
 0899. 🚀 perf: cache repeated calculations
+0583. ✅ test: increase coverage on auth module
