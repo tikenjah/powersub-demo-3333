@@ -90,3 +90,4 @@
 0142. ✨ feat: implement quiz timer feature
 0071. 🔧 refactor: refactor quiz grading logic
 0960. ✅ test: increase coverage on auth module
+0198. 📚 docs: clarify environment setup
