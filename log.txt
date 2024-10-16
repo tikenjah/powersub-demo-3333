@@ -8017,3 +8017,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0397. 🐛 fix: handle 500 error in quiz API
 0113. ✨ feat: add user authentication
+0711. 🐛 fix: fix broken CSS in mobile view
