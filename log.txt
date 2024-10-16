@@ -85,3 +85,4 @@
 0256. ✅ test: mock database connection in test suite
 0232. 🎨 style: apply consistent indentation
 0630. 🚀 perf: lazy-load components
+0308. 🚀 perf: reduce image load time
