@@ -92,3 +92,4 @@
 0960. ✅ test: increase coverage on auth module
 0198. 📚 docs: clarify environment setup
 0368. 🚀 perf: lazy-load components
+0978. 🐛 fix: prevent crash on empty input
