@@ -5013,3 +5013,4 @@
 0773. 📚 docs: document token refresh logic
 0309. 🔧 refactor: refactor quiz grading logic
 0183. 🔧 refactor: split large controller into smaller functions
+0121. ✨ feat: support email verification
