@@ -7006,3 +7006,4 @@
 0262. 🎨 style: remove trailing whitespace
 0929. ✨ feat: support email verification
 0068. 🐛 fix: fix null pointer exception on login
+0720. ✨ feat: add export to CSV option
