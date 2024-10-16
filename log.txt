@@ -5016,3 +5016,4 @@
 0121. ✨ feat: support email verification
 0828. ♻️ chore: add GitHub actions badge
 0928. 🎨 style: apply consistent indentation
+0659. 📚 docs: add API usage examples
