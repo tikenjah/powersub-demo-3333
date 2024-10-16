@@ -91,3 +91,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0960. ✅ test: increase coverage on auth module
 0198. 📚 docs: clarify environment setup
+0368. 🚀 perf: lazy-load components
