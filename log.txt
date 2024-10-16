@@ -86,3 +86,4 @@
 0232. 🎨 style: apply consistent indentation
 0630. 🚀 perf: lazy-load components
 0308. 🚀 perf: reduce image load time
+0794. ♻️ chore: clean up unused files
