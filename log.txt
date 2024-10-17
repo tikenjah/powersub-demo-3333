@@ -5020,3 +5020,4 @@
 0033. 🎨 style: apply consistent indentation
 0774. 🔧 refactor: refactor quiz grading logic
 0280. ✅ test: add integration test for /submit endpoint
+0715. ✨ feat: create admin dashboard
