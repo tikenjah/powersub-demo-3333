@@ -5019,3 +5019,4 @@
 0659. 📚 docs: add API usage examples
 0033. 🎨 style: apply consistent indentation
 0774. 🔧 refactor: refactor quiz grading logic
+0280. ✅ test: add integration test for /submit endpoint
