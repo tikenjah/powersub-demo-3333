@@ -95,3 +95,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0800. 🚀 perf: optimize database query for quiz results
 0681. ✨ feat: create admin dashboard
+0633. ✨ feat: add user authentication
