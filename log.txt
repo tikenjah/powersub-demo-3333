@@ -99,3 +99,4 @@
 0995. ✅ test: mock database connection in test suite
 0141. 📚 docs: document token refresh logic
 0418. ✅ test: mock database connection in test suite
+0621. 🔧 refactor: clean up auth middleware
