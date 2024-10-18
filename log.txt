@@ -111,3 +111,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0032. 🎨 style: apply consistent indentation
 0676. 🐛 fix: prevent crash on empty input
+0914. ✅ test: test user registration edge cases
