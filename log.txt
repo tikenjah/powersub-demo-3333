@@ -8020,3 +8020,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0512. 🚀 perf: reduce image load time
 0810. 🔧 refactor: refactor quiz grading logic
+0785. ✨ feat: enable dark mode toggle
