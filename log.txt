@@ -113,3 +113,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0914. ✅ test: test user registration edge cases
 0841. 🚀 perf: optimize database query for quiz results
+0030. 🐛 fix: fix null pointer exception on login
