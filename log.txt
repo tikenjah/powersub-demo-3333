@@ -118,3 +118,4 @@
 0663. 🚀 perf: reduce image load time
 0900. 🐛 fix: handle 500 error in quiz API
 0200. 🐛 fix: handle 500 error in quiz API
+0246. ✅ test: add integration test for /submit endpoint
