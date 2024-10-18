@@ -6020,3 +6020,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0839. 🎨 style: apply consistent indentation
 0061. ✨ feat: create admin dashboard
+0266. 🔧 refactor: remove redundant code blocks
