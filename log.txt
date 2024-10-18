@@ -110,3 +110,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0860. 🔧 refactor: organize models into subfolders
 0032. 🎨 style: apply consistent indentation
+0676. 🐛 fix: prevent crash on empty input
