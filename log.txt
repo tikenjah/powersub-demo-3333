@@ -117,3 +117,4 @@
 0996. ✅ test: test user registration edge cases
 0663. 🚀 perf: reduce image load time
 0900. 🐛 fix: handle 500 error in quiz API
+0200. 🐛 fix: handle 500 error in quiz API
