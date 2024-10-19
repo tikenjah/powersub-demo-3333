@@ -7020,3 +7020,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0971. 🎨 style: standardize quote style
 0053. ✅ test: increase coverage on auth module
+0433. 🐛 fix: prevent crash on empty input
