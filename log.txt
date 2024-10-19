@@ -135,3 +135,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0892. ✅ test: add unit test for quiz service
 0188. 🎨 style: apply consistent indentation
+0050. ✨ feat: enable dark mode toggle
