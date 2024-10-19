@@ -9021,3 +9021,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0022. 📚 docs: document token refresh logic
 0023. 📚 docs: clarify environment setup
+0473. 📚 docs: write FAQ section
