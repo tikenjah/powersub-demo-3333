@@ -136,3 +136,4 @@
 0892. ✅ test: add unit test for quiz service
 0188. 🎨 style: apply consistent indentation
 0050. ✨ feat: enable dark mode toggle
+0006. 🐛 fix: prevent crash on empty input
