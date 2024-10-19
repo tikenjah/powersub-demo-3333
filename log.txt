@@ -9022,3 +9022,4 @@
 0022. 📚 docs: document token refresh logic
 0023. 📚 docs: clarify environment setup
 0473. 📚 docs: write FAQ section
+0405. ✅ test: mock database connection in test suite
