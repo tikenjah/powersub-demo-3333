@@ -10022,3 +10022,4 @@
 0353. ♻️ chore: rename env.example
 0269. ✅ test: test user registration edge cases
 0196. ♻️ chore: bump dependencies
+0152. ✨ feat: add user authentication
