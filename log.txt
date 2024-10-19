@@ -134,3 +134,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0737. 🐛 fix: handle 500 error in quiz API
 0892. ✅ test: add unit test for quiz service
+0188. 🎨 style: apply consistent indentation
