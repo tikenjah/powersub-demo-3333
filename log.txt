@@ -139,3 +139,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0593. 🐛 fix: correct typo in registration form
 0674. 🔧 refactor: split large controller into smaller functions
+0587. 🔧 refactor: remove redundant code blocks
