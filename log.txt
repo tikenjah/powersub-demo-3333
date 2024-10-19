@@ -7019,3 +7019,4 @@
 0857. 🎨 style: rename variables for clarity
 0538. 🐛 fix: fix broken CSS in mobile view
 0971. 🎨 style: standardize quote style
+0053. ✅ test: increase coverage on auth module
