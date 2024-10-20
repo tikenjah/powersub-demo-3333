@@ -145,3 +145,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0127. 🐛 fix: fix null pointer exception on login
 0004. 🚀 perf: optimize database query for quiz results
+0842. 🎨 style: remove trailing whitespace
