@@ -141,3 +141,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0587. 🔧 refactor: remove redundant code blocks
 0641. 📚 docs: write FAQ section
+0079. 🐛 fix: correct typo in registration form
