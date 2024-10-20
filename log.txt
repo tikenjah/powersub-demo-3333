@@ -9023,3 +9023,4 @@
 0023. 📚 docs: clarify environment setup
 0473. 📚 docs: write FAQ section
 0405. ✅ test: mock database connection in test suite
+0666. 🐛 fix: fix broken CSS in mobile view
