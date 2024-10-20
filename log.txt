@@ -9026,3 +9026,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 1000. ✅ test: increase coverage on auth module
 0414. 🔧 refactor: remove redundant code blocks
+0859. ✨ feat: create admin dashboard
