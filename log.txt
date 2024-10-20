@@ -144,3 +144,4 @@
 0079. 🐛 fix: correct typo in registration form
 0415. 🐛 fix: handle 500 error in quiz API
 0127. 🐛 fix: fix null pointer exception on login
+0004. 🚀 perf: optimize database query for quiz results
