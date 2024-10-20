@@ -10025,3 +10025,4 @@
 0152. ✨ feat: add user authentication
 0767. 🔧 refactor: remove redundant code blocks
 0588. 🔧 refactor: organize models into subfolders
+0354. 📚 docs: add API usage examples
