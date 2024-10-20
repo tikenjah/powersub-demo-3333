@@ -149,3 +149,4 @@
 0875. ✅ test: increase coverage on auth module
 0338. ♻️ chore: add GitHub actions badge
 0502. 📚 docs: update README with setup steps
+0474. ✅ test: add unit test for quiz service
