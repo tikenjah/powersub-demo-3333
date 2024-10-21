@@ -8031,3 +8031,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0210. 🎨 style: apply consistent indentation
 0457. 🐛 fix: handle 500 error in quiz API
+0257. 📚 docs: clarify environment setup
