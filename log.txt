@@ -156,3 +156,4 @@
 0216. 🎨 style: rename variables for clarity
 0044. ✅ test: add unit test for quiz service
 0654. ✨ feat: create admin dashboard
+0068. 🐛 fix: fix null pointer exception on login
