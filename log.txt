@@ -159,3 +159,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0884. 📚 docs: clarify environment setup
 0474. ✅ test: add unit test for quiz service
+0863. 🐛 fix: correct typo in registration form
