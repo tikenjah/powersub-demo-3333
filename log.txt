@@ -8034,3 +8034,4 @@
 0257. 📚 docs: clarify environment setup
 0837. 🚀 perf: cache repeated calculations
 0684. 🚀 perf: reduce image load time
+0935. 📚 docs: update README with setup steps
