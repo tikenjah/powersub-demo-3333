@@ -10030,3 +10030,4 @@
 0452. ✨ feat: implement quiz timer feature
 0553. 🐛 fix: correct typo in registration form
 0052. 🎨 style: standardize quote style
+0041. 🐛 fix: fix broken CSS in mobile view
