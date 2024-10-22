@@ -163,3 +163,4 @@
 0706. ✨ feat: support email verification
 0593. 🐛 fix: correct typo in registration form
 0925. ✨ feat: add export to CSV option
+0426. ✅ test: add integration test for /submit endpoint
