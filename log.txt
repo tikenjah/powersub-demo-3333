@@ -9027,3 +9027,4 @@
 1000. ✅ test: increase coverage on auth module
 0414. 🔧 refactor: remove redundant code blocks
 0859. ✨ feat: create admin dashboard
+0148. 🔧 refactor: organize models into subfolders
