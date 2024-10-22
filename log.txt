@@ -173,3 +173,4 @@
 0714. 📚 docs: improve code comments in utils
 0809. ♻️ chore: rename env.example
 0527. 🎨 style: remove trailing whitespace
+0296. 🔧 refactor: organize models into subfolders
