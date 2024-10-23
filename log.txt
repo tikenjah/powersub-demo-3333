@@ -187,3 +187,4 @@
 0503. ♻️ chore: rename env.example
 0933. 📚 docs: clarify environment setup
 0791. 🔧 refactor: clean up auth middleware
+0402. 🎨 style: reformat files with black
