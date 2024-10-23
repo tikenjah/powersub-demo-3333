@@ -9035,3 +9035,4 @@
 0011. ✅ test: add unit test for quiz service
 0304. 🔧 refactor: remove redundant code blocks
 0962. ✨ feat: create admin dashboard
+0566. 📚 docs: write FAQ section
