@@ -185,3 +185,4 @@
 0416. 🎨 style: rename variables for clarity
 0434. 📚 docs: document token refresh logic
 0503. ♻️ chore: rename env.example
+0933. 📚 docs: clarify environment setup
