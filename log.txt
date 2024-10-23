@@ -186,3 +186,4 @@
 0434. 📚 docs: document token refresh logic
 0503. ♻️ chore: rename env.example
 0933. 📚 docs: clarify environment setup
+0791. 🔧 refactor: clean up auth middleware
