@@ -181,3 +181,4 @@
 0044. ✅ test: add unit test for quiz service
 0514. 🐛 fix: fix broken CSS in mobile view
 0334. 🚀 perf: cache repeated calculations
+0074. ♻️ chore: add GitHub actions badge
