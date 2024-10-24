@@ -200,3 +200,4 @@
 0419. 🎨 style: remove trailing whitespace
 0357. ✅ test: add unit test for quiz service
 0012. 🚀 perf: cache repeated calculations
+0522. 🐛 fix: handle 500 error in quiz API
