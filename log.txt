@@ -192,3 +192,4 @@
 0944. ✨ feat: add user authentication
 0698. 🐛 fix: handle 500 error in quiz API
 0091. ✨ feat: add user authentication
+0464. 🎨 style: remove trailing whitespace
