@@ -10037,3 +10037,4 @@
 0045. 🎨 style: apply consistent indentation
 0687. 🎨 style: remove trailing whitespace
 0804. ♻️ chore: add GitHub actions badge
+0745. ✅ test: add unit test for quiz service
