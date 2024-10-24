@@ -5033,3 +5033,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0941. 🚀 perf: cache repeated calculations
 0963. 🚀 perf: reduce image load time
+0100. ♻️ chore: update .gitignore
