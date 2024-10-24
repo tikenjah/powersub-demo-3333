@@ -208,3 +208,4 @@
 0706. ✨ feat: support email verification
 0550. 🔧 refactor: split large controller into smaller functions
 0774. 🔧 refactor: refactor quiz grading logic
+0611. ✅ test: test user registration edge cases
