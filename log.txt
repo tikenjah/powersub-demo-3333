@@ -8042,3 +8042,4 @@
 0883. 📚 docs: improve code comments in utils
 0217. 🚀 perf: reduce image load time
 0733. 🐛 fix: fix null pointer exception on login
+0290. ✅ test: test user registration edge cases
