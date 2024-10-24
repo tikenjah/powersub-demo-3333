@@ -9036,3 +9036,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0962. ✨ feat: create admin dashboard
 0566. 📚 docs: write FAQ section
+0281. ✨ feat: support email verification
