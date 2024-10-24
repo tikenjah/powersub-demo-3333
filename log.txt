@@ -191,3 +191,4 @@
 0594. 🎨 style: reformat files with black
 0944. ✨ feat: add user authentication
 0698. 🐛 fix: handle 500 error in quiz API
+0091. ✨ feat: add user authentication
