@@ -203,3 +203,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0861. ♻️ chore: clean up unused files
 0516. ✅ test: add unit test for quiz service
+0826. 📚 docs: clarify environment setup
