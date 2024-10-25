@@ -10039,3 +10039,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0745. ✅ test: add unit test for quiz service
 0006. 🐛 fix: prevent crash on empty input
+0476. 🚀 perf: reduce image load time
