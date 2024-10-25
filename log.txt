@@ -8046,3 +8046,4 @@
 0216. 🎨 style: rename variables for clarity
 0428. 🐛 fix: fix null pointer exception on login
 0535. 📚 docs: write FAQ section
+0539. 🔧 refactor: organize models into subfolders
