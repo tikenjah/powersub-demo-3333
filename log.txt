@@ -5035,3 +5035,4 @@
 0963. 🚀 perf: reduce image load time
 0100. ♻️ chore: update .gitignore
 0554. 📚 docs: improve code comments in utils
+0388. 🎨 style: reformat files with black
