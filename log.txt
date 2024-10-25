@@ -10038,3 +10038,4 @@
 0687. 🎨 style: remove trailing whitespace
 0804. ♻️ chore: add GitHub actions badge
 0745. ✅ test: add unit test for quiz service
+0006. 🐛 fix: prevent crash on empty input
