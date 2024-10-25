@@ -216,3 +216,4 @@
 0102. ✨ feat: support email verification
 0446. 🎨 style: apply consistent indentation
 0026. 🔧 refactor: clean up auth middleware
+0045. 🎨 style: apply consistent indentation
