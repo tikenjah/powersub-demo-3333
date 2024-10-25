@@ -224,3 +224,4 @@
 0663. 🚀 perf: reduce image load time
 0488. ♻️ chore: add GitHub actions badge
 0372. ✨ feat: add user authentication
+0939. 📚 docs: update README with setup steps
