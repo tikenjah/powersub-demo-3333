@@ -9039,3 +9039,4 @@
 0281. ✨ feat: support email verification
 0548. 📚 docs: write FAQ section
 0988. 🐛 fix: fix broken CSS in mobile view
+0722. 📚 docs: add API usage examples
