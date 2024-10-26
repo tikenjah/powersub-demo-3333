@@ -9042,3 +9042,4 @@
 0722. 📚 docs: add API usage examples
 0511. 🐛 fix: fix broken CSS in mobile view
 0022. 📚 docs: document token refresh logic
+0800. 🚀 perf: optimize database query for quiz results
