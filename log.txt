@@ -237,3 +237,4 @@
 0731. 🎨 style: standardize quote style
 0705. 🔧 refactor: refactor quiz grading logic
 0090. ✅ test: increase coverage on auth module
+0787. ♻️ chore: rename env.example
