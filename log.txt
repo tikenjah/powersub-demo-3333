@@ -239,3 +239,4 @@
 0090. ✅ test: increase coverage on auth module
 0787. ♻️ chore: rename env.example
 0479. 🐛 fix: fix null pointer exception on login
+0341. 🚀 perf: lazy-load components
