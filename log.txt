@@ -230,3 +230,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0784. ♻️ chore: clean up unused files
 0097. 🐛 fix: handle 500 error in quiz API
+0873. 🚀 perf: cache repeated calculations
