@@ -228,3 +228,4 @@
 0876. ♻️ chore: rename env.example
 0618. ✨ feat: support email verification
 0450. 🐛 fix: fix broken CSS in mobile view
+0784. ♻️ chore: clean up unused files
