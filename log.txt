@@ -6041,3 +6041,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0308. 🚀 perf: reduce image load time
 0311. 🎨 style: apply consistent indentation
+0170. ✅ test: increase coverage on auth module
