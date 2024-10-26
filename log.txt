@@ -236,3 +236,4 @@
 0903. ✅ test: mock database connection in test suite
 0731. 🎨 style: standardize quote style
 0705. 🔧 refactor: refactor quiz grading logic
+0090. ✅ test: increase coverage on auth module
