@@ -9044,3 +9044,4 @@
 0022. 📚 docs: document token refresh logic
 0800. 🚀 perf: optimize database query for quiz results
 0682. ♻️ chore: rename env.example
+0499. 🎨 style: reformat files with black
