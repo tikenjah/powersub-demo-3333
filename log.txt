@@ -7033,3 +7033,4 @@
 0831. 📚 docs: clarify environment setup
 1000. ✅ test: increase coverage on auth module
 0041. 🐛 fix: fix broken CSS in mobile view
+0636. ✅ test: increase coverage on auth module
