@@ -8049,3 +8049,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0811. 🎨 style: reformat files with black
 0461. ✨ feat: add user authentication
+0850. ♻️ chore: rename env.example
