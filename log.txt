@@ -7038,3 +7038,4 @@
 0521. 🎨 style: standardize quote style
 0700. 🎨 style: rename variables for clarity
 0283. ♻️ chore: add GitHub actions badge
+0871. ✅ test: add integration test for /submit endpoint
