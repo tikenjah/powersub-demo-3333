@@ -249,3 +249,4 @@
 0492. 🎨 style: remove trailing whitespace
 0078. ♻️ chore: update .gitignore
 0191. 🔧 refactor: refactor quiz grading logic
+0947. 📚 docs: write FAQ section
