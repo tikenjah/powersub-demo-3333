@@ -245,3 +245,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0884. 📚 docs: clarify environment setup
 0335. ♻️ chore: update .gitignore
+0592. 📚 docs: add API usage examples
