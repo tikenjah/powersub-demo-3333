@@ -255,3 +255,4 @@
 0901. ✨ feat: add user authentication
 0565. ♻️ chore: add GitHub actions badge
 0248. 🐛 fix: handle 500 error in quiz API
+0949. 📚 docs: write FAQ section
