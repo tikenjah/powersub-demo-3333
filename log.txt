@@ -246,3 +246,4 @@
 0884. 📚 docs: clarify environment setup
 0335. ♻️ chore: update .gitignore
 0592. 📚 docs: add API usage examples
+0492. 🎨 style: remove trailing whitespace
