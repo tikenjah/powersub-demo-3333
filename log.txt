@@ -270,3 +270,4 @@
 0889. 🚀 perf: lazy-load components
 0189. 📚 docs: clarify environment setup
 0582. ✨ feat: add export to CSV option
+0386. 🚀 perf: optimize database query for quiz results
