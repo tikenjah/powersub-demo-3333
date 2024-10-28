@@ -9045,3 +9045,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0682. ♻️ chore: rename env.example
 0499. 🎨 style: reformat files with black
+0066. 🔧 refactor: clean up auth middleware
