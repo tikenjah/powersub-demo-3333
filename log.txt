@@ -5044,3 +5044,4 @@
 0847. ♻️ chore: clean up unused files
 0268. 🐛 fix: prevent crash on empty input
 0351. ✨ feat: add export to CSV option
+0543. ✨ feat: support email verification
