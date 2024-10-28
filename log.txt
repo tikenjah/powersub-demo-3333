@@ -262,3 +262,4 @@
 0417. 🎨 style: rename variables for clarity
 0421. 🔧 refactor: split large controller into smaller functions
 0980. 🎨 style: reformat files with black
+0363. 📚 docs: clarify environment setup
