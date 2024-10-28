@@ -258,3 +258,4 @@
 0949. 📚 docs: write FAQ section
 0726. ✨ feat: enable dark mode toggle
 0053. ✅ test: increase coverage on auth module
+0178. ✨ feat: support email verification
