@@ -9046,3 +9046,4 @@
 0682. ♻️ chore: rename env.example
 0499. 🎨 style: reformat files with black
 0066. 🔧 refactor: clean up auth middleware
+0428. 🐛 fix: fix null pointer exception on login
