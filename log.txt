@@ -260,3 +260,4 @@
 0053. ✅ test: increase coverage on auth module
 0178. ✨ feat: support email verification
 0417. 🎨 style: rename variables for clarity
+0421. 🔧 refactor: split large controller into smaller functions
