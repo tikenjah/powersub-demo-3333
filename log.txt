@@ -10050,3 +10050,4 @@
 0416. 🎨 style: rename variables for clarity
 0837. 🚀 perf: cache repeated calculations
 0311. 🎨 style: apply consistent indentation
+0566. 📚 docs: write FAQ section
