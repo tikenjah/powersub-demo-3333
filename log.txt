@@ -278,3 +278,4 @@
 0934. ✨ feat: support email verification
 0442. 🎨 style: standardize quote style
 0144. ✅ test: increase coverage on auth module
+0015. ✨ feat: implement quiz timer feature
