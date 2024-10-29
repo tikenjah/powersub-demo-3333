@@ -10052,3 +10052,4 @@
 0311. 🎨 style: apply consistent indentation
 0566. 📚 docs: write FAQ section
 0109. 🚀 perf: lazy-load components
+0198. 📚 docs: clarify environment setup
