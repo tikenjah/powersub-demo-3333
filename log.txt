@@ -5047,3 +5047,4 @@
 0543. ✨ feat: support email verification
 0815. 🔧 refactor: split large controller into smaller functions
 0344. ♻️ chore: add GitHub actions badge
+0290. ✅ test: test user registration edge cases
