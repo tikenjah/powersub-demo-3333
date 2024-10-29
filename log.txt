@@ -7044,3 +7044,4 @@
 0707. 🎨 style: apply consistent indentation
 0742. 📚 docs: clarify environment setup
 0375. 🐛 fix: handle 500 error in quiz API
+0988. 🐛 fix: fix broken CSS in mobile view
