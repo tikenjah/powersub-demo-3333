@@ -5046,3 +5046,4 @@
 0351. ✨ feat: add export to CSV option
 0543. ✨ feat: support email verification
 0815. 🔧 refactor: split large controller into smaller functions
+0344. ♻️ chore: add GitHub actions badge
