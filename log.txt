@@ -282,3 +282,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0978. 🐛 fix: prevent crash on empty input
 0268. 🐛 fix: prevent crash on empty input
+0743. 🎨 style: apply consistent indentation
