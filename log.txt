@@ -281,3 +281,4 @@
 0015. ✨ feat: implement quiz timer feature
 0107. 🐛 fix: prevent crash on empty input
 0978. 🐛 fix: prevent crash on empty input
+0268. 🐛 fix: prevent crash on empty input
