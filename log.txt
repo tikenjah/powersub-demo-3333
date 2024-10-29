@@ -290,3 +290,4 @@
 0113. ✨ feat: add user authentication
 0745. ✅ test: add unit test for quiz service
 0526. ✨ feat: add user authentication
+0058. ♻️ chore: add GitHub actions badge
