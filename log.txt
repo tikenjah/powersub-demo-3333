@@ -283,3 +283,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0268. 🐛 fix: prevent crash on empty input
 0743. 🎨 style: apply consistent indentation
+0560. 🎨 style: rename variables for clarity
