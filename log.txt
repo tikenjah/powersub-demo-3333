@@ -304,3 +304,4 @@
 0726. ✨ feat: enable dark mode toggle
 0102. ✨ feat: support email verification
 0099. 🚀 perf: reduce image load time
+0280. ✅ test: add integration test for /submit endpoint
