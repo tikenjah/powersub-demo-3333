@@ -8056,3 +8056,4 @@
 0064. 📚 docs: clarify environment setup
 0387. ✨ feat: enable dark mode toggle
 0613. 🐛 fix: prevent crash on empty input
+0578. ✅ test: add integration test for /submit endpoint
