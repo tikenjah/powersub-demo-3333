@@ -8055,3 +8055,4 @@
 0601. ✨ feat: implement quiz timer feature
 0064. 📚 docs: clarify environment setup
 0387. ✨ feat: enable dark mode toggle
+0613. 🐛 fix: prevent crash on empty input
