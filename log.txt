@@ -301,3 +301,4 @@
 0382. 📚 docs: improve code comments in utils
 0534. 🔧 refactor: split large controller into smaller functions
 0107. 🐛 fix: prevent crash on empty input
+0726. ✨ feat: enable dark mode toggle
