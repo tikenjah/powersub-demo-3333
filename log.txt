@@ -300,3 +300,4 @@
 0225. 🚀 perf: reduce image load time
 0382. 📚 docs: improve code comments in utils
 0534. 🔧 refactor: split large controller into smaller functions
+0107. 🐛 fix: prevent crash on empty input
