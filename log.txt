@@ -5050,3 +5050,4 @@
 0290. ✅ test: test user registration edge cases
 0680. ♻️ chore: add GitHub actions badge
 0316. 🐛 fix: fix broken CSS in mobile view
+0437. 📚 docs: clarify environment setup
