@@ -8058,3 +8058,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0578. ✅ test: add integration test for /submit endpoint
 0998. 🐛 fix: fix null pointer exception on login
+0844. 📚 docs: update README with setup steps
