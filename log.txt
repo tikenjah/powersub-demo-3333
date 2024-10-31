@@ -7052,3 +7052,4 @@
 0503. ♻️ chore: rename env.example
 0493. ✨ feat: add user authentication
 0275. 🎨 style: standardize quote style
+0313. 🎨 style: apply consistent indentation
