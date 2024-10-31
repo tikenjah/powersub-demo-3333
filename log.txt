@@ -9053,3 +9053,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0139. 📚 docs: document token refresh logic
 0094. 📚 docs: document token refresh logic
+0875. ✅ test: increase coverage on auth module
