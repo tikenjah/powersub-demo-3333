@@ -318,3 +318,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0990. ♻️ chore: rename env.example
 0493. ✨ feat: add user authentication
+0768. 🎨 style: remove trailing whitespace
