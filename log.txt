@@ -7056,3 +7056,4 @@
 0203. 🚀 perf: lazy-load components
 0396. 🔧 refactor: split large controller into smaller functions
 0178. ✨ feat: support email verification
+0511. 🐛 fix: fix broken CSS in mobile view
