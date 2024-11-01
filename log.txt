@@ -321,3 +321,4 @@
 0768. 🎨 style: remove trailing whitespace
 0894. ✅ test: add integration test for /submit endpoint
 0863. 🐛 fix: correct typo in registration form
+0264. 🚀 perf: optimize database query for quiz results
