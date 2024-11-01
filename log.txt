@@ -319,3 +319,4 @@
 0990. ♻️ chore: rename env.example
 0493. ✨ feat: add user authentication
 0768. 🎨 style: remove trailing whitespace
+0894. ✅ test: add integration test for /submit endpoint
