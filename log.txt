@@ -7058,3 +7058,4 @@
 0178. ✨ feat: support email verification
 0511. 🐛 fix: fix broken CSS in mobile view
 0642. 🚀 perf: optimize database query for quiz results
+0844. 📚 docs: update README with setup steps
