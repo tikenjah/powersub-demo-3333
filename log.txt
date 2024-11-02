@@ -8061,3 +8061,4 @@
 0844. 📚 docs: update README with setup steps
 0035. ✅ test: increase coverage on auth module
 0317. ✅ test: test user registration edge cases
+0381. ♻️ chore: clean up unused files
