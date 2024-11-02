@@ -5058,3 +5058,4 @@
 0599. ✅ test: test user registration edge cases
 0151. ✅ test: add unit test for quiz service
 0975. 🎨 style: apply consistent indentation
+0841. 🚀 perf: optimize database query for quiz results
