@@ -325,3 +325,4 @@
 0879. 🎨 style: standardize quote style
 0460. 📚 docs: write FAQ section
 0540. ♻️ chore: add GitHub actions badge
+0837. 🚀 perf: cache repeated calculations
