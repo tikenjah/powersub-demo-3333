@@ -333,3 +333,4 @@
 0075. ✅ test: mock database connection in test suite
 0699. 🎨 style: standardize quote style
 0024. 📚 docs: write FAQ section
+0148. 🔧 refactor: organize models into subfolders
