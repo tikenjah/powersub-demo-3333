@@ -327,3 +327,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0837. 🚀 perf: cache repeated calculations
 0059. ♻️ chore: bump dependencies
+0072. 🚀 perf: optimize database query for quiz results
