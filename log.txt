@@ -9063,3 +9063,4 @@
 0974. ✨ feat: add export to CSV option
 0735. ♻️ chore: add GitHub actions badge
 0151. ✅ test: add unit test for quiz service
+0066. 🔧 refactor: clean up auth middleware
