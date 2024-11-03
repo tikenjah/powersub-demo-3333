@@ -341,3 +341,4 @@
 0933. 📚 docs: clarify environment setup
 0094. 📚 docs: document token refresh logic
 0195. 📚 docs: clarify environment setup
+0529. 📚 docs: write FAQ section
