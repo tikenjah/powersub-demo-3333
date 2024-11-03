@@ -8065,3 +8065,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0847. ♻️ chore: clean up unused files
 0439. 🐛 fix: correct typo in registration form
+0380. 🐛 fix: fix null pointer exception on login
