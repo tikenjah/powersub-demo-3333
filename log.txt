@@ -10068,3 +10068,4 @@
 0091. ✨ feat: add user authentication
 0491. 🚀 perf: lazy-load components
 0997. ✅ test: increase coverage on auth module
+0476. 🚀 perf: reduce image load time
