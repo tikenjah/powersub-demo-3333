@@ -356,3 +356,4 @@
 0078. ♻️ chore: update .gitignore
 0476. 🚀 perf: reduce image load time
 0903. ✅ test: mock database connection in test suite
+0503. ♻️ chore: rename env.example
