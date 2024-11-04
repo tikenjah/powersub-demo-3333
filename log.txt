@@ -359,3 +359,4 @@
 0503. ♻️ chore: rename env.example
 0153. ♻️ chore: rename env.example
 0281. ✨ feat: support email verification
+0290. ✅ test: test user registration edge cases
