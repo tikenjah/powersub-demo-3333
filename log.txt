@@ -352,3 +352,4 @@
 0966. 📚 docs: improve code comments in utils
 0131. 📚 docs: write FAQ section
 0090. ✅ test: increase coverage on auth module
+0857. 🎨 style: rename variables for clarity
