@@ -366,3 +366,4 @@
 0646. ✅ test: test user registration edge cases
 0908. ♻️ chore: bump dependencies
 0490. ✨ feat: create admin dashboard
+0431. 🎨 style: reformat files with black
