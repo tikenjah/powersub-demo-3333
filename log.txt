@@ -364,3 +364,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0453. 🎨 style: standardize quote style
 0646. ✅ test: test user registration edge cases
+0908. ♻️ chore: bump dependencies
