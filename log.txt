@@ -368,3 +368,4 @@
 0490. ✨ feat: create admin dashboard
 0431. 🎨 style: reformat files with black
 0281. ✨ feat: support email verification
+0608. 🔧 refactor: remove redundant code blocks
