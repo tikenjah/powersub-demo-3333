@@ -6062,3 +6062,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0105. 🐛 fix: correct typo in registration form
 0757. 🔧 refactor: remove redundant code blocks
+0380. 🐛 fix: fix null pointer exception on login
