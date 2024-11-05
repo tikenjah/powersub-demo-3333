@@ -374,3 +374,4 @@
 0964. ♻️ chore: clean up unused files
 0813. 🔧 refactor: organize models into subfolders
 0673. 🐛 fix: correct typo in registration form
+0317. ✅ test: test user registration edge cases
