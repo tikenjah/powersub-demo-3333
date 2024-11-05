@@ -363,3 +363,4 @@
 0636. ✅ test: increase coverage on auth module
 0900. 🐛 fix: handle 500 error in quiz API
 0453. 🎨 style: standardize quote style
+0646. ✅ test: test user registration edge cases
