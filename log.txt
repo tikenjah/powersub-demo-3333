@@ -361,3 +361,4 @@
 0281. ✨ feat: support email verification
 0290. ✅ test: test user registration edge cases
 0636. ✅ test: increase coverage on auth module
+0900. 🐛 fix: handle 500 error in quiz API
