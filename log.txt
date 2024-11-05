@@ -10072,3 +10072,4 @@
 0423. ✅ test: mock database connection in test suite
 0301. 🎨 style: apply consistent indentation
 0438. ♻️ chore: bump dependencies
+0241. 📚 docs: add API usage examples
