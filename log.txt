@@ -5070,3 +5070,4 @@
 0385. ♻️ chore: clean up unused files
 0072. 🚀 perf: optimize database query for quiz results
 0131. 📚 docs: write FAQ section
+0678. ✨ feat: add user authentication
