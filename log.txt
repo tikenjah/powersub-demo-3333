@@ -8073,3 +8073,4 @@
 0221. ✨ feat: add user authentication
 0207. 🐛 fix: prevent crash on empty input
 0155. ✨ feat: create admin dashboard
+0787. ♻️ chore: rename env.example
