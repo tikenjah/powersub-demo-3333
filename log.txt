@@ -384,3 +384,4 @@
 0153. ♻️ chore: rename env.example
 0679. ♻️ chore: bump dependencies
 0559. 🔧 refactor: split large controller into smaller functions
+0066. 🔧 refactor: clean up auth middleware
