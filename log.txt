@@ -7063,3 +7063,4 @@
 0210. 🎨 style: apply consistent indentation
 0377. ✨ feat: add user authentication
 0927. ♻️ chore: bump dependencies
+0096. 🐛 fix: prevent crash on empty input
