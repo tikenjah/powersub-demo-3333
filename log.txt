@@ -377,3 +377,4 @@
 0317. ✅ test: test user registration edge cases
 0522. 🐛 fix: handle 500 error in quiz API
 0736. 🐛 fix: fix null pointer exception on login
+0473. 📚 docs: write FAQ section
