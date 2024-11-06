@@ -380,3 +380,4 @@
 0473. 📚 docs: write FAQ section
 0666. 🐛 fix: fix broken CSS in mobile view
 0481. ✅ test: add unit test for quiz service
+0815. 🔧 refactor: split large controller into smaller functions
