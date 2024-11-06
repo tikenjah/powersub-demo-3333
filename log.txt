@@ -10075,3 +10075,4 @@
 0241. 📚 docs: add API usage examples
 0566. 📚 docs: write FAQ section
 0698. 🐛 fix: handle 500 error in quiz API
+0010. ✨ feat: add user authentication
