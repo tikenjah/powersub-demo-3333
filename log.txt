@@ -379,3 +379,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0473. 📚 docs: write FAQ section
 0666. 🐛 fix: fix broken CSS in mobile view
+0481. ✅ test: add unit test for quiz service
