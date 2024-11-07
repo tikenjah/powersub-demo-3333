@@ -8075,3 +8075,4 @@
 0155. ✨ feat: create admin dashboard
 0787. ♻️ chore: rename env.example
 0550. 🔧 refactor: split large controller into smaller functions
+0605. ✨ feat: support email verification
