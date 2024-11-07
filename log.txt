@@ -394,3 +394,4 @@
 0115. 🚀 perf: reduce image load time
 0643. 🎨 style: apply consistent indentation
 0950. 🎨 style: reformat files with black
+0698. 🐛 fix: handle 500 error in quiz API
