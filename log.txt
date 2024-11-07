@@ -6069,3 +6069,4 @@
 0910. 🎨 style: remove trailing whitespace
 0768. 🎨 style: remove trailing whitespace
 0135. ✅ test: test user registration edge cases
+0917. ✅ test: add integration test for /submit endpoint
