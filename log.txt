@@ -9070,3 +9070,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0254. 🚀 perf: reduce image load time
 0356. 📚 docs: write FAQ section
+0657. 🎨 style: standardize quote style
