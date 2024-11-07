@@ -6068,3 +6068,4 @@
 0582. ✨ feat: add export to CSV option
 0910. 🎨 style: remove trailing whitespace
 0768. 🎨 style: remove trailing whitespace
+0135. ✅ test: test user registration edge cases
