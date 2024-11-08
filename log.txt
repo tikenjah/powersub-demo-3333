@@ -8076,3 +8076,4 @@
 0787. ♻️ chore: rename env.example
 0550. 🔧 refactor: split large controller into smaller functions
 0605. ✨ feat: support email verification
+0958. 🐛 fix: prevent crash on empty input
