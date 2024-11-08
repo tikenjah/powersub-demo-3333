@@ -9076,3 +9076,4 @@
 0766. 🎨 style: reformat files with black
 0438. ♻️ chore: bump dependencies
 0879. 🎨 style: standardize quote style
+0890. 🔧 refactor: organize models into subfolders
