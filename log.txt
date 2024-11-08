@@ -401,3 +401,4 @@
 0681. ✨ feat: create admin dashboard
 0332. 🎨 style: standardize quote style
 0093. ✅ test: add unit test for quiz service
+0475. 🔧 refactor: clean up auth middleware
