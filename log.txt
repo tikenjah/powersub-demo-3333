@@ -410,3 +410,4 @@
 0445. 📚 docs: improve code comments in utils
 0730. ✅ test: test user registration edge cases
 0934. ✨ feat: support email verification
+0690. 🚀 perf: lazy-load components
