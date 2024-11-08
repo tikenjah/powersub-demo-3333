@@ -421,3 +421,4 @@
 0923. ✨ feat: support email verification
 0844. 📚 docs: update README with setup steps
 0223. 🔧 refactor: remove redundant code blocks
+0836. 🚀 perf: optimize database query for quiz results
