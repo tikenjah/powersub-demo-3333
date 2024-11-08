@@ -10084,3 +10084,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0808. 🚀 perf: optimize database query for quiz results
 0283. ♻️ chore: add GitHub actions badge
+0876. ♻️ chore: rename env.example
