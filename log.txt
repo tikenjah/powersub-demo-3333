@@ -413,3 +413,4 @@
 0690. 🚀 perf: lazy-load components
 0171. 🐛 fix: fix broken CSS in mobile view
 0401. 🚀 perf: reduce image load time
+0181. ♻️ chore: add GitHub actions badge
