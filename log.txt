@@ -10085,3 +10085,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0283. ♻️ chore: add GitHub actions badge
 0876. ♻️ chore: rename env.example
+0171. 🐛 fix: fix broken CSS in mobile view
