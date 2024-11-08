@@ -10087,3 +10087,4 @@
 0876. ♻️ chore: rename env.example
 0171. 🐛 fix: fix broken CSS in mobile view
 0273. 🚀 perf: reduce image load time
+0410. 🎨 style: reformat files with black
