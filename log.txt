@@ -417,3 +417,4 @@
 0376. 🎨 style: apply consistent indentation
 0838. 🎨 style: standardize quote style
 0367. 🐛 fix: fix null pointer exception on login
+0581. ✅ test: add integration test for /submit endpoint
