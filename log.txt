@@ -9084,3 +9084,4 @@
 0314. ✨ feat: implement quiz timer feature
 0327. 🔧 refactor: split large controller into smaller functions
 0486. ✨ feat: add export to CSV option
+0823. ✨ feat: add user authentication
