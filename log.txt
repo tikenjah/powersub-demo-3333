@@ -425,3 +425,4 @@
 0166. 🚀 perf: cache repeated calculations
 0495. 🔧 refactor: remove redundant code blocks
 0108. 🎨 style: remove trailing whitespace
+0514. 🐛 fix: fix broken CSS in mobile view
