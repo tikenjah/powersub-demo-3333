@@ -429,3 +429,4 @@
 0716. ✨ feat: implement quiz timer feature
 0827. 🚀 perf: optimize database query for quiz results
 0879. 🎨 style: standardize quote style
+0549. ✨ feat: enable dark mode toggle
