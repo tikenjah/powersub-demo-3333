@@ -6075,3 +6075,4 @@
 0372. ✨ feat: add user authentication
 0445. 📚 docs: improve code comments in utils
 0433. 🐛 fix: prevent crash on empty input
+0375. 🐛 fix: handle 500 error in quiz API
