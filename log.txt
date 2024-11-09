@@ -434,3 +434,4 @@
 0769. ✨ feat: create admin dashboard
 0156. 🎨 style: rename variables for clarity
 0323. 📚 docs: clarify environment setup
+0558. ✨ feat: enable dark mode toggle
