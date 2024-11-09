@@ -5079,3 +5079,4 @@
 0440. 📚 docs: update README with setup steps
 0893. 🐛 fix: handle 500 error in quiz API
 0661. ✅ test: add integration test for /submit endpoint
+0189. 📚 docs: clarify environment setup
