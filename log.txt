@@ -436,3 +436,4 @@
 0323. 📚 docs: clarify environment setup
 0558. ✨ feat: enable dark mode toggle
 0623. 🎨 style: standardize quote style
+0244. ✨ feat: add export to CSV option
