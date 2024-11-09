@@ -6074,3 +6074,4 @@
 0912. 📚 docs: document token refresh logic
 0372. ✨ feat: add user authentication
 0445. 📚 docs: improve code comments in utils
+0433. 🐛 fix: prevent crash on empty input
