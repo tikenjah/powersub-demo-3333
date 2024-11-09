@@ -7069,3 +7069,4 @@
 0007. 🎨 style: rename variables for clarity
 0149. ✨ feat: add export to CSV option
 0391. 🐛 fix: fix null pointer exception on login
+0496. ✅ test: add integration test for /submit endpoint
