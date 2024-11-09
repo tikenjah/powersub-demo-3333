@@ -8078,3 +8078,4 @@
 0605. ✨ feat: support email verification
 0958. 🐛 fix: prevent crash on empty input
 0147. ♻️ chore: bump dependencies
+0673. 🐛 fix: correct typo in registration form
