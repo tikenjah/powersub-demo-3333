@@ -427,3 +427,4 @@
 0108. 🎨 style: remove trailing whitespace
 0514. 🐛 fix: fix broken CSS in mobile view
 0716. ✨ feat: implement quiz timer feature
+0827. 🚀 perf: optimize database query for quiz results
