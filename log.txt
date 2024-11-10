@@ -5084,3 +5084,4 @@
 0152. ✨ feat: add user authentication
 0998. 🐛 fix: fix null pointer exception on login
 0326. 🚀 perf: cache repeated calculations
+0064. 📚 docs: clarify environment setup
