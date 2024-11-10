@@ -8079,3 +8079,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0147. ♻️ chore: bump dependencies
 0673. 🐛 fix: correct typo in registration form
+0320. 📚 docs: update README with setup steps
