@@ -441,3 +441,4 @@
 0070. ✨ feat: implement quiz timer feature
 0035. ✅ test: increase coverage on auth module
 0208. 🔧 refactor: clean up auth middleware
+0759. 🔧 refactor: organize models into subfolders
