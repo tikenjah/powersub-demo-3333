@@ -449,3 +449,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0799. ♻️ chore: clean up unused files
 0415. 🐛 fix: handle 500 error in quiz API
+0742. 📚 docs: clarify environment setup
