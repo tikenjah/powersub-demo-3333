@@ -448,3 +448,4 @@
 0044. ✅ test: add unit test for quiz service
 0425. 🔧 refactor: refactor quiz grading logic
 0799. ♻️ chore: clean up unused files
+0415. 🐛 fix: handle 500 error in quiz API
