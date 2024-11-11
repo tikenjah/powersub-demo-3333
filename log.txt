@@ -6080,3 +6080,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0457. 🐛 fix: handle 500 error in quiz API
 0092. 🚀 perf: reduce image load time
+0489. 🔧 refactor: organize models into subfolders
