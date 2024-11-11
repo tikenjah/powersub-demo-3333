@@ -456,3 +456,4 @@
 0109. 🚀 perf: lazy-load components
 0540. ♻️ chore: add GitHub actions badge
 0999. 🔧 refactor: split large controller into smaller functions
+0193. 🚀 perf: optimize database query for quiz results
