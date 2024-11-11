@@ -9087,3 +9087,4 @@
 0823. ✨ feat: add user authentication
 0700. 🎨 style: rename variables for clarity
 0429. ✨ feat: add user authentication
+0790. 📚 docs: write FAQ section
