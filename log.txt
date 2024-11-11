@@ -450,3 +450,4 @@
 0799. ♻️ chore: clean up unused files
 0415. 🐛 fix: handle 500 error in quiz API
 0742. 📚 docs: clarify environment setup
+0768. 🎨 style: remove trailing whitespace
