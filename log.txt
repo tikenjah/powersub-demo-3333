@@ -457,3 +457,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0999. 🔧 refactor: split large controller into smaller functions
 0193. 🚀 perf: optimize database query for quiz results
+0851. ✅ test: mock database connection in test suite
