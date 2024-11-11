@@ -451,3 +451,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0742. 📚 docs: clarify environment setup
 0768. 🎨 style: remove trailing whitespace
+0154. 🐛 fix: prevent crash on empty input
