@@ -463,3 +463,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0244. ✨ feat: add export to CSV option
 0374. 🎨 style: standardize quote style
+0949. 📚 docs: write FAQ section
