@@ -6082,3 +6082,4 @@
 0092. 🚀 perf: reduce image load time
 0489. 🔧 refactor: organize models into subfolders
 0038. 🎨 style: rename variables for clarity
+0442. 🎨 style: standardize quote style
