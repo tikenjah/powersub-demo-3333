@@ -5088,3 +5088,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0341. 🚀 perf: lazy-load components
 0371. ✅ test: add integration test for /submit endpoint
+0895. ✨ feat: support email verification
