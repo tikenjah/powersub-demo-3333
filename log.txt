@@ -7083,3 +7083,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0190. 🎨 style: rename variables for clarity
 0909. 🔧 refactor: organize models into subfolders
+0686. 🎨 style: standardize quote style
