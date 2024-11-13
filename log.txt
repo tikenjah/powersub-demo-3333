@@ -480,3 +480,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0734. ✨ feat: add export to CSV option
 0088. 📚 docs: add API usage examples
+0548. 📚 docs: write FAQ section
