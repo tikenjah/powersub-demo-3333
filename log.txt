@@ -482,3 +482,4 @@
 0088. 📚 docs: add API usage examples
 0548. 📚 docs: write FAQ section
 0548. 📚 docs: write FAQ section
+0027. 📚 docs: clarify environment setup
