@@ -477,3 +477,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0473. 📚 docs: write FAQ section
 0772. 🐛 fix: fix null pointer exception on login
+0039. ✅ test: add integration test for /submit endpoint
