@@ -7084,3 +7084,4 @@
 0190. 🎨 style: rename variables for clarity
 0909. 🔧 refactor: organize models into subfolders
 0686. 🎨 style: standardize quote style
+0677. 📚 docs: add API usage examples
