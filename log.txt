@@ -473,3 +473,4 @@
 0509. ♻️ chore: bump dependencies
 0429. ✨ feat: add user authentication
 0924. ✅ test: mock database connection in test suite
+0571. 🔧 refactor: clean up auth middleware
