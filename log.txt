@@ -475,3 +475,4 @@
 0924. ✅ test: mock database connection in test suite
 0571. 🔧 refactor: clean up auth middleware
 0068. 🐛 fix: fix null pointer exception on login
+0473. 📚 docs: write FAQ section
