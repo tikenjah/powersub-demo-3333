@@ -470,3 +470,4 @@
 0093. ✅ test: add unit test for quiz service
 0851. ✅ test: mock database connection in test suite
 0667. ✨ feat: add export to CSV option
+0509. ♻️ chore: bump dependencies
