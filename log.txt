@@ -488,3 +488,4 @@
 0764. ✨ feat: add user authentication
 0345. 📚 docs: document token refresh logic
 0732. ♻️ chore: add GitHub actions badge
+0985. 📚 docs: document token refresh logic
