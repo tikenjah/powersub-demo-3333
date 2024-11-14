@@ -491,3 +491,4 @@
 0985. 📚 docs: document token refresh logic
 0165. 🎨 style: remove trailing whitespace
 0431. 🎨 style: reformat files with black
+0607. 🐛 fix: prevent crash on empty input
