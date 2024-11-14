@@ -494,3 +494,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0250. 📚 docs: update README with setup steps
 0347. ♻️ chore: update .gitignore
+0995. ✅ test: mock database connection in test suite
