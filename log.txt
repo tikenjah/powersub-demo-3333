@@ -503,3 +503,4 @@
 0651. ✨ feat: enable dark mode toggle
 0898. 🐛 fix: fix broken CSS in mobile view
 0319. 🐛 fix: handle 500 error in quiz API
+0544. 🔧 refactor: organize models into subfolders
