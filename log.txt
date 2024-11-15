@@ -7093,3 +7093,4 @@
 0139. 📚 docs: document token refresh logic
 0723. 🔧 refactor: remove redundant code blocks
 0227. ✅ test: test user registration edge cases
+0585. 🚀 perf: lazy-load components
