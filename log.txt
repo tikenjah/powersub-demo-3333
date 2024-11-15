@@ -507,3 +507,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0674. 🔧 refactor: split large controller into smaller functions
 0646. ✅ test: test user registration edge cases
+0400. 🐛 fix: fix null pointer exception on login
