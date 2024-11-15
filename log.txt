@@ -497,3 +497,4 @@
 0995. ✅ test: mock database connection in test suite
 0771. 🚀 perf: cache repeated calculations
 0239. 🎨 style: standardize quote style
+0475. 🔧 refactor: clean up auth middleware
