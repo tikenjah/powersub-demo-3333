@@ -522,3 +522,4 @@
 0454. ♻️ chore: bump dependencies
 0207. 🐛 fix: prevent crash on empty input
 0373. 📚 docs: document token refresh logic
+0340. 🚀 perf: optimize database query for quiz results
