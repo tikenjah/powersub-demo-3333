@@ -7098,3 +7098,4 @@
 0197. 📚 docs: update README with setup steps
 0886. ♻️ chore: clean up unused files
 0509. ♻️ chore: bump dependencies
+0582. ✨ feat: add export to CSV option
