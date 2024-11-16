@@ -9099,3 +9099,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0648. ♻️ chore: bump dependencies
 0474. ✅ test: add unit test for quiz service
+0472. 🐛 fix: fix null pointer exception on login
