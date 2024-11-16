@@ -514,3 +514,4 @@
 0358. 🚀 perf: reduce image load time
 0231. 🔧 refactor: clean up auth middleware
 0804. ♻️ chore: add GitHub actions badge
+0786. ✨ feat: enable dark mode toggle
