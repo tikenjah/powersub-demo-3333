@@ -7095,3 +7095,4 @@
 0227. ✅ test: test user registration edge cases
 0585. 🚀 perf: lazy-load components
 0755. 🚀 perf: cache repeated calculations
+0197. 📚 docs: update README with setup steps
