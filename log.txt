@@ -5099,3 +5099,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0997. ✅ test: increase coverage on auth module
 0394. 🚀 perf: lazy-load components
+0253. 📚 docs: update README with setup steps
