@@ -7102,3 +7102,4 @@
 0052. 🎨 style: standardize quote style
 0057. 🚀 perf: optimize database query for quiz results
 0245. 🐛 fix: resolve issue with date parsing
+0848. 📚 docs: update README with setup steps
