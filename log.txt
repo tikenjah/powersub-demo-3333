@@ -5097,3 +5097,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0146. 🎨 style: apply consistent indentation
 0913. 🚀 perf: optimize database query for quiz results
+0997. ✅ test: increase coverage on auth module
