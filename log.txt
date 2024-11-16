@@ -7100,3 +7100,4 @@
 0509. ♻️ chore: bump dependencies
 0582. ✨ feat: add export to CSV option
 0052. 🎨 style: standardize quote style
+0057. 🚀 perf: optimize database query for quiz results
