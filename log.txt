@@ -5104,3 +5104,4 @@
 0623. 🎨 style: standardize quote style
 0155. ✨ feat: create admin dashboard
 0212. 🎨 style: standardize quote style
+0923. ✨ feat: support email verification
