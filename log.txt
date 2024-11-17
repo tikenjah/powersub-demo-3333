@@ -532,3 +532,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0716. ✨ feat: implement quiz timer feature
 0523. ♻️ chore: bump dependencies
+0159. 🚀 perf: lazy-load components
