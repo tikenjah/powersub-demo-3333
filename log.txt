@@ -538,3 +538,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0626. 🎨 style: standardize quote style
 0656. 🎨 style: apply consistent indentation
+0842. 🎨 style: remove trailing whitespace
