@@ -10099,3 +10099,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0196. ♻️ chore: bump dependencies
 0478. 🐛 fix: resolve issue with date parsing
+0854. ♻️ chore: rename env.example
