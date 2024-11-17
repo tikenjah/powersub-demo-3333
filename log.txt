@@ -527,3 +527,4 @@
 0253. 📚 docs: update README with setup steps
 0031. 📚 docs: document token refresh logic
 0784. ♻️ chore: clean up unused files
+0834. ✅ test: increase coverage on auth module
