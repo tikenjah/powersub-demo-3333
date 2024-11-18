@@ -541,3 +541,4 @@
 0842. 🎨 style: remove trailing whitespace
 0790. 📚 docs: write FAQ section
 0310. 🔧 refactor: refactor quiz grading logic
+0879. 🎨 style: standardize quote style
