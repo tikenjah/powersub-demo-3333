@@ -9103,3 +9103,4 @@
 0667. ✨ feat: add export to CSV option
 0438. ♻️ chore: bump dependencies
 0175. 📚 docs: add API usage examples
+0636. ✅ test: increase coverage on auth module
