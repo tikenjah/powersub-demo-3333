@@ -8105,3 +8105,4 @@
 0567. 📚 docs: add API usage examples
 0228. 🔧 refactor: remove redundant code blocks
 0980. 🎨 style: reformat files with black
+0477. 🐛 fix: fix broken CSS in mobile view
