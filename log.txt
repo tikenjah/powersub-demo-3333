@@ -539,3 +539,4 @@
 0626. 🎨 style: standardize quote style
 0656. 🎨 style: apply consistent indentation
 0842. 🎨 style: remove trailing whitespace
+0790. 📚 docs: write FAQ section
