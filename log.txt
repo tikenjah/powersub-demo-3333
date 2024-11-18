@@ -543,3 +543,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0879. 🎨 style: standardize quote style
 0950. 🎨 style: reformat files with black
+0273. 🚀 perf: reduce image load time
