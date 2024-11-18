@@ -542,3 +542,4 @@
 0790. 📚 docs: write FAQ section
 0310. 🔧 refactor: refactor quiz grading logic
 0879. 🎨 style: standardize quote style
+0950. 🎨 style: reformat files with black
