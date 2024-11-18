@@ -9105,3 +9105,4 @@
 0175. 📚 docs: add API usage examples
 0636. ✅ test: increase coverage on auth module
 0621. 🔧 refactor: clean up auth middleware
+0777. 📚 docs: document token refresh logic
