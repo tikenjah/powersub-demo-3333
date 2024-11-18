@@ -7109,3 +7109,4 @@
 0892. ✅ test: add unit test for quiz service
 0124. 🎨 style: reformat files with black
 0272. 🔧 refactor: remove redundant code blocks
+0605. ✨ feat: support email verification
