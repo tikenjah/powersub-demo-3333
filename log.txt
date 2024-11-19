@@ -554,3 +554,4 @@
 0956. 📚 docs: clarify environment setup
 0439. 🐛 fix: correct typo in registration form
 0004. 🚀 perf: optimize database query for quiz results
+0307. ✨ feat: support email verification
