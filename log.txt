@@ -563,3 +563,4 @@
 0719. 🎨 style: apply consistent indentation
 0556. ✨ feat: support email verification
 0144. ✅ test: increase coverage on auth module
+0107. 🐛 fix: prevent crash on empty input
