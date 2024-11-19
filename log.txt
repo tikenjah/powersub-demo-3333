@@ -8109,3 +8109,4 @@
 0214. 📚 docs: improve code comments in utils
 0508. ✅ test: add unit test for quiz service
 0225. 🚀 perf: reduce image load time
+0685. ✅ test: test user registration edge cases
