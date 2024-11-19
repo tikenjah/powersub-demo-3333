@@ -6095,3 +6095,4 @@
 0122. ✨ feat: support email verification
 0916. ♻️ chore: bump dependencies
 0836. 🚀 perf: optimize database query for quiz results
+0821. ✅ test: add integration test for /submit endpoint
