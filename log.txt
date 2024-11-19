@@ -560,3 +560,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0735. ♻️ chore: add GitHub actions badge
 0469. 🚀 perf: lazy-load components
+0719. 🎨 style: apply consistent indentation
