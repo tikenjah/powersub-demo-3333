@@ -565,3 +565,4 @@
 0144. ✅ test: increase coverage on auth module
 0107. 🐛 fix: prevent crash on empty input
 0390. 🎨 style: standardize quote style
+0734. ✨ feat: add export to CSV option
