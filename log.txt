@@ -549,3 +549,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0945. ♻️ chore: add GitHub actions badge
 0488. ♻️ chore: add GitHub actions badge
+0388. 🎨 style: reformat files with black
