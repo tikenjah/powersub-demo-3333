@@ -550,3 +550,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0488. ♻️ chore: add GitHub actions badge
 0388. 🎨 style: reformat files with black
+0837. 🚀 perf: cache repeated calculations
