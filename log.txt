@@ -10104,3 +10104,4 @@
 0664. ✅ test: add unit test for quiz service
 0007. 🎨 style: rename variables for clarity
 0253. 📚 docs: update README with setup steps
+0226. 🚀 perf: lazy-load components
