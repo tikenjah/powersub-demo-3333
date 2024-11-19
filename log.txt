@@ -562,3 +562,4 @@
 0469. 🚀 perf: lazy-load components
 0719. 🎨 style: apply consistent indentation
 0556. ✨ feat: support email verification
+0144. ✅ test: increase coverage on auth module
