@@ -8108,3 +8108,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0214. 📚 docs: improve code comments in utils
 0508. ✅ test: add unit test for quiz service
+0225. 🚀 perf: reduce image load time
