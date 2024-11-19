@@ -10106,3 +10106,4 @@
 0253. 📚 docs: update README with setup steps
 0226. 🚀 perf: lazy-load components
 0950. 🎨 style: reformat files with black
+0612. ✅ test: test user registration edge cases
