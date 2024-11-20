@@ -575,3 +575,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0329. 📚 docs: update README with setup steps
 0269. ✅ test: test user registration edge cases
+0841. 🚀 perf: optimize database query for quiz results
