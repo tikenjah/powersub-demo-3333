@@ -9111,3 +9111,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0125. ✅ test: add integration test for /submit endpoint
 0682. ♻️ chore: rename env.example
+0427. ✅ test: mock database connection in test suite
