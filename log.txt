@@ -8117,3 +8117,4 @@
 0633. ✨ feat: add user authentication
 0091. ✨ feat: add user authentication
 0750. 🎨 style: apply consistent indentation
+0556. ✨ feat: support email verification
