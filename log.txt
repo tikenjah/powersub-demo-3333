@@ -9114,3 +9114,4 @@
 0427. ✅ test: mock database connection in test suite
 0481. ✅ test: add unit test for quiz service
 0631. ✨ feat: create admin dashboard
+0791. 🔧 refactor: clean up auth middleware
