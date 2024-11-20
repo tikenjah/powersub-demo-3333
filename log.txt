@@ -576,3 +576,4 @@
 0329. 📚 docs: update README with setup steps
 0269. ✅ test: test user registration edge cases
 0841. 🚀 perf: optimize database query for quiz results
+0423. ✅ test: mock database connection in test suite
