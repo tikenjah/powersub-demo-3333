@@ -584,3 +584,4 @@
 0001. 🚀 perf: cache repeated calculations
 0606. 📚 docs: improve code comments in utils
 0845. 🚀 perf: cache repeated calculations
+0529. 📚 docs: write FAQ section
