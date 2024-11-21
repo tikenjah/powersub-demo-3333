@@ -580,3 +580,4 @@
 0007. 🎨 style: rename variables for clarity
 0486. ✨ feat: add export to CSV option
 0677. 📚 docs: add API usage examples
+0361. ✨ feat: support email verification
