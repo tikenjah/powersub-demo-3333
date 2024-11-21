@@ -10112,3 +10112,4 @@
 0903. ✅ test: mock database connection in test suite
 0680. ♻️ chore: add GitHub actions badge
 0019. ✨ feat: enable dark mode toggle
+0239. 🎨 style: standardize quote style
