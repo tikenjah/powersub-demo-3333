@@ -8122,3 +8122,4 @@
 0611. ✅ test: test user registration edge cases
 0775. 🐛 fix: fix null pointer exception on login
 0532. 🔧 refactor: split large controller into smaller functions
+0578. ✅ test: add integration test for /submit endpoint
