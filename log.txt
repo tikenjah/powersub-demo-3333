@@ -6096,3 +6096,4 @@
 0916. ♻️ chore: bump dependencies
 0836. 🚀 perf: optimize database query for quiz results
 0821. ✅ test: add integration test for /submit endpoint
+0959. 🐛 fix: fix null pointer exception on login
