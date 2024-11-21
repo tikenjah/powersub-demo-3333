@@ -581,3 +581,4 @@
 0486. ✨ feat: add export to CSV option
 0677. 📚 docs: add API usage examples
 0361. ✨ feat: support email verification
+0001. 🚀 perf: cache repeated calculations
