@@ -590,3 +590,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0456. 🚀 perf: optimize database query for quiz results
 0329. 📚 docs: update README with setup steps
+0105. 🐛 fix: correct typo in registration form
