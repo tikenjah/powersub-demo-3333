@@ -6098,3 +6098,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0959. 🐛 fix: fix null pointer exception on login
 0048. 📚 docs: update README with setup steps
+0587. 🔧 refactor: remove redundant code blocks
