@@ -5116,3 +5116,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0949. 📚 docs: write FAQ section
 0052. 🎨 style: standardize quote style
+0281. ✨ feat: support email verification
