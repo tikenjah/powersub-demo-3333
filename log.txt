@@ -600,3 +600,4 @@
 0297. 🎨 style: remove trailing whitespace
 0356. 📚 docs: write FAQ section
 0463. 🚀 perf: reduce image load time
+0139. 📚 docs: document token refresh logic
