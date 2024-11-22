@@ -10115,3 +10115,4 @@
 0239. 🎨 style: standardize quote style
 0332. 🎨 style: standardize quote style
 0858. ♻️ chore: clean up unused files
+0621. 🔧 refactor: clean up auth middleware
