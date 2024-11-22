@@ -598,3 +598,4 @@
 0528. ♻️ chore: clean up unused files
 0370. 🚀 perf: reduce image load time
 0297. 🎨 style: remove trailing whitespace
+0356. 📚 docs: write FAQ section
