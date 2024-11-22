@@ -7114,3 +7114,4 @@
 0798. 🚀 perf: reduce image load time
 0986. 📚 docs: document token refresh logic
 0408. ♻️ chore: add GitHub actions badge
+0144. ✅ test: increase coverage on auth module
