@@ -611,3 +611,4 @@
 0459. 🔧 refactor: organize models into subfolders
 0609. 🐛 fix: handle 500 error in quiz API
 0639. 🐛 fix: correct typo in registration form
+0473. 📚 docs: write FAQ section
