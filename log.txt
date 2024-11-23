@@ -606,3 +606,4 @@
 0706. ✨ feat: support email verification
 0330. ✅ test: test user registration edge cases
 0869. ♻️ chore: bump dependencies
+0476. 🚀 perf: reduce image load time
