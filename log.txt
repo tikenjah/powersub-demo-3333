@@ -8126,3 +8126,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0561. 📚 docs: write FAQ section
 0601. ✨ feat: implement quiz timer feature
+0312. ✨ feat: add user authentication
