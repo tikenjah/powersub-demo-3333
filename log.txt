@@ -608,3 +608,4 @@
 0869. ♻️ chore: bump dependencies
 0476. 🚀 perf: reduce image load time
 0851. ✅ test: mock database connection in test suite
+0459. 🔧 refactor: organize models into subfolders
