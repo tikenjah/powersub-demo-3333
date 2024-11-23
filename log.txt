@@ -603,3 +603,4 @@
 0139. 📚 docs: document token refresh logic
 0350. 🚀 perf: cache repeated calculations
 0058. ♻️ chore: add GitHub actions badge
+0706. ✨ feat: support email verification
