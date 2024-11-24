@@ -8129,3 +8129,4 @@
 0312. ✨ feat: add user authentication
 0689. 🎨 style: reformat files with black
 0622. 🎨 style: apply consistent indentation
+0698. 🐛 fix: handle 500 error in quiz API
