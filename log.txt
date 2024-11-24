@@ -9129,3 +9129,4 @@
 0566. 📚 docs: write FAQ section
 0797. 📚 docs: add API usage examples
 0060. ♻️ chore: clean up unused files
+0931. 🚀 perf: reduce image load time
