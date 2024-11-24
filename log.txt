@@ -6103,3 +6103,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0564. 📚 docs: clarify environment setup
 0432. 🎨 style: apply consistent indentation
+0044. ✅ test: add unit test for quiz service
