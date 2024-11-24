@@ -614,3 +614,4 @@
 0473. 📚 docs: write FAQ section
 0511. 🐛 fix: fix broken CSS in mobile view
 0461. ✨ feat: add user authentication
+0629. 🔧 refactor: organize models into subfolders
