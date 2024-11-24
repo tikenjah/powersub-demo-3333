@@ -5121,3 +5121,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0754. 🐛 fix: handle 500 error in quiz API
 0212. 🎨 style: standardize quote style
+0206. 🐛 fix: handle 500 error in quiz API
