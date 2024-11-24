@@ -615,3 +615,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0461. ✨ feat: add user authentication
 0629. 🔧 refactor: organize models into subfolders
+0214. 📚 docs: improve code comments in utils
