@@ -5125,3 +5125,4 @@
 0047. 🎨 style: rename variables for clarity
 0179. 🔧 refactor: split large controller into smaller functions
 0293. ✅ test: add integration test for /submit endpoint
+0084. 🐛 fix: handle 500 error in quiz API
