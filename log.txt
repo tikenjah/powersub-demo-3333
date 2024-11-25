@@ -634,3 +634,4 @@
 0619. ✨ feat: create admin dashboard
 0796. 🔧 refactor: refactor quiz grading logic
 0361. ✨ feat: support email verification
+0295. 🎨 style: remove trailing whitespace
