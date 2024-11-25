@@ -6104,3 +6104,4 @@
 0564. 📚 docs: clarify environment setup
 0432. 🎨 style: apply consistent indentation
 0044. ✅ test: add unit test for quiz service
+0096. 🐛 fix: prevent crash on empty input
