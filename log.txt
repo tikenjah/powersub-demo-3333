@@ -7117,3 +7117,4 @@
 0144. ✅ test: increase coverage on auth module
 0230. ✨ feat: create admin dashboard
 0345. 📚 docs: document token refresh logic
+0770. ♻️ chore: rename env.example
