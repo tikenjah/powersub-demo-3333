@@ -8132,3 +8132,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0203. 🚀 perf: lazy-load components
 0585. 🚀 perf: lazy-load components
+0564. 📚 docs: clarify environment setup
