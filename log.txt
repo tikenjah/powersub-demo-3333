@@ -8136,3 +8136,4 @@
 0136. 🚀 perf: lazy-load components
 0439. 🐛 fix: correct typo in registration form
 0137. 🎨 style: rename variables for clarity
+0790. 📚 docs: write FAQ section
