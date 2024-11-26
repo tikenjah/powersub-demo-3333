@@ -6109,3 +6109,4 @@
 0086. 🐛 fix: correct typo in registration form
 0397. 🐛 fix: handle 500 error in quiz API
 0011. ✅ test: add unit test for quiz service
+0159. 🚀 perf: lazy-load components
