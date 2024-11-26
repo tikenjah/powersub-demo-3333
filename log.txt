@@ -10122,3 +10122,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0795. 📚 docs: update README with setup steps
 0255. 🔧 refactor: refactor quiz grading logic
+0880. 🐛 fix: fix broken CSS in mobile view
