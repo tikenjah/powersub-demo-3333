@@ -655,3 +655,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0438. ♻️ chore: bump dependencies
 0832. 🔧 refactor: remove redundant code blocks
+0500. ✅ test: add integration test for /submit endpoint
