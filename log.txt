@@ -10123,3 +10123,4 @@
 0795. 📚 docs: update README with setup steps
 0255. 🔧 refactor: refactor quiz grading logic
 0880. 🐛 fix: fix broken CSS in mobile view
+0294. 🐛 fix: prevent crash on empty input
