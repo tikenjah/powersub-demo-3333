@@ -651,3 +651,4 @@
 0597. 🚀 perf: cache repeated calculations
 0008. 🚀 perf: reduce image load time
 0632. 🎨 style: remove trailing whitespace
+0466. 🚀 perf: optimize database query for quiz results
