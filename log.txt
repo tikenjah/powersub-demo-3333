@@ -10131,3 +10131,4 @@
 0173. 🚀 perf: cache repeated calculations
 0605. ✨ feat: support email verification
 0947. 📚 docs: write FAQ section
+0669. ✨ feat: enable dark mode toggle
