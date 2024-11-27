@@ -660,3 +660,4 @@
 0947. 📚 docs: write FAQ section
 0916. ♻️ chore: bump dependencies
 0500. ✅ test: add integration test for /submit endpoint
+0235. 🐛 fix: fix null pointer exception on login
