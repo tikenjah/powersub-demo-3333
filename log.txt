@@ -10130,3 +10130,4 @@
 0399. ✅ test: mock database connection in test suite
 0173. 🚀 perf: cache repeated calculations
 0605. ✨ feat: support email verification
+0947. 📚 docs: write FAQ section
