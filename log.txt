@@ -657,3 +657,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0500. ✅ test: add integration test for /submit endpoint
 0242. ♻️ chore: clean up unused files
+0947. 📚 docs: write FAQ section
