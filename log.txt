@@ -8139,3 +8139,4 @@
 0790. 📚 docs: write FAQ section
 0454. ♻️ chore: bump dependencies
 0483. 📚 docs: update README with setup steps
+0959. 🐛 fix: fix null pointer exception on login
