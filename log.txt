@@ -10133,3 +10133,4 @@
 0947. 📚 docs: write FAQ section
 0669. ✨ feat: enable dark mode toggle
 0733. 🐛 fix: fix null pointer exception on login
+0022. 📚 docs: document token refresh logic
