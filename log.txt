@@ -673,3 +673,4 @@
 0536. ✨ feat: add user authentication
 0086. 🐛 fix: correct typo in registration form
 0093. ✅ test: add unit test for quiz service
+0880. 🐛 fix: fix broken CSS in mobile view
