@@ -679,3 +679,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0149. ✨ feat: add export to CSV option
 0304. 🔧 refactor: remove redundant code blocks
+0760. 🐛 fix: resolve issue with date parsing
