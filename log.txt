@@ -675,3 +675,4 @@
 0093. ✅ test: add unit test for quiz service
 0880. 🐛 fix: fix broken CSS in mobile view
 0945. ♻️ chore: add GitHub actions badge
+0839. 🎨 style: apply consistent indentation
