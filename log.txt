@@ -8142,3 +8142,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0236. 🔧 refactor: remove redundant code blocks
 0764. ✨ feat: add user authentication
+0973. 🔧 refactor: organize models into subfolders
