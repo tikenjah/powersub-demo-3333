@@ -670,3 +670,4 @@
 0716. ✨ feat: implement quiz timer feature
 0269. ✅ test: test user registration edge cases
 0267. 📚 docs: improve code comments in utils
+0536. ✨ feat: add user authentication
