@@ -8145,3 +8145,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0122. ✨ feat: support email verification
 0532. 🔧 refactor: split large controller into smaller functions
+0144. ✅ test: increase coverage on auth module
