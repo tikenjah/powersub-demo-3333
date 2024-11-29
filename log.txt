@@ -5139,3 +5139,4 @@
 0985. 📚 docs: document token refresh logic
 0307. ✨ feat: support email verification
 0200. 🐛 fix: handle 500 error in quiz API
+0480. ♻️ chore: add GitHub actions badge
