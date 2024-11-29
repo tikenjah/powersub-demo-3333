@@ -7131,3 +7131,4 @@
 0660. 🐛 fix: correct typo in registration form
 0326. 🚀 perf: cache repeated calculations
 0356. 📚 docs: write FAQ section
+0136. 🚀 perf: lazy-load components
