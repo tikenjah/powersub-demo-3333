@@ -10136,3 +10136,4 @@
 0022. 📚 docs: document token refresh logic
 0410. 🎨 style: reformat files with black
 0618. ✨ feat: support email verification
+0084. 🐛 fix: handle 500 error in quiz API
