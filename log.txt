@@ -7128,3 +7128,4 @@
 0061. ✨ feat: create admin dashboard
 0963. 🚀 perf: reduce image load time
 0982. 🚀 perf: lazy-load components
+0660. 🐛 fix: correct typo in registration form
