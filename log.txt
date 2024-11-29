@@ -686,3 +686,4 @@
 0632. 🎨 style: remove trailing whitespace
 0652. 🔧 refactor: organize models into subfolders
 0356. 📚 docs: write FAQ section
+0449. ✅ test: add unit test for quiz service
