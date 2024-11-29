@@ -687,3 +687,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0356. 📚 docs: write FAQ section
 0449. ✅ test: add unit test for quiz service
+0283. ♻️ chore: add GitHub actions badge
