@@ -683,3 +683,4 @@
 0526. ✨ feat: add user authentication
 0873. 🚀 perf: cache repeated calculations
 0170. ✅ test: increase coverage on auth module
+0632. 🎨 style: remove trailing whitespace
