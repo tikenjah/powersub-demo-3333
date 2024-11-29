@@ -685,3 +685,4 @@
 0170. ✅ test: increase coverage on auth module
 0632. 🎨 style: remove trailing whitespace
 0652. 🔧 refactor: organize models into subfolders
+0356. 📚 docs: write FAQ section
