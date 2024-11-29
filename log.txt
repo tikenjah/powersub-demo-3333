@@ -10135,3 +10135,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0022. 📚 docs: document token refresh logic
 0410. 🎨 style: reformat files with black
+0618. ✨ feat: support email verification
