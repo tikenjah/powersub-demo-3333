@@ -5138,3 +5138,4 @@
 0933. 📚 docs: clarify environment setup
 0985. 📚 docs: document token refresh logic
 0307. ✨ feat: support email verification
+0200. 🐛 fix: handle 500 error in quiz API
