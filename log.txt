@@ -704,3 +704,4 @@
 0855. 🎨 style: reformat files with black
 0993. ✨ feat: implement quiz timer feature
 0224. 🐛 fix: fix broken CSS in mobile view
+0747. 🔧 refactor: clean up auth middleware
