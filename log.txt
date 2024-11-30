@@ -703,3 +703,4 @@
 0362. 📚 docs: add API usage examples
 0855. 🎨 style: reformat files with black
 0993. ✨ feat: implement quiz timer feature
+0224. 🐛 fix: fix broken CSS in mobile view
