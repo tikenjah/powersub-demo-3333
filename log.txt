@@ -708,3 +708,4 @@
 0455. ♻️ chore: clean up unused files
 0187. ✨ feat: support email verification
 0975. 🎨 style: apply consistent indentation
+0918. ✨ feat: enable dark mode toggle
