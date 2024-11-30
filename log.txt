@@ -699,3 +699,4 @@
 0558. ✨ feat: enable dark mode toggle
 0966. 📚 docs: improve code comments in utils
 0951. 🎨 style: rename variables for clarity
+0541. 🐛 fix: correct typo in registration form
