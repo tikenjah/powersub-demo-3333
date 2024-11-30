@@ -8152,3 +8152,4 @@
 0872. 🎨 style: rename variables for clarity
 0480. ♻️ chore: add GitHub actions badge
 0140. 🐛 fix: handle 500 error in quiz API
+0664. ✅ test: add unit test for quiz service
