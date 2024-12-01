@@ -9148,3 +9148,4 @@
 0548. 📚 docs: write FAQ section
 0314. ✨ feat: implement quiz timer feature
 0714. 📚 docs: improve code comments in utils
+0572. ✨ feat: add user authentication
