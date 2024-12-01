@@ -9149,3 +9149,4 @@
 0314. ✨ feat: implement quiz timer feature
 0714. 📚 docs: improve code comments in utils
 0572. ✨ feat: add user authentication
+0469. 🚀 perf: lazy-load components
