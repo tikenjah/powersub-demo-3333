@@ -5142,3 +5142,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0407. 🚀 perf: cache repeated calculations
 0596. ♻️ chore: update .gitignore
+0321. 🔧 refactor: organize models into subfolders
