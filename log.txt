@@ -716,3 +716,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0015. ✨ feat: implement quiz timer feature
 0419. 🎨 style: remove trailing whitespace
+0396. 🔧 refactor: split large controller into smaller functions
