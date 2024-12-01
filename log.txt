@@ -8154,3 +8154,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0664. ✅ test: add unit test for quiz service
 0134. ✨ feat: implement quiz timer feature
+0544. 🔧 refactor: organize models into subfolders
