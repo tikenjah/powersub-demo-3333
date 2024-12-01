@@ -711,3 +711,4 @@
 0918. ✨ feat: enable dark mode toggle
 0265. 🎨 style: reformat files with black
 0041. 🐛 fix: fix broken CSS in mobile view
+0412. ✅ test: increase coverage on auth module
