@@ -7141,3 +7141,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0965. 🎨 style: reformat files with black
 0454. ♻️ chore: bump dependencies
+0084. 🐛 fix: handle 500 error in quiz API
