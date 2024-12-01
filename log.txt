@@ -713,3 +713,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0412. ✅ test: increase coverage on auth module
 0533. ♻️ chore: add GitHub actions badge
+0748. 🚀 perf: optimize database query for quiz results
