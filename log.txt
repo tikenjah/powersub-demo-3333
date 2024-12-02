@@ -5147,3 +5147,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0443. 🎨 style: standardize quote style
 0538. 🐛 fix: fix broken CSS in mobile view
+0136. 🚀 perf: lazy-load components
