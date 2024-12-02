@@ -9155,3 +9155,4 @@
 0923. ✨ feat: support email verification
 0535. 📚 docs: write FAQ section
 0258. 🐛 fix: prevent crash on empty input
+0822. 🔧 refactor: remove redundant code blocks
