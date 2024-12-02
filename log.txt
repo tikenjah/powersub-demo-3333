@@ -722,3 +722,4 @@
 0968. 🎨 style: standardize quote style
 0702. ✨ feat: add user authentication
 0640. ♻️ chore: bump dependencies
+0722. 📚 docs: add API usage examples
