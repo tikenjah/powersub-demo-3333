@@ -730,3 +730,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0184. 📚 docs: improve code comments in utils
 0386. 🚀 perf: optimize database query for quiz results
+0306. 🎨 style: apply consistent indentation
