@@ -9156,3 +9156,4 @@
 0535. 📚 docs: write FAQ section
 0258. 🐛 fix: prevent crash on empty input
 0822. 🔧 refactor: remove redundant code blocks
+0980. 🎨 style: reformat files with black
