@@ -6123,3 +6123,4 @@
 0525. ✅ test: mock database connection in test suite
 0250. 📚 docs: update README with setup steps
 0726. ✨ feat: enable dark mode toggle
+0834. ✅ test: increase coverage on auth module
