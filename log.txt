@@ -734,3 +734,4 @@
 0230. ✨ feat: create admin dashboard
 0143. ✨ feat: implement quiz timer feature
 0008. 🚀 perf: reduce image load time
+0587. 🔧 refactor: remove redundant code blocks
