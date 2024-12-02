@@ -733,3 +733,4 @@
 0306. 🎨 style: apply consistent indentation
 0230. ✨ feat: create admin dashboard
 0143. ✨ feat: implement quiz timer feature
+0008. 🚀 perf: reduce image load time
