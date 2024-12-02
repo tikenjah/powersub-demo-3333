@@ -6124,3 +6124,4 @@
 0250. 📚 docs: update README with setup steps
 0726. ✨ feat: enable dark mode toggle
 0834. ✅ test: increase coverage on auth module
+0680. ♻️ chore: add GitHub actions badge
