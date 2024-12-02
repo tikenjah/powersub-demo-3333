@@ -9153,3 +9153,4 @@
 0643. 🎨 style: apply consistent indentation
 0374. 🎨 style: standardize quote style
 0923. ✨ feat: support email verification
+0535. 📚 docs: write FAQ section
