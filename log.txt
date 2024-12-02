@@ -9151,3 +9151,4 @@
 0572. ✨ feat: add user authentication
 0469. 🚀 perf: lazy-load components
 0643. 🎨 style: apply consistent indentation
+0374. 🎨 style: standardize quote style
