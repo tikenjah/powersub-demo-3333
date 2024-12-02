@@ -8162,3 +8162,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0830. 🎨 style: apply consistent indentation
 0762. 🚀 perf: lazy-load components
+0512. 🚀 perf: reduce image load time
