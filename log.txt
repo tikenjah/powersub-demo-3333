@@ -10146,3 +10146,4 @@
 0910. 🎨 style: remove trailing whitespace
 0630. 🚀 perf: lazy-load components
 0832. 🔧 refactor: remove redundant code blocks
+0779. 🔧 refactor: organize models into subfolders
