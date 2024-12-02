@@ -9154,3 +9154,4 @@
 0374. 🎨 style: standardize quote style
 0923. ✨ feat: support email verification
 0535. 📚 docs: write FAQ section
+0258. 🐛 fix: prevent crash on empty input
