@@ -738,3 +738,4 @@
 0464. 🎨 style: remove trailing whitespace
 0055. 📚 docs: update README with setup steps
 0660. 🐛 fix: correct typo in registration form
+0141. 📚 docs: document token refresh logic
