@@ -745,3 +745,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0025. 🚀 perf: optimize database query for quiz results
 0352. ✨ feat: add export to CSV option
+0690. 🚀 perf: lazy-load components
