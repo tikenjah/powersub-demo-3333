@@ -736,3 +736,4 @@
 0008. 🚀 perf: reduce image load time
 0587. 🔧 refactor: remove redundant code blocks
 0464. 🎨 style: remove trailing whitespace
+0055. 📚 docs: update README with setup steps
