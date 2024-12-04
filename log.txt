@@ -8168,3 +8168,4 @@
 0177. 📚 docs: add API usage examples
 0965. 🎨 style: reformat files with black
 0572. ✨ feat: add user authentication
+0623. 🎨 style: standardize quote style
