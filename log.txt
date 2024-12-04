@@ -753,3 +753,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0980. 🎨 style: reformat files with black
 0509. ♻️ chore: bump dependencies
+0505. ♻️ chore: add GitHub actions badge
