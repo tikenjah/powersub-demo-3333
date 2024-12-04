@@ -6127,3 +6127,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0816. 🔧 refactor: organize models into subfolders
 0283. ♻️ chore: add GitHub actions badge
+0668. 🚀 perf: optimize database query for quiz results
