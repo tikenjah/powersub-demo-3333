@@ -751,3 +751,4 @@
 0910. 🎨 style: remove trailing whitespace
 0403. ✅ test: mock database connection in test suite
 0874. 🔧 refactor: split large controller into smaller functions
+0980. 🎨 style: reformat files with black
