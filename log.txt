@@ -754,3 +754,4 @@
 0980. 🎨 style: reformat files with black
 0509. ♻️ chore: bump dependencies
 0505. ♻️ chore: add GitHub actions badge
+0387. ✨ feat: enable dark mode toggle
