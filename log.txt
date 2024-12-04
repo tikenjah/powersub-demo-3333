@@ -758,3 +758,4 @@
 0993. ✨ feat: implement quiz timer feature
 0675. 🔧 refactor: organize models into subfolders
 0707. 🎨 style: apply consistent indentation
+0594. 🎨 style: reformat files with black
