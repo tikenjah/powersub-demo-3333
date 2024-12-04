@@ -9159,3 +9159,4 @@
 0980. 🎨 style: reformat files with black
 0596. ♻️ chore: update .gitignore
 0336. ✨ feat: add export to CSV option
+0652. 🔧 refactor: organize models into subfolders
