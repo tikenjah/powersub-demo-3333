@@ -760,3 +760,4 @@
 0707. 🎨 style: apply consistent indentation
 0594. 🎨 style: reformat files with black
 0758. 🚀 perf: optimize database query for quiz results
+0856. 🐛 fix: fix null pointer exception on login
