@@ -7159,3 +7159,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0070. ✨ feat: implement quiz timer feature
 0222. 🐛 fix: handle 500 error in quiz API
+0738. 🐛 fix: prevent crash on empty input
