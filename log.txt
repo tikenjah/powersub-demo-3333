@@ -5156,3 +5156,4 @@
 0237. 🎨 style: standardize quote style
 0543. ✨ feat: support email verification
 0374. 🎨 style: standardize quote style
+0457. 🐛 fix: handle 500 error in quiz API
