@@ -8170,3 +8170,4 @@
 0572. ✨ feat: add user authentication
 0623. 🎨 style: standardize quote style
 0947. 📚 docs: write FAQ section
+0884. 📚 docs: clarify environment setup
