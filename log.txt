@@ -766,3 +766,4 @@
 0580. ♻️ chore: bump dependencies
 0940. 📚 docs: document token refresh logic
 0628. ♻️ chore: add GitHub actions badge
+0932. ✅ test: add integration test for /submit endpoint
