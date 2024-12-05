@@ -10151,3 +10151,4 @@
 0715. ✨ feat: create admin dashboard
 0703. 🔧 refactor: clean up auth middleware
 0651. ✨ feat: enable dark mode toggle
+0531. 🐛 fix: prevent crash on empty input
