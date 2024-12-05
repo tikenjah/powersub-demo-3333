@@ -764,3 +764,4 @@
 0118. 🚀 perf: reduce image load time
 0651. ✨ feat: enable dark mode toggle
 0580. ♻️ chore: bump dependencies
+0940. 📚 docs: document token refresh logic
