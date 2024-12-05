@@ -774,3 +774,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0086. 🐛 fix: correct typo in registration form
 0682. ♻️ chore: rename env.example
+0362. 📚 docs: add API usage examples
