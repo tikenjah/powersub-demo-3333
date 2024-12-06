@@ -777,3 +777,4 @@
 0362. 📚 docs: add API usage examples
 0536. ✨ feat: add user authentication
 0183. 🔧 refactor: split large controller into smaller functions
+0359. 🔧 refactor: clean up auth middleware
