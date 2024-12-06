@@ -8174,3 +8174,4 @@
 0585. 🚀 perf: lazy-load components
 0214. 📚 docs: improve code comments in utils
 0766. 🎨 style: reformat files with black
+0380. 🐛 fix: fix null pointer exception on login
