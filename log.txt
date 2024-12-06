@@ -10152,3 +10152,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0651. ✨ feat: enable dark mode toggle
 0531. 🐛 fix: prevent crash on empty input
+0022. 📚 docs: document token refresh logic
