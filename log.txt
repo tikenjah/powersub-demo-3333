@@ -9171,3 +9171,4 @@
 0481. ✅ test: add unit test for quiz service
 0635. 🎨 style: apply consistent indentation
 0618. ✨ feat: support email verification
+0027. 📚 docs: clarify environment setup
