@@ -7163,3 +7163,4 @@
 0141. 📚 docs: document token refresh logic
 0616. 🚀 perf: lazy-load components
 0651. ✨ feat: enable dark mode toggle
+0819. 🚀 perf: reduce image load time
