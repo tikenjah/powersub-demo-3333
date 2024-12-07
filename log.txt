@@ -8176,3 +8176,4 @@
 0766. 🎨 style: reformat files with black
 0380. 🐛 fix: fix null pointer exception on login
 0394. 🚀 perf: lazy-load components
+0186. ✅ test: test user registration edge cases
