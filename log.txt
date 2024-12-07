@@ -6137,3 +6137,4 @@
 0419. 🎨 style: remove trailing whitespace
 0711. 🐛 fix: fix broken CSS in mobile view
 0010. ✨ feat: add user authentication
+0084. 🐛 fix: handle 500 error in quiz API
