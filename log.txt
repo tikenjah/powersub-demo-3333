@@ -8177,3 +8177,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0394. 🚀 perf: lazy-load components
 0186. ✅ test: test user registration edge cases
+0144. ✅ test: increase coverage on auth module
