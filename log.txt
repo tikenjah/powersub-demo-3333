@@ -795,3 +795,4 @@
 0244. ✨ feat: add export to CSV option
 0491. 🚀 perf: lazy-load components
 0906. 📚 docs: add API usage examples
+0884. 📚 docs: clarify environment setup
