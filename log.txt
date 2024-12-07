@@ -797,3 +797,4 @@
 0906. 📚 docs: add API usage examples
 0884. 📚 docs: clarify environment setup
 0795. 📚 docs: update README with setup steps
+0720. ✨ feat: add export to CSV option
