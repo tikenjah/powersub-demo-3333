@@ -8175,3 +8175,4 @@
 0214. 📚 docs: improve code comments in utils
 0766. 🎨 style: reformat files with black
 0380. 🐛 fix: fix null pointer exception on login
+0394. 🚀 perf: lazy-load components
