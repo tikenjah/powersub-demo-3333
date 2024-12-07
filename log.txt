@@ -787,3 +787,4 @@
 0599. ✅ test: test user registration edge cases
 0208. 🔧 refactor: clean up auth middleware
 0507. 🔧 refactor: clean up auth middleware
+0896. 🚀 perf: reduce image load time
