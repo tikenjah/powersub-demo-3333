@@ -810,3 +810,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0335. ♻️ chore: update .gitignore
 0414. 🔧 refactor: remove redundant code blocks
+0989. 📚 docs: write FAQ section
