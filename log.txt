@@ -802,3 +802,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0820. 📚 docs: add API usage examples
 0810. 🔧 refactor: refactor quiz grading logic
+0737. 🐛 fix: handle 500 error in quiz API
