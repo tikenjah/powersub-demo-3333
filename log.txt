@@ -8178,3 +8178,4 @@
 0394. 🚀 perf: lazy-load components
 0186. ✅ test: test user registration edge cases
 0144. ✅ test: increase coverage on auth module
+0529. 📚 docs: write FAQ section
