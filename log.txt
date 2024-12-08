@@ -800,3 +800,4 @@
 0720. ✨ feat: add export to CSV option
 0110. 🐛 fix: prevent crash on empty input
 0917. ✅ test: add integration test for /submit endpoint
+0820. 📚 docs: add API usage examples
