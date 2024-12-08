@@ -9177,3 +9177,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0203. 🚀 perf: lazy-load components
 0172. 📚 docs: add API usage examples
+0828. ♻️ chore: add GitHub actions badge
