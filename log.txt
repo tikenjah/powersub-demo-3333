@@ -10157,3 +10157,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0346. ✅ test: mock database connection in test suite
 0012. 🚀 perf: cache repeated calculations
+0395. 📚 docs: write FAQ section
