@@ -5165,3 +5165,4 @@
 0604. 📚 docs: add API usage examples
 0554. 📚 docs: improve code comments in utils
 0467. ✅ test: add integration test for /submit endpoint
+0448. 🐛 fix: correct typo in registration form
