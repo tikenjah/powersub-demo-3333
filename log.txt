@@ -813,3 +813,4 @@
 0989. 📚 docs: write FAQ section
 0101. 📚 docs: clarify environment setup
 0587. 🔧 refactor: remove redundant code blocks
+0692. ✅ test: add integration test for /submit endpoint
