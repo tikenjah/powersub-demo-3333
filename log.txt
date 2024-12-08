@@ -6139,3 +6139,4 @@
 0010. ✨ feat: add user authentication
 0084. 🐛 fix: handle 500 error in quiz API
 0531. 🐛 fix: prevent crash on empty input
+0702. ✨ feat: add user authentication
