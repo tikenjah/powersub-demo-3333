@@ -10158,3 +10158,4 @@
 0346. ✅ test: mock database connection in test suite
 0012. 🚀 perf: cache repeated calculations
 0395. 📚 docs: write FAQ section
+0531. 🐛 fix: prevent crash on empty input
