@@ -818,3 +818,4 @@
 0333. 🚀 perf: cache repeated calculations
 0563. 📚 docs: clarify environment setup
 0004. 🚀 perf: optimize database query for quiz results
+0848. 📚 docs: update README with setup steps
