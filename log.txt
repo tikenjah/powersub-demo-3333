@@ -5168,3 +5168,4 @@
 0448. 🐛 fix: correct typo in registration form
 0787. ♻️ chore: rename env.example
 0299. 🐛 fix: resolve issue with date parsing
+0702. ✨ feat: add user authentication
