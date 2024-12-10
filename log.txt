@@ -5171,3 +5171,4 @@
 0702. ✨ feat: add user authentication
 0263. 📚 docs: add API usage examples
 0630. 🚀 perf: lazy-load components
+0982. 🚀 perf: lazy-load components
