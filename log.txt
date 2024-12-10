@@ -7169,3 +7169,4 @@
 0438. ♻️ chore: bump dependencies
 0314. ✨ feat: implement quiz timer feature
 0530. 🔧 refactor: refactor quiz grading logic
+0491. 🚀 perf: lazy-load components
