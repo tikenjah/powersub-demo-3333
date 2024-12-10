@@ -9179,3 +9179,4 @@
 0172. 📚 docs: add API usage examples
 0828. ♻️ chore: add GitHub actions badge
 0093. ✅ test: add unit test for quiz service
+0315. ✅ test: add integration test for /submit endpoint
