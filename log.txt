@@ -8184,3 +8184,4 @@
 0923. ✨ feat: support email verification
 0920. 🔧 refactor: organize models into subfolders
 0413. ✅ test: add integration test for /submit endpoint
+0877. 🚀 perf: optimize database query for quiz results
