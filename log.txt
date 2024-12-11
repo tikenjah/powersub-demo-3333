@@ -6147,3 +6147,4 @@
 0605. ✨ feat: support email verification
 0802. 🔧 refactor: remove redundant code blocks
 0047. 🎨 style: rename variables for clarity
+0172. 📚 docs: add API usage examples
