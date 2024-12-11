@@ -5173,3 +5173,4 @@
 0630. 🚀 perf: lazy-load components
 0982. 🚀 perf: lazy-load components
 0719. 🎨 style: apply consistent indentation
+0805. ♻️ chore: add GitHub actions badge
