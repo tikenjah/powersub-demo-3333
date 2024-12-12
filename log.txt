@@ -843,3 +843,4 @@
 0147. ♻️ chore: bump dependencies
 0395. 📚 docs: write FAQ section
 0731. 🎨 style: standardize quote style
+0529. 📚 docs: write FAQ section
