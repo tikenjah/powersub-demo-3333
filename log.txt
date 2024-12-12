@@ -855,3 +855,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0654. ✨ feat: create admin dashboard
 0856. 🐛 fix: fix null pointer exception on login
+0738. 🐛 fix: prevent crash on empty input
