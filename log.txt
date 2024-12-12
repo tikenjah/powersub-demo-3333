@@ -10167,3 +10167,4 @@
 0622. 🎨 style: apply consistent indentation
 0611. ✅ test: test user registration edge cases
 0775. 🐛 fix: fix null pointer exception on login
+0243. 🔧 refactor: clean up auth middleware
