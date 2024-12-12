@@ -9186,3 +9186,4 @@
 0160. ♻️ chore: bump dependencies
 0931. 🚀 perf: reduce image load time
 0614. 🚀 perf: reduce image load time
+0157. ✅ test: mock database connection in test suite
