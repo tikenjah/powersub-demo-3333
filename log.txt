@@ -851,3 +851,4 @@
 0226. 🚀 perf: lazy-load components
 0401. 🚀 perf: reduce image load time
 0955. 🔧 refactor: remove redundant code blocks
+0942. ✅ test: increase coverage on auth module
