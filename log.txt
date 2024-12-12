@@ -6151,3 +6151,4 @@
 0951. 🎨 style: rename variables for clarity
 0144. ✅ test: increase coverage on auth module
 0553. 🐛 fix: correct typo in registration form
+0690. 🚀 perf: lazy-load components
