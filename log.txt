@@ -7175,3 +7175,4 @@
 0555. ✨ feat: create admin dashboard
 0296. 🔧 refactor: organize models into subfolders
 0327. 🔧 refactor: split large controller into smaller functions
+0968. 🎨 style: standardize quote style
