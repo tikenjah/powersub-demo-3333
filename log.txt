@@ -842,3 +842,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0147. ♻️ chore: bump dependencies
 0395. 📚 docs: write FAQ section
+0731. 🎨 style: standardize quote style
