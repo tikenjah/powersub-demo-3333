@@ -848,3 +848,4 @@
 0197. 📚 docs: update README with setup steps
 0050. ✨ feat: enable dark mode toggle
 0802. 🔧 refactor: remove redundant code blocks
+0226. 🚀 perf: lazy-load components
