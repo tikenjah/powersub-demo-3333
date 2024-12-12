@@ -7173,3 +7173,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0002. 🚀 perf: cache repeated calculations
 0555. ✨ feat: create admin dashboard
+0296. 🔧 refactor: organize models into subfolders
