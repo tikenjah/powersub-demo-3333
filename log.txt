@@ -5179,3 +5179,4 @@
 0535. 📚 docs: write FAQ section
 0386. 🚀 perf: optimize database query for quiz results
 0412. ✅ test: increase coverage on auth module
+0569. 📚 docs: document token refresh logic
