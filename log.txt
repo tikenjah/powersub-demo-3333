@@ -5177,3 +5177,4 @@
 0357. ✅ test: add unit test for quiz service
 0349. ✅ test: increase coverage on auth module
 0535. 📚 docs: write FAQ section
+0386. 🚀 perf: optimize database query for quiz results
