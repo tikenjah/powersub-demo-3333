@@ -869,3 +869,4 @@
 0329. 📚 docs: update README with setup steps
 0525. ✅ test: mock database connection in test suite
 0775. 🐛 fix: fix null pointer exception on login
+0109. 🚀 perf: lazy-load components
