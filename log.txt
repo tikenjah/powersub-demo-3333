@@ -865,3 +865,4 @@
 0393. 🚀 perf: lazy-load components
 0421. 🔧 refactor: split large controller into smaller functions
 0630. 🚀 perf: lazy-load components
+0484. 🐛 fix: handle 500 error in quiz API
