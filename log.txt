@@ -8192,3 +8192,4 @@
 0545. 🎨 style: standardize quote style
 0532. 🔧 refactor: split large controller into smaller functions
 0382. 📚 docs: improve code comments in utils
+0026. 🔧 refactor: clean up auth middleware
