@@ -8189,3 +8189,4 @@
 0262. 🎨 style: remove trailing whitespace
 0943. 🎨 style: rename variables for clarity
 0556. ✨ feat: support email verification
+0545. 🎨 style: standardize quote style
