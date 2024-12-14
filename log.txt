@@ -875,3 +875,4 @@
 0892. ✅ test: add unit test for quiz service
 0421. 🔧 refactor: split large controller into smaller functions
 0003. ✅ test: increase coverage on auth module
+0105. 🐛 fix: correct typo in registration form
