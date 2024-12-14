@@ -883,3 +883,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0878. 🔧 refactor: split large controller into smaller functions
 0305. ✨ feat: enable dark mode toggle
+0388. 🎨 style: reformat files with black
