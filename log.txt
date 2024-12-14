@@ -6157,3 +6157,4 @@
 0199. ✨ feat: create admin dashboard
 0823. ✨ feat: add user authentication
 0652. 🔧 refactor: organize models into subfolders
+0298. ♻️ chore: update .gitignore
