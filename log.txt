@@ -9193,3 +9193,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0019. ✨ feat: enable dark mode toggle
 0192. ✨ feat: enable dark mode toggle
+0975. 🎨 style: apply consistent indentation
