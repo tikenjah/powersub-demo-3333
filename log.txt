@@ -876,3 +876,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0003. ✅ test: increase coverage on auth module
 0105. 🐛 fix: correct typo in registration form
+0174. 📚 docs: clarify environment setup
