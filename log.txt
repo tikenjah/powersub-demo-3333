@@ -10173,3 +10173,4 @@
 0928. 🎨 style: apply consistent indentation
 0080. ✨ feat: support email verification
 0561. 📚 docs: write FAQ section
+0370. 🚀 perf: reduce image load time
