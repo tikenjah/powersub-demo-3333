@@ -7179,3 +7179,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0504. 📚 docs: document token refresh logic
 0682. ♻️ chore: rename env.example
+0410. 🎨 style: reformat files with black
