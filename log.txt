@@ -7181,3 +7181,4 @@
 0682. ♻️ chore: rename env.example
 0410. 🎨 style: reformat files with black
 0981. 🚀 perf: lazy-load components
+0974. ✨ feat: add export to CSV option
