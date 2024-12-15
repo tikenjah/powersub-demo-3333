@@ -889,3 +889,4 @@
 0059. ♻️ chore: bump dependencies
 0239. 🎨 style: standardize quote style
 0952. 🔧 refactor: split large controller into smaller functions
+0828. ♻️ chore: add GitHub actions badge
