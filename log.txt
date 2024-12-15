@@ -8201,3 +8201,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0400. 🐛 fix: fix null pointer exception on login
 0667. ✨ feat: add export to CSV option
+0215. 🎨 style: reformat files with black
