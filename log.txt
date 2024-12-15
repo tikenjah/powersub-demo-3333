@@ -892,3 +892,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0442. 🎨 style: standardize quote style
 0751. 🐛 fix: handle 500 error in quiz API
+0871. ✅ test: add integration test for /submit endpoint
