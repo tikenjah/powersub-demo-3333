@@ -5186,3 +5186,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0274. 🔧 refactor: refactor quiz grading logic
 0684. 🚀 perf: reduce image load time
+0981. 🚀 perf: lazy-load components
