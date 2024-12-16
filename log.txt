@@ -8205,3 +8205,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0494. 🎨 style: rename variables for clarity
 0895. ✨ feat: support email verification
+0798. 🚀 perf: reduce image load time
