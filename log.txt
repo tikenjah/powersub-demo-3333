@@ -905,3 +905,4 @@
 0186. ✅ test: test user registration edge cases
 0990. ♻️ chore: rename env.example
 0654. ✨ feat: create admin dashboard
+0778. 📚 docs: write FAQ section
