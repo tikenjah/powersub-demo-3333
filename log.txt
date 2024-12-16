@@ -6167,3 +6167,4 @@
 0651. ✨ feat: enable dark mode toggle
 0382. 📚 docs: improve code comments in utils
 0376. 🎨 style: apply consistent indentation
+0408. ♻️ chore: add GitHub actions badge
