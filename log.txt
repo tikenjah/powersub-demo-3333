@@ -898,3 +898,4 @@
 0778. 📚 docs: write FAQ section
 0838. 🎨 style: standardize quote style
 0122. ✨ feat: support email verification
+0207. 🐛 fix: prevent crash on empty input
