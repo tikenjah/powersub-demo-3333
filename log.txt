@@ -900,3 +900,4 @@
 0122. ✨ feat: support email verification
 0207. 🐛 fix: prevent crash on empty input
 0009. ✨ feat: enable dark mode toggle
+0690. 🚀 perf: lazy-load components
