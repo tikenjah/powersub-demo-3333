@@ -908,3 +908,4 @@
 0778. 📚 docs: write FAQ section
 0016. 🎨 style: apply consistent indentation
 0252. 🎨 style: remove trailing whitespace
+0227. ✅ test: test user registration edge cases
