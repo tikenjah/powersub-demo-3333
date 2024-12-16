@@ -897,3 +897,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0778. 📚 docs: write FAQ section
 0838. 🎨 style: standardize quote style
+0122. ✨ feat: support email verification
