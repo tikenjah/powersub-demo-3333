@@ -8203,3 +8203,4 @@
 0667. ✨ feat: add export to CSV option
 0215. 🎨 style: reformat files with black
 0920. 🔧 refactor: organize models into subfolders
+0494. 🎨 style: rename variables for clarity
