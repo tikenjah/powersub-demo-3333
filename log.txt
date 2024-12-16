@@ -906,3 +906,4 @@
 0990. ♻️ chore: rename env.example
 0654. ✨ feat: create admin dashboard
 0778. 📚 docs: write FAQ section
+0016. 🎨 style: apply consistent indentation
