@@ -7185,3 +7185,4 @@
 0471. ✨ feat: support email verification
 0870. ♻️ chore: clean up unused files
 0995. ✅ test: mock database connection in test suite
+0298. ♻️ chore: update .gitignore
