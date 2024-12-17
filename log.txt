@@ -6169,3 +6169,4 @@
 0376. 🎨 style: apply consistent indentation
 0408. ♻️ chore: add GitHub actions badge
 0391. 🐛 fix: fix null pointer exception on login
+0529. 📚 docs: write FAQ section
