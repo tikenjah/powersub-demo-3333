@@ -922,3 +922,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0801. ✨ feat: enable dark mode toggle
 0666. 🐛 fix: fix broken CSS in mobile view
+0383. 🐛 fix: fix broken CSS in mobile view
