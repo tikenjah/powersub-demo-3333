@@ -7187,3 +7187,4 @@
 0995. ✅ test: mock database connection in test suite
 0298. ♻️ chore: update .gitignore
 0231. 🔧 refactor: clean up auth middleware
+0865. ♻️ chore: add GitHub actions badge
