@@ -9204,3 +9204,4 @@
 0881. 🔧 refactor: split large controller into smaller functions
 0431. 🎨 style: reformat files with black
 0044. ✅ test: add unit test for quiz service
+0231. 🔧 refactor: clean up auth middleware
