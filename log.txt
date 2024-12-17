@@ -7188,3 +7188,4 @@
 0298. ♻️ chore: update .gitignore
 0231. 🔧 refactor: clean up auth middleware
 0865. ♻️ chore: add GitHub actions badge
+0049. 🐛 fix: handle 500 error in quiz API
