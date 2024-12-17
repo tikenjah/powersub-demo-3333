@@ -5189,3 +5189,4 @@
 0981. 🚀 perf: lazy-load components
 0027. 📚 docs: clarify environment setup
 0892. ✅ test: add unit test for quiz service
+0562. 🔧 refactor: clean up auth middleware
