@@ -926,3 +926,4 @@
 0460. 📚 docs: write FAQ section
 0523. ♻️ chore: bump dependencies
 0729. 🔧 refactor: refactor quiz grading logic
+0685. ✅ test: test user registration edge cases
