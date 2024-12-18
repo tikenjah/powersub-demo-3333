@@ -6172,3 +6172,4 @@
 0529. 📚 docs: write FAQ section
 0041. 🐛 fix: fix broken CSS in mobile view
 0959. 🐛 fix: fix null pointer exception on login
+0966. 📚 docs: improve code comments in utils
