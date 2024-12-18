@@ -924,3 +924,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0383. 🐛 fix: fix broken CSS in mobile view
 0460. 📚 docs: write FAQ section
+0523. ♻️ chore: bump dependencies
