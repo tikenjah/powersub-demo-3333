@@ -7192,3 +7192,4 @@
 0516. ✅ test: add unit test for quiz service
 0980. 🎨 style: reformat files with black
 0190. 🎨 style: rename variables for clarity
+0618. ✨ feat: support email verification
