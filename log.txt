@@ -10186,3 +10186,4 @@
 0906. 📚 docs: add API usage examples
 0710. 🐛 fix: fix broken CSS in mobile view
 0678. ✨ feat: add user authentication
+0675. 🔧 refactor: organize models into subfolders
