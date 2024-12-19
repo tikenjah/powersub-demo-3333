@@ -7190,3 +7190,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0049. 🐛 fix: handle 500 error in quiz API
 0516. ✅ test: add unit test for quiz service
+0980. 🎨 style: reformat files with black
