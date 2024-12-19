@@ -949,3 +949,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0550. 🔧 refactor: split large controller into smaller functions
 0147. ♻️ chore: bump dependencies
+0668. 🚀 perf: optimize database query for quiz results
