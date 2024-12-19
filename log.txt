@@ -9210,3 +9210,4 @@
 0632. 🎨 style: remove trailing whitespace
 0112. ✨ feat: enable dark mode toggle
 0595. ✨ feat: enable dark mode toggle
+0673. 🐛 fix: correct typo in registration form
