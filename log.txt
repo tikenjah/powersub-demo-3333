@@ -9211,3 +9211,4 @@
 0112. ✨ feat: enable dark mode toggle
 0595. ✨ feat: enable dark mode toggle
 0673. 🐛 fix: correct typo in registration form
+0856. 🐛 fix: fix null pointer exception on login
