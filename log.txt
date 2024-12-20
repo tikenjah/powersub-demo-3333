@@ -966,3 +966,4 @@
 0879. 🎨 style: standardize quote style
 0932. ✅ test: add integration test for /submit endpoint
 0058. ♻️ chore: add GitHub actions badge
+0773. 📚 docs: document token refresh logic
