@@ -9214,3 +9214,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0107. 🐛 fix: prevent crash on empty input
 0886. ♻️ chore: clean up unused files
+0529. 📚 docs: write FAQ section
