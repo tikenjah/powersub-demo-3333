@@ -5197,3 +5197,4 @@
 0259. 🚀 perf: lazy-load components
 0169. 📚 docs: add API usage examples
 0166. 🚀 perf: cache repeated calculations
+0958. 🐛 fix: prevent crash on empty input
