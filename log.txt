@@ -8216,3 +8216,4 @@
 0099. 🚀 perf: reduce image load time
 0056. ♻️ chore: rename env.example
 0542. 🔧 refactor: organize models into subfolders
+0072. 🚀 perf: optimize database query for quiz results
