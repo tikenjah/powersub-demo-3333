@@ -950,3 +950,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0147. ♻️ chore: bump dependencies
 0668. 🚀 perf: optimize database query for quiz results
+0547. 📚 docs: write FAQ section
