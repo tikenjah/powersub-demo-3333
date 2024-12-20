@@ -953,3 +953,4 @@
 0547. 📚 docs: write FAQ section
 0262. 🎨 style: remove trailing whitespace
 0643. 🎨 style: apply consistent indentation
+0859. ✨ feat: create admin dashboard
