@@ -9216,3 +9216,4 @@
 0886. ♻️ chore: clean up unused files
 0529. 📚 docs: write FAQ section
 0173. 🚀 perf: cache repeated calculations
+0758. 🚀 perf: optimize database query for quiz results
