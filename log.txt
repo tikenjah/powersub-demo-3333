@@ -6175,3 +6175,4 @@
 0966. 📚 docs: improve code comments in utils
 0597. 🚀 perf: cache repeated calculations
 0468. 📚 docs: update README with setup steps
+0863. 🐛 fix: correct typo in registration form
