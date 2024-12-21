@@ -7197,3 +7197,4 @@
 0984. ♻️ chore: clean up unused files
 0932. ✅ test: add integration test for /submit endpoint
 0947. 📚 docs: write FAQ section
+0221. ✨ feat: add user authentication
