@@ -10191,3 +10191,4 @@
 0054. ♻️ chore: update .gitignore
 0416. 🎨 style: rename variables for clarity
 0124. 🎨 style: reformat files with black
+0131. 📚 docs: write FAQ section
