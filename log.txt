@@ -971,3 +971,4 @@
 0921. 🐛 fix: correct typo in registration form
 0796. 🔧 refactor: refactor quiz grading logic
 0722. 📚 docs: add API usage examples
+0732. ♻️ chore: add GitHub actions badge
