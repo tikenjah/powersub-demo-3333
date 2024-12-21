@@ -6178,3 +6178,4 @@
 0863. 🐛 fix: correct typo in registration form
 0529. 📚 docs: write FAQ section
 0092. 🚀 perf: reduce image load time
+0583. ✅ test: increase coverage on auth module
