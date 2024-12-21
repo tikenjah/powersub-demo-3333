@@ -6179,3 +6179,4 @@
 0529. 📚 docs: write FAQ section
 0092. 🚀 perf: reduce image load time
 0583. ✅ test: increase coverage on auth module
+0936. 🔧 refactor: organize models into subfolders
