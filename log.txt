@@ -8217,3 +8217,4 @@
 0056. ♻️ chore: rename env.example
 0542. 🔧 refactor: organize models into subfolders
 0072. 🚀 perf: optimize database query for quiz results
+0540. ♻️ chore: add GitHub actions badge
