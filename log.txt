@@ -7199,3 +7199,4 @@
 0947. 📚 docs: write FAQ section
 0221. ✨ feat: add user authentication
 0521. 🎨 style: standardize quote style
+0379. ✨ feat: support email verification
