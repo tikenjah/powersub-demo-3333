@@ -7201,3 +7201,4 @@
 0521. 🎨 style: standardize quote style
 0379. ✨ feat: support email verification
 0986. 📚 docs: document token refresh logic
+0147. ♻️ chore: bump dependencies
