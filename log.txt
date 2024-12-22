@@ -5201,3 +5201,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0425. 🔧 refactor: refactor quiz grading logic
 0527. 🎨 style: remove trailing whitespace
+0568. 🐛 fix: handle 500 error in quiz API
