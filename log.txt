@@ -6181,3 +6181,4 @@
 0583. ✅ test: increase coverage on auth module
 0936. 🔧 refactor: organize models into subfolders
 0366. 🔧 refactor: remove redundant code blocks
+0283. ♻️ chore: add GitHub actions badge
