@@ -979,3 +979,4 @@
 0903. ✅ test: mock database connection in test suite
 0056. ♻️ chore: rename env.example
 0296. 🔧 refactor: organize models into subfolders
+0152. ✨ feat: add user authentication
