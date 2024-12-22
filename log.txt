@@ -988,3 +988,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0250. 📚 docs: update README with setup steps
 0546. 🐛 fix: fix null pointer exception on login
+0562. 🔧 refactor: clean up auth middleware
