@@ -8222,3 +8222,4 @@
 0944. ✨ feat: add user authentication
 0350. 🚀 perf: cache repeated calculations
 0051. ✨ feat: enable dark mode toggle
+0985. 📚 docs: document token refresh logic
