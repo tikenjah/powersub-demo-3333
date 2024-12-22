@@ -10195,3 +10195,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0204. 🎨 style: standardize quote style
 0249. ✅ test: increase coverage on auth module
+0263. 📚 docs: add API usage examples
