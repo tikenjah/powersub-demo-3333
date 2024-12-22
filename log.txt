@@ -9222,3 +9222,4 @@
 0286. ✅ test: mock database connection in test suite
 0210. 🎨 style: apply consistent indentation
 0180. ✨ feat: add export to CSV option
+0824. 🚀 perf: lazy-load components
