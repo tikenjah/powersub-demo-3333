@@ -978,3 +978,4 @@
 0969. ✨ feat: create admin dashboard
 0903. ✅ test: mock database connection in test suite
 0056. ♻️ chore: rename env.example
+0296. 🔧 refactor: organize models into subfolders
