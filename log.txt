@@ -992,3 +992,4 @@
 0799. ♻️ chore: clean up unused files
 0256. ✅ test: mock database connection in test suite
 0687. 🎨 style: remove trailing whitespace
+0249. ✅ test: increase coverage on auth module
