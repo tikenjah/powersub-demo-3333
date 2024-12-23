@@ -10196,3 +10196,4 @@
 0204. 🎨 style: standardize quote style
 0249. ✅ test: increase coverage on auth module
 0263. 📚 docs: add API usage examples
+0298. ♻️ chore: update .gitignore
