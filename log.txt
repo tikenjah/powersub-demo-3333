@@ -1006,3 +1006,4 @@
 0122. ✨ feat: support email verification
 0212. 🎨 style: standardize quote style
 0527. 🎨 style: remove trailing whitespace
+0880. 🐛 fix: fix broken CSS in mobile view
