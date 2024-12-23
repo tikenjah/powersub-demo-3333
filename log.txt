@@ -993,3 +993,4 @@
 0256. ✅ test: mock database connection in test suite
 0687. 🎨 style: remove trailing whitespace
 0249. ✅ test: increase coverage on auth module
+0165. 🎨 style: remove trailing whitespace
