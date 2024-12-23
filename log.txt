@@ -1003,3 +1003,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0904. ✨ feat: implement quiz timer feature
 0632. 🎨 style: remove trailing whitespace
+0122. ✨ feat: support email verification
