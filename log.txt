@@ -5202,3 +5202,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0527. 🎨 style: remove trailing whitespace
 0568. 🐛 fix: handle 500 error in quiz API
+0477. 🐛 fix: fix broken CSS in mobile view
