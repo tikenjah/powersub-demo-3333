@@ -1004,3 +1004,4 @@
 0904. ✨ feat: implement quiz timer feature
 0632. 🎨 style: remove trailing whitespace
 0122. ✨ feat: support email verification
+0212. 🎨 style: standardize quote style
