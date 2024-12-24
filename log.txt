@@ -1009,3 +1009,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0460. 📚 docs: write FAQ section
 0887. 📚 docs: add API usage examples
+0552. 🐛 fix: fix null pointer exception on login
