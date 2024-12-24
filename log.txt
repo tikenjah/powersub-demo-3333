@@ -1023,3 +1023,4 @@
 0626. 🎨 style: standardize quote style
 0761. ✅ test: add unit test for quiz service
 0013. ✅ test: increase coverage on auth module
+1000. ✅ test: increase coverage on auth module
