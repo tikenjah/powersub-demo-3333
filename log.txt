@@ -1011,3 +1011,4 @@
 0887. 📚 docs: add API usage examples
 0552. 🐛 fix: fix null pointer exception on login
 0914. ✅ test: test user registration edge cases
+0185. 📚 docs: write FAQ section
