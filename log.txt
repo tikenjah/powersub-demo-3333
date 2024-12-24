@@ -1012,3 +1012,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0914. ✅ test: test user registration edge cases
 0185. 📚 docs: write FAQ section
+0074. ♻️ chore: add GitHub actions badge
