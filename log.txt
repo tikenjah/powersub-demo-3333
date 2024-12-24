@@ -7207,3 +7207,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0086. 🐛 fix: correct typo in registration form
 0196. ♻️ chore: bump dependencies
+0562. 🔧 refactor: clean up auth middleware
