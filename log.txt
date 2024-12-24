@@ -1008,3 +1008,4 @@
 0527. 🎨 style: remove trailing whitespace
 0880. 🐛 fix: fix broken CSS in mobile view
 0460. 📚 docs: write FAQ section
+0887. 📚 docs: add API usage examples
