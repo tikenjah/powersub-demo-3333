@@ -1021,3 +1021,4 @@
 0526. ✨ feat: add user authentication
 0867. 🔧 refactor: refactor quiz grading logic
 0626. 🎨 style: standardize quote style
+0761. ✅ test: add unit test for quiz service
