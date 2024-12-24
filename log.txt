@@ -1024,3 +1024,4 @@
 0761. ✅ test: add unit test for quiz service
 0013. ✅ test: increase coverage on auth module
 1000. ✅ test: increase coverage on auth module
+0234. ♻️ chore: rename env.example
