@@ -1033,3 +1033,4 @@
 0946. ✅ test: add unit test for quiz service
 0291. 📚 docs: write FAQ section
 0869. ♻️ chore: bump dependencies
+0475. 🔧 refactor: clean up auth middleware
