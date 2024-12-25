@@ -8227,3 +8227,4 @@
 0234. ♻️ chore: rename env.example
 0044. ✅ test: add unit test for quiz service
 0657. 🎨 style: standardize quote style
+0593. 🐛 fix: correct typo in registration form
