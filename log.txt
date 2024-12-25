@@ -1038,3 +1038,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0414. 🔧 refactor: remove redundant code blocks
 0035. ✅ test: increase coverage on auth module
+0523. ♻️ chore: bump dependencies
