@@ -1039,3 +1039,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0035. ✅ test: increase coverage on auth module
 0523. ♻️ chore: bump dependencies
+0558. ✨ feat: enable dark mode toggle
