@@ -6191,3 +6191,4 @@
 0022. 📚 docs: document token refresh logic
 0343. 🚀 perf: optimize database query for quiz results
 0042. 📚 docs: document token refresh logic
+0019. ✨ feat: enable dark mode toggle
