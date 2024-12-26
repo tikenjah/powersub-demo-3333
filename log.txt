@@ -1053,3 +1053,4 @@
 0685. ✅ test: test user registration edge cases
 0356. 📚 docs: write FAQ section
 0838. 🎨 style: standardize quote style
+0547. 📚 docs: write FAQ section
