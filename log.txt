@@ -1045,3 +1045,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0672. 🐛 fix: fix broken CSS in mobile view
 0219. ✅ test: increase coverage on auth module
+0729. 🔧 refactor: refactor quiz grading logic
