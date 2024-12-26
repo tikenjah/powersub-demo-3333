@@ -5212,3 +5212,4 @@
 0726. ✨ feat: enable dark mode toggle
 0509. ♻️ chore: bump dependencies
 0499. 🎨 style: reformat files with black
+0275. 🎨 style: standardize quote style
