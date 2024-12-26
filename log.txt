@@ -1057,3 +1057,4 @@
 0833. ✨ feat: add user authentication
 0435. ✅ test: add unit test for quiz service
 0891. ✨ feat: create admin dashboard
+0804. ♻️ chore: add GitHub actions badge
