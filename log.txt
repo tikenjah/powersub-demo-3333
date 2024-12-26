@@ -6190,3 +6190,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0022. 📚 docs: document token refresh logic
 0343. 🚀 perf: optimize database query for quiz results
+0042. 📚 docs: document token refresh logic
