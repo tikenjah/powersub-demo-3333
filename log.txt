@@ -8232,3 +8232,4 @@
 0975. 🎨 style: apply consistent indentation
 0945. ♻️ chore: add GitHub actions badge
 0611. ✅ test: test user registration edge cases
+0647. 🐛 fix: prevent crash on empty input
