@@ -1042,3 +1042,4 @@
 0558. ✨ feat: enable dark mode toggle
 0979. 🎨 style: standardize quote style
 0942. ✅ test: increase coverage on auth module
+0998. 🐛 fix: fix null pointer exception on login
