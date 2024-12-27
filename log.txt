@@ -5214,3 +5214,4 @@
 0499. 🎨 style: reformat files with black
 0275. 🎨 style: standardize quote style
 0417. 🎨 style: rename variables for clarity
+0592. 📚 docs: add API usage examples
