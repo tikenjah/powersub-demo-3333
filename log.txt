@@ -8234,3 +8234,4 @@
 0611. ✅ test: test user registration edge cases
 0647. 🐛 fix: prevent crash on empty input
 0174. 📚 docs: clarify environment setup
+0271. ✅ test: add unit test for quiz service
