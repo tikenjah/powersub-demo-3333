@@ -9231,3 +9231,4 @@
 0173. 🚀 perf: cache repeated calculations
 0681. ✨ feat: create admin dashboard
 0473. 📚 docs: write FAQ section
+0539. 🔧 refactor: organize models into subfolders
