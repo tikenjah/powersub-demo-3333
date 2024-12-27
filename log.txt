@@ -1058,3 +1058,4 @@
 0435. ✅ test: add unit test for quiz service
 0891. ✨ feat: create admin dashboard
 0804. ♻️ chore: add GitHub actions badge
+0127. 🐛 fix: fix null pointer exception on login
