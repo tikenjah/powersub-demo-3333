@@ -1060,3 +1060,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0127. 🐛 fix: fix null pointer exception on login
 0737. 🐛 fix: handle 500 error in quiz API
+0308. 🚀 perf: reduce image load time
