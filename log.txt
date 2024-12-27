@@ -6193,3 +6193,4 @@
 0042. 📚 docs: document token refresh logic
 0019. ✨ feat: enable dark mode toggle
 0434. 📚 docs: document token refresh logic
+0348. ✅ test: test user registration edge cases
