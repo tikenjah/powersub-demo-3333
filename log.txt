@@ -6196,3 +6196,4 @@
 0348. ✅ test: test user registration edge cases
 0505. ♻️ chore: add GitHub actions badge
 0898. 🐛 fix: fix broken CSS in mobile view
+0178. ✨ feat: support email verification
