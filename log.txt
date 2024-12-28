@@ -1080,3 +1080,4 @@
 0023. 📚 docs: clarify environment setup
 0900. 🐛 fix: handle 500 error in quiz API
 0294. 🐛 fix: prevent crash on empty input
+0316. 🐛 fix: fix broken CSS in mobile view
