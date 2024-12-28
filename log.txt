@@ -9235,3 +9235,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0989. 📚 docs: write FAQ section
 0895. ✨ feat: support email verification
+0354. 📚 docs: add API usage examples
