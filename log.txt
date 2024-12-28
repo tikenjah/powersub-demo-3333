@@ -5215,3 +5215,4 @@
 0275. 🎨 style: standardize quote style
 0417. 🎨 style: rename variables for clarity
 0592. 📚 docs: add API usage examples
+0659. 📚 docs: add API usage examples
