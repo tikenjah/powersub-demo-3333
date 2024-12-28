@@ -1079,3 +1079,4 @@
 0271. ✅ test: add unit test for quiz service
 0023. 📚 docs: clarify environment setup
 0900. 🐛 fix: handle 500 error in quiz API
+0294. 🐛 fix: prevent crash on empty input
