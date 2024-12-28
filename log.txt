@@ -6198,3 +6198,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0178. ✨ feat: support email verification
 0743. 🎨 style: apply consistent indentation
+0150. 🎨 style: remove trailing whitespace
