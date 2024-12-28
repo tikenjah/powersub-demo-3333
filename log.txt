@@ -1077,3 +1077,4 @@
 0238. 🎨 style: apply consistent indentation
 0639. 🐛 fix: correct typo in registration form
 0271. ✅ test: add unit test for quiz service
+0023. 📚 docs: clarify environment setup
