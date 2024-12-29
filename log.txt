@@ -1094,3 +1094,4 @@
 0005. ✅ test: add unit test for quiz service
 0384. 📚 docs: clarify environment setup
 0651. ✨ feat: enable dark mode toggle
+0976. ✨ feat: implement quiz timer feature
