@@ -9237,3 +9237,4 @@
 0895. ✨ feat: support email verification
 0354. 📚 docs: add API usage examples
 0018. 🔧 refactor: organize models into subfolders
+0338. ♻️ chore: add GitHub actions badge
