@@ -1087,3 +1087,4 @@
 0899. 🚀 perf: cache repeated calculations
 0470. 🎨 style: remove trailing whitespace
 0018. 🔧 refactor: organize models into subfolders
+0026. 🔧 refactor: clean up auth middleware
