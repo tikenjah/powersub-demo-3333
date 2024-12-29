@@ -1088,3 +1088,4 @@
 0470. 🎨 style: remove trailing whitespace
 0018. 🔧 refactor: organize models into subfolders
 0026. 🔧 refactor: clean up auth middleware
+0468. 📚 docs: update README with setup steps
