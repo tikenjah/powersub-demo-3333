@@ -1083,3 +1083,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0391. 🐛 fix: fix null pointer exception on login
 0204. 🎨 style: standardize quote style
+0916. ♻️ chore: bump dependencies
