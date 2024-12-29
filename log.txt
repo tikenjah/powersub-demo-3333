@@ -1090,3 +1090,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0468. 📚 docs: update README with setup steps
 0678. ✨ feat: add user authentication
+0831. 📚 docs: clarify environment setup
