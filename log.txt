@@ -6206,3 +6206,4 @@
 0556. ✨ feat: support email verification
 0806. 📚 docs: improve code comments in utils
 0170. ✅ test: increase coverage on auth module
+0537. 🔧 refactor: remove redundant code blocks
