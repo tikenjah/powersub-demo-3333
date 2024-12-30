@@ -1100,3 +1100,4 @@
 0164. 📚 docs: document token refresh logic
 0467. ✅ test: add integration test for /submit endpoint
 0775. 🐛 fix: fix null pointer exception on login
+0963. 🚀 perf: reduce image load time
