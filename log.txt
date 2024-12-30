@@ -6205,3 +6205,4 @@
 0244. ✨ feat: add export to CSV option
 0556. ✨ feat: support email verification
 0806. 📚 docs: improve code comments in utils
+0170. ✅ test: increase coverage on auth module
