@@ -1109,3 +1109,4 @@
 0895. ✨ feat: support email verification
 0503. ♻️ chore: rename env.example
 0835. 🐛 fix: prevent crash on empty input
+0440. 📚 docs: update README with setup steps
