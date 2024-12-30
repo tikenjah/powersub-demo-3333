@@ -1106,3 +1106,4 @@
 0398. 🚀 perf: cache repeated calculations
 0056. ♻️ chore: rename env.example
 0297. 🎨 style: remove trailing whitespace
+0895. ✨ feat: support email verification
