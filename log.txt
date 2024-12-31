@@ -5230,3 +5230,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0374. 🎨 style: standardize quote style
 0472. 🐛 fix: fix null pointer exception on login
+0085. ✨ feat: support email verification
