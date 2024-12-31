@@ -9243,3 +9243,4 @@
 0131. 📚 docs: write FAQ section
 0212. 🎨 style: standardize quote style
 0176. 🔧 refactor: remove redundant code blocks
+0563. 📚 docs: clarify environment setup
