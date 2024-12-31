@@ -10211,3 +10211,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0679. ♻️ chore: bump dependencies
 0424. ✨ feat: add user authentication
+0411. ✅ test: add unit test for quiz service
