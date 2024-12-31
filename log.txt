@@ -1119,3 +1119,4 @@
 0305. ✨ feat: enable dark mode toggle
 0830. 🎨 style: apply consistent indentation
 0139. 📚 docs: document token refresh logic
+0521. 🎨 style: standardize quote style
