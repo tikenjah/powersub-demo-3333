@@ -1127,3 +1127,4 @@
 0339. 📚 docs: update README with setup steps
 0012. 🚀 perf: cache repeated calculations
 0076. 🎨 style: reformat files with black
+0496. ✅ test: add integration test for /submit endpoint
