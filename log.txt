@@ -5231,3 +5231,4 @@
 0374. 🎨 style: standardize quote style
 0472. 🐛 fix: fix null pointer exception on login
 0085. ✨ feat: support email verification
+0101. 📚 docs: clarify environment setup
