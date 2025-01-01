@@ -9247,3 +9247,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0527. 🎨 style: remove trailing whitespace
 0728. 🔧 refactor: split large controller into smaller functions
+0341. 🚀 perf: lazy-load components
