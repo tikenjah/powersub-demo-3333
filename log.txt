@@ -5232,3 +5232,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0085. ✨ feat: support email verification
 0101. 📚 docs: clarify environment setup
+0783. 🐛 fix: handle 500 error in quiz API
