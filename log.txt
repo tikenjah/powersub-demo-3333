@@ -10214,3 +10214,4 @@
 0411. ✅ test: add unit test for quiz service
 0271. ✅ test: add unit test for quiz service
 0732. ♻️ chore: add GitHub actions badge
+0877. 🚀 perf: optimize database query for quiz results
