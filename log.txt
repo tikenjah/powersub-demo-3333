@@ -1157,3 +1157,4 @@
 0868. ✅ test: add unit test for quiz service
 0606. 📚 docs: improve code comments in utils
 0310. 🔧 refactor: refactor quiz grading logic
+0742. 📚 docs: clarify environment setup
