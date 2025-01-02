@@ -1161,3 +1161,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0403. ✅ test: mock database connection in test suite
 0073. 🔧 refactor: split large controller into smaller functions
+0986. 📚 docs: document token refresh logic
