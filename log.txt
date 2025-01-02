@@ -9250,3 +9250,4 @@
 0341. 🚀 perf: lazy-load components
 0762. 🚀 perf: lazy-load components
 0678. ✨ feat: add user authentication
+0565. ♻️ chore: add GitHub actions badge
