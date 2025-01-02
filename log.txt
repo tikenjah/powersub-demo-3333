@@ -6215,3 +6215,4 @@
 0889. 🚀 perf: lazy-load components
 0173. 🚀 perf: cache repeated calculations
 0999. 🔧 refactor: split large controller into smaller functions
+0628. ♻️ chore: add GitHub actions badge
