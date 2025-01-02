@@ -1150,3 +1150,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0956. 📚 docs: clarify environment setup
 0159. 🚀 perf: lazy-load components
+0931. 🚀 perf: reduce image load time
