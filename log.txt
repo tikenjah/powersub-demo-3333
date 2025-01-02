@@ -1149,3 +1149,4 @@
 0644. 🎨 style: apply consistent indentation
 0565. ♻️ chore: add GitHub actions badge
 0956. 📚 docs: clarify environment setup
+0159. 🚀 perf: lazy-load components
