@@ -10218,3 +10218,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0847. ♻️ chore: clean up unused files
 0520. 🐛 fix: fix null pointer exception on login
+0228. 🔧 refactor: remove redundant code blocks
