@@ -6219,3 +6219,4 @@
 0869. ♻️ chore: bump dependencies
 0279. ✨ feat: support email verification
 0615. 🐛 fix: correct typo in registration form
+0863. 🐛 fix: correct typo in registration form
