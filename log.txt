@@ -6218,3 +6218,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0869. ♻️ chore: bump dependencies
 0279. ✨ feat: support email verification
+0615. 🐛 fix: correct typo in registration form
