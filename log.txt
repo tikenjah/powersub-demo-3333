@@ -7232,3 +7232,4 @@
 0395. 📚 docs: write FAQ section
 0398. 🚀 perf: cache repeated calculations
 0402. 🎨 style: reformat files with black
+0029. 🚀 perf: lazy-load components
