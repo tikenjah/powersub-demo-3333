@@ -1167,3 +1167,4 @@
 0940. 📚 docs: document token refresh logic
 0212. 🎨 style: standardize quote style
 0924. ✅ test: mock database connection in test suite
+0353. ♻️ chore: rename env.example
