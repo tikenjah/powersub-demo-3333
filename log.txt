@@ -7229,3 +7229,4 @@
 0333. 🚀 perf: cache repeated calculations
 0954. 🚀 perf: cache repeated calculations
 0665. ♻️ chore: update .gitignore
+0395. 📚 docs: write FAQ section
