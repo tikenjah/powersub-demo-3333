@@ -1172,3 +1172,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0605. ✨ feat: support email verification
 0963. 🚀 perf: reduce image load time
+0247. 🎨 style: apply consistent indentation
