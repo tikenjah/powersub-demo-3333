@@ -1176,3 +1176,4 @@
 0969. ✨ feat: create admin dashboard
 0485. 📚 docs: update README with setup steps
 0612. ✅ test: test user registration edge cases
+0311. 🎨 style: apply consistent indentation
