@@ -1178,3 +1178,4 @@
 0612. ✅ test: test user registration edge cases
 0311. 🎨 style: apply consistent indentation
 0006. 🐛 fix: prevent crash on empty input
+0998. 🐛 fix: fix null pointer exception on login
