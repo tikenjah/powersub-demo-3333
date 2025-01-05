@@ -1183,3 +1183,4 @@
 0138. 🎨 style: rename variables for clarity
 0964. ♻️ chore: clean up unused files
 0886. ♻️ chore: clean up unused files
+0377. ✨ feat: add user authentication
