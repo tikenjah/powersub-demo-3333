@@ -1177,3 +1177,4 @@
 0485. 📚 docs: update README with setup steps
 0612. ✅ test: test user registration edge cases
 0311. 🎨 style: apply consistent indentation
+0006. 🐛 fix: prevent crash on empty input
