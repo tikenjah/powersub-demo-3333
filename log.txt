@@ -9257,3 +9257,4 @@
 0170. ✅ test: increase coverage on auth module
 0546. 🐛 fix: fix null pointer exception on login
 0689. 🎨 style: reformat files with black
+0026. 🔧 refactor: clean up auth middleware
