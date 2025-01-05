@@ -6221,3 +6221,4 @@
 0615. 🐛 fix: correct typo in registration form
 0863. 🐛 fix: correct typo in registration form
 0785. ✨ feat: enable dark mode toggle
+0701. 🔧 refactor: clean up auth middleware
