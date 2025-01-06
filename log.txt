@@ -1199,3 +1199,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0915. 🚀 perf: cache repeated calculations
 0503. ♻️ chore: rename env.example
+0492. 🎨 style: remove trailing whitespace
