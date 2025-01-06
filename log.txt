@@ -10232,3 +10232,4 @@
 0895. ✨ feat: support email verification
 0805. ♻️ chore: add GitHub actions badge
 0866. 📚 docs: add API usage examples
+0502. 📚 docs: update README with setup steps
