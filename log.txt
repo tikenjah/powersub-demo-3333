@@ -1192,3 +1192,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0604. 📚 docs: add API usage examples
 0534. 🔧 refactor: split large controller into smaller functions
+0471. ✨ feat: support email verification
