@@ -1194,3 +1194,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0471. ✨ feat: support email verification
 0420. 🚀 perf: reduce image load time
+0010. ✨ feat: add user authentication
