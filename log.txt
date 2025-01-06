@@ -8249,3 +8249,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0493. ✨ feat: add user authentication
 0903. ✅ test: mock database connection in test suite
+0466. 🚀 perf: optimize database query for quiz results
