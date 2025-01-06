@@ -1190,3 +1190,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0902. ✨ feat: enable dark mode toggle
 0531. 🐛 fix: prevent crash on empty input
+0604. 📚 docs: add API usage examples
