@@ -5241,3 +5241,4 @@
 0517. ✅ test: mock database connection in test suite
 0445. 📚 docs: improve code comments in utils
 0886. ♻️ chore: clean up unused files
+0197. 📚 docs: update README with setup steps
