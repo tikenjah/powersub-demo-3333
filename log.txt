@@ -1212,3 +1212,4 @@
 0078. ♻️ chore: update .gitignore
 0176. 🔧 refactor: remove redundant code blocks
 0644. 🎨 style: apply consistent indentation
+0813. 🔧 refactor: organize models into subfolders
