@@ -1204,3 +1204,4 @@
 0493. ✨ feat: add user authentication
 0223. 🔧 refactor: remove redundant code blocks
 0608. 🔧 refactor: remove redundant code blocks
+0800. 🚀 perf: optimize database query for quiz results
