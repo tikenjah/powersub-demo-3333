@@ -10236,3 +10236,4 @@
 0517. ✅ test: mock database connection in test suite
 0219. ✅ test: increase coverage on auth module
 0733. 🐛 fix: fix null pointer exception on login
+0591. ♻️ chore: clean up unused files
