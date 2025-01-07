@@ -7241,3 +7241,4 @@
 0262. 🎨 style: remove trailing whitespace
 0604. 📚 docs: add API usage examples
 0749. ✨ feat: support email verification
+0743. 🎨 style: apply consistent indentation
