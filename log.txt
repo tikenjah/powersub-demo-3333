@@ -5245,3 +5245,4 @@
 0633. ✨ feat: add user authentication
 0684. 🚀 perf: reduce image load time
 0745. ✅ test: add unit test for quiz service
+0863. 🐛 fix: correct typo in registration form
