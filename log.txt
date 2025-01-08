@@ -1220,3 +1220,4 @@
 0648. ♻️ chore: bump dependencies
 0199. ✨ feat: create admin dashboard
 0856. 🐛 fix: fix null pointer exception on login
+0053. ✅ test: increase coverage on auth module
