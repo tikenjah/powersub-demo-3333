@@ -1235,3 +1235,4 @@
 0725. 🚀 perf: lazy-load components
 0572. ✨ feat: add user authentication
 0140. 🐛 fix: handle 500 error in quiz API
+0655. 🚀 perf: cache repeated calculations
