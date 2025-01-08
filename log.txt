@@ -10239,3 +10239,4 @@
 0591. ♻️ chore: clean up unused files
 0318. 🔧 refactor: refactor quiz grading logic
 0995. ✅ test: mock database connection in test suite
+0666. 🐛 fix: fix broken CSS in mobile view
