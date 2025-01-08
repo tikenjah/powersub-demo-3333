@@ -1227,3 +1227,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0118. 🚀 perf: reduce image load time
 0849. 🐛 fix: correct typo in registration form
+0217. 🚀 perf: reduce image load time
