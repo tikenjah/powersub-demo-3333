@@ -5252,3 +5252,4 @@
 0342. 🚀 perf: cache repeated calculations
 0267. 📚 docs: improve code comments in utils
 0132. ✅ test: add unit test for quiz service
+0826. 📚 docs: clarify environment setup
