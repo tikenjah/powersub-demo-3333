@@ -8259,3 +8259,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0483. 📚 docs: update README with setup steps
 0432. 🎨 style: apply consistent indentation
+0960. ✅ test: increase coverage on auth module
