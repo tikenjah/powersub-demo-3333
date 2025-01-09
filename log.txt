@@ -5253,3 +5253,4 @@
 0267. 📚 docs: improve code comments in utils
 0132. ✅ test: add unit test for quiz service
 0826. 📚 docs: clarify environment setup
+0337. 📚 docs: document token refresh logic
