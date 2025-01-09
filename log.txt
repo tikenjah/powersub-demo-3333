@@ -6230,3 +6230,4 @@
 0262. 🎨 style: remove trailing whitespace
 0920. 🔧 refactor: organize models into subfolders
 0888. 🚀 perf: lazy-load components
+0250. 📚 docs: update README with setup steps
