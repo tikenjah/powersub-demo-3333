@@ -8257,3 +8257,4 @@
 0846. ✨ feat: implement quiz timer feature
 0337. 📚 docs: document token refresh logic
 0450. 🐛 fix: fix broken CSS in mobile view
+0483. 📚 docs: update README with setup steps
