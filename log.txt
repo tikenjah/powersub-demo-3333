@@ -10242,3 +10242,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0279. ✨ feat: support email verification
 0974. ✨ feat: add export to CSV option
+0017. ✅ test: mock database connection in test suite
