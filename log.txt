@@ -1267,3 +1267,4 @@
 0722. 📚 docs: add API usage examples
 0631. ✨ feat: create admin dashboard
 0315. ✅ test: add integration test for /submit endpoint
+0828. ♻️ chore: add GitHub actions badge
