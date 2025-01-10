@@ -1262,3 +1262,4 @@
 0494. 🎨 style: rename variables for clarity
 0508. ✅ test: add unit test for quiz service
 0116. ✨ feat: support email verification
+0830. 🎨 style: apply consistent indentation
