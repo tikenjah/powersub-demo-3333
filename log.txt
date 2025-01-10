@@ -1264,3 +1264,4 @@
 0116. ✨ feat: support email verification
 0830. 🎨 style: apply consistent indentation
 0209. ✨ feat: implement quiz timer feature
+0722. 📚 docs: add API usage examples
