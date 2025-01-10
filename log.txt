@@ -1253,3 +1253,4 @@
 0633. ✨ feat: add user authentication
 0672. 🐛 fix: fix broken CSS in mobile view
 0309. 🔧 refactor: refactor quiz grading logic
+0654. ✨ feat: create admin dashboard
