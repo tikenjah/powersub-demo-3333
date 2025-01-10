@@ -1250,3 +1250,4 @@
 0641. 📚 docs: write FAQ section
 0638. 📚 docs: improve code comments in utils
 0452. ✨ feat: implement quiz timer feature
+0633. ✨ feat: add user authentication
