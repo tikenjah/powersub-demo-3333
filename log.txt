@@ -6232,3 +6232,4 @@
 0888. 🚀 perf: lazy-load components
 0250. 📚 docs: update README with setup steps
 0566. 📚 docs: write FAQ section
+0377. ✨ feat: add user authentication
