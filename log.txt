@@ -6233,3 +6233,4 @@
 0250. 📚 docs: update README with setup steps
 0566. 📚 docs: write FAQ section
 0377. ✨ feat: add user authentication
+0654. ✨ feat: create admin dashboard
