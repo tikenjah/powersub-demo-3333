@@ -9280,3 +9280,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0832. 🔧 refactor: remove redundant code blocks
 0719. 🎨 style: apply consistent indentation
+0764. ✨ feat: add user authentication
