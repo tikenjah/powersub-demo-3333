@@ -10252,3 +10252,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0145. 📚 docs: improve code comments in utils
 0957. 🐛 fix: fix null pointer exception on login
+0378. 🐛 fix: prevent crash on empty input
