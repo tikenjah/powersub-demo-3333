@@ -10249,3 +10249,4 @@
 0606. 📚 docs: improve code comments in utils
 0304. 🔧 refactor: remove redundant code blocks
 0394. 🚀 perf: lazy-load components
+0748. 🚀 perf: optimize database query for quiz results
