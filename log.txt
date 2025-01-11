@@ -1271,3 +1271,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0126. 🎨 style: rename variables for clarity
 0181. ♻️ chore: add GitHub actions badge
+0935. 📚 docs: update README with setup steps
