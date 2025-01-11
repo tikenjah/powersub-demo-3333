@@ -7249,3 +7249,4 @@
 0620. ✨ feat: implement quiz timer feature
 0693. 📚 docs: add API usage examples
 0652. 🔧 refactor: organize models into subfolders
+0383. 🐛 fix: fix broken CSS in mobile view
