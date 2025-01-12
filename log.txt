@@ -1285,3 +1285,4 @@
 0928. 🎨 style: apply consistent indentation
 0939. 📚 docs: update README with setup steps
 0541. 🐛 fix: correct typo in registration form
+0468. 📚 docs: update README with setup steps
