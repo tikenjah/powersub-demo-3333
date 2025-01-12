@@ -1278,3 +1278,4 @@
 0225. 🚀 perf: reduce image load time
 0680. ♻️ chore: add GitHub actions badge
 0337. 📚 docs: document token refresh logic
+0292. 📚 docs: clarify environment setup
