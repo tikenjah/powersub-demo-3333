@@ -7255,3 +7255,4 @@
 0777. 📚 docs: document token refresh logic
 0964. ♻️ chore: clean up unused files
 0028. 🎨 style: standardize quote style
+0200. 🐛 fix: handle 500 error in quiz API
