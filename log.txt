@@ -5265,3 +5265,4 @@
 0604. 📚 docs: add API usage examples
 0906. 📚 docs: add API usage examples
 0889. 🚀 perf: lazy-load components
+0740. 🐛 fix: resolve issue with date parsing
