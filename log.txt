@@ -1279,3 +1279,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0337. 📚 docs: document token refresh logic
 0292. 📚 docs: clarify environment setup
+0967. ♻️ chore: add GitHub actions badge
