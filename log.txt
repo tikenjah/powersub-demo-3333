@@ -6236,3 +6236,4 @@
 0654. ✨ feat: create admin dashboard
 0400. 🐛 fix: fix null pointer exception on login
 0252. 🎨 style: remove trailing whitespace
+0036. 🔧 refactor: clean up auth middleware
