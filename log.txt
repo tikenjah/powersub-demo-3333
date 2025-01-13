@@ -5272,3 +5272,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0757. 🔧 refactor: remove redundant code blocks
 0196. ♻️ chore: bump dependencies
+0051. ✨ feat: enable dark mode toggle
