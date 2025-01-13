@@ -1294,3 +1294,4 @@
 0439. 🐛 fix: correct typo in registration form
 0106. 🎨 style: reformat files with black
 0476. 🚀 perf: reduce image load time
+0469. 🚀 perf: lazy-load components
