@@ -1289,3 +1289,4 @@
 0131. 📚 docs: write FAQ section
 0881. 🔧 refactor: split large controller into smaller functions
 0401. 🚀 perf: reduce image load time
+0847. ♻️ chore: clean up unused files
