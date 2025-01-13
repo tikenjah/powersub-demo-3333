@@ -1292,3 +1292,4 @@
 0847. ♻️ chore: clean up unused files
 0122. ✨ feat: support email verification
 0439. 🐛 fix: correct typo in registration form
+0106. 🎨 style: reformat files with black
