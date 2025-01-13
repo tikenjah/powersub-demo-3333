@@ -6239,3 +6239,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0293. ✅ test: add integration test for /submit endpoint
 0859. ✨ feat: create admin dashboard
+0441. 📚 docs: add API usage examples
