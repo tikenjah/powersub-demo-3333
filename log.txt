@@ -1291,3 +1291,4 @@
 0401. 🚀 perf: reduce image load time
 0847. ♻️ chore: clean up unused files
 0122. ✨ feat: support email verification
+0439. 🐛 fix: correct typo in registration form
