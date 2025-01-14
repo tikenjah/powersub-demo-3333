@@ -1299,3 +1299,4 @@
 0098. 🎨 style: rename variables for clarity
 0153. ♻️ chore: rename env.example
 0650. ✅ test: add unit test for quiz service
+0693. 📚 docs: add API usage examples
