@@ -9292,3 +9292,4 @@
 0714. 📚 docs: improve code comments in utils
 0061. ✨ feat: create admin dashboard
 0990. ♻️ chore: rename env.example
+0669. ✨ feat: enable dark mode toggle
