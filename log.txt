@@ -1309,3 +1309,4 @@
 0494. 🎨 style: rename variables for clarity
 0635. 🎨 style: apply consistent indentation
 0278. 🔧 refactor: clean up auth middleware
+0440. 📚 docs: update README with setup steps
