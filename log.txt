@@ -6244,3 +6244,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0349. ✅ test: increase coverage on auth module
 0535. 📚 docs: write FAQ section
+0503. ♻️ chore: rename env.example
