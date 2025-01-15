@@ -6243,3 +6243,4 @@
 0384. 📚 docs: clarify environment setup
 0479. 🐛 fix: fix null pointer exception on login
 0349. ✅ test: increase coverage on auth module
+0535. 📚 docs: write FAQ section
