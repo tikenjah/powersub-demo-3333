@@ -1323,3 +1323,4 @@
 0054. ♻️ chore: update .gitignore
 0006. 🐛 fix: prevent crash on empty input
 0407. 🚀 perf: cache repeated calculations
+0558. ✨ feat: enable dark mode toggle
