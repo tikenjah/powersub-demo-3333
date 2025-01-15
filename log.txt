@@ -8273,3 +8273,4 @@
 0187. ✨ feat: support email verification
 0428. 🐛 fix: fix null pointer exception on login
 0402. 🎨 style: reformat files with black
+0078. ♻️ chore: update .gitignore
