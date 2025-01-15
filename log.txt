@@ -1325,3 +1325,4 @@
 0407. 🚀 perf: cache repeated calculations
 0558. ✨ feat: enable dark mode toggle
 0835. 🐛 fix: prevent crash on empty input
+0565. ♻️ chore: add GitHub actions badge
