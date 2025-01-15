@@ -6241,3 +6241,4 @@
 0859. ✨ feat: create admin dashboard
 0441. 📚 docs: add API usage examples
 0384. 📚 docs: clarify environment setup
+0479. 🐛 fix: fix null pointer exception on login
