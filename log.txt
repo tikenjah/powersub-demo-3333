@@ -9299,3 +9299,4 @@
 0697. ♻️ chore: bump dependencies
 0942. ✅ test: increase coverage on auth module
 0179. 🔧 refactor: split large controller into smaller functions
+0359. 🔧 refactor: clean up auth middleware
