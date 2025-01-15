@@ -10259,3 +10259,4 @@
 0117. ✅ test: increase coverage on auth module
 0912. 📚 docs: document token refresh logic
 0767. 🔧 refactor: remove redundant code blocks
+0548. 📚 docs: write FAQ section
