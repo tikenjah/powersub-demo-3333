@@ -10263,3 +10263,4 @@
 0770. ♻️ chore: rename env.example
 0587. 🔧 refactor: remove redundant code blocks
 0529. 📚 docs: write FAQ section
+0552. 🐛 fix: fix null pointer exception on login
