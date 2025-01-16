@@ -1339,3 +1339,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0911. ✅ test: increase coverage on auth module
 0447. ♻️ chore: bump dependencies
+0521. 🎨 style: standardize quote style
