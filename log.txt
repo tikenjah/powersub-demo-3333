@@ -1342,3 +1342,4 @@
 0521. 🎨 style: standardize quote style
 0272. 🔧 refactor: remove redundant code blocks
 0051. ✨ feat: enable dark mode toggle
+0898. 🐛 fix: fix broken CSS in mobile view
