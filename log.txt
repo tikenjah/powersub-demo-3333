@@ -6245,3 +6245,4 @@
 0349. ✅ test: increase coverage on auth module
 0535. 📚 docs: write FAQ section
 0503. ♻️ chore: rename env.example
+0296. 🔧 refactor: organize models into subfolders
