@@ -1334,3 +1334,4 @@
 0163. ✨ feat: implement quiz timer feature
 0768. 🎨 style: remove trailing whitespace
 0462. ♻️ chore: update .gitignore
+0970. ♻️ chore: update .gitignore
