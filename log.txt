@@ -1337,3 +1337,4 @@
 0970. ♻️ chore: update .gitignore
 0424. ✨ feat: add user authentication
 0967. ♻️ chore: add GitHub actions badge
+0911. ✅ test: increase coverage on auth module
