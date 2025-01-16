@@ -1338,3 +1338,4 @@
 0424. ✨ feat: add user authentication
 0967. ♻️ chore: add GitHub actions badge
 0911. ✅ test: increase coverage on auth module
+0447. ♻️ chore: bump dependencies
