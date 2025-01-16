@@ -8279,3 +8279,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0931. 🚀 perf: reduce image load time
 0249. ✅ test: increase coverage on auth module
+0242. ♻️ chore: clean up unused files
