@@ -8276,3 +8276,4 @@
 0078. ♻️ chore: update .gitignore
 0728. 🔧 refactor: split large controller into smaller functions
 0367. 🐛 fix: fix null pointer exception on login
+0140. 🐛 fix: handle 500 error in quiz API
