@@ -1354,3 +1354,4 @@
 0297. 🎨 style: remove trailing whitespace
 0946. ✅ test: add unit test for quiz service
 0457. 🐛 fix: handle 500 error in quiz API
+0238. 🎨 style: apply consistent indentation
