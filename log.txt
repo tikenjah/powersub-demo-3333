@@ -1351,3 +1351,4 @@
 0768. 🎨 style: remove trailing whitespace
 0242. ♻️ chore: clean up unused files
 0225. 🚀 perf: reduce image load time
+0297. 🎨 style: remove trailing whitespace
