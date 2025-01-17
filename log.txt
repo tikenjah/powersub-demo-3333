@@ -5280,3 +5280,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0140. 🐛 fix: handle 500 error in quiz API
 0804. ♻️ chore: add GitHub actions badge
+0676. 🐛 fix: prevent crash on empty input
