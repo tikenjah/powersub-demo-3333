@@ -1358,3 +1358,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0716. ✨ feat: implement quiz timer feature
 0234. ♻️ chore: rename env.example
+0862. ♻️ chore: bump dependencies
