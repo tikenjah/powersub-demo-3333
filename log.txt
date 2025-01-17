@@ -6249,3 +6249,4 @@
 0992. ♻️ chore: clean up unused files
 0758. 🚀 perf: optimize database query for quiz results
 0242. ♻️ chore: clean up unused files
+0692. ✅ test: add integration test for /submit endpoint
