@@ -7264,3 +7264,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0173. 🚀 perf: cache repeated calculations
 0361. ✨ feat: support email verification
+0687. 🎨 style: remove trailing whitespace
