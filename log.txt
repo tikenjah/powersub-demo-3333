@@ -1350,3 +1350,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0768. 🎨 style: remove trailing whitespace
 0242. ♻️ chore: clean up unused files
+0225. 🚀 perf: reduce image load time
