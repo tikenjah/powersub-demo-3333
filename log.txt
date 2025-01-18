@@ -1364,3 +1364,4 @@
 0055. 📚 docs: update README with setup steps
 0589. 🐛 fix: fix broken CSS in mobile view
 0350. 🚀 perf: cache repeated calculations
+0112. ✨ feat: enable dark mode toggle
