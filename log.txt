@@ -7268,3 +7268,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0544. 🔧 refactor: organize models into subfolders
 0673. 🐛 fix: correct typo in registration form
+0102. ✨ feat: support email verification
