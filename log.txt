@@ -1377,3 +1377,4 @@
 0885. ♻️ chore: update .gitignore
 0014. 🔧 refactor: remove redundant code blocks
 0113. ✨ feat: add user authentication
+0257. 📚 docs: clarify environment setup
