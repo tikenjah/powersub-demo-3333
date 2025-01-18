@@ -1368,3 +1368,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0033. 🎨 style: apply consistent indentation
 0571. 🔧 refactor: clean up auth middleware
+0366. 🔧 refactor: remove redundant code blocks
