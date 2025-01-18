@@ -10267,3 +10267,4 @@
 0630. 🚀 perf: lazy-load components
 0294. 🐛 fix: prevent crash on empty input
 0551. 📚 docs: write FAQ section
+0166. 🚀 perf: cache repeated calculations
