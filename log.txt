@@ -6256,3 +6256,4 @@
 0528. ♻️ chore: clean up unused files
 0453. 🎨 style: standardize quote style
 0418. ✅ test: mock database connection in test suite
+0235. 🐛 fix: fix null pointer exception on login
