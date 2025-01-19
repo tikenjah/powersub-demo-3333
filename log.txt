@@ -10271,3 +10271,4 @@
 0382. 📚 docs: improve code comments in utils
 0546. 🐛 fix: fix null pointer exception on login
 0278. 🔧 refactor: clean up auth middleware
+0960. ✅ test: increase coverage on auth module
