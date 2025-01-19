@@ -10269,3 +10269,4 @@
 0551. 📚 docs: write FAQ section
 0166. 🚀 perf: cache repeated calculations
 0382. 📚 docs: improve code comments in utils
+0546. 🐛 fix: fix null pointer exception on login
