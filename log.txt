@@ -1388,3 +1388,4 @@
 0599. ✅ test: test user registration edge cases
 0321. 🔧 refactor: organize models into subfolders
 0545. 🎨 style: standardize quote style
+0548. 📚 docs: write FAQ section
