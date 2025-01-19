@@ -7271,3 +7271,4 @@
 0102. ✨ feat: support email verification
 0311. 🎨 style: apply consistent indentation
 0215. 🎨 style: reformat files with black
+0243. 🔧 refactor: clean up auth middleware
