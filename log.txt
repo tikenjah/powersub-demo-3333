@@ -10273,3 +10273,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0960. ✅ test: increase coverage on auth module
 0058. ♻️ chore: add GitHub actions badge
+0875. ✅ test: increase coverage on auth module
