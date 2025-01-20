@@ -1404,3 +1404,4 @@
 0365. 🚀 perf: reduce image load time
 0176. 🔧 refactor: remove redundant code blocks
 0520. 🐛 fix: fix null pointer exception on login
+0062. ♻️ chore: update .gitignore
