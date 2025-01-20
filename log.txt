@@ -9317,3 +9317,4 @@
 0788. 📚 docs: add API usage examples
 0928. 🎨 style: apply consistent indentation
 0194. 🎨 style: standardize quote style
+0201. 🔧 refactor: clean up auth middleware
