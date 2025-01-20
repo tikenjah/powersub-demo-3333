@@ -6260,3 +6260,4 @@
 0946. ✅ test: add unit test for quiz service
 0621. 🔧 refactor: clean up auth middleware
 0840. 🔧 refactor: refactor quiz grading logic
+0955. 🔧 refactor: remove redundant code blocks
