@@ -1397,3 +1397,4 @@
 0660. 🐛 fix: correct typo in registration form
 0189. 📚 docs: clarify environment setup
 0237. 🎨 style: standardize quote style
+0888. 🚀 perf: lazy-load components
