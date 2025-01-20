@@ -8294,3 +8294,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0739. 🎨 style: remove trailing whitespace
 0984. ♻️ chore: clean up unused files
+0374. 🎨 style: standardize quote style
