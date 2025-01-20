@@ -8292,3 +8292,4 @@
 0773. 📚 docs: document token refresh logic
 0713. 🐛 fix: handle 500 error in quiz API
 0321. 🔧 refactor: organize models into subfolders
+0739. 🎨 style: remove trailing whitespace
