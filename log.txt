@@ -1408,3 +1408,4 @@
 0190. 🎨 style: rename variables for clarity
 0083. 🎨 style: reformat files with black
 0140. 🐛 fix: handle 500 error in quiz API
+0843. 📚 docs: document token refresh logic
