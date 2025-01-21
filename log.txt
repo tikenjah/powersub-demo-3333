@@ -8296,3 +8296,4 @@
 0984. ♻️ chore: clean up unused files
 0374. 🎨 style: standardize quote style
 1000. ✅ test: increase coverage on auth module
+0146. 🎨 style: apply consistent indentation
