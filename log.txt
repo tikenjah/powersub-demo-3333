@@ -1410,3 +1410,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0843. 📚 docs: document token refresh logic
 0948. 🐛 fix: fix broken CSS in mobile view
+0622. 🎨 style: apply consistent indentation
