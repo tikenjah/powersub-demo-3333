@@ -1412,3 +1412,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0622. 🎨 style: apply consistent indentation
 0725. 🚀 perf: lazy-load components
+0028. 🎨 style: standardize quote style
