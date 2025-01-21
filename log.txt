@@ -1406,3 +1406,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0062. ♻️ chore: update .gitignore
 0190. 🎨 style: rename variables for clarity
+0083. 🎨 style: reformat files with black
