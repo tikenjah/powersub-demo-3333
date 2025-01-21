@@ -10274,3 +10274,4 @@
 0960. ✅ test: increase coverage on auth module
 0058. ♻️ chore: add GitHub actions badge
 0875. ✅ test: increase coverage on auth module
+0731. 🎨 style: standardize quote style
