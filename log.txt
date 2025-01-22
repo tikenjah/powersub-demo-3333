@@ -1427,3 +1427,4 @@
 0591. ♻️ chore: clean up unused files
 0084. 🐛 fix: handle 500 error in quiz API
 0880. 🐛 fix: fix broken CSS in mobile view
+0397. 🐛 fix: handle 500 error in quiz API
