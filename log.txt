@@ -1424,3 +1424,4 @@
 0439. 🐛 fix: correct typo in registration form
 0330. ✅ test: test user registration edge cases
 0510. 🎨 style: rename variables for clarity
+0591. ♻️ chore: clean up unused files
