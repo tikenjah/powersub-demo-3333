@@ -8297,3 +8297,4 @@
 0374. 🎨 style: standardize quote style
 1000. ✅ test: increase coverage on auth module
 0146. 🎨 style: apply consistent indentation
+0017. ✅ test: mock database connection in test suite
