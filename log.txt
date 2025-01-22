@@ -1429,3 +1429,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0397. 🐛 fix: handle 500 error in quiz API
 0524. ♻️ chore: rename env.example
+0578. ✅ test: add integration test for /submit endpoint
