@@ -1425,3 +1425,4 @@
 0330. ✅ test: test user registration edge cases
 0510. 🎨 style: rename variables for clarity
 0591. ♻️ chore: clean up unused files
+0084. 🐛 fix: handle 500 error in quiz API
