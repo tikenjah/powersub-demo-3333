@@ -1422,3 +1422,4 @@
 0311. 🎨 style: apply consistent indentation
 0254. 🚀 perf: reduce image load time
 0439. 🐛 fix: correct typo in registration form
+0330. ✅ test: test user registration edge cases
