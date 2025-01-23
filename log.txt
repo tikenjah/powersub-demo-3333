@@ -7285,3 +7285,4 @@
 0083. 🎨 style: reformat files with black
 0819. 🚀 perf: reduce image load time
 0935. 📚 docs: update README with setup steps
+0131. 📚 docs: write FAQ section
