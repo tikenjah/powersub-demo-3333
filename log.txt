@@ -8299,3 +8299,4 @@
 0146. 🎨 style: apply consistent indentation
 0017. ✅ test: mock database connection in test suite
 0051. ✨ feat: enable dark mode toggle
+0682. ♻️ chore: rename env.example
