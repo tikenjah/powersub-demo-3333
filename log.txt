@@ -9328,3 +9328,4 @@
 0037. 🐛 fix: correct typo in registration form
 0543. ✨ feat: support email verification
 0254. 🚀 perf: reduce image load time
+0270. ♻️ chore: rename env.example
