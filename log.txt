@@ -1442,3 +1442,4 @@
 0062. ♻️ chore: update .gitignore
 0898. 🐛 fix: fix broken CSS in mobile view
 0926. 🔧 refactor: organize models into subfolders
+0788. 📚 docs: add API usage examples
