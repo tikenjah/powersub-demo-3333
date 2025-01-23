@@ -9326,3 +9326,4 @@
 0549. ✨ feat: enable dark mode toggle
 0297. 🎨 style: remove trailing whitespace
 0037. 🐛 fix: correct typo in registration form
+0543. ✨ feat: support email verification
