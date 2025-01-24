@@ -1448,3 +1448,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0313. 🎨 style: apply consistent indentation
 0349. ✅ test: increase coverage on auth module
+0664. ✅ test: add unit test for quiz service
