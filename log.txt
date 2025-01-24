@@ -1454,3 +1454,4 @@
 0591. ♻️ chore: clean up unused files
 0402. 🎨 style: reformat files with black
 0661. ✅ test: add integration test for /submit endpoint
+0187. ✨ feat: support email verification
