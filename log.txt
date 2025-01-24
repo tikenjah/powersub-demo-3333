@@ -8301,3 +8301,4 @@
 0051. ✨ feat: enable dark mode toggle
 0682. ♻️ chore: rename env.example
 0878. 🔧 refactor: split large controller into smaller functions
+0522. 🐛 fix: handle 500 error in quiz API
