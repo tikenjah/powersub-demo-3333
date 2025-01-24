@@ -1455,3 +1455,4 @@
 0402. 🎨 style: reformat files with black
 0661. ✅ test: add integration test for /submit endpoint
 0187. ✨ feat: support email verification
+0950. 🎨 style: reformat files with black
