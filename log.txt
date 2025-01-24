@@ -9330,3 +9330,4 @@
 0254. 🚀 perf: reduce image load time
 0270. ♻️ chore: rename env.example
 0937. 🐛 fix: handle 500 error in quiz API
+0098. 🎨 style: rename variables for clarity
