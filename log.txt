@@ -1461,3 +1461,4 @@
 0349. ✅ test: increase coverage on auth module
 0701. 🔧 refactor: clean up auth middleware
 0892. ✅ test: add unit test for quiz service
+0732. ♻️ chore: add GitHub actions badge
