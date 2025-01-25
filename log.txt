@@ -10282,3 +10282,4 @@
 0964. ♻️ chore: clean up unused files
 0091. ✨ feat: add user authentication
 0058. ♻️ chore: add GitHub actions badge
+0241. 📚 docs: add API usage examples
