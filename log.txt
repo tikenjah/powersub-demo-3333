@@ -6273,3 +6273,4 @@
 0021. ✨ feat: support email verification
 0546. 🐛 fix: fix null pointer exception on login
 0055. 📚 docs: update README with setup steps
+0787. ♻️ chore: rename env.example
