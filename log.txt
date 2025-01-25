@@ -1467,3 +1467,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0870. ♻️ chore: clean up unused files
 0262. 🎨 style: remove trailing whitespace
+0931. 🚀 perf: reduce image load time
