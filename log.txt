@@ -1463,3 +1463,4 @@
 0892. ✅ test: add unit test for quiz service
 0732. ♻️ chore: add GitHub actions badge
 0433. 🐛 fix: prevent crash on empty input
+0236. 🔧 refactor: remove redundant code blocks
