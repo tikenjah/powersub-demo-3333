@@ -6271,3 +6271,4 @@
 0956. 📚 docs: clarify environment setup
 0404. 📚 docs: improve code comments in utils
 0021. ✨ feat: support email verification
+0546. 🐛 fix: fix null pointer exception on login
