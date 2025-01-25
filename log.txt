@@ -10281,3 +10281,4 @@
 0512. 🚀 perf: reduce image load time
 0964. ♻️ chore: clean up unused files
 0091. ✨ feat: add user authentication
+0058. ♻️ chore: add GitHub actions badge
