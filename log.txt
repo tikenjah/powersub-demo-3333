@@ -1468,3 +1468,4 @@
 0870. ♻️ chore: clean up unused files
 0262. 🎨 style: remove trailing whitespace
 0931. 🚀 perf: reduce image load time
+0922. 📚 docs: write FAQ section
