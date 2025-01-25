@@ -5290,3 +5290,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0056. ♻️ chore: rename env.example
 0486. ✨ feat: add export to CSV option
+0316. 🐛 fix: fix broken CSS in mobile view
