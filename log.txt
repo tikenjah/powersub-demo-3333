@@ -1458,3 +1458,4 @@
 0950. 🎨 style: reformat files with black
 0467. ✅ test: add integration test for /submit endpoint
 0093. ✅ test: add unit test for quiz service
+0349. ✅ test: increase coverage on auth module
