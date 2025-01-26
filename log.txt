@@ -10287,3 +10287,4 @@
 0292. 📚 docs: clarify environment setup
 0969. ✨ feat: create admin dashboard
 0251. ♻️ chore: update .gitignore
+0874. 🔧 refactor: split large controller into smaller functions
