@@ -1484,3 +1484,4 @@
 0823. ✨ feat: add user authentication
 0993. ✨ feat: implement quiz timer feature
 0639. 🐛 fix: correct typo in registration form
+0959. 🐛 fix: fix null pointer exception on login
