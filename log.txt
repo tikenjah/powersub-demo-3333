@@ -1472,3 +1472,4 @@
 0262. 🎨 style: remove trailing whitespace
 0161. ✨ feat: create admin dashboard
 0782. 📚 docs: improve code comments in utils
+0420. 🚀 perf: reduce image load time
