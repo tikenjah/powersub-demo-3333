@@ -10283,3 +10283,4 @@
 0091. ✨ feat: add user authentication
 0058. ♻️ chore: add GitHub actions badge
 0241. 📚 docs: add API usage examples
+0090. ✅ test: increase coverage on auth module
