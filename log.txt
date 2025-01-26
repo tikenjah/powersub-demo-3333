@@ -6276,3 +6276,4 @@
 0787. ♻️ chore: rename env.example
 0664. ✅ test: add unit test for quiz service
 0089. 🔧 refactor: remove redundant code blocks
+0673. 🐛 fix: correct typo in registration form
