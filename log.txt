@@ -5294,3 +5294,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0990. ♻️ chore: rename env.example
 0408. ♻️ chore: add GitHub actions badge
+0968. 🎨 style: standardize quote style
