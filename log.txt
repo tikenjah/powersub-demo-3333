@@ -1478,3 +1478,4 @@
 0596. ♻️ chore: update .gitignore
 0599. ✅ test: test user registration edge cases
 0171. 🐛 fix: fix broken CSS in mobile view
+0102. ✨ feat: support email verification
