@@ -10285,3 +10285,4 @@
 0241. 📚 docs: add API usage examples
 0090. ✅ test: increase coverage on auth module
 0292. 📚 docs: clarify environment setup
+0969. ✨ feat: create admin dashboard
