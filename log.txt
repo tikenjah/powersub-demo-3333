@@ -1479,3 +1479,4 @@
 0599. ✅ test: test user registration edge cases
 0171. 🐛 fix: fix broken CSS in mobile view
 0102. ✨ feat: support email verification
+0055. 📚 docs: update README with setup steps
