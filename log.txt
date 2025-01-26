@@ -8303,3 +8303,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0522. 🐛 fix: handle 500 error in quiz API
 0383. 🐛 fix: fix broken CSS in mobile view
+0125. ✅ test: add integration test for /submit endpoint
