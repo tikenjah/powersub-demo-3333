@@ -1483,3 +1483,4 @@
 0916. ♻️ chore: bump dependencies
 0823. ✨ feat: add user authentication
 0993. ✨ feat: implement quiz timer feature
+0639. 🐛 fix: correct typo in registration form
