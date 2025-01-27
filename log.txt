@@ -5296,3 +5296,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0968. 🎨 style: standardize quote style
 0869. ♻️ chore: bump dependencies
+0672. 🐛 fix: fix broken CSS in mobile view
