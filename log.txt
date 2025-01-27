@@ -1497,3 +1497,4 @@
 0117. ✅ test: increase coverage on auth module
 0357. ✅ test: add unit test for quiz service
 0352. ✨ feat: add export to CSV option
+0937. 🐛 fix: handle 500 error in quiz API
