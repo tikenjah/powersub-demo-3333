@@ -7296,3 +7296,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0837. 🚀 perf: cache repeated calculations
 0956. 📚 docs: clarify environment setup
+0336. ✨ feat: add export to CSV option
