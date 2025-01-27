@@ -1486,3 +1486,4 @@
 0639. 🐛 fix: correct typo in registration form
 0959. 🐛 fix: fix null pointer exception on login
 0292. 📚 docs: clarify environment setup
+0306. 🎨 style: apply consistent indentation
