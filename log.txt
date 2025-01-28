@@ -1509,3 +1509,4 @@
 0377. ✨ feat: add user authentication
 0254. 🚀 perf: reduce image load time
 0862. ♻️ chore: bump dependencies
+0450. 🐛 fix: fix broken CSS in mobile view
