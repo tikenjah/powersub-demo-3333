@@ -7299,3 +7299,4 @@
 0336. ✨ feat: add export to CSV option
 0006. 🐛 fix: prevent crash on empty input
 0903. ✅ test: mock database connection in test suite
+0839. 🎨 style: apply consistent indentation
