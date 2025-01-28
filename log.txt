@@ -1504,3 +1504,4 @@
 0237. 🎨 style: standardize quote style
 0521. 🎨 style: standardize quote style
 0428. 🐛 fix: fix null pointer exception on login
+0206. 🐛 fix: handle 500 error in quiz API
