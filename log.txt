@@ -9336,3 +9336,4 @@
 0424. ✨ feat: add user authentication
 0650. ✅ test: add unit test for quiz service
 0228. 🔧 refactor: remove redundant code blocks
+0563. 📚 docs: clarify environment setup
