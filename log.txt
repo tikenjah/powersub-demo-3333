@@ -10290,3 +10290,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0133. 🐛 fix: fix null pointer exception on login
 0731. 🎨 style: standardize quote style
+0367. 🐛 fix: fix null pointer exception on login
