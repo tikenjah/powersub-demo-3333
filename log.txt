@@ -9338,3 +9338,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0563. 📚 docs: clarify environment setup
 0141. 📚 docs: document token refresh logic
+0787. ♻️ chore: rename env.example
