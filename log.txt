@@ -10300,3 +10300,4 @@
 0876. ♻️ chore: rename env.example
 0556. ✨ feat: support email verification
 0586. 🎨 style: remove trailing whitespace
+0085. ✨ feat: support email verification
