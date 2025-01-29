@@ -1520,3 +1520,4 @@
 0601. ✨ feat: implement quiz timer feature
 0427. ✅ test: mock database connection in test suite
 0148. 🔧 refactor: organize models into subfolders
+0370. 🚀 perf: reduce image load time
