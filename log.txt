@@ -1515,3 +1515,4 @@
 0155. ✨ feat: create admin dashboard
 0656. 🎨 style: apply consistent indentation
 0032. 🎨 style: apply consistent indentation
+0701. 🔧 refactor: clean up auth middleware
