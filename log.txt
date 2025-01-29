@@ -10298,3 +10298,4 @@
 0407. 🚀 perf: cache repeated calculations
 0209. ✨ feat: implement quiz timer feature
 0876. ♻️ chore: rename env.example
+0556. ✨ feat: support email verification
