@@ -9339,3 +9339,4 @@
 0563. 📚 docs: clarify environment setup
 0141. 📚 docs: document token refresh logic
 0787. ♻️ chore: rename env.example
+0834. ✅ test: increase coverage on auth module
