@@ -7301,3 +7301,4 @@
 0903. ✅ test: mock database connection in test suite
 0839. 🎨 style: apply consistent indentation
 0744. 🔧 refactor: remove redundant code blocks
+0022. 📚 docs: document token refresh logic
