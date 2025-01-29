@@ -1521,3 +1521,4 @@
 0427. ✅ test: mock database connection in test suite
 0148. 🔧 refactor: organize models into subfolders
 0370. 🚀 perf: reduce image load time
+0978. 🐛 fix: prevent crash on empty input
