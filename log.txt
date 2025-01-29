@@ -1523,3 +1523,4 @@
 0370. 🚀 perf: reduce image load time
 0978. 🐛 fix: prevent crash on empty input
 0953. 🎨 style: remove trailing whitespace
+0803. ✅ test: mock database connection in test suite
