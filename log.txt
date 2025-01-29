@@ -5301,3 +5301,4 @@
 0059. ♻️ chore: bump dependencies
 0300. ✨ feat: add export to CSV option
 0134. ✨ feat: implement quiz timer feature
+0749. ✨ feat: support email verification
