@@ -5303,3 +5303,4 @@
 0134. ✨ feat: implement quiz timer feature
 0749. ✨ feat: support email verification
 0152. ✨ feat: add user authentication
+0981. 🚀 perf: lazy-load components
