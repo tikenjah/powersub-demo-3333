@@ -1526,3 +1526,4 @@
 0803. ✅ test: mock database connection in test suite
 0819. 🚀 perf: reduce image load time
 0671. 🐛 fix: fix null pointer exception on login
+0267. 📚 docs: improve code comments in utils
