@@ -9341,3 +9341,4 @@
 0787. ♻️ chore: rename env.example
 0834. ✅ test: increase coverage on auth module
 0016. 🎨 style: apply consistent indentation
+0343. 🚀 perf: optimize database query for quiz results
