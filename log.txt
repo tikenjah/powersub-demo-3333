@@ -10304,3 +10304,4 @@
 0761. ✅ test: add unit test for quiz service
 0645. 🐛 fix: resolve issue with date parsing
 0224. 🐛 fix: fix broken CSS in mobile view
+0293. ✅ test: add integration test for /submit endpoint
