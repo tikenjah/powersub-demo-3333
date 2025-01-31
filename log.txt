@@ -1551,3 +1551,4 @@
 0591. ♻️ chore: clean up unused files
 0855. 🎨 style: reformat files with black
 0840. 🔧 refactor: refactor quiz grading logic
+0307. ✨ feat: support email verification
