@@ -7307,3 +7307,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0940. 📚 docs: document token refresh logic
 0368. 🚀 perf: lazy-load components
+0207. 🐛 fix: prevent crash on empty input
