@@ -1552,3 +1552,4 @@
 0855. 🎨 style: reformat files with black
 0840. 🔧 refactor: refactor quiz grading logic
 0307. ✨ feat: support email verification
+0663. 🚀 perf: reduce image load time
