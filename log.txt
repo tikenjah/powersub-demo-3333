@@ -1561,3 +1561,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0965. 🎨 style: reformat files with black
 1000. ✅ test: increase coverage on auth module
+0978. 🐛 fix: prevent crash on empty input
