@@ -1557,3 +1557,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0719. 🎨 style: apply consistent indentation
 0614. 🚀 perf: reduce image load time
+0487. 🎨 style: reformat files with black
