@@ -6289,3 +6289,4 @@
 0409. 🚀 perf: lazy-load components
 0074. ♻️ chore: add GitHub actions badge
 0167. 🚀 perf: reduce image load time
+0379. ✨ feat: support email verification
