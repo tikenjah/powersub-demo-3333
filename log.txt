@@ -6290,3 +6290,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0167. 🚀 perf: reduce image load time
 0379. ✨ feat: support email verification
+0978. 🐛 fix: prevent crash on empty input
