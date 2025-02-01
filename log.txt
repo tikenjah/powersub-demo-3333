@@ -8319,3 +8319,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0113. ✨ feat: add user authentication
 0861. ♻️ chore: clean up unused files
+0762. 🚀 perf: lazy-load components
