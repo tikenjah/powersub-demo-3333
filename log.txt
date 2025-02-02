@@ -10307,3 +10307,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0784. ♻️ chore: clean up unused files
 0783. 🐛 fix: handle 500 error in quiz API
+0942. ✅ test: increase coverage on auth module
