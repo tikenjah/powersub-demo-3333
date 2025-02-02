@@ -6293,3 +6293,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0546. 🐛 fix: fix null pointer exception on login
 0031. 📚 docs: document token refresh logic
+0533. ♻️ chore: add GitHub actions badge
