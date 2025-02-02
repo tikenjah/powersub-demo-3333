@@ -1569,3 +1569,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0079. 🐛 fix: correct typo in registration form
 0204. 🎨 style: standardize quote style
+0039. ✅ test: add integration test for /submit endpoint
