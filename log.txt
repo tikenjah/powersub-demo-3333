@@ -6292,3 +6292,4 @@
 0379. ✨ feat: support email verification
 0978. 🐛 fix: prevent crash on empty input
 0546. 🐛 fix: fix null pointer exception on login
+0031. 📚 docs: document token refresh logic
