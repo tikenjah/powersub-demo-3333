@@ -1567,3 +1567,4 @@
 0854. ♻️ chore: rename env.example
 0424. ✨ feat: add user authentication
 0680. ♻️ chore: add GitHub actions badge
+0079. 🐛 fix: correct typo in registration form
