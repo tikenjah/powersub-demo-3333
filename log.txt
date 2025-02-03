@@ -1580,3 +1580,4 @@
 0138. 🎨 style: rename variables for clarity
 0161. ✨ feat: create admin dashboard
 0651. ✨ feat: enable dark mode toggle
+0117. ✅ test: increase coverage on auth module
