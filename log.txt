@@ -8326,3 +8326,4 @@
 0866. 📚 docs: add API usage examples
 0534. 🔧 refactor: split large controller into smaller functions
 0915. 🚀 perf: cache repeated calculations
+0101. 📚 docs: clarify environment setup
