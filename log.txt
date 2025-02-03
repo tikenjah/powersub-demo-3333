@@ -1582,3 +1582,4 @@
 0651. ✨ feat: enable dark mode toggle
 0117. ✅ test: increase coverage on auth module
 0713. 🐛 fix: handle 500 error in quiz API
+0861. ♻️ chore: clean up unused files
