@@ -1595,3 +1595,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0201. 🔧 refactor: clean up auth middleware
 0687. 🎨 style: remove trailing whitespace
+0697. ♻️ chore: bump dependencies
