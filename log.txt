@@ -1586,3 +1586,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0267. 📚 docs: improve code comments in utils
 0245. 🐛 fix: resolve issue with date parsing
+0152. ✨ feat: add user authentication
