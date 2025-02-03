@@ -6295,3 +6295,4 @@
 0031. 📚 docs: document token refresh logic
 0533. ♻️ chore: add GitHub actions badge
 0350. 🚀 perf: cache repeated calculations
+0890. 🔧 refactor: organize models into subfolders
