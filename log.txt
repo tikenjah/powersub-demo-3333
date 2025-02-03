@@ -10310,3 +10310,4 @@
 0942. ✅ test: increase coverage on auth module
 0869. ♻️ chore: bump dependencies
 0277. 🎨 style: standardize quote style
+0419. 🎨 style: remove trailing whitespace
