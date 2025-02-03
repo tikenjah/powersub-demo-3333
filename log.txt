@@ -10308,3 +10308,4 @@
 0784. ♻️ chore: clean up unused files
 0783. 🐛 fix: handle 500 error in quiz API
 0942. ✅ test: increase coverage on auth module
+0869. ♻️ chore: bump dependencies
