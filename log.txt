@@ -1590,3 +1590,4 @@
 0773. 📚 docs: document token refresh logic
 0385. ♻️ chore: clean up unused files
 0634. 🎨 style: reformat files with black
+0279. ✨ feat: support email verification
