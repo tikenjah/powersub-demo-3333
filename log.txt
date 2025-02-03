@@ -6297,3 +6297,4 @@
 0350. 🚀 perf: cache repeated calculations
 0890. 🔧 refactor: organize models into subfolders
 0927. ♻️ chore: bump dependencies
+0207. 🐛 fix: prevent crash on empty input
