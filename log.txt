@@ -1606,3 +1606,4 @@
 0253. 📚 docs: update README with setup steps
 0345. 📚 docs: document token refresh logic
 0382. 📚 docs: improve code comments in utils
+0430. 🐛 fix: fix null pointer exception on login
