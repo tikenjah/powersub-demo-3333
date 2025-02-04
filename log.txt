@@ -1600,3 +1600,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0926. 🔧 refactor: organize models into subfolders
 0535. 📚 docs: write FAQ section
+0085. ✨ feat: support email verification
