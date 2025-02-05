@@ -5313,3 +5313,4 @@
 0108. 🎨 style: remove trailing whitespace
 0849. 🐛 fix: correct typo in registration form
 0490. ✨ feat: create admin dashboard
+0197. 📚 docs: update README with setup steps
