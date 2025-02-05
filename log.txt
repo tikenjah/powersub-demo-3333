@@ -1613,3 +1613,4 @@
 0253. 📚 docs: update README with setup steps
 0439. 🐛 fix: correct typo in registration form
 0279. ✨ feat: support email verification
+0077. ♻️ chore: rename env.example
