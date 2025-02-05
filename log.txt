@@ -1619,3 +1619,4 @@
 0360. ✨ feat: add export to CSV option
 0804. ♻️ chore: add GitHub actions badge
 0536. ✨ feat: add user authentication
+0068. 🐛 fix: fix null pointer exception on login
