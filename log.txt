@@ -1633,3 +1633,4 @@
 0446. 🎨 style: apply consistent indentation
 0621. 🔧 refactor: clean up auth middleware
 0960. ✅ test: increase coverage on auth module
+0649. 📚 docs: update README with setup steps
