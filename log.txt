@@ -1623,3 +1623,4 @@
 0080. ✨ feat: support email verification
 0438. ♻️ chore: bump dependencies
 0975. 🎨 style: apply consistent indentation
+0120. ✅ test: add integration test for /submit endpoint
