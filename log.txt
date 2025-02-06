@@ -1621,3 +1621,4 @@
 0536. ✨ feat: add user authentication
 0068. 🐛 fix: fix null pointer exception on login
 0080. ✨ feat: support email verification
+0438. ♻️ chore: bump dependencies
