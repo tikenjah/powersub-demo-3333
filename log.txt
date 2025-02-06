@@ -8331,3 +8331,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0592. 📚 docs: add API usage examples
 0130. 🔧 refactor: split large controller into smaller functions
+0231. 🔧 refactor: clean up auth middleware
