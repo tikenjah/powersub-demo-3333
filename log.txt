@@ -10320,3 +10320,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0335. ♻️ chore: update .gitignore
 0915. 🚀 perf: cache repeated calculations
+0486. ✨ feat: add export to CSV option
