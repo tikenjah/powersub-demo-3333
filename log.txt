@@ -1622,3 +1622,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0080. ✨ feat: support email verification
 0438. ♻️ chore: bump dependencies
+0975. 🎨 style: apply consistent indentation
