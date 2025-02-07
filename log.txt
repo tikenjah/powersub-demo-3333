@@ -1644,3 +1644,4 @@
 0046. 🎨 style: rename variables for clarity
 0665. ♻️ chore: update .gitignore
 0132. ✅ test: add unit test for quiz service
+0649. 📚 docs: update README with setup steps
