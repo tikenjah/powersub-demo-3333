@@ -1635,3 +1635,4 @@
 0960. ✅ test: increase coverage on auth module
 0649. 📚 docs: update README with setup steps
 0915. 🚀 perf: cache repeated calculations
+0613. 🐛 fix: prevent crash on empty input
