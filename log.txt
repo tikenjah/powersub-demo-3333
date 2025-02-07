@@ -9362,3 +9362,4 @@
 0145. 📚 docs: improve code comments in utils
 0243. 🔧 refactor: clean up auth middleware
 0895. ✨ feat: support email verification
+0362. 📚 docs: add API usage examples
