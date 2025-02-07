@@ -1642,3 +1642,4 @@
 0021. ✨ feat: support email verification
 0815. 🔧 refactor: split large controller into smaller functions
 0046. 🎨 style: rename variables for clarity
+0665. ♻️ chore: update .gitignore
