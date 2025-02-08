@@ -7333,3 +7333,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0992. ♻️ chore: clean up unused files
 0980. 🎨 style: reformat files with black
+0506. 🐛 fix: handle 500 error in quiz API
