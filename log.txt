@@ -1662,3 +1662,4 @@
 0761. ✅ test: add unit test for quiz service
 0630. 🚀 perf: lazy-load components
 0143. ✨ feat: implement quiz timer feature
+0531. 🐛 fix: prevent crash on empty input
