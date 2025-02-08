@@ -5320,3 +5320,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0584. 🚀 perf: lazy-load components
 0677. 📚 docs: add API usage examples
+0618. ✨ feat: support email verification
