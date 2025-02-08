@@ -1655,3 +1655,4 @@
 0904. ✨ feat: implement quiz timer feature
 0071. 🔧 refactor: refactor quiz grading logic
 0138. 🎨 style: rename variables for clarity
+0690. 🚀 perf: lazy-load components
