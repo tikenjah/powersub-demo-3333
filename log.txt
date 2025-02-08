@@ -5325,3 +5325,4 @@
 0848. 📚 docs: update README with setup steps
 0880. 🐛 fix: fix broken CSS in mobile view
 0241. 📚 docs: add API usage examples
+0762. 🚀 perf: lazy-load components
