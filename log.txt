@@ -5323,3 +5323,4 @@
 0618. ✨ feat: support email verification
 0661. ✅ test: add integration test for /submit endpoint
 0848. 📚 docs: update README with setup steps
+0880. 🐛 fix: fix broken CSS in mobile view
