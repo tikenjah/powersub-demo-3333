@@ -8339,3 +8339,4 @@
 0547. 📚 docs: write FAQ section
 0445. 📚 docs: improve code comments in utils
 0459. 🔧 refactor: organize models into subfolders
+0649. 📚 docs: update README with setup steps
