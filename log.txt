@@ -1660,3 +1660,4 @@
 0745. ✅ test: add unit test for quiz service
 0025. 🚀 perf: optimize database query for quiz results
 0761. ✅ test: add unit test for quiz service
+0630. 🚀 perf: lazy-load components
