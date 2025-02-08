@@ -6313,3 +6313,4 @@
 0592. 📚 docs: add API usage examples
 0183. 🔧 refactor: split large controller into smaller functions
 0214. 📚 docs: improve code comments in utils
+0021. ✨ feat: support email verification
