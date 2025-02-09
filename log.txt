@@ -1676,3 +1676,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0166. 🚀 perf: cache repeated calculations
 0790. 📚 docs: write FAQ section
+0116. ✨ feat: support email verification
