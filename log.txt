@@ -1670,3 +1670,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0835. 🐛 fix: prevent crash on empty input
 0261. 🔧 refactor: refactor quiz grading logic
+0133. 🐛 fix: fix null pointer exception on login
