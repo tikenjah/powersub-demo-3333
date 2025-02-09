@@ -9367,3 +9367,4 @@
 0883. 📚 docs: improve code comments in utils
 0800. 🚀 perf: optimize database query for quiz results
 0864. 🐛 fix: correct typo in registration form
+0519. 📚 docs: document token refresh logic
