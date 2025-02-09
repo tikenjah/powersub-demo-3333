@@ -1680,3 +1680,4 @@
 0305. ✨ feat: enable dark mode toggle
 0954. 🚀 perf: cache repeated calculations
 0627. 📚 docs: document token refresh logic
+0281. ✨ feat: support email verification
