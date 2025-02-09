@@ -1678,3 +1678,4 @@
 0790. 📚 docs: write FAQ section
 0116. ✨ feat: support email verification
 0305. ✨ feat: enable dark mode toggle
+0954. 🚀 perf: cache repeated calculations
