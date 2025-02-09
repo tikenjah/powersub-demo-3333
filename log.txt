@@ -1679,3 +1679,4 @@
 0116. ✨ feat: support email verification
 0305. ✨ feat: enable dark mode toggle
 0954. 🚀 perf: cache repeated calculations
+0627. 📚 docs: document token refresh logic
