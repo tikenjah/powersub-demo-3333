@@ -8342,3 +8342,4 @@
 0649. 📚 docs: update README with setup steps
 0437. 📚 docs: clarify environment setup
 0465. 🎨 style: rename variables for clarity
+0248. 🐛 fix: handle 500 error in quiz API
