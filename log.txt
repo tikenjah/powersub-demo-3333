@@ -1697,3 +1697,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0738. 🐛 fix: prevent crash on empty input
 0365. 🚀 perf: reduce image load time
+0062. ♻️ chore: update .gitignore
