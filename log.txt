@@ -1686,3 +1686,4 @@
 0965. 🎨 style: reformat files with black
 0986. 📚 docs: document token refresh logic
 0609. 🐛 fix: handle 500 error in quiz API
+0796. 🔧 refactor: refactor quiz grading logic
