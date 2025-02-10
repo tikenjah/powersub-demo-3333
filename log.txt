@@ -1687,3 +1687,4 @@
 0986. 📚 docs: document token refresh logic
 0609. 🐛 fix: handle 500 error in quiz API
 0796. 🔧 refactor: refactor quiz grading logic
+0733. 🐛 fix: fix null pointer exception on login
