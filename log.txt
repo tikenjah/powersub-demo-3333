@@ -10335,3 +10335,4 @@
 0123. ✨ feat: implement quiz timer feature
 0183. 🔧 refactor: split large controller into smaller functions
 0873. 🚀 perf: cache repeated calculations
+0989. 📚 docs: write FAQ section
