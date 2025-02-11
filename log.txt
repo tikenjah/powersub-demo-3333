@@ -10337,3 +10337,4 @@
 0873. 🚀 perf: cache repeated calculations
 0989. 📚 docs: write FAQ section
 0324. 📚 docs: document token refresh logic
+0456. 🚀 perf: optimize database query for quiz results
