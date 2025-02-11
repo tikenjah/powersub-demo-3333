@@ -6318,3 +6318,4 @@
 0660. 🐛 fix: correct typo in registration form
 0328. 🐛 fix: resolve issue with date parsing
 0806. 📚 docs: improve code comments in utils
+0023. 📚 docs: clarify environment setup
