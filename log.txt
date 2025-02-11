@@ -1713,3 +1713,4 @@
 0549. ✨ feat: enable dark mode toggle
 0699. 🎨 style: standardize quote style
 0152. ✨ feat: add user authentication
+0312. ✨ feat: add user authentication
