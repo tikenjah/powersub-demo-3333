@@ -7338,3 +7338,4 @@
 0964. ♻️ chore: clean up unused files
 0415. 🐛 fix: handle 500 error in quiz API
 0691. 🎨 style: rename variables for clarity
+0348. ✅ test: test user registration edge cases
