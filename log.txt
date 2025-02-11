@@ -8346,3 +8346,4 @@
 0761. ✅ test: add unit test for quiz service
 0268. 🐛 fix: prevent crash on empty input
 0927. ♻️ chore: bump dependencies
+0641. 📚 docs: write FAQ section
