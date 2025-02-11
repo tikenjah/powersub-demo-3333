@@ -1708,3 +1708,4 @@
 0350. 🚀 perf: cache repeated calculations
 0411. ✅ test: add unit test for quiz service
 0988. 🐛 fix: fix broken CSS in mobile view
+0595. ✨ feat: enable dark mode toggle
