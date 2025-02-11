@@ -1701,3 +1701,4 @@
 0385. ♻️ chore: clean up unused files
 0176. 🔧 refactor: remove redundant code blocks
 0075. ✅ test: mock database connection in test suite
+0393. 🚀 perf: lazy-load components
