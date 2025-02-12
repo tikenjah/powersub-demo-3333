@@ -7344,3 +7344,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0843. 📚 docs: document token refresh logic
 0380. 🐛 fix: fix null pointer exception on login
+0331. 🐛 fix: fix broken CSS in mobile view
