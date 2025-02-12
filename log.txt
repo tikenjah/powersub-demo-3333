@@ -8348,3 +8348,4 @@
 0927. ♻️ chore: bump dependencies
 0641. 📚 docs: write FAQ section
 0076. 🎨 style: reformat files with black
+0423. ✅ test: mock database connection in test suite
