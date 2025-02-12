@@ -7342,3 +7342,4 @@
 0188. 🎨 style: apply consistent indentation
 0172. 📚 docs: add API usage examples
 0004. 🚀 perf: optimize database query for quiz results
+0843. 📚 docs: document token refresh logic
