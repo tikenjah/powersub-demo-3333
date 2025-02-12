@@ -10339,3 +10339,4 @@
 0324. 📚 docs: document token refresh logic
 0456. 🚀 perf: optimize database query for quiz results
 0097. 🐛 fix: handle 500 error in quiz API
+0192. ✨ feat: enable dark mode toggle
