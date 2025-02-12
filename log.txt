@@ -1722,3 +1722,4 @@
 0368. 🚀 perf: lazy-load components
 0011. ✅ test: add unit test for quiz service
 0229. 🚀 perf: optimize database query for quiz results
+0235. 🐛 fix: fix null pointer exception on login
