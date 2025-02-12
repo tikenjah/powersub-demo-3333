@@ -6321,3 +6321,4 @@
 0023. 📚 docs: clarify environment setup
 0348. ✅ test: test user registration edge cases
 0504. 📚 docs: document token refresh logic
+0636. ✅ test: increase coverage on auth module
