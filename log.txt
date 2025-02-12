@@ -1714,3 +1714,4 @@
 0699. 🎨 style: standardize quote style
 0152. ✨ feat: add user authentication
 0312. ✨ feat: add user authentication
+0754. 🐛 fix: handle 500 error in quiz API
