@@ -1721,3 +1721,4 @@
 0518. ✨ feat: support email verification
 0368. 🚀 perf: lazy-load components
 0011. ✅ test: add unit test for quiz service
+0229. 🚀 perf: optimize database query for quiz results
