@@ -5335,3 +5335,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0628. ♻️ chore: add GitHub actions badge
 0640. ♻️ chore: bump dependencies
+0809. ♻️ chore: rename env.example
