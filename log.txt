@@ -6320,3 +6320,4 @@
 0806. 📚 docs: improve code comments in utils
 0023. 📚 docs: clarify environment setup
 0348. ✅ test: test user registration edge cases
+0504. 📚 docs: document token refresh logic
