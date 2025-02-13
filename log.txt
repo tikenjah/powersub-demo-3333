@@ -8354,3 +8354,4 @@
 0864. 🐛 fix: correct typo in registration form
 0865. ♻️ chore: add GitHub actions badge
 0742. 📚 docs: clarify environment setup
+0909. 🔧 refactor: organize models into subfolders
