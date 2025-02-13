@@ -1735,3 +1735,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0897. 🐛 fix: prevent crash on empty input
 0409. 🚀 perf: lazy-load components
+0229. 🚀 perf: optimize database query for quiz results
