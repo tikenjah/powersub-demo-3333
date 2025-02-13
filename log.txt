@@ -6322,3 +6322,4 @@
 0348. ✅ test: test user registration edge cases
 0504. 📚 docs: document token refresh logic
 0636. ✅ test: increase coverage on auth module
+0265. 🎨 style: reformat files with black
