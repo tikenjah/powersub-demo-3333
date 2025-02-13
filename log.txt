@@ -1747,3 +1747,4 @@
 0046. 🎨 style: rename variables for clarity
 0273. 🚀 perf: reduce image load time
 0666. 🐛 fix: fix broken CSS in mobile view
+0514. 🐛 fix: fix broken CSS in mobile view
