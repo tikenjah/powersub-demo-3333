@@ -7345,3 +7345,4 @@
 0843. 📚 docs: document token refresh logic
 0380. 🐛 fix: fix null pointer exception on login
 0331. 🐛 fix: fix broken CSS in mobile view
+0470. 🎨 style: remove trailing whitespace
