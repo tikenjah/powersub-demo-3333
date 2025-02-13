@@ -7347,3 +7347,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0470. 🎨 style: remove trailing whitespace
 0897. 🐛 fix: prevent crash on empty input
+0044. ✅ test: add unit test for quiz service
