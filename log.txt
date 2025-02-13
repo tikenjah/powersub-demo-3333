@@ -1733,3 +1733,4 @@
 0099. 🚀 perf: reduce image load time
 0799. ♻️ chore: clean up unused files
 0945. ♻️ chore: add GitHub actions badge
+0897. 🐛 fix: prevent crash on empty input
