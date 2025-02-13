@@ -5340,3 +5340,4 @@
 0954. 🚀 perf: cache repeated calculations
 0372. ✨ feat: add user authentication
 0434. 📚 docs: document token refresh logic
+0675. 🔧 refactor: organize models into subfolders
