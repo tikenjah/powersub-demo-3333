@@ -1729,3 +1729,4 @@
 0681. ✨ feat: create admin dashboard
 0782. 📚 docs: improve code comments in utils
 0150. 🎨 style: remove trailing whitespace
+0512. 🚀 perf: reduce image load time
