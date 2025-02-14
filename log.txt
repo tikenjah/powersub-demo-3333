@@ -6330,3 +6330,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0108. 🎨 style: remove trailing whitespace
 0149. ✨ feat: add export to CSV option
+0109. 🚀 perf: lazy-load components
