@@ -6327,3 +6327,4 @@
 0160. ♻️ chore: bump dependencies
 0880. 🐛 fix: fix broken CSS in mobile view
 0392. 🎨 style: remove trailing whitespace
+0130. 🔧 refactor: split large controller into smaller functions
