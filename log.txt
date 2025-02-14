@@ -1760,3 +1760,4 @@
 0238. 🎨 style: apply consistent indentation
 0896. 🚀 perf: reduce image load time
 0085. ✨ feat: support email verification
+0653. 🐛 fix: prevent crash on empty input
