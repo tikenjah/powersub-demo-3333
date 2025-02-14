@@ -1749,3 +1749,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0514. 🐛 fix: fix broken CSS in mobile view
 0906. 📚 docs: add API usage examples
+0980. 🎨 style: reformat files with black
