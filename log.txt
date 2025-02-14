@@ -1754,3 +1754,4 @@
 0210. 🎨 style: apply consistent indentation
 0017. ✅ test: mock database connection in test suite
 0167. 🚀 perf: reduce image load time
+0234. ♻️ chore: rename env.example
