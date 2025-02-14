@@ -9380,3 +9380,4 @@
 0174. 📚 docs: clarify environment setup
 0881. 🔧 refactor: split large controller into smaller functions
 0741. 🎨 style: apply consistent indentation
+0349. ✅ test: increase coverage on auth module
