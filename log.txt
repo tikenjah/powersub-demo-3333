@@ -10347,3 +10347,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0534. 🔧 refactor: split large controller into smaller functions
 0342. 🚀 perf: cache repeated calculations
+0006. 🐛 fix: prevent crash on empty input
