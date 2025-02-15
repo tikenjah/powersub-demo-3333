@@ -5347,3 +5347,4 @@
 0165. 🎨 style: remove trailing whitespace
 0010. ✨ feat: add user authentication
 0437. 📚 docs: clarify environment setup
+0331. 🐛 fix: fix broken CSS in mobile view
