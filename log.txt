@@ -1762,3 +1762,4 @@
 0085. ✨ feat: support email verification
 0653. 🐛 fix: prevent crash on empty input
 0504. 📚 docs: document token refresh logic
+0562. 🔧 refactor: clean up auth middleware
