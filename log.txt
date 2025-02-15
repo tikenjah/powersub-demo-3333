@@ -5349,3 +5349,4 @@
 0437. 📚 docs: clarify environment setup
 0331. 🐛 fix: fix broken CSS in mobile view
 0865. ♻️ chore: add GitHub actions badge
+0747. 🔧 refactor: clean up auth middleware
