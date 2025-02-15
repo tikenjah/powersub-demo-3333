@@ -7353,3 +7353,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0951. 🎨 style: rename variables for clarity
 0914. ✅ test: test user registration edge cases
+0283. ♻️ chore: add GitHub actions badge
