@@ -5348,3 +5348,4 @@
 0010. ✨ feat: add user authentication
 0437. 📚 docs: clarify environment setup
 0331. 🐛 fix: fix broken CSS in mobile view
+0865. ♻️ chore: add GitHub actions badge
