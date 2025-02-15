@@ -1772,3 +1772,4 @@
 0731. 🎨 style: standardize quote style
 0862. ♻️ chore: bump dependencies
 0217. 🚀 perf: reduce image load time
+0788. 📚 docs: add API usage examples
