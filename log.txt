@@ -1773,3 +1773,4 @@
 0862. ♻️ chore: bump dependencies
 0217. 🚀 perf: reduce image load time
 0788. 📚 docs: add API usage examples
+0486. ✨ feat: add export to CSV option
