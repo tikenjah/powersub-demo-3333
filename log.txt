@@ -10344,3 +10344,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0339. 📚 docs: update README with setup steps
 0511. 🐛 fix: fix broken CSS in mobile view
+0415. 🐛 fix: handle 500 error in quiz API
