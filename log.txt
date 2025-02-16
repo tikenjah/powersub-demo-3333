@@ -1775,3 +1775,4 @@
 0788. 📚 docs: add API usage examples
 0486. ✨ feat: add export to CSV option
 0319. 🐛 fix: handle 500 error in quiz API
+0428. 🐛 fix: fix null pointer exception on login
