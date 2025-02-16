@@ -6333,3 +6333,4 @@
 0109. 🚀 perf: lazy-load components
 0639. 🐛 fix: correct typo in registration form
 0329. 📚 docs: update README with setup steps
+0436. ✅ test: add integration test for /submit endpoint
