@@ -9384,3 +9384,4 @@
 0382. 📚 docs: improve code comments in utils
 0685. ✅ test: test user registration edge cases
 0784. ♻️ chore: clean up unused files
+0701. 🔧 refactor: clean up auth middleware
