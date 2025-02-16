@@ -1790,3 +1790,4 @@
 0984. ♻️ chore: clean up unused files
 0934. ✨ feat: support email verification
 0709. ♻️ chore: bump dependencies
+0320. 📚 docs: update README with setup steps
