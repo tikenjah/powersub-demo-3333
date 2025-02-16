@@ -1788,3 +1788,4 @@
 0385. ♻️ chore: clean up unused files
 0203. 🚀 perf: lazy-load components
 0984. ♻️ chore: clean up unused files
+0934. ✨ feat: support email verification
