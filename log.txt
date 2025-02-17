@@ -1806,3 +1806,4 @@
 0192. ✨ feat: enable dark mode toggle
 0366. 🔧 refactor: remove redundant code blocks
 0501. ✨ feat: add export to CSV option
+0521. 🎨 style: standardize quote style
