@@ -1807,3 +1807,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0501. ✨ feat: add export to CSV option
 0521. 🎨 style: standardize quote style
+0746. ♻️ chore: add GitHub actions badge
