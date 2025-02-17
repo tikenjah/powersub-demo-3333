@@ -1799,3 +1799,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0396. 🔧 refactor: split large controller into smaller functions
 0180. ✨ feat: add export to CSV option
+0807. 🔧 refactor: remove redundant code blocks
