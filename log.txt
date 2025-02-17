@@ -1797,3 +1797,4 @@
 0166. 🚀 perf: cache repeated calculations
 0120. ✅ test: add integration test for /submit endpoint
 0285. 🐛 fix: resolve issue with date parsing
+0396. 🔧 refactor: split large controller into smaller functions
