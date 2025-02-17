@@ -5355,3 +5355,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0700. 🎨 style: rename variables for clarity
 0426. ✅ test: add integration test for /submit endpoint
+0829. 🔧 refactor: organize models into subfolders
