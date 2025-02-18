@@ -6339,3 +6339,4 @@
 0492. 🎨 style: remove trailing whitespace
 0049. 🐛 fix: handle 500 error in quiz API
 0998. 🐛 fix: fix null pointer exception on login
+0886. ♻️ chore: clean up unused files
