@@ -1813,3 +1813,4 @@
 0610. 🚀 perf: lazy-load components
 0329. 📚 docs: update README with setup steps
 0551. 📚 docs: write FAQ section
+0500. ✅ test: add integration test for /submit endpoint
