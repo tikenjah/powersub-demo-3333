@@ -1810,3 +1810,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0848. 📚 docs: update README with setup steps
 0396. 🔧 refactor: split large controller into smaller functions
+0610. 🚀 perf: lazy-load components
