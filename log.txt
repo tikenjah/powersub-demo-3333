@@ -10360,3 +10360,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0097. 🐛 fix: handle 500 error in quiz API
 0783. 🐛 fix: handle 500 error in quiz API
+0669. ✨ feat: enable dark mode toggle
