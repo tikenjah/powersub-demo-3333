@@ -1824,3 +1824,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0395. 📚 docs: write FAQ section
 0748. 🚀 perf: optimize database query for quiz results
+0775. 🐛 fix: fix null pointer exception on login
