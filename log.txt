@@ -1827,3 +1827,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0155. ✨ feat: create admin dashboard
 0302. ✨ feat: implement quiz timer feature
+0933. 📚 docs: clarify environment setup
