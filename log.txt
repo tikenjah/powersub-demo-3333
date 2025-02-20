@@ -5363,3 +5363,4 @@
 0859. ✨ feat: create admin dashboard
 0685. ✅ test: test user registration edge cases
 0811. 🎨 style: reformat files with black
+0612. ✅ test: test user registration edge cases
