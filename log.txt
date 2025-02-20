@@ -8371,3 +8371,4 @@
 0627. 📚 docs: document token refresh logic
 0803. ✅ test: mock database connection in test suite
 0033. 🎨 style: apply consistent indentation
+0789. ✨ feat: create admin dashboard
