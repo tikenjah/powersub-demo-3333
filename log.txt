@@ -1826,3 +1826,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0775. 🐛 fix: fix null pointer exception on login
 0155. ✨ feat: create admin dashboard
+0302. ✨ feat: implement quiz timer feature
