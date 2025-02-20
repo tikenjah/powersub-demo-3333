@@ -1836,3 +1836,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0295. 🎨 style: remove trailing whitespace
 0054. ♻️ chore: update .gitignore
+0413. ✅ test: add integration test for /submit endpoint
