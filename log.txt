@@ -5361,3 +5361,4 @@
 0707. 🎨 style: apply consistent indentation
 0244. ✨ feat: add export to CSV option
 0859. ✨ feat: create admin dashboard
+0685. ✅ test: test user registration edge cases
