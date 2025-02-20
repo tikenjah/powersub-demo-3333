@@ -8369,3 +8369,4 @@
 0404. 📚 docs: improve code comments in utils
 0191. 🔧 refactor: refactor quiz grading logic
 0627. 📚 docs: document token refresh logic
+0803. ✅ test: mock database connection in test suite
