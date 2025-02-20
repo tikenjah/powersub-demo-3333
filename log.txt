@@ -1837,3 +1837,4 @@
 0295. 🎨 style: remove trailing whitespace
 0054. ♻️ chore: update .gitignore
 0413. ✅ test: add integration test for /submit endpoint
+0162. ♻️ chore: add GitHub actions badge
