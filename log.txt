@@ -1839,3 +1839,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0162. ♻️ chore: add GitHub actions badge
 0742. 📚 docs: clarify environment setup
+0263. 📚 docs: add API usage examples
