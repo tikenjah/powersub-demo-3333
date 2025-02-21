@@ -1843,3 +1843,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0151. ✅ test: add unit test for quiz service
 0128. ♻️ chore: rename env.example
+0224. 🐛 fix: fix broken CSS in mobile view
