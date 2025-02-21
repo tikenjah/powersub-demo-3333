@@ -1846,3 +1846,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0230. ✨ feat: create admin dashboard
 0184. 📚 docs: improve code comments in utils
+0480. ♻️ chore: add GitHub actions badge
