@@ -1848,3 +1848,4 @@
 0184. 📚 docs: improve code comments in utils
 0480. ♻️ chore: add GitHub actions badge
 0284. ✨ feat: implement quiz timer feature
+0485. 📚 docs: update README with setup steps
