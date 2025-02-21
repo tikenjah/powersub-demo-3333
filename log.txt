@@ -10366,3 +10366,4 @@
 0691. 🎨 style: rename variables for clarity
 0508. ✅ test: add unit test for quiz service
 0368. 🚀 perf: lazy-load components
+0808. 🚀 perf: optimize database query for quiz results
