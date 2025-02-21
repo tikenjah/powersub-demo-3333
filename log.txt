@@ -1853,3 +1853,4 @@
 0686. 🎨 style: standardize quote style
 0658. 🎨 style: rename variables for clarity
 0876. ♻️ chore: rename env.example
+0877. 🚀 perf: optimize database query for quiz results
