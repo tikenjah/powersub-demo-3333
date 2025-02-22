@@ -6349,3 +6349,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0344. ♻️ chore: add GitHub actions badge
 0468. 📚 docs: update README with setup steps
+0496. ✅ test: add integration test for /submit endpoint
