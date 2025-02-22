@@ -7364,3 +7364,4 @@
 0158. 📚 docs: clarify environment setup
 0622. 🎨 style: apply consistent indentation
 0226. 🚀 perf: lazy-load components
+0887. 📚 docs: add API usage examples
