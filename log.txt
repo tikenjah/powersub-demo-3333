@@ -1858,3 +1858,4 @@
 0887. 📚 docs: add API usage examples
 0107. 🐛 fix: prevent crash on empty input
 0235. 🐛 fix: fix null pointer exception on login
+0962. ✨ feat: create admin dashboard
