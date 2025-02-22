@@ -6345,3 +6345,4 @@
 0116. ✨ feat: support email verification
 0102. ✨ feat: support email verification
 0349. ✅ test: increase coverage on auth module
+0781. 🚀 perf: reduce image load time
