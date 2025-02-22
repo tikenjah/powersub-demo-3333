@@ -1866,3 +1866,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0400. 🐛 fix: fix null pointer exception on login
 0393. 🚀 perf: lazy-load components
+0647. 🐛 fix: prevent crash on empty input
