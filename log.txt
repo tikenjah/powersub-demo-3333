@@ -8373,3 +8373,4 @@
 0033. 🎨 style: apply consistent indentation
 0789. ✨ feat: create admin dashboard
 0166. 🚀 perf: cache repeated calculations
+0205. 📚 docs: update README with setup steps
