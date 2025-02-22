@@ -6346,3 +6346,4 @@
 0102. ✨ feat: support email verification
 0349. ✅ test: increase coverage on auth module
 0781. 🚀 perf: reduce image load time
+0478. 🐛 fix: resolve issue with date parsing
