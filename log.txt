@@ -8378,3 +8378,4 @@
 0215. 🎨 style: reformat files with black
 0731. 🎨 style: standardize quote style
 0990. ♻️ chore: rename env.example
+0627. 📚 docs: document token refresh logic
