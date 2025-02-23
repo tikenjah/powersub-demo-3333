@@ -1888,3 +1888,4 @@
 0145. 📚 docs: improve code comments in utils
 0111. 📚 docs: update README with setup steps
 0112. ✨ feat: enable dark mode toggle
+0923. ✨ feat: support email verification
