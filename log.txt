@@ -1884,3 +1884,4 @@
 0146. 🎨 style: apply consistent indentation
 0230. ✨ feat: create admin dashboard
 0483. 📚 docs: update README with setup steps
+0415. 🐛 fix: handle 500 error in quiz API
