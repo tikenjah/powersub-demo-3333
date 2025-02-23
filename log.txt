@@ -1883,3 +1883,4 @@
 0553. 🐛 fix: correct typo in registration form
 0146. 🎨 style: apply consistent indentation
 0230. ✨ feat: create admin dashboard
+0483. 📚 docs: update README with setup steps
