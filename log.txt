@@ -6352,3 +6352,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0265. 🎨 style: reformat files with black
 0481. ✅ test: add unit test for quiz service
+0505. ♻️ chore: add GitHub actions badge
