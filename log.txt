@@ -8376,3 +8376,4 @@
 0205. 📚 docs: update README with setup steps
 0207. 🐛 fix: prevent crash on empty input
 0215. 🎨 style: reformat files with black
+0731. 🎨 style: standardize quote style
