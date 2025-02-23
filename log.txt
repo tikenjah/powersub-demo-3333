@@ -6350,3 +6350,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0468. 📚 docs: update README with setup steps
 0496. ✅ test: add integration test for /submit endpoint
+0265. 🎨 style: reformat files with black
