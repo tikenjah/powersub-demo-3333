@@ -8377,3 +8377,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0215. 🎨 style: reformat files with black
 0731. 🎨 style: standardize quote style
+0990. ♻️ chore: rename env.example
