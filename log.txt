@@ -5368,3 +5368,4 @@
 0295. 🎨 style: remove trailing whitespace
 0314. ✨ feat: implement quiz timer feature
 0300. ✨ feat: add export to CSV option
+0795. 📚 docs: update README with setup steps
