@@ -1890,3 +1890,4 @@
 0112. ✨ feat: enable dark mode toggle
 0923. ✨ feat: support email verification
 0938. 🎨 style: rename variables for clarity
+0440. 📚 docs: update README with setup steps
