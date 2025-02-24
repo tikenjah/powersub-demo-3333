@@ -10376,3 +10376,4 @@
 0572. ✨ feat: add user authentication
 0620. ✨ feat: implement quiz timer feature
 0331. 🐛 fix: fix broken CSS in mobile view
+0431. 🎨 style: reformat files with black
