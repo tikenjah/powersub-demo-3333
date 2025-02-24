@@ -6354,3 +6354,4 @@
 0481. ✅ test: add unit test for quiz service
 0505. ♻️ chore: add GitHub actions badge
 0744. 🔧 refactor: remove redundant code blocks
+0942. ✅ test: increase coverage on auth module
