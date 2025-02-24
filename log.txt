@@ -1898,3 +1898,4 @@
 0135. ✅ test: test user registration edge cases
 0849. 🐛 fix: correct typo in registration form
 0613. 🐛 fix: prevent crash on empty input
+0784. ♻️ chore: clean up unused files
