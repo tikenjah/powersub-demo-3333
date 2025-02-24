@@ -5367,3 +5367,4 @@
 0834. ✅ test: increase coverage on auth module
 0295. 🎨 style: remove trailing whitespace
 0314. ✨ feat: implement quiz timer feature
+0300. ✨ feat: add export to CSV option
