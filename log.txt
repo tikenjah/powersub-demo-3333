@@ -1896,3 +1896,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0101. 📚 docs: clarify environment setup
 0135. ✅ test: test user registration edge cases
+0849. 🐛 fix: correct typo in registration form
