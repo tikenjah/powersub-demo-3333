@@ -10375,3 +10375,4 @@
 0287. 📚 docs: write FAQ section
 0572. ✨ feat: add user authentication
 0620. ✨ feat: implement quiz timer feature
+0331. 🐛 fix: fix broken CSS in mobile view
