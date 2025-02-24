@@ -1901,3 +1901,4 @@
 0784. ♻️ chore: clean up unused files
 0251. ♻️ chore: update .gitignore
 0824. 🚀 perf: lazy-load components
+0785. ✨ feat: enable dark mode toggle
