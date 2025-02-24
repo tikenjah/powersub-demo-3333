@@ -8380,3 +8380,4 @@
 0990. ♻️ chore: rename env.example
 0627. 📚 docs: document token refresh logic
 0758. 🚀 perf: optimize database query for quiz results
+0280. ✅ test: add integration test for /submit endpoint
