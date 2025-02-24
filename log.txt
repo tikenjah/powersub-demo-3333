@@ -7367,3 +7367,4 @@
 0887. 📚 docs: add API usage examples
 0518. ✨ feat: support email verification
 0796. 🔧 refactor: refactor quiz grading logic
+0792. 🎨 style: standardize quote style
