@@ -6357,3 +6357,4 @@
 0942. ✅ test: increase coverage on auth module
 0609. 🐛 fix: handle 500 error in quiz API
 0402. 🎨 style: reformat files with black
+0112. ✨ feat: enable dark mode toggle
