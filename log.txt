@@ -1908,3 +1908,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0181. ♻️ chore: add GitHub actions badge
 0221. ✨ feat: add user authentication
+0838. 🎨 style: standardize quote style
