@@ -6356,3 +6356,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0942. ✅ test: increase coverage on auth module
 0609. 🐛 fix: handle 500 error in quiz API
+0402. 🎨 style: reformat files with black
