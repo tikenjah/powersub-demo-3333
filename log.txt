@@ -1910,3 +1910,4 @@
 0221. ✨ feat: add user authentication
 0838. 🎨 style: standardize quote style
 0975. 🎨 style: apply consistent indentation
+0977. 🔧 refactor: organize models into subfolders
