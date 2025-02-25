@@ -5371,3 +5371,4 @@
 0795. 📚 docs: update README with setup steps
 0896. 🚀 perf: reduce image load time
 0174. 📚 docs: clarify environment setup
+0474. ✅ test: add unit test for quiz service
