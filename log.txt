@@ -1920,3 +1920,4 @@
 0045. 🎨 style: apply consistent indentation
 0634. 🎨 style: reformat files with black
 0680. ♻️ chore: add GitHub actions badge
+0022. 📚 docs: document token refresh logic
