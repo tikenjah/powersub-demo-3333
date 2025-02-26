@@ -7371,3 +7371,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0149. ✨ feat: add export to CSV option
 0829. 🔧 refactor: organize models into subfolders
+0678. ✨ feat: add user authentication
