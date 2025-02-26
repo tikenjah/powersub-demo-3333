@@ -10383,3 +10383,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0545. 🎨 style: standardize quote style
 0255. 🔧 refactor: refactor quiz grading logic
+0168. ✅ test: add integration test for /submit endpoint
