@@ -1923,3 +1923,4 @@
 0022. 📚 docs: document token refresh logic
 0846. ✨ feat: implement quiz timer feature
 0357. ✅ test: add unit test for quiz service
+0281. ✨ feat: support email verification
