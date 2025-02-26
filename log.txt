@@ -6362,3 +6362,4 @@
 0962. ✨ feat: create admin dashboard
 0574. ✨ feat: enable dark mode toggle
 0676. 🐛 fix: prevent crash on empty input
+0329. 📚 docs: update README with setup steps
