@@ -6359,3 +6359,4 @@
 0402. 🎨 style: reformat files with black
 0112. ✨ feat: enable dark mode toggle
 0057. 🚀 perf: optimize database query for quiz results
+0962. ✨ feat: create admin dashboard
