@@ -1916,3 +1916,4 @@
 0918. ✨ feat: enable dark mode toggle
 0108. 🎨 style: remove trailing whitespace
 0209. ✨ feat: implement quiz timer feature
+0359. 🔧 refactor: clean up auth middleware
