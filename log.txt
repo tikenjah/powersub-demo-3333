@@ -5374,3 +5374,4 @@
 0474. ✅ test: add unit test for quiz service
 0392. 🎨 style: remove trailing whitespace
 0398. 🚀 perf: cache repeated calculations
+0154. 🐛 fix: prevent crash on empty input
