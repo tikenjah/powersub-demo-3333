@@ -1927,3 +1927,4 @@
 0104. 🎨 style: apply consistent indentation
 0106. 🎨 style: reformat files with black
 0038. 🎨 style: rename variables for clarity
+0511. 🐛 fix: fix broken CSS in mobile view
