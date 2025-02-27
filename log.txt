@@ -1934,3 +1934,4 @@
 0826. 📚 docs: clarify environment setup
 0850. ♻️ chore: rename env.example
 0428. 🐛 fix: fix null pointer exception on login
+0419. 🎨 style: remove trailing whitespace
