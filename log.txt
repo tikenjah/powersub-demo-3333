@@ -1935,3 +1935,4 @@
 0850. ♻️ chore: rename env.example
 0428. 🐛 fix: fix null pointer exception on login
 0419. 🎨 style: remove trailing whitespace
+0638. 📚 docs: improve code comments in utils
