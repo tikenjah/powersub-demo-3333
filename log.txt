@@ -1933,3 +1933,4 @@
 0177. 📚 docs: add API usage examples
 0826. 📚 docs: clarify environment setup
 0850. ♻️ chore: rename env.example
+0428. 🐛 fix: fix null pointer exception on login
