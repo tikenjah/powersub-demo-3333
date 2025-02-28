@@ -7374,3 +7374,4 @@
 0678. ✨ feat: add user authentication
 0974. ✨ feat: add export to CSV option
 0487. 🎨 style: reformat files with black
+0069. 🎨 style: rename variables for clarity
