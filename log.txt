@@ -1941,3 +1941,4 @@
 0401. 🚀 perf: reduce image load time
 0910. 🎨 style: remove trailing whitespace
 0441. 📚 docs: add API usage examples
+0557. 🔧 refactor: clean up auth middleware
