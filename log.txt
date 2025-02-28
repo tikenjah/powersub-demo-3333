@@ -8392,3 +8392,4 @@
 0219. ✅ test: increase coverage on auth module
 0655. 🚀 perf: cache repeated calculations
 0799. ♻️ chore: clean up unused files
+0664. ✅ test: add unit test for quiz service
