@@ -8394,3 +8394,4 @@
 0799. ♻️ chore: clean up unused files
 0664. ✅ test: add unit test for quiz service
 0235. 🐛 fix: fix null pointer exception on login
+0586. 🎨 style: remove trailing whitespace
