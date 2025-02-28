@@ -1943,3 +1943,4 @@
 0441. 📚 docs: add API usage examples
 0557. 🔧 refactor: clean up auth middleware
 0519. 📚 docs: document token refresh logic
+0502. 📚 docs: update README with setup steps
