@@ -9414,3 +9414,4 @@
 0351. ✨ feat: add export to CSV option
 0723. 🔧 refactor: remove redundant code blocks
 0242. ♻️ chore: clean up unused files
+0880. 🐛 fix: fix broken CSS in mobile view
