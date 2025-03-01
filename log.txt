@@ -1951,3 +1951,4 @@
 0152. ✨ feat: add user authentication
 0336. ✨ feat: add export to CSV option
 0170. ✅ test: increase coverage on auth module
+0523. ♻️ chore: bump dependencies
