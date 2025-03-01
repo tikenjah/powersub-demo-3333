@@ -8397,3 +8397,4 @@
 0586. 🎨 style: remove trailing whitespace
 0405. ✅ test: mock database connection in test suite
 0680. ♻️ chore: add GitHub actions badge
+0952. 🔧 refactor: split large controller into smaller functions
