@@ -7380,3 +7380,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0922. 📚 docs: write FAQ section
 0758. 🚀 perf: optimize database query for quiz results
+0051. ✨ feat: enable dark mode toggle
