@@ -8395,3 +8395,4 @@
 0664. ✅ test: add unit test for quiz service
 0235. 🐛 fix: fix null pointer exception on login
 0586. 🎨 style: remove trailing whitespace
+0405. ✅ test: mock database connection in test suite
