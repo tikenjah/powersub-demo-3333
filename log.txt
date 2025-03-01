@@ -1955,3 +1955,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0435. ✅ test: add unit test for quiz service
 0955. 🔧 refactor: remove redundant code blocks
+0423. ✅ test: mock database connection in test suite
