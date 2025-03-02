@@ -1968,3 +1968,4 @@
 0823. ✨ feat: add user authentication
 0309. 🔧 refactor: refactor quiz grading logic
 0575. ✅ test: add unit test for quiz service
+0286. ✅ test: mock database connection in test suite
