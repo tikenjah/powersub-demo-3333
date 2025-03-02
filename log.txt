@@ -10390,3 +10390,4 @@
 0592. 📚 docs: add API usage examples
 0754. 🐛 fix: handle 500 error in quiz API
 0865. ♻️ chore: add GitHub actions badge
+0105. 🐛 fix: correct typo in registration form
