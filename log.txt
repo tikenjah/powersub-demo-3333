@@ -5386,3 +5386,4 @@
 0922. 📚 docs: write FAQ section
 0594. 🎨 style: reformat files with black
 0218. 🔧 refactor: clean up auth middleware
+0441. 📚 docs: add API usage examples
