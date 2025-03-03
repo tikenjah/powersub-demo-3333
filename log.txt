@@ -6373,3 +6373,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0093. ✅ test: add unit test for quiz service
 0231. 🔧 refactor: clean up auth middleware
+0091. ✨ feat: add user authentication
