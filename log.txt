@@ -1980,3 +1980,4 @@
 0639. 🐛 fix: correct typo in registration form
 0074. ♻️ chore: add GitHub actions badge
 0727. ♻️ chore: add GitHub actions badge
+0116. ✨ feat: support email verification
