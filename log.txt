@@ -5385,3 +5385,4 @@
 0473. 📚 docs: write FAQ section
 0922. 📚 docs: write FAQ section
 0594. 🎨 style: reformat files with black
+0218. 🔧 refactor: clean up auth middleware
