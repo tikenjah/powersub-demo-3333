@@ -1989,3 +1989,4 @@
 0777. 📚 docs: document token refresh logic
 0417. 🎨 style: rename variables for clarity
 0883. 📚 docs: improve code comments in utils
+0136. 🚀 perf: lazy-load components
