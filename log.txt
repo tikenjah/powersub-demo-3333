@@ -10397,3 +10397,4 @@
 0144. ✅ test: increase coverage on auth module
 0968. 🎨 style: standardize quote style
 0405. ✅ test: mock database connection in test suite
+0094. 📚 docs: document token refresh logic
