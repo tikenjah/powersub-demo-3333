@@ -9419,3 +9419,4 @@
 0504. 📚 docs: document token refresh logic
 0142. ✨ feat: implement quiz timer feature
 0327. 🔧 refactor: split large controller into smaller functions
+0982. 🚀 perf: lazy-load components
