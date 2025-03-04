@@ -2001,3 +2001,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0400. 🐛 fix: fix null pointer exception on login
 0619. ✨ feat: create admin dashboard
+0182. 🔧 refactor: remove redundant code blocks
