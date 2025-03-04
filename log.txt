@@ -1998,3 +1998,4 @@
 0332. 🎨 style: standardize quote style
 0003. ✅ test: increase coverage on auth module
 0187. ✨ feat: support email verification
+0698. 🐛 fix: handle 500 error in quiz API
