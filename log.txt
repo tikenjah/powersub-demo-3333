@@ -1996,3 +1996,4 @@
 0685. ✅ test: test user registration edge cases
 0717. 🔧 refactor: refactor quiz grading logic
 0332. 🎨 style: standardize quote style
+0003. ✅ test: increase coverage on auth module
