@@ -7386,3 +7386,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0547. 📚 docs: write FAQ section
 0447. ♻️ chore: bump dependencies
+0653. 🐛 fix: prevent crash on empty input
