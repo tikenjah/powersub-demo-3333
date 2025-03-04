@@ -10402,3 +10402,4 @@
 0192. ✨ feat: enable dark mode toggle
 0802. 🔧 refactor: remove redundant code blocks
 0003. ✅ test: increase coverage on auth module
+0528. ♻️ chore: clean up unused files
