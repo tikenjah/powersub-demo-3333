@@ -1997,3 +1997,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0332. 🎨 style: standardize quote style
 0003. ✅ test: increase coverage on auth module
+0187. ✨ feat: support email verification
