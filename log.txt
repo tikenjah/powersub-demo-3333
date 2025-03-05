@@ -2006,3 +2006,4 @@
 0715. ✨ feat: create admin dashboard
 0814. 🔧 refactor: remove redundant code blocks
 0200. 🐛 fix: handle 500 error in quiz API
+0206. 🐛 fix: handle 500 error in quiz API
