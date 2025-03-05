@@ -2008,3 +2008,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0206. 🐛 fix: handle 500 error in quiz API
 0793. 📚 docs: clarify environment setup
+0785. ✨ feat: enable dark mode toggle
