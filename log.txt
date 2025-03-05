@@ -2010,3 +2010,4 @@
 0793. 📚 docs: clarify environment setup
 0785. ✨ feat: enable dark mode toggle
 0131. 📚 docs: write FAQ section
+0926. 🔧 refactor: organize models into subfolders
