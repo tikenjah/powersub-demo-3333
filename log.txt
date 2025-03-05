@@ -2014,3 +2014,4 @@
 0950. 🎨 style: reformat files with black
 0997. ✅ test: increase coverage on auth module
 0404. 📚 docs: improve code comments in utils
+0387. ✨ feat: enable dark mode toggle
