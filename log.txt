@@ -10404,3 +10404,4 @@
 0003. ✅ test: increase coverage on auth module
 0528. ♻️ chore: clean up unused files
 0159. 🚀 perf: lazy-load components
+0365. 🚀 perf: reduce image load time
