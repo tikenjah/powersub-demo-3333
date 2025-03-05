@@ -2013,3 +2013,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0950. 🎨 style: reformat files with black
 0997. ✅ test: increase coverage on auth module
+0404. 📚 docs: improve code comments in utils
