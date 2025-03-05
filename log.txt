@@ -2003,3 +2003,4 @@
 0619. ✨ feat: create admin dashboard
 0182. 🔧 refactor: remove redundant code blocks
 0349. ✅ test: increase coverage on auth module
+0715. ✨ feat: create admin dashboard
