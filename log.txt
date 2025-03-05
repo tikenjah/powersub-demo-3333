@@ -6379,3 +6379,4 @@
 0616. 🚀 perf: lazy-load components
 0384. 📚 docs: clarify environment setup
 0298. ♻️ chore: update .gitignore
+0221. ✨ feat: add user authentication
