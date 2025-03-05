@@ -6378,3 +6378,4 @@
 0256. ✅ test: mock database connection in test suite
 0616. 🚀 perf: lazy-load components
 0384. 📚 docs: clarify environment setup
+0298. ♻️ chore: update .gitignore
