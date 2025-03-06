@@ -2026,3 +2026,4 @@
 0150. 🎨 style: remove trailing whitespace
 0802. 🔧 refactor: remove redundant code blocks
 0127. 🐛 fix: fix null pointer exception on login
+0563. 📚 docs: clarify environment setup
