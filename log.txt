@@ -6382,3 +6382,4 @@
 0221. ✨ feat: add user authentication
 0969. ✨ feat: create admin dashboard
 0214. 📚 docs: improve code comments in utils
+0122. ✨ feat: support email verification
