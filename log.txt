@@ -7395,3 +7395,4 @@
 0605. ✨ feat: support email verification
 0317. ✅ test: test user registration edge cases
 0892. ✅ test: add unit test for quiz service
+0457. 🐛 fix: handle 500 error in quiz API
