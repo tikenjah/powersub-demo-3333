@@ -7392,3 +7392,4 @@
 0655. 🚀 perf: cache repeated calculations
 0342. 🚀 perf: cache repeated calculations
 0169. 📚 docs: add API usage examples
+0605. ✨ feat: support email verification
