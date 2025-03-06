@@ -2017,3 +2017,4 @@
 0387. ✨ feat: enable dark mode toggle
 0383. 🐛 fix: fix broken CSS in mobile view
 0342. 🚀 perf: cache repeated calculations
+0021. ✨ feat: support email verification
