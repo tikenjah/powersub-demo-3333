@@ -2018,3 +2018,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0342. 🚀 perf: cache repeated calculations
 0021. ✨ feat: support email verification
+0111. 📚 docs: update README with setup steps
