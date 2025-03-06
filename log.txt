@@ -2029,3 +2029,4 @@
 0563. 📚 docs: clarify environment setup
 0221. ✨ feat: add user authentication
 0191. 🔧 refactor: refactor quiz grading logic
+0043. ✅ test: add integration test for /submit endpoint
