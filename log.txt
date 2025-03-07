@@ -8407,3 +8407,4 @@
 0452. ✨ feat: implement quiz timer feature
 0097. 🐛 fix: handle 500 error in quiz API
 0279. ✨ feat: support email verification
+0879. 🎨 style: standardize quote style
