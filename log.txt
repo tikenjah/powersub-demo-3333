@@ -2044,3 +2044,4 @@
 0709. ♻️ chore: bump dependencies
 0650. ✅ test: add unit test for quiz service
 0711. 🐛 fix: fix broken CSS in mobile view
+0897. 🐛 fix: prevent crash on empty input
