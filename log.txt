@@ -10414,3 +10414,4 @@
 0492. 🎨 style: remove trailing whitespace
 0007. 🎨 style: rename variables for clarity
 0555. ✨ feat: create admin dashboard
+0977. 🔧 refactor: organize models into subfolders
