@@ -5398,3 +5398,4 @@
 0847. ♻️ chore: clean up unused files
 0593. 🐛 fix: correct typo in registration form
 0209. ✨ feat: implement quiz timer feature
+0556. ✨ feat: support email verification
