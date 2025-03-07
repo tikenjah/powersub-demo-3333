@@ -6385,3 +6385,4 @@
 0122. ✨ feat: support email verification
 0487. 🎨 style: reformat files with black
 0192. ✨ feat: enable dark mode toggle
+0854. ♻️ chore: rename env.example
