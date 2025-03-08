@@ -10417,3 +10417,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0107. 🐛 fix: prevent crash on empty input
 0574. ✨ feat: enable dark mode toggle
+0793. 📚 docs: clarify environment setup
