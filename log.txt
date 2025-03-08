@@ -8409,3 +8409,4 @@
 0279. ✨ feat: support email verification
 0879. 🎨 style: standardize quote style
 0045. 🎨 style: apply consistent indentation
+0336. ✨ feat: add export to CSV option
