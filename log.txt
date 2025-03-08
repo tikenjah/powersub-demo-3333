@@ -2057,3 +2057,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0780. 📚 docs: add API usage examples
 0339. 📚 docs: update README with setup steps
+0279. ✨ feat: support email verification
