@@ -6396,3 +6396,4 @@
 0576. ♻️ chore: update .gitignore
 0365. 🚀 perf: reduce image load time
 0169. 📚 docs: add API usage examples
+0783. 🐛 fix: handle 500 error in quiz API
