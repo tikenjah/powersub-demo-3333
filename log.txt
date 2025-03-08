@@ -2060,3 +2060,4 @@
 0279. ✨ feat: support email verification
 0137. 🎨 style: rename variables for clarity
 0238. 🎨 style: apply consistent indentation
+0181. ♻️ chore: add GitHub actions badge
