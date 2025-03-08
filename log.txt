@@ -7398,3 +7398,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0230. ✨ feat: create admin dashboard
 0684. 🚀 perf: reduce image load time
+0821. ✅ test: add integration test for /submit endpoint
