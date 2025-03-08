@@ -2055,3 +2055,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0869. ♻️ chore: bump dependencies
 0478. 🐛 fix: resolve issue with date parsing
+0780. 📚 docs: add API usage examples
