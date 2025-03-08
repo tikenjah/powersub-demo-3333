@@ -2053,3 +2053,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0586. 🎨 style: remove trailing whitespace
 0647. 🐛 fix: prevent crash on empty input
+0869. ♻️ chore: bump dependencies
