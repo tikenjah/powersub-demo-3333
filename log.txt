@@ -2077,3 +2077,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0689. 🎨 style: reformat files with black
 0380. 🐛 fix: fix null pointer exception on login
+0792. 🎨 style: standardize quote style
