@@ -8411,3 +8411,4 @@
 0045. 🎨 style: apply consistent indentation
 0336. ✨ feat: add export to CSV option
 0443. 🎨 style: standardize quote style
+0746. ♻️ chore: add GitHub actions badge
