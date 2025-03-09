@@ -5403,3 +5403,4 @@
 0360. ✨ feat: add export to CSV option
 0673. 🐛 fix: correct typo in registration form
 0084. 🐛 fix: handle 500 error in quiz API
+0038. 🎨 style: rename variables for clarity
