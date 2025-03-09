@@ -2079,3 +2079,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0792. 🎨 style: standardize quote style
 0226. 🚀 perf: lazy-load components
+0738. 🐛 fix: prevent crash on empty input
