@@ -6399,3 +6399,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0733. 🐛 fix: fix null pointer exception on login
 0139. 📚 docs: document token refresh logic
+0154. 🐛 fix: prevent crash on empty input
