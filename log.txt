@@ -2076,3 +2076,4 @@
 0086. 🐛 fix: correct typo in registration form
 0030. 🐛 fix: fix null pointer exception on login
 0689. 🎨 style: reformat files with black
+0380. 🐛 fix: fix null pointer exception on login
