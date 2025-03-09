@@ -2081,3 +2081,4 @@
 0226. 🚀 perf: lazy-load components
 0738. 🐛 fix: prevent crash on empty input
 0528. ♻️ chore: clean up unused files
+0072. 🚀 perf: optimize database query for quiz results
