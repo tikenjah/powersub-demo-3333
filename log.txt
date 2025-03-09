@@ -2070,3 +2070,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0580. ♻️ chore: bump dependencies
 0016. 🎨 style: apply consistent indentation
+0661. ✅ test: add integration test for /submit endpoint
