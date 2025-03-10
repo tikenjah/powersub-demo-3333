@@ -2089,3 +2089,4 @@
 0303. 🎨 style: rename variables for clarity
 0819. 🚀 perf: reduce image load time
 0509. ♻️ chore: bump dependencies
+0756. ✨ feat: support email verification
