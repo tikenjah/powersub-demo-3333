@@ -2085,3 +2085,4 @@
 0679. ♻️ chore: bump dependencies
 0820. 📚 docs: add API usage examples
 0182. 🔧 refactor: remove redundant code blocks
+0292. 📚 docs: clarify environment setup
