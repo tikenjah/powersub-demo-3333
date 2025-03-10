@@ -5405,3 +5405,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0038. 🎨 style: rename variables for clarity
 0613. 🐛 fix: prevent crash on empty input
+0772. 🐛 fix: fix null pointer exception on login
