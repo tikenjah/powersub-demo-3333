@@ -8418,3 +8418,4 @@
 0924. ✅ test: mock database connection in test suite
 0992. ♻️ chore: clean up unused files
 0812. 🔧 refactor: refactor quiz grading logic
+0686. 🎨 style: standardize quote style
