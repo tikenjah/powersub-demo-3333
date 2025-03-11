@@ -2108,3 +2108,4 @@
 0964. ♻️ chore: clean up unused files
 0953. 🎨 style: remove trailing whitespace
 0330. ✅ test: test user registration edge cases
+0010. ✨ feat: add user authentication
