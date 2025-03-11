@@ -10424,3 +10424,4 @@
 0582. ✨ feat: add export to CSV option
 0215. 🎨 style: reformat files with black
 0447. ♻️ chore: bump dependencies
+0724. ✅ test: mock database connection in test suite
