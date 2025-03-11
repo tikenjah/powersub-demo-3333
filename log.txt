@@ -6402,3 +6402,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0774. 🔧 refactor: refactor quiz grading logic
 0258. 🐛 fix: prevent crash on empty input
+0457. 🐛 fix: handle 500 error in quiz API
