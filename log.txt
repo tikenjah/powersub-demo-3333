@@ -2099,3 +2099,4 @@
 0576. ♻️ chore: update .gitignore
 0510. 🎨 style: rename variables for clarity
 0628. ♻️ chore: add GitHub actions badge
+0636. ✅ test: increase coverage on auth module
