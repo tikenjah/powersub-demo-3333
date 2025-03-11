@@ -2106,3 +2106,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0365. 🚀 perf: reduce image load time
 0964. ♻️ chore: clean up unused files
+0953. 🎨 style: remove trailing whitespace
