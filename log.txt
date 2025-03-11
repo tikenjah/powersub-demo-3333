@@ -7405,3 +7405,4 @@
 0563. 📚 docs: clarify environment setup
 0017. ✅ test: mock database connection in test suite
 0633. ✨ feat: add user authentication
+0353. ♻️ chore: rename env.example
