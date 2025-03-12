@@ -7409,3 +7409,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0108. 🎨 style: remove trailing whitespace
 0537. 🔧 refactor: remove redundant code blocks
+0088. 📚 docs: add API usage examples
