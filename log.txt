@@ -9436,3 +9436,4 @@
 0031. 📚 docs: document token refresh logic
 0045. 🎨 style: apply consistent indentation
 0555. ✨ feat: create admin dashboard
+0630. 🚀 perf: lazy-load components
