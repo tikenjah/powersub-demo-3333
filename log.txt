@@ -2112,3 +2112,4 @@
 0992. ♻️ chore: clean up unused files
 0106. 🎨 style: reformat files with black
 0806. 📚 docs: improve code comments in utils
+0937. 🐛 fix: handle 500 error in quiz API
