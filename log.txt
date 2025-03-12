@@ -8421,3 +8421,4 @@
 0686. 🎨 style: standardize quote style
 0744. 🔧 refactor: remove redundant code blocks
 0176. 🔧 refactor: remove redundant code blocks
+0647. 🐛 fix: prevent crash on empty input
