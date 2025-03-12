@@ -10427,3 +10427,4 @@
 0724. ✅ test: mock database connection in test suite
 0099. 🚀 perf: reduce image load time
 0948. 🐛 fix: fix broken CSS in mobile view
+0547. 📚 docs: write FAQ section
