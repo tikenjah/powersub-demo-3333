@@ -10428,3 +10428,4 @@
 0099. 🚀 perf: reduce image load time
 0948. 🐛 fix: fix broken CSS in mobile view
 0547. 📚 docs: write FAQ section
+0334. 🚀 perf: cache repeated calculations
