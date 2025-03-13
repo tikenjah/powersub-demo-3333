@@ -2119,3 +2119,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0580. ♻️ chore: bump dependencies
 0047. 🎨 style: rename variables for clarity
+0618. ✨ feat: support email verification
