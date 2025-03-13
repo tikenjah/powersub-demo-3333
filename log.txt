@@ -2121,3 +2121,4 @@
 0047. 🎨 style: rename variables for clarity
 0618. ✨ feat: support email verification
 0021. ✨ feat: support email verification
+0942. ✅ test: increase coverage on auth module
