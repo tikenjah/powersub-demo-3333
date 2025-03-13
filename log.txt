@@ -6409,3 +6409,4 @@
 0168. ✅ test: add integration test for /submit endpoint
 0127. 🐛 fix: fix null pointer exception on login
 0158. 📚 docs: clarify environment setup
+0650. ✅ test: add unit test for quiz service
