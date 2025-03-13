@@ -9438,3 +9438,4 @@
 0555. ✨ feat: create admin dashboard
 0630. 🚀 perf: lazy-load components
 0391. 🐛 fix: fix null pointer exception on login
+0594. 🎨 style: reformat files with black
