@@ -5413,3 +5413,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0278. 🔧 refactor: clean up auth middleware
 0706. ✨ feat: support email verification
+0350. 🚀 perf: cache repeated calculations
