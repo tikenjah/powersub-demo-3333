@@ -6416,3 +6416,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0223. 🔧 refactor: remove redundant code blocks
 0860. 🔧 refactor: organize models into subfolders
+0379. ✨ feat: support email verification
