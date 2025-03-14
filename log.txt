@@ -5416,3 +5416,4 @@
 0350. 🚀 perf: cache repeated calculations
 0665. ♻️ chore: update .gitignore
 0229. 🚀 perf: optimize database query for quiz results
+0581. ✅ test: add integration test for /submit endpoint
