@@ -6413,3 +6413,4 @@
 0924. ✅ test: mock database connection in test suite
 0268. 🐛 fix: prevent crash on empty input
 0933. 📚 docs: clarify environment setup
+0154. 🐛 fix: prevent crash on empty input
