@@ -6415,3 +6415,4 @@
 0933. 📚 docs: clarify environment setup
 0154. 🐛 fix: prevent crash on empty input
 0223. 🔧 refactor: remove redundant code blocks
+0860. 🔧 refactor: organize models into subfolders
