@@ -2145,3 +2145,4 @@
 0363. 📚 docs: clarify environment setup
 0589. 🐛 fix: fix broken CSS in mobile view
 0587. 🔧 refactor: remove redundant code blocks
+0221. ✨ feat: add user authentication
