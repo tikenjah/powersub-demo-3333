@@ -10432,3 +10432,4 @@
 0944. ✨ feat: add user authentication
 0262. 🎨 style: remove trailing whitespace
 0624. ✅ test: add unit test for quiz service
+0476. 🚀 perf: reduce image load time
