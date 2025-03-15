@@ -5418,3 +5418,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0581. ✅ test: add integration test for /submit endpoint
 0001. 🚀 perf: cache repeated calculations
+0761. ✅ test: add unit test for quiz service
