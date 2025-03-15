@@ -2135,3 +2135,4 @@
 0664. ✅ test: add unit test for quiz service
 0092. 🚀 perf: reduce image load time
 0287. 📚 docs: write FAQ section
+0842. 🎨 style: remove trailing whitespace
