@@ -10433,3 +10433,4 @@
 0262. 🎨 style: remove trailing whitespace
 0624. ✅ test: add unit test for quiz service
 0476. 🚀 perf: reduce image load time
+0777. 📚 docs: document token refresh logic
