@@ -2138,3 +2138,4 @@
 0842. 🎨 style: remove trailing whitespace
 0060. ♻️ chore: clean up unused files
 0290. ✅ test: test user registration edge cases
+0467. ✅ test: add integration test for /submit endpoint
