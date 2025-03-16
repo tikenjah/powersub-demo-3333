@@ -2161,3 +2161,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0696. 🔧 refactor: clean up auth middleware
 0885. ♻️ chore: update .gitignore
+0404. 📚 docs: improve code comments in utils
