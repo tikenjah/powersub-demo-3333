@@ -2153,3 +2153,4 @@
 0275. 🎨 style: standardize quote style
 0854. ♻️ chore: rename env.example
 0214. 📚 docs: improve code comments in utils
+0030. 🐛 fix: fix null pointer exception on login
