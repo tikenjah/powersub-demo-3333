@@ -2159,3 +2159,4 @@
 0790. 📚 docs: write FAQ section
 0873. 🚀 perf: cache repeated calculations
 0171. 🐛 fix: fix broken CSS in mobile view
+0696. 🔧 refactor: clean up auth middleware
