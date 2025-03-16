@@ -2151,3 +2151,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0036. 🔧 refactor: clean up auth middleware
 0275. 🎨 style: standardize quote style
+0854. ♻️ chore: rename env.example
