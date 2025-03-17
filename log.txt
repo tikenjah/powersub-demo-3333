@@ -5425,3 +5425,4 @@
 0583. ✅ test: increase coverage on auth module
 0603. 🐛 fix: fix broken CSS in mobile view
 0410. 🎨 style: reformat files with black
+0460. 📚 docs: write FAQ section
