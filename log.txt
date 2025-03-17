@@ -9446,3 +9446,4 @@
 0656. 🎨 style: apply consistent indentation
 0540. ♻️ chore: add GitHub actions badge
 0311. 🎨 style: apply consistent indentation
+0583. ✅ test: increase coverage on auth module
