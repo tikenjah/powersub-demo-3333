@@ -2168,3 +2168,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0359. 🔧 refactor: clean up auth middleware
 0621. 🔧 refactor: clean up auth middleware
+0268. 🐛 fix: prevent crash on empty input
