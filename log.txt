@@ -2173,3 +2173,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0348. ✅ test: test user registration edge cases
 0408. ♻️ chore: add GitHub actions badge
+0549. ✨ feat: enable dark mode toggle
