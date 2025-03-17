@@ -5423,3 +5423,4 @@
 0050. ✨ feat: enable dark mode toggle
 0664. ✅ test: add unit test for quiz service
 0583. ✅ test: increase coverage on auth module
+0603. 🐛 fix: fix broken CSS in mobile view
