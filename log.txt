@@ -5427,3 +5427,4 @@
 0410. 🎨 style: reformat files with black
 0460. 📚 docs: write FAQ section
 0014. 🔧 refactor: remove redundant code blocks
+0733. 🐛 fix: fix null pointer exception on login
