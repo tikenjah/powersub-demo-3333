@@ -2178,3 +2178,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0579. 📚 docs: clarify environment setup
 0553. 🐛 fix: correct typo in registration form
+0544. 🔧 refactor: organize models into subfolders
