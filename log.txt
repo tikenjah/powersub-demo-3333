@@ -7425,3 +7425,4 @@
 0385. ♻️ chore: clean up unused files
 0754. 🐛 fix: handle 500 error in quiz API
 0341. 🚀 perf: lazy-load components
+0634. 🎨 style: reformat files with black
