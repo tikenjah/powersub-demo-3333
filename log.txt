@@ -6426,3 +6426,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0971. 🎨 style: standardize quote style
 0748. 🚀 perf: optimize database query for quiz results
+0437. 📚 docs: clarify environment setup
