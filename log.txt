@@ -7424,3 +7424,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0385. ♻️ chore: clean up unused files
 0754. 🐛 fix: handle 500 error in quiz API
+0341. 🚀 perf: lazy-load components
