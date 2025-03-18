@@ -7423,3 +7423,4 @@
 0481. ✅ test: add unit test for quiz service
 0867. 🔧 refactor: refactor quiz grading logic
 0385. ♻️ chore: clean up unused files
+0754. 🐛 fix: handle 500 error in quiz API
