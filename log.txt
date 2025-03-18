@@ -2177,3 +2177,4 @@
 0617. ✨ feat: support email verification
 0538. 🐛 fix: fix broken CSS in mobile view
 0579. 📚 docs: clarify environment setup
+0553. 🐛 fix: correct typo in registration form
