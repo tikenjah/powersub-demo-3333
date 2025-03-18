@@ -2182,3 +2182,4 @@
 0953. 🎨 style: remove trailing whitespace
 0001. 🚀 perf: cache repeated calculations
 0052. 🎨 style: standardize quote style
+0777. 📚 docs: document token refresh logic
