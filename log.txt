@@ -2183,3 +2183,4 @@
 0001. 🚀 perf: cache repeated calculations
 0052. 🎨 style: standardize quote style
 0777. 📚 docs: document token refresh logic
+0024. 📚 docs: write FAQ section
