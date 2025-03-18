@@ -2176,3 +2176,4 @@
 0549. ✨ feat: enable dark mode toggle
 0617. ✨ feat: support email verification
 0538. 🐛 fix: fix broken CSS in mobile view
+0579. 📚 docs: clarify environment setup
