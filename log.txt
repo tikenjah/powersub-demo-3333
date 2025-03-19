@@ -2204,3 +2204,4 @@
 0947. 📚 docs: write FAQ section
 0272. 🔧 refactor: remove redundant code blocks
 0595. ✨ feat: enable dark mode toggle
+0254. 🚀 perf: reduce image load time
