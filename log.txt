@@ -2191,3 +2191,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0493. ✨ feat: add user authentication
 0299. 🐛 fix: resolve issue with date parsing
+0141. 📚 docs: document token refresh logic
