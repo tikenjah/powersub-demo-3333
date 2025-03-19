@@ -2199,3 +2199,4 @@
 0847. ♻️ chore: clean up unused files
 0724. ✅ test: mock database connection in test suite
 0464. 🎨 style: remove trailing whitespace
+0589. 🐛 fix: fix broken CSS in mobile view
