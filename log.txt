@@ -2193,3 +2193,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0141. 📚 docs: document token refresh logic
 0194. 🎨 style: standardize quote style
+0590. 🐛 fix: fix null pointer exception on login
