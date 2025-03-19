@@ -2197,3 +2197,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0518. ✨ feat: support email verification
 0847. ♻️ chore: clean up unused files
+0724. ✅ test: mock database connection in test suite
