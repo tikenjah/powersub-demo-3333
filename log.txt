@@ -2198,3 +2198,4 @@
 0518. ✨ feat: support email verification
 0847. ♻️ chore: clean up unused files
 0724. ✅ test: mock database connection in test suite
+0464. 🎨 style: remove trailing whitespace
