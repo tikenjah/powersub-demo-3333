@@ -8442,3 +8442,4 @@
 0886. ♻️ chore: clean up unused files
 0568. 🐛 fix: handle 500 error in quiz API
 0597. 🚀 perf: cache repeated calculations
+0264. 🚀 perf: optimize database query for quiz results
