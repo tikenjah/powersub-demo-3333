@@ -2219,3 +2219,4 @@
 0861. ♻️ chore: clean up unused files
 0731. 🎨 style: standardize quote style
 0345. 📚 docs: document token refresh logic
+0612. ✅ test: test user registration edge cases
