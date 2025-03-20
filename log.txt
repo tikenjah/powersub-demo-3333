@@ -6433,3 +6433,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0939. 📚 docs: update README with setup steps
 0487. 🎨 style: reformat files with black
+0573. ✅ test: add integration test for /submit endpoint
