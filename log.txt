@@ -2221,3 +2221,4 @@
 0345. 📚 docs: document token refresh logic
 0612. ✅ test: test user registration edge cases
 0944. ✨ feat: add user authentication
+0395. 📚 docs: write FAQ section
