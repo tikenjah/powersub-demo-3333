@@ -9457,3 +9457,4 @@
 0655. 🚀 perf: cache repeated calculations
 0603. 🐛 fix: fix broken CSS in mobile view
 0397. 🐛 fix: handle 500 error in quiz API
+0198. 📚 docs: clarify environment setup
