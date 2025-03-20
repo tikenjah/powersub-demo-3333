@@ -10449,3 +10449,4 @@
 0555. ✨ feat: create admin dashboard
 0858. ♻️ chore: clean up unused files
 0083. 🎨 style: reformat files with black
+0178. ✨ feat: support email verification
