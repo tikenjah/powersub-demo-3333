@@ -8440,3 +8440,4 @@
 0348. ✅ test: test user registration edge cases
 0769. ✨ feat: create admin dashboard
 0886. ♻️ chore: clean up unused files
+0568. 🐛 fix: handle 500 error in quiz API
