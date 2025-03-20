@@ -5432,3 +5432,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0576. ♻️ chore: update .gitignore
 0885. ♻️ chore: update .gitignore
+0439. 🐛 fix: correct typo in registration form
