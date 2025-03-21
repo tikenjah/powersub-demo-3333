@@ -2228,3 +2228,4 @@
 0982. 🚀 perf: lazy-load components
 0783. 🐛 fix: handle 500 error in quiz API
 0834. ✅ test: increase coverage on auth module
+0033. 🎨 style: apply consistent indentation
