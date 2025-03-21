@@ -2222,3 +2222,4 @@
 0612. ✅ test: test user registration edge cases
 0944. ✨ feat: add user authentication
 0395. 📚 docs: write FAQ section
+0403. ✅ test: mock database connection in test suite
