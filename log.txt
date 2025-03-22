@@ -2234,3 +2234,4 @@
 0029. 🚀 perf: lazy-load components
 0407. 🚀 perf: cache repeated calculations
 0195. 📚 docs: clarify environment setup
+0177. 📚 docs: add API usage examples
