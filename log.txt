@@ -7435,3 +7435,4 @@
 0155. ✨ feat: create admin dashboard
 0366. 🔧 refactor: remove redundant code blocks
 0909. 🔧 refactor: organize models into subfolders
+0916. ♻️ chore: bump dependencies
