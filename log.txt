@@ -2237,3 +2237,4 @@
 0177. 📚 docs: add API usage examples
 0390. 🎨 style: standardize quote style
 0260. ✨ feat: create admin dashboard
+0167. 🚀 perf: reduce image load time
