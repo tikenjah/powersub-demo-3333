@@ -7437,3 +7437,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0916. ♻️ chore: bump dependencies
 0186. ✅ test: test user registration edge cases
+0042. 📚 docs: document token refresh logic
