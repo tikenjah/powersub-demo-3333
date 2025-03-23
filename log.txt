@@ -5439,3 +5439,4 @@
 0149. ✨ feat: add export to CSV option
 0611. ✅ test: test user registration edge cases
 0920. 🔧 refactor: organize models into subfolders
+0862. ♻️ chore: bump dependencies
