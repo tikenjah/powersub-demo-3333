@@ -7440,3 +7440,4 @@
 0042. 📚 docs: document token refresh logic
 0198. 📚 docs: clarify environment setup
 0366. 🔧 refactor: remove redundant code blocks
+0434. 📚 docs: document token refresh logic
