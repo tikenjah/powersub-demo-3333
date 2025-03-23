@@ -9465,3 +9465,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0601. ✨ feat: implement quiz timer feature
 0582. ✨ feat: add export to CSV option
+0221. ✨ feat: add user authentication
