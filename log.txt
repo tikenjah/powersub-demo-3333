@@ -9464,3 +9464,4 @@
 0961. 📚 docs: add API usage examples
 0289. 🐛 fix: resolve issue with date parsing
 0601. ✨ feat: implement quiz timer feature
+0582. ✨ feat: add export to CSV option
