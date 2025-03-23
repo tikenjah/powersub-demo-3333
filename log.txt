@@ -2253,3 +2253,4 @@
 0101. 📚 docs: clarify environment setup
 0086. 🐛 fix: correct typo in registration form
 0327. 🔧 refactor: split large controller into smaller functions
+0479. 🐛 fix: fix null pointer exception on login
