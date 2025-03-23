@@ -5437,3 +5437,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0315. ✅ test: add integration test for /submit endpoint
 0149. ✨ feat: add export to CSV option
+0611. ✅ test: test user registration edge cases
