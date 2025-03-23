@@ -8452,3 +8452,4 @@
 0254. 🚀 perf: reduce image load time
 0608. 🔧 refactor: remove redundant code blocks
 0096. 🐛 fix: prevent crash on empty input
+0077. ♻️ chore: rename env.example
