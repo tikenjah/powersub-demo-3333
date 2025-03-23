@@ -5440,3 +5440,4 @@
 0611. ✅ test: test user registration edge cases
 0920. 🔧 refactor: organize models into subfolders
 0862. ♻️ chore: bump dependencies
+0865. ♻️ chore: add GitHub actions badge
