@@ -2259,3 +2259,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0661. ✅ test: add integration test for /submit endpoint
 0625. 🐛 fix: handle 500 error in quiz API
+0331. 🐛 fix: fix broken CSS in mobile view
