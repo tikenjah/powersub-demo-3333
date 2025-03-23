@@ -8453,3 +8453,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0096. 🐛 fix: prevent crash on empty input
 0077. ♻️ chore: rename env.example
+0106. 🎨 style: reformat files with black
