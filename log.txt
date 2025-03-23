@@ -2251,3 +2251,4 @@
 0516. ✅ test: add unit test for quiz service
 0165. 🎨 style: remove trailing whitespace
 0101. 📚 docs: clarify environment setup
+0086. 🐛 fix: correct typo in registration form
