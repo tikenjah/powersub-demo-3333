@@ -2279,3 +2279,4 @@
 0333. 🚀 perf: cache repeated calculations
 0988. 🐛 fix: fix broken CSS in mobile view
 0232. 🎨 style: apply consistent indentation
+0028. 🎨 style: standardize quote style
