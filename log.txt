@@ -2268,3 +2268,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0299. 🐛 fix: resolve issue with date parsing
 0616. 🚀 perf: lazy-load components
+0963. 🚀 perf: reduce image load time
