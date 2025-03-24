@@ -2286,3 +2286,4 @@
 0192. ✨ feat: enable dark mode toggle
 0051. ✨ feat: enable dark mode toggle
 0777. 📚 docs: document token refresh logic
+0823. ✨ feat: add user authentication
