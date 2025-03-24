@@ -2269,3 +2269,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0616. 🚀 perf: lazy-load components
 0963. 🚀 perf: reduce image load time
+0770. ♻️ chore: rename env.example
