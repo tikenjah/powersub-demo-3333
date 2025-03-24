@@ -2281,3 +2281,4 @@
 0232. 🎨 style: apply consistent indentation
 0028. 🎨 style: standardize quote style
 0801. ✨ feat: enable dark mode toggle
+0532. 🔧 refactor: split large controller into smaller functions
