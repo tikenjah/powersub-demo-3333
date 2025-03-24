@@ -6444,3 +6444,4 @@
 0037. 🐛 fix: correct typo in registration form
 0828. ♻️ chore: add GitHub actions badge
 0476. 🚀 perf: reduce image load time
+0591. ♻️ chore: clean up unused files
