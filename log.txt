@@ -5447,3 +5447,4 @@
 0709. ♻️ chore: bump dependencies
 0662. ♻️ chore: clean up unused files
 0636. ✅ test: increase coverage on auth module
+0912. 📚 docs: document token refresh logic
