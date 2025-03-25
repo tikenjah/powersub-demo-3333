@@ -2295,3 +2295,4 @@
 0745. ✅ test: add unit test for quiz service
 0644. 🎨 style: apply consistent indentation
 0445. 📚 docs: improve code comments in utils
+0835. 🐛 fix: prevent crash on empty input
