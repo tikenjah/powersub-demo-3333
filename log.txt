@@ -7444,3 +7444,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0369. 🎨 style: standardize quote style
 0876. ♻️ chore: rename env.example
+0719. 🎨 style: apply consistent indentation
