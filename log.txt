@@ -2290,3 +2290,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0554. 📚 docs: improve code comments in utils
 0500. ✅ test: add integration test for /submit endpoint
+0018. 🔧 refactor: organize models into subfolders
