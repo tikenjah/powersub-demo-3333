@@ -10462,3 +10462,4 @@
 0553. 🐛 fix: correct typo in registration form
 0198. 📚 docs: clarify environment setup
 0261. 🔧 refactor: refactor quiz grading logic
+0227. ✅ test: test user registration edge cases
