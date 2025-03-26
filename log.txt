@@ -5453,3 +5453,4 @@
 0078. ♻️ chore: update .gitignore
 0135. ✅ test: test user registration edge cases
 0111. 📚 docs: update README with setup steps
+0936. 🔧 refactor: organize models into subfolders
