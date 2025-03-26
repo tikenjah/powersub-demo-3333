@@ -9471,3 +9471,4 @@
 0656. 🎨 style: apply consistent indentation
 0606. 📚 docs: improve code comments in utils
 0524. ♻️ chore: rename env.example
+0848. 📚 docs: update README with setup steps
