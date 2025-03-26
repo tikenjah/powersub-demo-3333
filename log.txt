@@ -7448,3 +7448,4 @@
 0875. ✅ test: increase coverage on auth module
 0238. 🎨 style: apply consistent indentation
 0033. 🎨 style: apply consistent indentation
+0603. 🐛 fix: fix broken CSS in mobile view
