@@ -2306,3 +2306,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0883. 📚 docs: improve code comments in utils
 0559. 🔧 refactor: split large controller into smaller functions
+0568. 🐛 fix: handle 500 error in quiz API
