@@ -5451,3 +5451,4 @@
 0987. ✨ feat: create admin dashboard
 0939. 📚 docs: update README with setup steps
 0078. ♻️ chore: update .gitignore
+0135. ✅ test: test user registration edge cases
