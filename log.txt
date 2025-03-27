@@ -2323,3 +2323,4 @@
 0124. 🎨 style: reformat files with black
 0847. ♻️ chore: clean up unused files
 0678. ✨ feat: add user authentication
+0977. 🔧 refactor: organize models into subfolders
