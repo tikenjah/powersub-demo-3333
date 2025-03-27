@@ -10471,3 +10471,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0317. ✅ test: test user registration edge cases
 0289. 🐛 fix: resolve issue with date parsing
+0049. 🐛 fix: handle 500 error in quiz API
