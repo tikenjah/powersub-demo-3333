@@ -2325,3 +2325,4 @@
 0678. ✨ feat: add user authentication
 0977. 🔧 refactor: organize models into subfolders
 0526. ✨ feat: add user authentication
+0273. 🚀 perf: reduce image load time
