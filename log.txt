@@ -9472,3 +9472,4 @@
 0606. 📚 docs: improve code comments in utils
 0524. ♻️ chore: rename env.example
 0848. 📚 docs: update README with setup steps
+0018. 🔧 refactor: organize models into subfolders
