@@ -6454,3 +6454,4 @@
 0742. 📚 docs: clarify environment setup
 0282. 🔧 refactor: remove redundant code blocks
 0190. 🎨 style: rename variables for clarity
+0776. ✅ test: add integration test for /submit endpoint
