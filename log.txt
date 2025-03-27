@@ -7453,3 +7453,4 @@
 0055. 📚 docs: update README with setup steps
 0073. 🔧 refactor: split large controller into smaller functions
 0328. 🐛 fix: resolve issue with date parsing
+0122. ✨ feat: support email verification
