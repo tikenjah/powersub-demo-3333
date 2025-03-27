@@ -8459,3 +8459,4 @@
 0010. ✨ feat: add user authentication
 0281. ✨ feat: support email verification
 0815. 🔧 refactor: split large controller into smaller functions
+0693. 📚 docs: add API usage examples
