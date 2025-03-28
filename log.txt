@@ -2344,3 +2344,4 @@
 0424. ✨ feat: add user authentication
 0379. ✨ feat: support email verification
 0602. 🔧 refactor: remove redundant code blocks
+0220. 🐛 fix: fix null pointer exception on login
