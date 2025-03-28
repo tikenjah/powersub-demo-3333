@@ -2336,3 +2336,4 @@
 0949. 📚 docs: write FAQ section
 0375. 🐛 fix: handle 500 error in quiz API
 0786. ✨ feat: enable dark mode toggle
+0476. 🚀 perf: reduce image load time
