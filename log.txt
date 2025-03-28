@@ -2338,3 +2338,4 @@
 0786. ✨ feat: enable dark mode toggle
 0476. 🚀 perf: reduce image load time
 0255. 🔧 refactor: refactor quiz grading logic
+0833. ✨ feat: add user authentication
