@@ -9475,3 +9475,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0718. 🐛 fix: resolve issue with date parsing
 0307. ✨ feat: support email verification
+0772. 🐛 fix: fix null pointer exception on login
