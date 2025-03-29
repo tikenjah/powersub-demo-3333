@@ -10473,3 +10473,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0049. 🐛 fix: handle 500 error in quiz API
 0739. 🎨 style: remove trailing whitespace
+0820. 📚 docs: add API usage examples
