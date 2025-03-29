@@ -2346,3 +2346,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0220. 🐛 fix: fix null pointer exception on login
 0427. ✅ test: mock database connection in test suite
+0172. 📚 docs: add API usage examples
