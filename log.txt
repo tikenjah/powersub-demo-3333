@@ -2349,3 +2349,4 @@
 0172. 📚 docs: add API usage examples
 0641. 📚 docs: write FAQ section
 0408. ♻️ chore: add GitHub actions badge
+0860. 🔧 refactor: organize models into subfolders
