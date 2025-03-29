@@ -7458,3 +7458,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0277. 🎨 style: standardize quote style
 0960. ✅ test: increase coverage on auth module
+0925. ✨ feat: add export to CSV option
