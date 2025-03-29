@@ -5458,3 +5458,4 @@
 0170. ✅ test: increase coverage on auth module
 0778. 📚 docs: write FAQ section
 0346. ✅ test: mock database connection in test suite
+0666. 🐛 fix: fix broken CSS in mobile view
