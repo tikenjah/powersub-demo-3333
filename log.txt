@@ -6461,3 +6461,4 @@
 0275. 🎨 style: standardize quote style
 0166. 🚀 perf: cache repeated calculations
 0079. 🐛 fix: correct typo in registration form
+0128. ♻️ chore: rename env.example
