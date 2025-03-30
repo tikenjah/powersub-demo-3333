@@ -10479,3 +10479,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0967. ♻️ chore: add GitHub actions badge
 0869. ♻️ chore: bump dependencies
+0947. 📚 docs: write FAQ section
