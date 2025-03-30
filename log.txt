@@ -10477,3 +10477,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0874. 🔧 refactor: split large controller into smaller functions
 0807. 🔧 refactor: remove redundant code blocks
+0967. ♻️ chore: add GitHub actions badge
