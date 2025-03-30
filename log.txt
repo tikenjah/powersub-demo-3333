@@ -2363,3 +2363,4 @@
 0921. 🐛 fix: correct typo in registration form
 0643. 🎨 style: apply consistent indentation
 0727. ♻️ chore: add GitHub actions badge
+0870. ♻️ chore: clean up unused files
