@@ -7461,3 +7461,4 @@
 0925. ✨ feat: add export to CSV option
 0979. 🎨 style: standardize quote style
 0830. 🎨 style: apply consistent indentation
+0658. 🎨 style: rename variables for clarity
