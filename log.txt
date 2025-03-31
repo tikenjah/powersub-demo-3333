@@ -2375,3 +2375,4 @@
 0360. ✨ feat: add export to CSV option
 0949. 📚 docs: write FAQ section
 0865. ♻️ chore: add GitHub actions badge
+0865. ♻️ chore: add GitHub actions badge
