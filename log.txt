@@ -2376,3 +2376,4 @@
 0949. 📚 docs: write FAQ section
 0865. ♻️ chore: add GitHub actions badge
 0865. ♻️ chore: add GitHub actions badge
+0944. ✨ feat: add user authentication
