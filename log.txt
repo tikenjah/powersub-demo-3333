@@ -2379,3 +2379,4 @@
 0944. ✨ feat: add user authentication
 0562. 🔧 refactor: clean up auth middleware
 0780. 📚 docs: add API usage examples
+0909. 🔧 refactor: organize models into subfolders
