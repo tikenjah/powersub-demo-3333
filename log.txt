@@ -7459,3 +7459,4 @@
 0277. 🎨 style: standardize quote style
 0960. ✅ test: increase coverage on auth module
 0925. ✨ feat: add export to CSV option
+0979. 🎨 style: standardize quote style
