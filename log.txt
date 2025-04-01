@@ -9482,3 +9482,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0730. ✅ test: test user registration edge cases
 0530. 🔧 refactor: refactor quiz grading logic
+0711. 🐛 fix: fix broken CSS in mobile view
