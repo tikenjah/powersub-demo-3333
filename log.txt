@@ -9480,3 +9480,4 @@
 0345. 📚 docs: document token refresh logic
 0647. 🐛 fix: prevent crash on empty input
 0425. 🔧 refactor: refactor quiz grading logic
+0730. ✅ test: test user registration edge cases
