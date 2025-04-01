@@ -2396,3 +2396,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0205. 📚 docs: update README with setup steps
 0524. ♻️ chore: rename env.example
+0206. 🐛 fix: handle 500 error in quiz API
