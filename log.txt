@@ -2386,3 +2386,4 @@
 0195. 📚 docs: clarify environment setup
 0739. 🎨 style: remove trailing whitespace
 0177. 📚 docs: add API usage examples
+0793. 📚 docs: clarify environment setup
