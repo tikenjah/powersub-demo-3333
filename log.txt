@@ -2385,3 +2385,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0195. 📚 docs: clarify environment setup
 0739. 🎨 style: remove trailing whitespace
+0177. 📚 docs: add API usage examples
