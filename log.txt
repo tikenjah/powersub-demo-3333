@@ -10484,3 +10484,4 @@
 0965. 🎨 style: reformat files with black
 0178. ✨ feat: support email verification
 0479. 🐛 fix: fix null pointer exception on login
+0719. 🎨 style: apply consistent indentation
