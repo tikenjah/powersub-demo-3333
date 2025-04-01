@@ -8471,3 +8471,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0603. 🐛 fix: fix broken CSS in mobile view
 0514. 🐛 fix: fix broken CSS in mobile view
+0867. 🔧 refactor: refactor quiz grading logic
