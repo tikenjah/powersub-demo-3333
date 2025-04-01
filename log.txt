@@ -2389,3 +2389,4 @@
 0793. 📚 docs: clarify environment setup
 0398. 🚀 perf: cache repeated calculations
 0449. ✅ test: add unit test for quiz service
+0876. ♻️ chore: rename env.example
