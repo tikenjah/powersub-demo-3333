@@ -6463,3 +6463,4 @@
 0079. 🐛 fix: correct typo in registration form
 0128. ♻️ chore: rename env.example
 0416. 🎨 style: rename variables for clarity
+0677. 📚 docs: add API usage examples
