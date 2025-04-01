@@ -2392,3 +2392,4 @@
 0876. ♻️ chore: rename env.example
 0322. 🔧 refactor: split large controller into smaller functions
 0092. 🚀 perf: reduce image load time
+0580. ♻️ chore: bump dependencies
