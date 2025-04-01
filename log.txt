@@ -5468,3 +5468,4 @@
 0290. ✅ test: test user registration edge cases
 0065. ✅ test: add integration test for /submit endpoint
 0107. 🐛 fix: prevent crash on empty input
+0854. ♻️ chore: rename env.example
