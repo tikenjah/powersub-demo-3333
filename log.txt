@@ -6470,3 +6470,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0376. 🎨 style: apply consistent indentation
 0627. 📚 docs: document token refresh logic
+0567. 📚 docs: add API usage examples
