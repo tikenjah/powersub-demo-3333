@@ -7464,3 +7464,4 @@
 0658. 🎨 style: rename variables for clarity
 0840. 🔧 refactor: refactor quiz grading logic
 0296. 🔧 refactor: organize models into subfolders
+0189. 📚 docs: clarify environment setup
