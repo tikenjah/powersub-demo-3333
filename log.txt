@@ -6473,3 +6473,4 @@
 0567. 📚 docs: add API usage examples
 0840. 🔧 refactor: refactor quiz grading logic
 0059. ♻️ chore: bump dependencies
+0661. ✅ test: add integration test for /submit endpoint
