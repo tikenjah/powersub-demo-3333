@@ -2418,3 +2418,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0605. ✨ feat: support email verification
 0756. ✨ feat: support email verification
+0338. ♻️ chore: add GitHub actions badge
