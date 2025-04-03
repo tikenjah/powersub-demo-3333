@@ -8474,3 +8474,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0863. 🐛 fix: correct typo in registration form
 0389. 📚 docs: improve code comments in utils
+0650. ✅ test: add unit test for quiz service
