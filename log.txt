@@ -2419,3 +2419,4 @@
 0605. ✨ feat: support email verification
 0756. ✨ feat: support email verification
 0338. ♻️ chore: add GitHub actions badge
+0198. 📚 docs: clarify environment setup
