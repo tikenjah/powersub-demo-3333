@@ -2412,3 +2412,4 @@
 0789. ✨ feat: create admin dashboard
 0091. ✨ feat: add user authentication
 0944. ✨ feat: add user authentication
+0630. 🚀 perf: lazy-load components
