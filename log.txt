@@ -8475,3 +8475,4 @@
 0863. 🐛 fix: correct typo in registration form
 0389. 📚 docs: improve code comments in utils
 0650. ✅ test: add unit test for quiz service
+0353. ♻️ chore: rename env.example
