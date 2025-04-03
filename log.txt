@@ -2411,3 +2411,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0789. ✨ feat: create admin dashboard
 0091. ✨ feat: add user authentication
+0944. ✨ feat: add user authentication
