@@ -2415,3 +2415,4 @@
 0630. 🚀 perf: lazy-load components
 0465. 🎨 style: rename variables for clarity
 0586. 🎨 style: remove trailing whitespace
+0375. 🐛 fix: handle 500 error in quiz API
