@@ -2420,3 +2420,4 @@
 0756. ✨ feat: support email verification
 0338. ♻️ chore: add GitHub actions badge
 0198. 📚 docs: clarify environment setup
+0745. ✅ test: add unit test for quiz service
