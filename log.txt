@@ -8478,3 +8478,4 @@
 0353. ♻️ chore: rename env.example
 0706. ✨ feat: support email verification
 0524. ♻️ chore: rename env.example
+0578. ✅ test: add integration test for /submit endpoint
