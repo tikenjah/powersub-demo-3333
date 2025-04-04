@@ -9488,3 +9488,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0272. 🔧 refactor: remove redundant code blocks
 0220. 🐛 fix: fix null pointer exception on login
+0339. 📚 docs: update README with setup steps
