@@ -2426,3 +2426,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0036. 🔧 refactor: clean up auth middleware
 0924. ✅ test: mock database connection in test suite
+0664. ✅ test: add unit test for quiz service
