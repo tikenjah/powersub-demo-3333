@@ -2436,3 +2436,4 @@
 0170. ✅ test: increase coverage on auth module
 0489. 🔧 refactor: organize models into subfolders
 0196. ♻️ chore: bump dependencies
+0275. 🎨 style: standardize quote style
