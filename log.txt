@@ -7469,3 +7469,4 @@
 0486. ✨ feat: add export to CSV option
 0500. ✅ test: add integration test for /submit endpoint
 0344. ♻️ chore: add GitHub actions badge
+0448. 🐛 fix: correct typo in registration form
