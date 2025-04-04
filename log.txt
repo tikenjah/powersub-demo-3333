@@ -2424,3 +2424,4 @@
 0404. 📚 docs: improve code comments in utils
 0220. 🐛 fix: fix null pointer exception on login
 0127. 🐛 fix: fix null pointer exception on login
+0036. 🔧 refactor: clean up auth middleware
