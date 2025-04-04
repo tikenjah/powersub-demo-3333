@@ -2427,3 +2427,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0924. ✅ test: mock database connection in test suite
 0664. ✅ test: add unit test for quiz service
+0076. 🎨 style: reformat files with black
