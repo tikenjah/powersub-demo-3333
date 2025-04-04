@@ -8476,3 +8476,4 @@
 0389. 📚 docs: improve code comments in utils
 0650. ✅ test: add unit test for quiz service
 0353. ♻️ chore: rename env.example
+0706. ✨ feat: support email verification
