@@ -2433,3 +2433,4 @@
 0929. ✨ feat: support email verification
 0570. 🎨 style: apply consistent indentation
 0288. 🔧 refactor: refactor quiz grading logic
+0170. ✅ test: increase coverage on auth module
