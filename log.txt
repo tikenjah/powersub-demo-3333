@@ -7471,3 +7471,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0448. 🐛 fix: correct typo in registration form
 0152. ✨ feat: add user authentication
+0926. 🔧 refactor: organize models into subfolders
