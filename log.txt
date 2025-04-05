@@ -2444,3 +2444,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0744. 🔧 refactor: remove redundant code blocks
 0314. ✨ feat: implement quiz timer feature
+0893. 🐛 fix: handle 500 error in quiz API
