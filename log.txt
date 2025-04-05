@@ -2447,3 +2447,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0975. 🎨 style: apply consistent indentation
 0981. 🚀 perf: lazy-load components
+0781. 🚀 perf: reduce image load time
