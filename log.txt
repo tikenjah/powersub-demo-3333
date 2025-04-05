@@ -5478,3 +5478,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0703. 🔧 refactor: clean up auth middleware
 0029. 🚀 perf: lazy-load components
+0370. 🚀 perf: reduce image load time
