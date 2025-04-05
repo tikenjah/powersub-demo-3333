@@ -8479,3 +8479,4 @@
 0706. ✨ feat: support email verification
 0524. ♻️ chore: rename env.example
 0578. ✅ test: add integration test for /submit endpoint
+0646. ✅ test: test user registration edge cases
