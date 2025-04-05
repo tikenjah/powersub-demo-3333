@@ -5476,3 +5476,4 @@
 0657. 🎨 style: standardize quote style
 0254. 🚀 perf: reduce image load time
 0367. 🐛 fix: fix null pointer exception on login
+0703. 🔧 refactor: clean up auth middleware
