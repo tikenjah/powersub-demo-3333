@@ -2453,3 +2453,4 @@
 0854. ♻️ chore: rename env.example
 0491. 🚀 perf: lazy-load components
 0486. ✨ feat: add export to CSV option
+0533. ♻️ chore: add GitHub actions badge
