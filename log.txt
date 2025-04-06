@@ -7474,3 +7474,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0554. 📚 docs: improve code comments in utils
 0741. 🎨 style: apply consistent indentation
+0701. 🔧 refactor: clean up auth middleware
