@@ -2465,3 +2465,4 @@
 0989. 📚 docs: write FAQ section
 0825. 🔧 refactor: split large controller into smaller functions
 0548. 📚 docs: write FAQ section
+0412. ✅ test: increase coverage on auth module
