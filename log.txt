@@ -6481,3 +6481,4 @@
 0493. ✨ feat: add user authentication
 0126. 🎨 style: rename variables for clarity
 0040. 🔧 refactor: clean up auth middleware
+0343. 🚀 perf: optimize database query for quiz results
