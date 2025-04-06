@@ -2457,3 +2457,4 @@
 0170. ✅ test: increase coverage on auth module
 0095. ✅ test: mock database connection in test suite
 0641. 📚 docs: write FAQ section
+0653. 🐛 fix: prevent crash on empty input
