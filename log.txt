@@ -2466,3 +2466,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0548. 📚 docs: write FAQ section
 0412. ✅ test: increase coverage on auth module
+0662. ♻️ chore: clean up unused files
