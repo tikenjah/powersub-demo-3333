@@ -2459,3 +2459,4 @@
 0641. 📚 docs: write FAQ section
 0653. 🐛 fix: prevent crash on empty input
 0634. 🎨 style: reformat files with black
+0367. 🐛 fix: fix null pointer exception on login
