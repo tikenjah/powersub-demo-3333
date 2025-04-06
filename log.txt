@@ -9491,3 +9491,4 @@
 0339. 📚 docs: update README with setup steps
 0160. ♻️ chore: bump dependencies
 0632. 🎨 style: remove trailing whitespace
+0612. ✅ test: test user registration edge cases
