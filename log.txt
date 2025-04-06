@@ -2451,3 +2451,4 @@
 0555. ✨ feat: create admin dashboard
 0828. ♻️ chore: add GitHub actions badge
 0854. ♻️ chore: rename env.example
+0491. 🚀 perf: lazy-load components
