@@ -10491,3 +10491,4 @@
 0577. ✨ feat: implement quiz timer feature
 0767. 🔧 refactor: remove redundant code blocks
 0811. 🎨 style: reformat files with black
+0206. 🐛 fix: handle 500 error in quiz API
