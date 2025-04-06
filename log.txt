@@ -2469,3 +2469,4 @@
 0662. ♻️ chore: clean up unused files
 0309. 🔧 refactor: refactor quiz grading logic
 0432. 🎨 style: apply consistent indentation
+0387. ✨ feat: enable dark mode toggle
