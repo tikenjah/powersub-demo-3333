@@ -9494,3 +9494,4 @@
 0612. ✅ test: test user registration edge cases
 0619. ✨ feat: create admin dashboard
 0618. ✨ feat: support email verification
+0201. 🔧 refactor: clean up auth middleware
