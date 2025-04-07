@@ -6483,3 +6483,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0343. 🚀 perf: optimize database query for quiz results
 0625. 🐛 fix: handle 500 error in quiz API
+0261. 🔧 refactor: refactor quiz grading logic
