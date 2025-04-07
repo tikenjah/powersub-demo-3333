@@ -2477,3 +2477,4 @@
 0038. 🎨 style: rename variables for clarity
 0191. 🔧 refactor: refactor quiz grading logic
 0412. ✅ test: increase coverage on auth module
+0461. ✨ feat: add user authentication
