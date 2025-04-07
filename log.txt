@@ -2471,3 +2471,4 @@
 0432. 🎨 style: apply consistent indentation
 0387. ✨ feat: enable dark mode toggle
 0367. 🐛 fix: fix null pointer exception on login
+0332. 🎨 style: standardize quote style
