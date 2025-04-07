@@ -2480,3 +2480,4 @@
 0461. ✨ feat: add user authentication
 0332. 🎨 style: standardize quote style
 0462. ♻️ chore: update .gitignore
+0237. 🎨 style: standardize quote style
