@@ -10495,3 +10495,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0737. 🐛 fix: handle 500 error in quiz API
 0299. 🐛 fix: resolve issue with date parsing
+0281. ✨ feat: support email verification
