@@ -2478,3 +2478,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0412. ✅ test: increase coverage on auth module
 0461. ✨ feat: add user authentication
+0332. 🎨 style: standardize quote style
