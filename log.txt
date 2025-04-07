@@ -2479,3 +2479,4 @@
 0412. ✅ test: increase coverage on auth module
 0461. ✨ feat: add user authentication
 0332. 🎨 style: standardize quote style
+0462. ♻️ chore: update .gitignore
