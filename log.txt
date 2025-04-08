@@ -2482,3 +2482,4 @@
 0462. ♻️ chore: update .gitignore
 0237. 🎨 style: standardize quote style
 0334. 🚀 perf: cache repeated calculations
+0409. 🚀 perf: lazy-load components
