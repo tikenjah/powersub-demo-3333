@@ -2494,3 +2494,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0953. 🎨 style: remove trailing whitespace
 0331. 🐛 fix: fix broken CSS in mobile view
+0252. 🎨 style: remove trailing whitespace
