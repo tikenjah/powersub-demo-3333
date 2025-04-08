@@ -10497,3 +10497,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0281. ✨ feat: support email verification
 0836. 🚀 perf: optimize database query for quiz results
+0053. ✅ test: increase coverage on auth module
