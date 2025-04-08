@@ -2488,3 +2488,4 @@
 0790. 📚 docs: write FAQ section
 0770. ♻️ chore: rename env.example
 0825. 🔧 refactor: split large controller into smaller functions
+0755. 🚀 perf: cache repeated calculations
