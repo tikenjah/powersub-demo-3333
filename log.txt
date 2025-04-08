@@ -5488,3 +5488,4 @@
 0934. ✨ feat: support email verification
 0572. ✨ feat: add user authentication
 0843. 📚 docs: document token refresh logic
+0709. ♻️ chore: bump dependencies
