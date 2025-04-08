@@ -8491,3 +8491,4 @@
 0323. 📚 docs: clarify environment setup
 0418. ✅ test: mock database connection in test suite
 0774. 🔧 refactor: refactor quiz grading logic
+0006. 🐛 fix: prevent crash on empty input
