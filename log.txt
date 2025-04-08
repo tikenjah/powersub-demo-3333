@@ -5486,3 +5486,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0810. 🔧 refactor: refactor quiz grading logic
 0934. ✨ feat: support email verification
+0572. ✨ feat: add user authentication
