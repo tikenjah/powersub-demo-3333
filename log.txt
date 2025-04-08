@@ -2484,3 +2484,4 @@
 0334. 🚀 perf: cache repeated calculations
 0409. 🚀 perf: lazy-load components
 0348. ✅ test: test user registration edge cases
+0958. 🐛 fix: prevent crash on empty input
