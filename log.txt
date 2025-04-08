@@ -2491,3 +2491,4 @@
 0755. 🚀 perf: cache repeated calculations
 0152. ✨ feat: add user authentication
 0711. 🐛 fix: fix broken CSS in mobile view
+0289. 🐛 fix: resolve issue with date parsing
