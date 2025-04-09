@@ -8494,3 +8494,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0083. 🎨 style: reformat files with black
 0079. 🐛 fix: correct typo in registration form
+0788. 📚 docs: add API usage examples
