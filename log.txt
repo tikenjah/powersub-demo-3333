@@ -7480,3 +7480,4 @@
 0593. 🐛 fix: correct typo in registration form
 0054. ♻️ chore: update .gitignore
 0203. 🚀 perf: lazy-load components
+0270. ♻️ chore: rename env.example
