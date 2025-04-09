@@ -10506,3 +10506,4 @@
 0199. ✨ feat: create admin dashboard
 0458. ✨ feat: create admin dashboard
 0669. ✨ feat: enable dark mode toggle
+0556. ✨ feat: support email verification
