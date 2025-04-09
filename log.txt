@@ -2509,3 +2509,4 @@
 0437. 📚 docs: clarify environment setup
 0309. 🔧 refactor: refactor quiz grading logic
 0999. 🔧 refactor: split large controller into smaller functions
+0206. 🐛 fix: handle 500 error in quiz API
