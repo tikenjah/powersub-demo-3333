@@ -10501,3 +10501,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0613. 🐛 fix: prevent crash on empty input
 0060. ♻️ chore: clean up unused files
+0798. 🚀 perf: reduce image load time
