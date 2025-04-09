@@ -10505,3 +10505,4 @@
 0352. ✨ feat: add export to CSV option
 0199. ✨ feat: create admin dashboard
 0458. ✨ feat: create admin dashboard
+0669. ✨ feat: enable dark mode toggle
