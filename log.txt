@@ -9495,3 +9495,4 @@
 0619. ✨ feat: create admin dashboard
 0618. ✨ feat: support email verification
 0201. 🔧 refactor: clean up auth middleware
+0205. 📚 docs: update README with setup steps
