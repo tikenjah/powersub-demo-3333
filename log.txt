@@ -10499,3 +10499,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0053. ✅ test: increase coverage on auth module
 0894. ✅ test: add integration test for /submit endpoint
+0613. 🐛 fix: prevent crash on empty input
