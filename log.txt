@@ -8498,3 +8498,4 @@
 0353. ♻️ chore: rename env.example
 0587. 🔧 refactor: remove redundant code blocks
 0697. ♻️ chore: bump dependencies
+0250. 📚 docs: update README with setup steps
