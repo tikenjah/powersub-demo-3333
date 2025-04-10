@@ -9500,3 +9500,4 @@
 0834. ✅ test: increase coverage on auth module
 0974. ✨ feat: add export to CSV option
 0998. 🐛 fix: fix null pointer exception on login
+0658. 🎨 style: rename variables for clarity
