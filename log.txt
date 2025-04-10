@@ -9499,3 +9499,4 @@
 0262. 🎨 style: remove trailing whitespace
 0834. ✅ test: increase coverage on auth module
 0974. ✨ feat: add export to CSV option
+0998. 🐛 fix: fix null pointer exception on login
