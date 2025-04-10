@@ -2517,3 +2517,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0759. 🔧 refactor: organize models into subfolders
 0421. 🔧 refactor: split large controller into smaller functions
+0520. 🐛 fix: fix null pointer exception on login
