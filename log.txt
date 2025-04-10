@@ -10508,3 +10508,4 @@
 0669. ✨ feat: enable dark mode toggle
 0556. ✨ feat: support email verification
 0564. 📚 docs: clarify environment setup
+0461. ✨ feat: add user authentication
