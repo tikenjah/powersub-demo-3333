@@ -2514,3 +2514,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0330. ✅ test: test user registration edge cases
 0158. 📚 docs: clarify environment setup
+0760. 🐛 fix: resolve issue with date parsing
