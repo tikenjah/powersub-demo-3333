@@ -9498,3 +9498,4 @@
 0205. 📚 docs: update README with setup steps
 0262. 🎨 style: remove trailing whitespace
 0834. ✅ test: increase coverage on auth module
+0974. ✨ feat: add export to CSV option
