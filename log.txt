@@ -2520,3 +2520,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0530. 🔧 refactor: refactor quiz grading logic
 0338. ♻️ chore: add GitHub actions badge
+0690. 🚀 perf: lazy-load components
