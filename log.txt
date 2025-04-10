@@ -5489,3 +5489,4 @@
 0572. ✨ feat: add user authentication
 0843. 📚 docs: document token refresh logic
 0709. ♻️ chore: bump dependencies
+0800. 🚀 perf: optimize database query for quiz results
