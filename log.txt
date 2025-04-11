@@ -8503,3 +8503,4 @@
 0786. ✨ feat: enable dark mode toggle
 0274. 🔧 refactor: refactor quiz grading logic
 0377. ✨ feat: add user authentication
+0206. 🐛 fix: handle 500 error in quiz API
