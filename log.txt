@@ -2529,3 +2529,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0877. 🚀 perf: optimize database query for quiz results
 0399. ✅ test: mock database connection in test suite
+0848. 📚 docs: update README with setup steps
