@@ -8500,3 +8500,4 @@
 0697. ♻️ chore: bump dependencies
 0250. 📚 docs: update README with setup steps
 0214. 📚 docs: improve code comments in utils
+0786. ✨ feat: enable dark mode toggle
