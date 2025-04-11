@@ -5493,3 +5493,4 @@
 0599. ✅ test: test user registration edge cases
 0776. ✅ test: add integration test for /submit endpoint
 0502. 📚 docs: update README with setup steps
+0956. 📚 docs: clarify environment setup
