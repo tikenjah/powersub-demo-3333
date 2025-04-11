@@ -5491,3 +5491,4 @@
 0709. ♻️ chore: bump dependencies
 0800. 🚀 perf: optimize database query for quiz results
 0599. ✅ test: test user registration edge cases
+0776. ✅ test: add integration test for /submit endpoint
