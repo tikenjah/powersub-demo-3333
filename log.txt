@@ -5492,3 +5492,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0599. ✅ test: test user registration edge cases
 0776. ✅ test: add integration test for /submit endpoint
+0502. 📚 docs: update README with setup steps
