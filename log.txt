@@ -2538,3 +2538,4 @@
 0843. 📚 docs: document token refresh logic
 0277. 🎨 style: standardize quote style
 0587. 🔧 refactor: remove redundant code blocks
+0263. 📚 docs: add API usage examples
