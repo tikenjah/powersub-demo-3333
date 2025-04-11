@@ -7485,3 +7485,4 @@
 0440. 📚 docs: update README with setup steps
 0497. 🔧 refactor: refactor quiz grading logic
 0934. ✨ feat: support email verification
+0144. ✅ test: increase coverage on auth module
