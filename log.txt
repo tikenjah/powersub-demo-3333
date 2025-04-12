@@ -2543,3 +2543,4 @@
 0820. 📚 docs: add API usage examples
 0323. 📚 docs: clarify environment setup
 0361. ✨ feat: support email verification
+0115. 🚀 perf: reduce image load time
