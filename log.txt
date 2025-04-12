@@ -6493,3 +6493,4 @@
 0292. 📚 docs: clarify environment setup
 0428. 🐛 fix: fix null pointer exception on login
 0099. 🚀 perf: reduce image load time
+0394. 🚀 perf: lazy-load components
