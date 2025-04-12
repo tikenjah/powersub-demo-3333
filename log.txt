@@ -2551,3 +2551,4 @@
 0643. 🎨 style: apply consistent indentation
 0782. 📚 docs: improve code comments in utils
 0856. 🐛 fix: fix null pointer exception on login
+0742. 📚 docs: clarify environment setup
