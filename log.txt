@@ -2542,3 +2542,4 @@
 0682. ♻️ chore: rename env.example
 0820. 📚 docs: add API usage examples
 0323. 📚 docs: clarify environment setup
+0361. ✨ feat: support email verification
