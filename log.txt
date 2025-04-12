@@ -9504,3 +9504,4 @@
 0657. 🎨 style: standardize quote style
 0606. 📚 docs: improve code comments in utils
 0525. ✅ test: mock database connection in test suite
+0122. ✨ feat: support email verification
