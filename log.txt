@@ -9506,3 +9506,4 @@
 0525. ✅ test: mock database connection in test suite
 0122. ✨ feat: support email verification
 0174. 📚 docs: clarify environment setup
+0280. ✅ test: add integration test for /submit endpoint
