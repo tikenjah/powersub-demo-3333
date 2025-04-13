@@ -2557,3 +2557,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0598. 🔧 refactor: remove redundant code blocks
 0189. 📚 docs: clarify environment setup
+0776. ✅ test: add integration test for /submit endpoint
