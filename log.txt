@@ -6498,3 +6498,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0056. ♻️ chore: rename env.example
 0420. 🚀 perf: reduce image load time
+0453. 🎨 style: standardize quote style
