@@ -2556,3 +2556,4 @@
 0013. ✅ test: increase coverage on auth module
 0983. 🔧 refactor: split large controller into smaller functions
 0598. 🔧 refactor: remove redundant code blocks
+0189. 📚 docs: clarify environment setup
