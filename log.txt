@@ -7488,3 +7488,4 @@
 0144. ✅ test: increase coverage on auth module
 0589. 🐛 fix: fix broken CSS in mobile view
 0594. 🎨 style: reformat files with black
+0948. 🐛 fix: fix broken CSS in mobile view
