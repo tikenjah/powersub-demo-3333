@@ -2568,3 +2568,4 @@
 0172. 📚 docs: add API usage examples
 0761. ✅ test: add unit test for quiz service
 0491. 🚀 perf: lazy-load components
+0106. 🎨 style: reformat files with black
