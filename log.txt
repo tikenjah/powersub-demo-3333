@@ -2567,3 +2567,4 @@
 0986. 📚 docs: document token refresh logic
 0172. 📚 docs: add API usage examples
 0761. ✅ test: add unit test for quiz service
+0491. 🚀 perf: lazy-load components
