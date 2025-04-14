@@ -9511,3 +9511,4 @@
 0271. ✅ test: add unit test for quiz service
 0096. 🐛 fix: prevent crash on empty input
 0182. 🔧 refactor: remove redundant code blocks
+0698. 🐛 fix: handle 500 error in quiz API
