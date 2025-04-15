@@ -6502,3 +6502,4 @@
 0906. 📚 docs: add API usage examples
 0825. 🔧 refactor: split large controller into smaller functions
 0186. ✅ test: test user registration edge cases
+0598. 🔧 refactor: remove redundant code blocks
