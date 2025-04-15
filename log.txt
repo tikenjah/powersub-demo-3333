@@ -2577,3 +2577,4 @@
 0381. ♻️ chore: clean up unused files
 0980. 🎨 style: reformat files with black
 0219. ✅ test: increase coverage on auth module
+0325. 🎨 style: rename variables for clarity
