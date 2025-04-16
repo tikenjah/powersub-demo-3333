@@ -2600,3 +2600,4 @@
 0189. 📚 docs: clarify environment setup
 0902. ✨ feat: enable dark mode toggle
 0194. 🎨 style: standardize quote style
+0794. ♻️ chore: clean up unused files
