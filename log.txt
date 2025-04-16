@@ -2599,3 +2599,4 @@
 0491. 🚀 perf: lazy-load components
 0189. 📚 docs: clarify environment setup
 0902. ✨ feat: enable dark mode toggle
+0194. 🎨 style: standardize quote style
