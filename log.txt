@@ -2590,3 +2590,4 @@
 0979. 🎨 style: standardize quote style
 0833. ✨ feat: add user authentication
 0741. 🎨 style: apply consistent indentation
+0094. 📚 docs: document token refresh logic
