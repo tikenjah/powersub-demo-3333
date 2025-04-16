@@ -7500,3 +7500,4 @@
 0444. ✅ test: add unit test for quiz service
 0385. ♻️ chore: clean up unused files
 0423. ✅ test: mock database connection in test suite
+0584. 🚀 perf: lazy-load components
