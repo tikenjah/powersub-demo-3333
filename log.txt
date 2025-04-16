@@ -2602,3 +2602,4 @@
 0194. 🎨 style: standardize quote style
 0794. ♻️ chore: clean up unused files
 0648. ♻️ chore: bump dependencies
+0480. ♻️ chore: add GitHub actions badge
