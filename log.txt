@@ -2589,3 +2589,4 @@
 0184. 📚 docs: improve code comments in utils
 0979. 🎨 style: standardize quote style
 0833. ✨ feat: add user authentication
+0741. 🎨 style: apply consistent indentation
