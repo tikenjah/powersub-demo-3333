@@ -8519,3 +8519,4 @@
 0377. ✨ feat: add user authentication
 0757. 🔧 refactor: remove redundant code blocks
 0938. 🎨 style: rename variables for clarity
+0596. ♻️ chore: update .gitignore
