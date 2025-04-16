@@ -6506,3 +6506,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0345. 📚 docs: document token refresh logic
 0280. ✅ test: add integration test for /submit endpoint
+0844. 📚 docs: update README with setup steps
