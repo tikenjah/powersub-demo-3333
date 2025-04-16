@@ -2596,3 +2596,4 @@
 0351. ✨ feat: add export to CSV option
 0357. ✅ test: add unit test for quiz service
 0156. 🎨 style: rename variables for clarity
+0491. 🚀 perf: lazy-load components
