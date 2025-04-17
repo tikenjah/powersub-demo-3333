@@ -2605,3 +2605,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0291. 📚 docs: write FAQ section
 0560. 🎨 style: rename variables for clarity
+0997. ✅ test: increase coverage on auth module
