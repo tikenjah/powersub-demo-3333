@@ -2608,3 +2608,4 @@
 0997. ✅ test: increase coverage on auth module
 0321. 🔧 refactor: organize models into subfolders
 0974. ✨ feat: add export to CSV option
+0642. 🚀 perf: optimize database query for quiz results
