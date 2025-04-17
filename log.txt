@@ -2610,3 +2610,4 @@
 0974. ✨ feat: add export to CSV option
 0642. 🚀 perf: optimize database query for quiz results
 0602. 🔧 refactor: remove redundant code blocks
+0378. 🐛 fix: prevent crash on empty input
