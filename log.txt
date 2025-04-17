@@ -2619,3 +2619,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0832. 🔧 refactor: remove redundant code blocks
 0374. 🎨 style: standardize quote style
+0405. ✅ test: mock database connection in test suite
