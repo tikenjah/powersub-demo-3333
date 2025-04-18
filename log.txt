@@ -2624,3 +2624,4 @@
 0443. 🎨 style: standardize quote style
 0549. ✨ feat: enable dark mode toggle
 0300. ✨ feat: add export to CSV option
+0792. 🎨 style: standardize quote style
