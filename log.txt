@@ -2621,3 +2621,4 @@
 0374. 🎨 style: standardize quote style
 0405. ✅ test: mock database connection in test suite
 0431. 🎨 style: reformat files with black
+0443. 🎨 style: standardize quote style
