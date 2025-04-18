@@ -2626,3 +2626,4 @@
 0300. ✨ feat: add export to CSV option
 0792. 🎨 style: standardize quote style
 0893. 🐛 fix: handle 500 error in quiz API
+0795. 📚 docs: update README with setup steps
