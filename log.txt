@@ -2625,3 +2625,4 @@
 0549. ✨ feat: enable dark mode toggle
 0300. ✨ feat: add export to CSV option
 0792. 🎨 style: standardize quote style
+0893. 🐛 fix: handle 500 error in quiz API
