@@ -10524,3 +10524,4 @@
 0610. 🚀 perf: lazy-load components
 0509. ♻️ chore: bump dependencies
 0377. ✨ feat: add user authentication
+0297. 🎨 style: remove trailing whitespace
