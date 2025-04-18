@@ -8522,3 +8522,4 @@
 0596. ♻️ chore: update .gitignore
 0924. ✅ test: mock database connection in test suite
 0322. 🔧 refactor: split large controller into smaller functions
+0567. 📚 docs: add API usage examples
