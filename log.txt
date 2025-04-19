@@ -9521,3 +9521,4 @@
 0070. ✨ feat: implement quiz timer feature
 0694. 🎨 style: rename variables for clarity
 0430. 🐛 fix: fix null pointer exception on login
+0238. 🎨 style: apply consistent indentation
