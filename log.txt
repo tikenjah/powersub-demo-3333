@@ -5507,3 +5507,4 @@
 0845. 🚀 perf: cache repeated calculations
 0368. 🚀 perf: lazy-load components
 0478. 🐛 fix: resolve issue with date parsing
+0365. 🚀 perf: reduce image load time
