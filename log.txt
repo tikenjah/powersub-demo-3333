@@ -9524,3 +9524,4 @@
 0238. 🎨 style: apply consistent indentation
 0636. ✅ test: increase coverage on auth module
 0892. ✅ test: add unit test for quiz service
+0468. 📚 docs: update README with setup steps
