@@ -2639,3 +2639,4 @@
 0504. 📚 docs: document token refresh logic
 0912. 📚 docs: document token refresh logic
 0270. ♻️ chore: rename env.example
+0054. ♻️ chore: update .gitignore
