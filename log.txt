@@ -9522,3 +9522,4 @@
 0694. 🎨 style: rename variables for clarity
 0430. 🐛 fix: fix null pointer exception on login
 0238. 🎨 style: apply consistent indentation
+0636. ✅ test: increase coverage on auth module
