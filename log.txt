@@ -10526,3 +10526,4 @@
 0377. ✨ feat: add user authentication
 0297. 🎨 style: remove trailing whitespace
 0243. 🔧 refactor: clean up auth middleware
+0864. 🐛 fix: correct typo in registration form
