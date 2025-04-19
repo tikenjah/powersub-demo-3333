@@ -5508,3 +5508,4 @@
 0368. 🚀 perf: lazy-load components
 0478. 🐛 fix: resolve issue with date parsing
 0365. 🚀 perf: reduce image load time
+0267. 📚 docs: improve code comments in utils
