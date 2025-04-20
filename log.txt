@@ -2662,3 +2662,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0535. 📚 docs: write FAQ section
 0147. ♻️ chore: bump dependencies
+0833. ✨ feat: add user authentication
