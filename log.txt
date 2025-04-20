@@ -7512,3 +7512,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0240. 🔧 refactor: remove redundant code blocks
 0768. 🎨 style: remove trailing whitespace
+0201. 🔧 refactor: clean up auth middleware
