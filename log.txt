@@ -2656,3 +2656,4 @@
 0011. ✅ test: add unit test for quiz service
 0708. ✅ test: add integration test for /submit endpoint
 0596. ♻️ chore: update .gitignore
+0818. 🔧 refactor: remove redundant code blocks
