@@ -2661,3 +2661,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0878. 🔧 refactor: split large controller into smaller functions
 0535. 📚 docs: write FAQ section
+0147. ♻️ chore: bump dependencies
