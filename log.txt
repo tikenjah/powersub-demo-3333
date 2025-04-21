@@ -9528,3 +9528,4 @@
 0908. ♻️ chore: bump dependencies
 0133. 🐛 fix: fix null pointer exception on login
 0647. 🐛 fix: prevent crash on empty input
+0569. 📚 docs: document token refresh logic
