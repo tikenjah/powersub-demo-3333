@@ -6523,3 +6523,4 @@
 0346. ✅ test: mock database connection in test suite
 0516. ✅ test: add unit test for quiz service
 0124. 🎨 style: reformat files with black
+0424. ✨ feat: add user authentication
