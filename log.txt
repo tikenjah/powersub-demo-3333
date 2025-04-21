@@ -5509,3 +5509,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0365. 🚀 perf: reduce image load time
 0267. 📚 docs: improve code comments in utils
+0801. ✨ feat: enable dark mode toggle
