@@ -2668,3 +2668,4 @@
 0630. 🚀 perf: lazy-load components
 0611. ✅ test: test user registration edge cases
 0904. ✨ feat: implement quiz timer feature
+0480. ♻️ chore: add GitHub actions badge
