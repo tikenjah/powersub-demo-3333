@@ -2665,3 +2665,4 @@
 0833. ✨ feat: add user authentication
 0077. ♻️ chore: rename env.example
 0265. 🎨 style: reformat files with black
+0630. 🚀 perf: lazy-load components
