@@ -2663,3 +2663,4 @@
 0535. 📚 docs: write FAQ section
 0147. ♻️ chore: bump dependencies
 0833. ✨ feat: add user authentication
+0077. ♻️ chore: rename env.example
