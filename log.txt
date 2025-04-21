@@ -5513,3 +5513,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0858. ♻️ chore: clean up unused files
 0875. ✅ test: increase coverage on auth module
+0075. ✅ test: mock database connection in test suite
