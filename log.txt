@@ -5512,3 +5512,4 @@
 0801. ✨ feat: enable dark mode toggle
 0006. 🐛 fix: prevent crash on empty input
 0858. ♻️ chore: clean up unused files
+0875. ✅ test: increase coverage on auth module
