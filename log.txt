@@ -8537,3 +8537,4 @@
 0334. 🚀 perf: cache repeated calculations
 0763. 🔧 refactor: organize models into subfolders
 0180. ✨ feat: add export to CSV option
+0785. ✨ feat: enable dark mode toggle
