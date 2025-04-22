@@ -6525,3 +6525,4 @@
 0124. 🎨 style: reformat files with black
 0424. ✨ feat: add user authentication
 0004. 🚀 perf: optimize database query for quiz results
+0178. ✨ feat: support email verification
