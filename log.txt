@@ -9532,3 +9532,4 @@
 0180. ✨ feat: add export to CSV option
 0565. ♻️ chore: add GitHub actions badge
 0147. ♻️ chore: bump dependencies
+0588. 🔧 refactor: organize models into subfolders
