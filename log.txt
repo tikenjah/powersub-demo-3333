@@ -6526,3 +6526,4 @@
 0424. ✨ feat: add user authentication
 0004. 🚀 perf: optimize database query for quiz results
 0178. ✨ feat: support email verification
+0617. ✨ feat: support email verification
