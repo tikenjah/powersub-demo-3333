@@ -2688,3 +2688,4 @@
 0899. 🚀 perf: cache repeated calculations
 0998. 🐛 fix: fix null pointer exception on login
 0505. ♻️ chore: add GitHub actions badge
+0877. 🚀 perf: optimize database query for quiz results
