@@ -2684,3 +2684,4 @@
 0237. 🎨 style: standardize quote style
 0669. ✨ feat: enable dark mode toggle
 0943. 🎨 style: rename variables for clarity
+0856. 🐛 fix: fix null pointer exception on login
