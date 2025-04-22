@@ -2679,3 +2679,4 @@
 0584. 🚀 perf: lazy-load components
 0813. 🔧 refactor: organize models into subfolders
 0490. ✨ feat: create admin dashboard
+0040. 🔧 refactor: clean up auth middleware
