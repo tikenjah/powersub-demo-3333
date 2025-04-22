@@ -10530,3 +10530,4 @@
 0300. ✨ feat: add export to CSV option
 0663. 🚀 perf: reduce image load time
 0577. ✨ feat: implement quiz timer feature
+0902. ✨ feat: enable dark mode toggle
