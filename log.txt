@@ -8540,3 +8540,4 @@
 0785. ✨ feat: enable dark mode toggle
 0894. ✅ test: add integration test for /submit endpoint
 0938. 🎨 style: rename variables for clarity
+0451. ✨ feat: support email verification
