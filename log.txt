@@ -6529,3 +6529,4 @@
 0617. ✨ feat: support email verification
 0526. ✨ feat: add user authentication
 0234. ♻️ chore: rename env.example
+0456. 🚀 perf: optimize database query for quiz results
