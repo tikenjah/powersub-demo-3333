@@ -2693,3 +2693,4 @@
 0720. ✨ feat: add export to CSV option
 0712. 🎨 style: apply consistent indentation
 0906. 📚 docs: add API usage examples
+0075. ✅ test: mock database connection in test suite
