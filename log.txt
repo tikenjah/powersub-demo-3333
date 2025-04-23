@@ -9536,3 +9536,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0757. 🔧 refactor: remove redundant code blocks
 0749. ✨ feat: support email verification
+0695. ✨ feat: create admin dashboard
