@@ -5520,3 +5520,4 @@
 0128. ♻️ chore: rename env.example
 0142. ✨ feat: implement quiz timer feature
 0948. 🐛 fix: fix broken CSS in mobile view
+0607. 🐛 fix: prevent crash on empty input
