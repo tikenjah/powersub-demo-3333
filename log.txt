@@ -6534,3 +6534,4 @@
 0379. ✨ feat: support email verification
 0830. 🎨 style: apply consistent indentation
 0348. ✅ test: test user registration edge cases
+0828. ♻️ chore: add GitHub actions badge
