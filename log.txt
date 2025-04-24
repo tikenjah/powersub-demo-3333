@@ -5522,3 +5522,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0607. 🐛 fix: prevent crash on empty input
 0699. 🎨 style: standardize quote style
+0194. 🎨 style: standardize quote style
