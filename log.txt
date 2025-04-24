@@ -9537,3 +9537,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0749. ✨ feat: support email verification
 0695. ✨ feat: create admin dashboard
+0911. ✅ test: increase coverage on auth module
