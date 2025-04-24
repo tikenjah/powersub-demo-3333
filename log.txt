@@ -10534,3 +10534,4 @@
 0407. 🚀 perf: cache repeated calculations
 0386. 🚀 perf: optimize database query for quiz results
 0013. ✅ test: increase coverage on auth module
+0621. 🔧 refactor: clean up auth middleware
