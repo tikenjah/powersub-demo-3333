@@ -2704,3 +2704,4 @@
 0062. ♻️ chore: update .gitignore
 0857. 🎨 style: rename variables for clarity
 0608. 🔧 refactor: remove redundant code blocks
+0686. 🎨 style: standardize quote style
