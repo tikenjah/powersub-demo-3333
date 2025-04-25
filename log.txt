@@ -9540,3 +9540,4 @@
 0911. ✅ test: increase coverage on auth module
 0635. 🎨 style: apply consistent indentation
 0207. 🐛 fix: prevent crash on empty input
+0625. 🐛 fix: handle 500 error in quiz API
