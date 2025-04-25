@@ -7532,3 +7532,4 @@
 0595. ✨ feat: enable dark mode toggle
 0397. 🐛 fix: handle 500 error in quiz API
 0565. ♻️ chore: add GitHub actions badge
+0689. 🎨 style: reformat files with black
