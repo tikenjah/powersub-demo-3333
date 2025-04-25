@@ -10537,3 +10537,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0622. 🎨 style: apply consistent indentation
 0825. 🔧 refactor: split large controller into smaller functions
+0746. ♻️ chore: add GitHub actions badge
