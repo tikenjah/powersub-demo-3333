@@ -5525,3 +5525,4 @@
 0194. 🎨 style: standardize quote style
 0875. ✅ test: increase coverage on auth module
 0869. ♻️ chore: bump dependencies
+0567. 📚 docs: add API usage examples
