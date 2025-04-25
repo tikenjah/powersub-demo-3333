@@ -2710,3 +2710,4 @@
 0019. ✨ feat: enable dark mode toggle
 0543. ✨ feat: support email verification
 0484. 🐛 fix: handle 500 error in quiz API
+0688. 🚀 perf: reduce image load time
