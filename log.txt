@@ -7534,3 +7534,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0689. 🎨 style: reformat files with black
 0831. 📚 docs: clarify environment setup
+0374. 🎨 style: standardize quote style
