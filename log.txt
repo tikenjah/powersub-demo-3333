@@ -7529,3 +7529,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0764. ✨ feat: add user authentication
 0429. ✨ feat: add user authentication
+0595. ✨ feat: enable dark mode toggle
