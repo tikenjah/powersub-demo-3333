@@ -5523,3 +5523,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0699. 🎨 style: standardize quote style
 0194. 🎨 style: standardize quote style
+0875. ✅ test: increase coverage on auth module
