@@ -2726,3 +2726,4 @@
 0037. 🐛 fix: correct typo in registration form
 0595. ✨ feat: enable dark mode toggle
 0371. ✅ test: add integration test for /submit endpoint
+0711. 🐛 fix: fix broken CSS in mobile view
