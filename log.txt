@@ -5526,3 +5526,4 @@
 0875. ✅ test: increase coverage on auth module
 0869. ♻️ chore: bump dependencies
 0567. 📚 docs: add API usage examples
+0489. 🔧 refactor: organize models into subfolders
