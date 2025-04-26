@@ -2721,3 +2721,4 @@
 0322. 🔧 refactor: split large controller into smaller functions
 0700. 🎨 style: rename variables for clarity
 0970. ♻️ chore: update .gitignore
+0841. 🚀 perf: optimize database query for quiz results
