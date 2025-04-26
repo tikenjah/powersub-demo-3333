@@ -8548,3 +8548,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0092. 🚀 perf: reduce image load time
 0426. ✅ test: add integration test for /submit endpoint
+0946. ✅ test: add unit test for quiz service
