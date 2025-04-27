@@ -2731,3 +2731,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0989. 📚 docs: write FAQ section
 0277. 🎨 style: standardize quote style
+0727. ♻️ chore: add GitHub actions badge
