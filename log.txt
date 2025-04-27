@@ -7538,3 +7538,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0116. ✨ feat: support email verification
 0259. 🚀 perf: lazy-load components
+0408. ♻️ chore: add GitHub actions badge
