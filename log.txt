@@ -2741,3 +2741,4 @@
 0351. ✨ feat: add export to CSV option
 0291. 📚 docs: write FAQ section
 0815. 🔧 refactor: split large controller into smaller functions
+0098. 🎨 style: rename variables for clarity
