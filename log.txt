@@ -6544,3 +6544,4 @@
 0722. 📚 docs: add API usage examples
 0552. 🐛 fix: fix null pointer exception on login
 0211. 🔧 refactor: remove redundant code blocks
+0020. ✅ test: add integration test for /submit endpoint
