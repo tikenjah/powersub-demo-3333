@@ -5527,3 +5527,4 @@
 0869. ♻️ chore: bump dependencies
 0567. 📚 docs: add API usage examples
 0489. 🔧 refactor: organize models into subfolders
+0222. 🐛 fix: handle 500 error in quiz API
