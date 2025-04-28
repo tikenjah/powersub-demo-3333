@@ -2750,3 +2750,4 @@
 0582. ✨ feat: add export to CSV option
 0034. 📚 docs: improve code comments in utils
 0027. 📚 docs: clarify environment setup
+0889. 🚀 perf: lazy-load components
