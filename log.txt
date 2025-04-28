@@ -2751,3 +2751,4 @@
 0034. 📚 docs: improve code comments in utils
 0027. 📚 docs: clarify environment setup
 0889. 🚀 perf: lazy-load components
+0795. 📚 docs: update README with setup steps
