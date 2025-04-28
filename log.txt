@@ -8555,3 +8555,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0325. 🎨 style: rename variables for clarity
 0299. 🐛 fix: resolve issue with date parsing
+0513. ♻️ chore: bump dependencies
