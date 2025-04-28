@@ -7539,3 +7539,4 @@
 0116. ✨ feat: support email verification
 0259. 🚀 perf: lazy-load components
 0408. ♻️ chore: add GitHub actions badge
+0913. 🚀 perf: optimize database query for quiz results
