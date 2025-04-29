@@ -10548,3 +10548,4 @@
 0275. 🎨 style: standardize quote style
 0013. ✅ test: increase coverage on auth module
 0416. 🎨 style: rename variables for clarity
+0252. 🎨 style: remove trailing whitespace
