@@ -2774,3 +2774,4 @@
 0797. 📚 docs: add API usage examples
 0377. ✨ feat: add user authentication
 0733. 🐛 fix: fix null pointer exception on login
+0801. ✨ feat: enable dark mode toggle
