@@ -2778,3 +2778,4 @@
 0135. ✅ test: test user registration edge cases
 0540. ♻️ chore: add GitHub actions badge
 0315. ✅ test: add integration test for /submit endpoint
+0010. ✨ feat: add user authentication
