@@ -7551,3 +7551,4 @@
 0904. ✨ feat: implement quiz timer feature
 0109. 🚀 perf: lazy-load components
 0453. 🎨 style: standardize quote style
+0663. 🚀 perf: reduce image load time
