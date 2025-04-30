@@ -6553,3 +6553,4 @@
 0618. ✨ feat: support email verification
 0782. 📚 docs: improve code comments in utils
 0791. 🔧 refactor: clean up auth middleware
+0786. ✨ feat: enable dark mode toggle
