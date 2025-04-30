@@ -5535,3 +5535,4 @@
 0556. ✨ feat: support email verification
 0067. 🔧 refactor: remove redundant code blocks
 0087. ✨ feat: add export to CSV option
+0086. 🐛 fix: correct typo in registration form
