@@ -6551,3 +6551,4 @@
 0739. 🎨 style: remove trailing whitespace
 0995. ✅ test: mock database connection in test suite
 0618. ✨ feat: support email verification
+0782. 📚 docs: improve code comments in utils
