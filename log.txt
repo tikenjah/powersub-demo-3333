@@ -7545,3 +7545,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0586. 🎨 style: remove trailing whitespace
 0005. ✅ test: add unit test for quiz service
+0380. 🐛 fix: fix null pointer exception on login
