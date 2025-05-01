@@ -6557,3 +6557,4 @@
 0510. 🎨 style: rename variables for clarity
 0822. 🔧 refactor: remove redundant code blocks
 0121. ✨ feat: support email verification
+0231. 🔧 refactor: clean up auth middleware
