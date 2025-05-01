@@ -2790,3 +2790,4 @@
 0247. 🎨 style: apply consistent indentation
 0660. 🐛 fix: correct typo in registration form
 0056. ♻️ chore: rename env.example
+0707. 🎨 style: apply consistent indentation
