@@ -10553,3 +10553,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0130. 🔧 refactor: split large controller into smaller functions
 0270. ♻️ chore: rename env.example
+0400. 🐛 fix: fix null pointer exception on login
