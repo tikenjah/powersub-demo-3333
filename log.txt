@@ -2792,3 +2792,4 @@
 0056. ♻️ chore: rename env.example
 0707. 🎨 style: apply consistent indentation
 0953. 🎨 style: remove trailing whitespace
+0390. 🎨 style: standardize quote style
