@@ -2788,3 +2788,4 @@
 0575. ✅ test: add unit test for quiz service
 0633. ✨ feat: add user authentication
 0247. 🎨 style: apply consistent indentation
+0660. 🐛 fix: correct typo in registration form
