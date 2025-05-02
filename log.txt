@@ -2796,3 +2796,4 @@
 0046. 🎨 style: rename variables for clarity
 0253. 📚 docs: update README with setup steps
 0775. 🐛 fix: fix null pointer exception on login
+0122. ✨ feat: support email verification
