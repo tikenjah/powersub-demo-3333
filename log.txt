@@ -2800,3 +2800,4 @@
 0317. ✅ test: test user registration edge cases
 0805. ♻️ chore: add GitHub actions badge
 0770. ♻️ chore: rename env.example
+0064. 📚 docs: clarify environment setup
