@@ -2801,3 +2801,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0770. ♻️ chore: rename env.example
 0064. 📚 docs: clarify environment setup
+0798. 🚀 perf: reduce image load time
