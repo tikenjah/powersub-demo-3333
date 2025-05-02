@@ -7556,3 +7556,4 @@
 0561. 📚 docs: write FAQ section
 0042. 📚 docs: document token refresh logic
 0289. 🐛 fix: resolve issue with date parsing
+0171. 🐛 fix: fix broken CSS in mobile view
