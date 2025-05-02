@@ -2798,3 +2798,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0122. ✨ feat: support email verification
 0317. ✅ test: test user registration edge cases
+0805. ♻️ chore: add GitHub actions badge
