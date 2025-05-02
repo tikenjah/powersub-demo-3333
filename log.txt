@@ -7554,3 +7554,4 @@
 0663. 🚀 perf: reduce image load time
 0622. 🎨 style: apply consistent indentation
 0561. 📚 docs: write FAQ section
+0042. 📚 docs: document token refresh logic
