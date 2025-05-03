@@ -5543,3 +5543,4 @@
 0716. ✨ feat: implement quiz timer feature
 0961. 📚 docs: add API usage examples
 0640. ♻️ chore: bump dependencies
+0621. 🔧 refactor: clean up auth middleware
