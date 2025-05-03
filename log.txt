@@ -2809,3 +2809,4 @@
 0594. 🎨 style: reformat files with black
 0100. ♻️ chore: update .gitignore
 0787. ♻️ chore: rename env.example
+0819. 🚀 perf: reduce image load time
