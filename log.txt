@@ -7559,3 +7559,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0307. ✨ feat: support email verification
 0925. ✨ feat: add export to CSV option
+0899. 🚀 perf: cache repeated calculations
