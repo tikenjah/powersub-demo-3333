@@ -8565,3 +8565,4 @@
 0225. 🚀 perf: reduce image load time
 0443. 🎨 style: standardize quote style
 0246. ✅ test: add integration test for /submit endpoint
+0721. 🚀 perf: optimize database query for quiz results
