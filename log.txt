@@ -2812,3 +2812,4 @@
 0819. 🚀 perf: reduce image load time
 0781. 🚀 perf: reduce image load time
 0973. 🔧 refactor: organize models into subfolders
+0140. 🐛 fix: handle 500 error in quiz API
