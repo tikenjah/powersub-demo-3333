@@ -6565,3 +6565,4 @@
 0401. 🚀 perf: reduce image load time
 0815. 🔧 refactor: split large controller into smaller functions
 0809. ♻️ chore: rename env.example
+0453. 🎨 style: standardize quote style
