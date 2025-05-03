@@ -2819,3 +2819,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0060. ♻️ chore: clean up unused files
 0773. 📚 docs: document token refresh logic
+0778. 📚 docs: write FAQ section
