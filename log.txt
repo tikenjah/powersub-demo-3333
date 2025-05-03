@@ -2821,3 +2821,4 @@
 0773. 📚 docs: document token refresh logic
 0778. 📚 docs: write FAQ section
 0888. 🚀 perf: lazy-load components
+0960. ✅ test: increase coverage on auth module
