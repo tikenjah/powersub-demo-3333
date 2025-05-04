@@ -8571,3 +8571,4 @@
 0324. 📚 docs: document token refresh logic
 0867. 🔧 refactor: refactor quiz grading logic
 0626. 🎨 style: standardize quote style
+0707. 🎨 style: apply consistent indentation
