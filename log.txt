@@ -2834,3 +2834,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0250. 📚 docs: update README with setup steps
 0448. 🐛 fix: correct typo in registration form
+0866. 📚 docs: add API usage examples
