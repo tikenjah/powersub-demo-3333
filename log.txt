@@ -8572,3 +8572,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0626. 🎨 style: standardize quote style
 0707. 🎨 style: apply consistent indentation
+0347. ♻️ chore: update .gitignore
