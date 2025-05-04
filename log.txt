@@ -7560,3 +7560,4 @@
 0307. ✨ feat: support email verification
 0925. ✨ feat: add export to CSV option
 0899. 🚀 perf: cache repeated calculations
+0466. 🚀 perf: optimize database query for quiz results
