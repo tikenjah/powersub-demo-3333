@@ -2828,3 +2828,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0786. ✨ feat: enable dark mode toggle
 0361. ✨ feat: support email verification
+0871. ✅ test: add integration test for /submit endpoint
