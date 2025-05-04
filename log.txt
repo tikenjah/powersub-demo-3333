@@ -2831,3 +2831,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0978. 🐛 fix: prevent crash on empty input
 0934. ✨ feat: support email verification
+0025. 🚀 perf: optimize database query for quiz results
