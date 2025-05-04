@@ -2826,3 +2826,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0748. 🚀 perf: optimize database query for quiz results
 0310. 🔧 refactor: refactor quiz grading logic
+0786. ✨ feat: enable dark mode toggle
