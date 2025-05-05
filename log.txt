@@ -2839,3 +2839,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0411. ✅ test: add unit test for quiz service
 0265. 🎨 style: reformat files with black
+0584. 🚀 perf: lazy-load components
