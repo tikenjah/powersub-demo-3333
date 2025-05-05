@@ -2842,3 +2842,4 @@
 0584. 🚀 perf: lazy-load components
 0911. ✅ test: increase coverage on auth module
 0589. 🐛 fix: fix broken CSS in mobile view
+0542. 🔧 refactor: organize models into subfolders
