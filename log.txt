@@ -6569,3 +6569,4 @@
 0639. 🐛 fix: correct typo in registration form
 0249. ✅ test: increase coverage on auth module
 0490. ✨ feat: create admin dashboard
+0817. 🔧 refactor: remove redundant code blocks
