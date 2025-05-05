@@ -2837,3 +2837,4 @@
 0866. 📚 docs: add API usage examples
 0354. 📚 docs: add API usage examples
 0248. 🐛 fix: handle 500 error in quiz API
+0411. ✅ test: add unit test for quiz service
