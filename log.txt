@@ -8580,3 +8580,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0241. 📚 docs: add API usage examples
 0636. ✅ test: increase coverage on auth module
+0849. 🐛 fix: correct typo in registration form
