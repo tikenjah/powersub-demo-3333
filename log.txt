@@ -2859,3 +2859,4 @@
 0196. ♻️ chore: bump dependencies
 0040. 🔧 refactor: clean up auth middleware
 0769. ✨ feat: create admin dashboard
+0583. ✅ test: increase coverage on auth module
