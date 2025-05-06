@@ -2850,3 +2850,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0254. 🚀 perf: reduce image load time
 0286. ✅ test: mock database connection in test suite
+0479. 🐛 fix: fix null pointer exception on login
