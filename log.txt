@@ -2857,3 +2857,4 @@
 0194. 🎨 style: standardize quote style
 0719. 🎨 style: apply consistent indentation
 0196. ♻️ chore: bump dependencies
+0040. 🔧 refactor: clean up auth middleware
