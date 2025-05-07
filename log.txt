@@ -2878,3 +2878,4 @@
 0938. 🎨 style: rename variables for clarity
 0292. 📚 docs: clarify environment setup
 0316. 🐛 fix: fix broken CSS in mobile view
+0860. 🔧 refactor: organize models into subfolders
