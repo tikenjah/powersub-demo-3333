@@ -8581,3 +8581,4 @@
 0241. 📚 docs: add API usage examples
 0636. ✅ test: increase coverage on auth module
 0849. 🐛 fix: correct typo in registration form
+0238. 🎨 style: apply consistent indentation
