@@ -2861,3 +2861,4 @@
 0769. ✨ feat: create admin dashboard
 0583. ✅ test: increase coverage on auth module
 0599. ✅ test: test user registration edge cases
+0053. ✅ test: increase coverage on auth module
