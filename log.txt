@@ -2872,3 +2872,4 @@
 0833. ✨ feat: add user authentication
 0484. 🐛 fix: handle 500 error in quiz API
 0872. 🎨 style: rename variables for clarity
+0487. 🎨 style: reformat files with black
