@@ -6577,3 +6577,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0828. ♻️ chore: add GitHub actions badge
 0215. 🎨 style: reformat files with black
+0403. ✅ test: mock database connection in test suite
