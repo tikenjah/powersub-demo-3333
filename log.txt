@@ -8582,3 +8582,4 @@
 0636. ✅ test: increase coverage on auth module
 0849. 🐛 fix: correct typo in registration form
 0238. 🎨 style: apply consistent indentation
+0044. ✅ test: add unit test for quiz service
