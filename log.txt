@@ -2866,3 +2866,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0901. ✨ feat: add user authentication
 0501. ✨ feat: add export to CSV option
+0737. 🐛 fix: handle 500 error in quiz API
