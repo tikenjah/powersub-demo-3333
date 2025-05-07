@@ -9564,3 +9564,4 @@
 0204. 🎨 style: standardize quote style
 0580. ♻️ chore: bump dependencies
 0634. 🎨 style: reformat files with black
+0942. ✅ test: increase coverage on auth module
