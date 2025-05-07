@@ -6574,3 +6574,4 @@
 0105. 🐛 fix: correct typo in registration form
 0254. 🚀 perf: reduce image load time
 0161. ✨ feat: create admin dashboard
+0680. ♻️ chore: add GitHub actions badge
