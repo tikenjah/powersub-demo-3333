@@ -2888,3 +2888,4 @@
 0512. 🚀 perf: reduce image load time
 0872. 🎨 style: rename variables for clarity
 0877. 🚀 perf: optimize database query for quiz results
+0471. ✨ feat: support email verification
