@@ -9565,3 +9565,4 @@
 0580. ♻️ chore: bump dependencies
 0634. 🎨 style: reformat files with black
 0942. ✅ test: increase coverage on auth module
+0971. 🎨 style: standardize quote style
