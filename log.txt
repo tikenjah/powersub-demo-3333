@@ -2894,3 +2894,4 @@
 0769. ✨ feat: create admin dashboard
 0510. 🎨 style: rename variables for clarity
 0575. ✅ test: add unit test for quiz service
+0436. ✅ test: add integration test for /submit endpoint
