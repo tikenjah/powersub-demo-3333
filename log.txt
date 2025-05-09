@@ -10568,3 +10568,4 @@
 0242. ♻️ chore: clean up unused files
 0493. ✨ feat: add user authentication
 0056. ♻️ chore: rename env.example
+0482. ✨ feat: add export to CSV option
