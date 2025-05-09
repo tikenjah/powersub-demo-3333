@@ -8586,3 +8586,4 @@
 0654. ✨ feat: create admin dashboard
 0984. ♻️ chore: clean up unused files
 0936. 🔧 refactor: organize models into subfolders
+0529. 📚 docs: write FAQ section
