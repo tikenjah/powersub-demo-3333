@@ -2902,3 +2902,4 @@
 0991. ♻️ chore: clean up unused files
 0464. 🎨 style: remove trailing whitespace
 0108. 🎨 style: remove trailing whitespace
+0249. ✅ test: increase coverage on auth module
