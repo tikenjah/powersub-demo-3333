@@ -2903,3 +2903,4 @@
 0464. 🎨 style: remove trailing whitespace
 0108. 🎨 style: remove trailing whitespace
 0249. ✅ test: increase coverage on auth module
+0688. 🚀 perf: reduce image load time
