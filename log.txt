@@ -2900,3 +2900,4 @@
 0582. ✨ feat: add export to CSV option
 0539. 🔧 refactor: organize models into subfolders
 0991. ♻️ chore: clean up unused files
+0464. 🎨 style: remove trailing whitespace
