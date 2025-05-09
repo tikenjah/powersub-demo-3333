@@ -2896,3 +2896,4 @@
 0575. ✅ test: add unit test for quiz service
 0436. ✅ test: add integration test for /submit endpoint
 0759. 🔧 refactor: organize models into subfolders
+0754. 🐛 fix: handle 500 error in quiz API
