@@ -8592,3 +8592,4 @@
 0586. 🎨 style: remove trailing whitespace
 0662. ♻️ chore: clean up unused files
 0128. ♻️ chore: rename env.example
+0701. 🔧 refactor: clean up auth middleware
