@@ -7580,3 +7580,4 @@
 0584. 🚀 perf: lazy-load components
 0937. 🐛 fix: handle 500 error in quiz API
 0373. 📚 docs: document token refresh logic
+0811. 🎨 style: reformat files with black
