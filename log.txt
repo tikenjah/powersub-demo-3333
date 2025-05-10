@@ -8591,3 +8591,4 @@
 0363. 📚 docs: clarify environment setup
 0586. 🎨 style: remove trailing whitespace
 0662. ♻️ chore: clean up unused files
+0128. ♻️ chore: rename env.example
