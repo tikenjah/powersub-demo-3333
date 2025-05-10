@@ -2916,3 +2916,4 @@
 0921. 🐛 fix: correct typo in registration form
 0566. 📚 docs: write FAQ section
 0886. ♻️ chore: clean up unused files
+0922. 📚 docs: write FAQ section
