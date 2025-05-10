@@ -2913,3 +2913,4 @@
 0569. 📚 docs: document token refresh logic
 0335. ♻️ chore: update .gitignore
 0014. 🔧 refactor: remove redundant code blocks
+0921. 🐛 fix: correct typo in registration form
