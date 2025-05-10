@@ -10571,3 +10571,4 @@
 0482. ✨ feat: add export to CSV option
 0540. ♻️ chore: add GitHub actions badge
 0119. 📚 docs: improve code comments in utils
+0476. 🚀 perf: reduce image load time
