@@ -2908,3 +2908,4 @@
 0137. 🎨 style: rename variables for clarity
 0015. ✨ feat: implement quiz timer feature
 0140. 🐛 fix: handle 500 error in quiz API
+0574. ✨ feat: enable dark mode toggle
