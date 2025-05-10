@@ -2919,3 +2919,4 @@
 0922. 📚 docs: write FAQ section
 0364. 🐛 fix: resolve issue with date parsing
 0909. 🔧 refactor: organize models into subfolders
+0105. 🐛 fix: correct typo in registration form
