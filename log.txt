@@ -7581,3 +7581,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0373. 📚 docs: document token refresh logic
 0811. 🎨 style: reformat files with black
+0221. ✨ feat: add user authentication
