@@ -2928,3 +2928,4 @@
 0834. ✅ test: increase coverage on auth module
 0311. 🎨 style: apply consistent indentation
 0712. 🎨 style: apply consistent indentation
+0759. 🔧 refactor: organize models into subfolders
