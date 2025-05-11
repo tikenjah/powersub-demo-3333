@@ -10572,3 +10572,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0119. 📚 docs: improve code comments in utils
 0476. 🚀 perf: reduce image load time
+0503. ♻️ chore: rename env.example
