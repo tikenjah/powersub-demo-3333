@@ -2929,3 +2929,4 @@
 0311. 🎨 style: apply consistent indentation
 0712. 🎨 style: apply consistent indentation
 0759. 🔧 refactor: organize models into subfolders
+0996. ✅ test: test user registration edge cases
