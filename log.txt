@@ -7586,3 +7586,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0250. 📚 docs: update README with setup steps
 0074. ♻️ chore: add GitHub actions badge
+0988. 🐛 fix: fix broken CSS in mobile view
