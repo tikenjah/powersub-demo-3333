@@ -7583,3 +7583,4 @@
 0811. 🎨 style: reformat files with black
 0221. ✨ feat: add user authentication
 0861. ♻️ chore: clean up unused files
+0066. 🔧 refactor: clean up auth middleware
