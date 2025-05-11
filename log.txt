@@ -7585,3 +7585,4 @@
 0861. ♻️ chore: clean up unused files
 0066. 🔧 refactor: clean up auth middleware
 0250. 📚 docs: update README with setup steps
+0074. ♻️ chore: add GitHub actions badge
