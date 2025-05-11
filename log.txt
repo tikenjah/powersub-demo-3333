@@ -2926,3 +2926,4 @@
 0471. ✨ feat: support email verification
 0183. 🔧 refactor: split large controller into smaller functions
 0834. ✅ test: increase coverage on auth module
+0311. 🎨 style: apply consistent indentation
