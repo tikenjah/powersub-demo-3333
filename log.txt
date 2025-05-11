@@ -9568,3 +9568,4 @@
 0971. 🎨 style: standardize quote style
 0646. ✅ test: test user registration edge cases
 0150. 🎨 style: remove trailing whitespace
+0076. 🎨 style: reformat files with black
