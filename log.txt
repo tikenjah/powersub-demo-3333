@@ -2938,3 +2938,4 @@
 0798. 🚀 perf: reduce image load time
 0236. 🔧 refactor: remove redundant code blocks
 0359. 🔧 refactor: clean up auth middleware
+0543. ✨ feat: support email verification
