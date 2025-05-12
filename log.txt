@@ -8595,3 +8595,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0074. ♻️ chore: add GitHub actions badge
 0976. ✨ feat: implement quiz timer feature
+0546. 🐛 fix: fix null pointer exception on login
