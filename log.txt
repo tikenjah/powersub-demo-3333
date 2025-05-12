@@ -10578,3 +10578,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0967. ♻️ chore: add GitHub actions badge
 0752. ✅ test: add integration test for /submit endpoint
+0589. 🐛 fix: fix broken CSS in mobile view
