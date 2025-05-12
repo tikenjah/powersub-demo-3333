@@ -10576,3 +10576,4 @@
 0334. 🚀 perf: cache repeated calculations
 0133. 🐛 fix: fix null pointer exception on login
 0331. 🐛 fix: fix broken CSS in mobile view
+0967. ♻️ chore: add GitHub actions badge
