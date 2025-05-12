@@ -2937,3 +2937,4 @@
 0939. 📚 docs: update README with setup steps
 0798. 🚀 perf: reduce image load time
 0236. 🔧 refactor: remove redundant code blocks
+0359. 🔧 refactor: clean up auth middleware
