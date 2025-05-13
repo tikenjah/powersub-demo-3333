@@ -2945,3 +2945,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0566. 📚 docs: write FAQ section
 0272. 🔧 refactor: remove redundant code blocks
+0742. 📚 docs: clarify environment setup
