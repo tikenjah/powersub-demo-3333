@@ -8599,3 +8599,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0749. ✨ feat: support email verification
 0330. ✅ test: test user registration edge cases
+0615. 🐛 fix: correct typo in registration form
