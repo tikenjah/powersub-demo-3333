@@ -2941,3 +2941,4 @@
 0543. ✨ feat: support email verification
 0739. 🎨 style: remove trailing whitespace
 0747. 🔧 refactor: clean up auth middleware
+0841. 🚀 perf: optimize database query for quiz results
