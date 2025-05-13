@@ -9572,3 +9572,4 @@
 0307. ✨ feat: support email verification
 0421. 🔧 refactor: split large controller into smaller functions
 0884. 📚 docs: clarify environment setup
+0593. 🐛 fix: correct typo in registration form
