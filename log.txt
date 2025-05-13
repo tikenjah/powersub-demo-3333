@@ -8600,3 +8600,4 @@
 0749. ✨ feat: support email verification
 0330. ✅ test: test user registration edge cases
 0615. 🐛 fix: correct typo in registration form
+0168. ✅ test: add integration test for /submit endpoint
