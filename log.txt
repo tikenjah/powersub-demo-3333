@@ -6598,3 +6598,4 @@
 0062. ♻️ chore: update .gitignore
 0990. ♻️ chore: rename env.example
 0035. ✅ test: increase coverage on auth module
+0447. ♻️ chore: bump dependencies
