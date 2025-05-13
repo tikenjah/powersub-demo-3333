@@ -7589,3 +7589,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0347. ♻️ chore: update .gitignore
 0928. 🎨 style: apply consistent indentation
+0362. 📚 docs: add API usage examples
