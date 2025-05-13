@@ -10582,3 +10582,4 @@
 0811. 🎨 style: reformat files with black
 0032. 🎨 style: apply consistent indentation
 0238. 🎨 style: apply consistent indentation
+0292. 📚 docs: clarify environment setup
