@@ -2946,3 +2946,4 @@
 0566. 📚 docs: write FAQ section
 0272. 🔧 refactor: remove redundant code blocks
 0742. 📚 docs: clarify environment setup
+0775. 🐛 fix: fix null pointer exception on login
