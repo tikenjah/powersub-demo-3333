@@ -2948,3 +2948,4 @@
 0742. 📚 docs: clarify environment setup
 0775. 🐛 fix: fix null pointer exception on login
 0019. ✨ feat: enable dark mode toggle
+0479. 🐛 fix: fix null pointer exception on login
