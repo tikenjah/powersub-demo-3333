@@ -8598,3 +8598,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0999. 🔧 refactor: split large controller into smaller functions
 0749. ✨ feat: support email verification
+0330. ✅ test: test user registration edge cases
