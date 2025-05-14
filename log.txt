@@ -9579,3 +9579,4 @@
 0883. 📚 docs: improve code comments in utils
 0824. 🚀 perf: lazy-load components
 0022. 📚 docs: document token refresh logic
+0197. 📚 docs: update README with setup steps
