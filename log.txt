@@ -2967,3 +2967,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0729. 🔧 refactor: refactor quiz grading logic
 0996. ✅ test: test user registration edge cases
+0056. ♻️ chore: rename env.example
