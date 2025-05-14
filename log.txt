@@ -2961,3 +2961,4 @@
 0090. ✅ test: increase coverage on auth module
 0868. ✅ test: add unit test for quiz service
 0607. 🐛 fix: prevent crash on empty input
+0277. 🎨 style: standardize quote style
