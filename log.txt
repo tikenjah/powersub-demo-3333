@@ -2962,3 +2962,4 @@
 0868. ✅ test: add unit test for quiz service
 0607. 🐛 fix: prevent crash on empty input
 0277. 🎨 style: standardize quote style
+0063. 🐛 fix: handle 500 error in quiz API
