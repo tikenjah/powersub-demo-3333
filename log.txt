@@ -2958,3 +2958,4 @@
 0345. 📚 docs: document token refresh logic
 0695. ✨ feat: create admin dashboard
 0122. ✨ feat: support email verification
+0090. ✅ test: increase coverage on auth module
