@@ -2960,3 +2960,4 @@
 0122. ✨ feat: support email verification
 0090. ✅ test: increase coverage on auth module
 0868. ✅ test: add unit test for quiz service
+0607. 🐛 fix: prevent crash on empty input
