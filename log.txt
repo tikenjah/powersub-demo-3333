@@ -5564,3 +5564,4 @@
 0523. ♻️ chore: bump dependencies
 0048. 📚 docs: update README with setup steps
 0646. ✅ test: test user registration edge cases
+0710. 🐛 fix: fix broken CSS in mobile view
