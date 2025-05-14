@@ -6601,3 +6601,4 @@
 0447. ♻️ chore: bump dependencies
 0585. 🚀 perf: lazy-load components
 0589. 🐛 fix: fix broken CSS in mobile view
+0958. 🐛 fix: prevent crash on empty input
