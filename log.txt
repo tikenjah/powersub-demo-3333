@@ -9578,3 +9578,4 @@
 0798. 🚀 perf: reduce image load time
 0883. 📚 docs: improve code comments in utils
 0824. 🚀 perf: lazy-load components
+0022. 📚 docs: document token refresh logic
