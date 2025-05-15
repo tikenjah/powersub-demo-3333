@@ -2980,3 +2980,4 @@
 0632. 🎨 style: remove trailing whitespace
 0407. 🚀 perf: cache repeated calculations
 0653. 🐛 fix: prevent crash on empty input
+0561. 📚 docs: write FAQ section
