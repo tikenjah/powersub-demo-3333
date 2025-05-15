@@ -2975,3 +2975,4 @@
 0730. ✅ test: test user registration edge cases
 0554. 📚 docs: improve code comments in utils
 0895. ✨ feat: support email verification
+0515. 🚀 perf: optimize database query for quiz results
