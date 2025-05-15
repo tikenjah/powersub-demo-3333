@@ -2970,3 +2970,4 @@
 0056. ♻️ chore: rename env.example
 0026. 🔧 refactor: clean up auth middleware
 0880. 🐛 fix: fix broken CSS in mobile view
+0040. 🔧 refactor: clean up auth middleware
