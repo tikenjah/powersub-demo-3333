@@ -10585,3 +10585,4 @@
 0292. 📚 docs: clarify environment setup
 0233. 🚀 perf: lazy-load components
 0663. 🚀 perf: reduce image load time
+0018. 🔧 refactor: organize models into subfolders
