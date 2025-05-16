@@ -7599,3 +7599,4 @@
 0048. 📚 docs: update README with setup steps
 0306. 🎨 style: apply consistent indentation
 0573. ✅ test: add integration test for /submit endpoint
+0856. 🐛 fix: fix null pointer exception on login
