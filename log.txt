@@ -2995,3 +2995,4 @@
 0010. ✨ feat: add user authentication
 0987. ✨ feat: create admin dashboard
 0984. ♻️ chore: clean up unused files
+0675. 🔧 refactor: organize models into subfolders
