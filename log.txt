@@ -2984,3 +2984,4 @@
 0474. ✅ test: add unit test for quiz service
 0080. ✨ feat: support email verification
 0907. 🔧 refactor: split large controller into smaller functions
+0221. ✨ feat: add user authentication
