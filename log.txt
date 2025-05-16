@@ -9586,3 +9586,4 @@
 0273. 🚀 perf: reduce image load time
 0237. 🎨 style: standardize quote style
 0953. 🎨 style: remove trailing whitespace
+0929. ✨ feat: support email verification
