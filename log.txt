@@ -10589,3 +10589,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0125. ✅ test: add integration test for /submit endpoint
 0665. ♻️ chore: update .gitignore
+0529. 📚 docs: write FAQ section
