@@ -2992,3 +2992,4 @@
 0918. ✨ feat: enable dark mode toggle
 0621. 🔧 refactor: clean up auth middleware
 0734. ✨ feat: add export to CSV option
+0010. ✨ feat: add user authentication
