@@ -8606,3 +8606,4 @@
 0940. 📚 docs: document token refresh logic
 0024. 📚 docs: write FAQ section
 0112. ✨ feat: enable dark mode toggle
+0264. 🚀 perf: optimize database query for quiz results
