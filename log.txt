@@ -10590,3 +10590,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0665. ♻️ chore: update .gitignore
 0529. 📚 docs: write FAQ section
+0287. 📚 docs: write FAQ section
