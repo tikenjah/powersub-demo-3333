@@ -5571,3 +5571,4 @@
 0435. ✅ test: add unit test for quiz service
 0032. 🎨 style: apply consistent indentation
 0258. 🐛 fix: prevent crash on empty input
+0467. ✅ test: add integration test for /submit endpoint
