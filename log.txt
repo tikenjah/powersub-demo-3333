@@ -10592,3 +10592,4 @@
 0529. 📚 docs: write FAQ section
 0287. 📚 docs: write FAQ section
 0271. ✅ test: add unit test for quiz service
+0049. 🐛 fix: handle 500 error in quiz API
