@@ -7602,3 +7602,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0634. 🎨 style: reformat files with black
 0888. 🚀 perf: lazy-load components
+0989. 📚 docs: write FAQ section
