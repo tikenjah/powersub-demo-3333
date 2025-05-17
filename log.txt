@@ -6606,3 +6606,4 @@
 0847. ♻️ chore: clean up unused files
 0481. ✅ test: add unit test for quiz service
 0507. 🔧 refactor: clean up auth middleware
+0489. 🔧 refactor: organize models into subfolders
