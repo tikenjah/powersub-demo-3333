@@ -3003,3 +3003,4 @@
 0501. ✨ feat: add export to CSV option
 0432. 🎨 style: apply consistent indentation
 0021. ✨ feat: support email verification
+0700. 🎨 style: rename variables for clarity
