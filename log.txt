@@ -9590,3 +9590,4 @@
 0362. 📚 docs: add API usage examples
 0941. 🚀 perf: cache repeated calculations
 0755. 🚀 perf: cache repeated calculations
+0969. ✨ feat: create admin dashboard
