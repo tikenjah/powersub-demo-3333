@@ -5573,3 +5573,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0467. ✅ test: add integration test for /submit endpoint
 0380. 🐛 fix: fix null pointer exception on login
+0201. 🔧 refactor: clean up auth middleware
