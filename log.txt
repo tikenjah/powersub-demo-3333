@@ -3010,3 +3010,4 @@
 0766. 🎨 style: reformat files with black
 0364. 🐛 fix: resolve issue with date parsing
 0207. 🐛 fix: prevent crash on empty input
+0906. 📚 docs: add API usage examples
