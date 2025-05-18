@@ -3014,3 +3014,4 @@
 0769. ✨ feat: create admin dashboard
 0451. ✨ feat: support email verification
 0907. 🔧 refactor: split large controller into smaller functions
+0248. 🐛 fix: handle 500 error in quiz API
