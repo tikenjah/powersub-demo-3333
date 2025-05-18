@@ -3017,3 +3017,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0299. 🐛 fix: resolve issue with date parsing
 0697. ♻️ chore: bump dependencies
+0620. ✨ feat: implement quiz timer feature
