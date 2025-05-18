@@ -10596,3 +10596,4 @@
 0265. 🎨 style: reformat files with black
 0472. 🐛 fix: fix null pointer exception on login
 0949. 📚 docs: write FAQ section
+0545. 🎨 style: standardize quote style
