@@ -5578,3 +5578,4 @@
 0326. 🚀 perf: cache repeated calculations
 0816. 🔧 refactor: organize models into subfolders
 0561. 📚 docs: write FAQ section
+0496. ✅ test: add integration test for /submit endpoint
