@@ -3029,3 +3029,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0738. 🐛 fix: prevent crash on empty input
 0288. 🔧 refactor: refactor quiz grading logic
+0203. 🚀 perf: lazy-load components
