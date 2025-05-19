@@ -7609,3 +7609,4 @@
 0021. ✨ feat: support email verification
 0143. ✨ feat: implement quiz timer feature
 0618. ✨ feat: support email verification
+0621. 🔧 refactor: clean up auth middleware
