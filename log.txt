@@ -6614,3 +6614,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0108. 🎨 style: remove trailing whitespace
 0094. 📚 docs: document token refresh logic
+0663. 🚀 perf: reduce image load time
