@@ -3045,3 +3045,4 @@
 0337. 📚 docs: document token refresh logic
 0099. 🚀 perf: reduce image load time
 0167. 🚀 perf: reduce image load time
+0595. ✨ feat: enable dark mode toggle
