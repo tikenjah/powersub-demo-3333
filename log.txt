@@ -7610,3 +7610,4 @@
 0143. ✨ feat: implement quiz timer feature
 0618. ✨ feat: support email verification
 0621. 🔧 refactor: clean up auth middleware
+0578. ✅ test: add integration test for /submit endpoint
