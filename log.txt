@@ -3040,3 +3040,4 @@
 0927. ♻️ chore: bump dependencies
 0655. 🚀 perf: cache repeated calculations
 0126. 🎨 style: rename variables for clarity
+0397. 🐛 fix: handle 500 error in quiz API
