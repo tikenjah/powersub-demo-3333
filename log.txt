@@ -5579,3 +5579,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0561. 📚 docs: write FAQ section
 0496. ✅ test: add integration test for /submit endpoint
+0615. 🐛 fix: correct typo in registration form
