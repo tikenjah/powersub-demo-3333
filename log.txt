@@ -3042,3 +3042,4 @@
 0126. 🎨 style: rename variables for clarity
 0397. 🐛 fix: handle 500 error in quiz API
 0572. ✨ feat: add user authentication
+0337. 📚 docs: document token refresh logic
