@@ -5586,3 +5586,4 @@
 0432. 🎨 style: apply consistent indentation
 0681. ✨ feat: create admin dashboard
 0876. ♻️ chore: rename env.example
+0825. 🔧 refactor: split large controller into smaller functions
