@@ -10606,3 +10606,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0064. 📚 docs: clarify environment setup
 0962. ✨ feat: create admin dashboard
+0341. 🚀 perf: lazy-load components
