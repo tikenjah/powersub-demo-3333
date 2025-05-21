@@ -3057,3 +3057,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0128. ♻️ chore: rename env.example
 0419. 🎨 style: remove trailing whitespace
+0192. ✨ feat: enable dark mode toggle
