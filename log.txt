@@ -3062,3 +3062,4 @@
 0896. 🚀 perf: reduce image load time
 0478. 🐛 fix: resolve issue with date parsing
 0061. ✨ feat: create admin dashboard
+0388. 🎨 style: reformat files with black
