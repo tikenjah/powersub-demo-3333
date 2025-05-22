@@ -3065,3 +3065,4 @@
 0388. 🎨 style: reformat files with black
 0994. 🚀 perf: reduce image load time
 0353. ♻️ chore: rename env.example
+0406. ✨ feat: add export to CSV option
