@@ -5588,3 +5588,4 @@
 0876. ♻️ chore: rename env.example
 0825. 🔧 refactor: split large controller into smaller functions
 0614. 🚀 perf: reduce image load time
+0921. 🐛 fix: correct typo in registration form
