@@ -9603,3 +9603,4 @@
 0891. ✨ feat: create admin dashboard
 0489. 🔧 refactor: organize models into subfolders
 0816. 🔧 refactor: organize models into subfolders
+0706. ✨ feat: support email verification
