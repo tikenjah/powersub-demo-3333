@@ -6623,3 +6623,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0885. ♻️ chore: update .gitignore
 0984. ♻️ chore: clean up unused files
+0610. 🚀 perf: lazy-load components
