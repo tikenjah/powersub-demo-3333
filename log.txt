@@ -3075,3 +3075,4 @@
 0924. ✅ test: mock database connection in test suite
 0273. 🚀 perf: reduce image load time
 0619. ✨ feat: create admin dashboard
+0886. ♻️ chore: clean up unused files
