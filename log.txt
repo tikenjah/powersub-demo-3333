@@ -3082,3 +3082,4 @@
 0064. 📚 docs: clarify environment setup
 0817. 🔧 refactor: remove redundant code blocks
 0194. 🎨 style: standardize quote style
+0692. ✅ test: add integration test for /submit endpoint
