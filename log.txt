@@ -5595,3 +5595,4 @@
 0024. 📚 docs: write FAQ section
 0141. 📚 docs: document token refresh logic
 0046. 🎨 style: rename variables for clarity
+0741. 🎨 style: apply consistent indentation
