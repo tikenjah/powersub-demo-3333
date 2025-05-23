@@ -6621,3 +6621,4 @@
 0291. 📚 docs: write FAQ section
 0631. ✨ feat: create admin dashboard
 0757. 🔧 refactor: remove redundant code blocks
+0885. ♻️ chore: update .gitignore
