@@ -10608,3 +10608,4 @@
 0962. ✨ feat: create admin dashboard
 0341. 🚀 perf: lazy-load components
 0669. ✨ feat: enable dark mode toggle
+0100. ♻️ chore: update .gitignore
