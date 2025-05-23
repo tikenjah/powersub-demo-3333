@@ -3091,3 +3091,4 @@
 0962. ✨ feat: create admin dashboard
 0342. 🚀 perf: cache repeated calculations
 0437. 📚 docs: clarify environment setup
+0726. ✨ feat: enable dark mode toggle
