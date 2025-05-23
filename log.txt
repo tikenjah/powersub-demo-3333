@@ -3081,3 +3081,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0064. 📚 docs: clarify environment setup
 0817. 🔧 refactor: remove redundant code blocks
+0194. 🎨 style: standardize quote style
