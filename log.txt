@@ -5600,3 +5600,4 @@
 0112. ✨ feat: enable dark mode toggle
 0301. 🎨 style: apply consistent indentation
 0844. 📚 docs: update README with setup steps
+0996. ✅ test: test user registration edge cases
