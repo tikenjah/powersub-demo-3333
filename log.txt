@@ -9605,3 +9605,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0706. ✨ feat: support email verification
 0598. 🔧 refactor: remove redundant code blocks
+0893. 🐛 fix: handle 500 error in quiz API
