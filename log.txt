@@ -3104,3 +3104,4 @@
 0899. 🚀 perf: cache repeated calculations
 0499. 🎨 style: reformat files with black
 0620. ✨ feat: implement quiz timer feature
+0888. 🚀 perf: lazy-load components
