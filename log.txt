@@ -5596,3 +5596,4 @@
 0141. 📚 docs: document token refresh logic
 0046. 🎨 style: rename variables for clarity
 0741. 🎨 style: apply consistent indentation
+0096. 🐛 fix: prevent crash on empty input
