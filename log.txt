@@ -7618,3 +7618,4 @@
 0055. 📚 docs: update README with setup steps
 0676. 🐛 fix: prevent crash on empty input
 0366. 🔧 refactor: remove redundant code blocks
+0791. 🔧 refactor: clean up auth middleware
