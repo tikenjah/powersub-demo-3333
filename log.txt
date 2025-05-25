@@ -3123,3 +3123,4 @@
 0416. 🎨 style: rename variables for clarity
 0818. 🔧 refactor: remove redundant code blocks
 0497. 🔧 refactor: refactor quiz grading logic
+0475. 🔧 refactor: clean up auth middleware
