@@ -3112,3 +3112,4 @@
 0389. 📚 docs: improve code comments in utils
 0904. ✨ feat: implement quiz timer feature
 0288. 🔧 refactor: refactor quiz grading logic
+0013. ✅ test: increase coverage on auth module
