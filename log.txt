@@ -6639,3 +6639,4 @@
 0271. ✅ test: add unit test for quiz service
 0672. 🐛 fix: fix broken CSS in mobile view
 0685. ✅ test: test user registration edge cases
+0923. ✨ feat: support email verification
