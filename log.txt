@@ -7627,3 +7627,4 @@
 0330. ✅ test: test user registration edge cases
 0823. ✨ feat: add user authentication
 0369. 🎨 style: standardize quote style
+0948. 🐛 fix: fix broken CSS in mobile view
