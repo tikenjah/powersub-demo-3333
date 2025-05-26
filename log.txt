@@ -3129,3 +3129,4 @@
 0437. 📚 docs: clarify environment setup
 0603. 🐛 fix: fix broken CSS in mobile view
 0821. ✅ test: add integration test for /submit endpoint
+0979. 🎨 style: standardize quote style
