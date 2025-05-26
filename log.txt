@@ -3132,3 +3132,4 @@
 0979. 🎨 style: standardize quote style
 0029. 🚀 perf: lazy-load components
 0712. 🎨 style: apply consistent indentation
+0506. 🐛 fix: handle 500 error in quiz API
