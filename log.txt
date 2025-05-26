@@ -3127,3 +3127,4 @@
 0406. ✨ feat: add export to CSV option
 0069. 🎨 style: rename variables for clarity
 0437. 📚 docs: clarify environment setup
+0603. 🐛 fix: fix broken CSS in mobile view
