@@ -9614,3 +9614,4 @@
 0611. ✅ test: test user registration edge cases
 0157. ✅ test: mock database connection in test suite
 0837. 🚀 perf: cache repeated calculations
+0244. ✨ feat: add export to CSV option
