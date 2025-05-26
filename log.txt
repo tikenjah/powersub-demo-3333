@@ -3138,3 +3138,4 @@
 0339. 📚 docs: update README with setup steps
 0905. ♻️ chore: bump dependencies
 0972. 🔧 refactor: refactor quiz grading logic
+0462. ♻️ chore: update .gitignore
