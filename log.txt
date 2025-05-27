@@ -5606,3 +5606,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0586. 🎨 style: remove trailing whitespace
 0581. ✅ test: add integration test for /submit endpoint
+0493. ✨ feat: add user authentication
