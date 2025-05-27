@@ -3151,3 +3151,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0202. 🔧 refactor: refactor quiz grading logic
 0263. 📚 docs: add API usage examples
+0258. 🐛 fix: prevent crash on empty input
