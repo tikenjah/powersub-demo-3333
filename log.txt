@@ -6640,3 +6640,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0685. ✅ test: test user registration edge cases
 0923. ✨ feat: support email verification
+0912. 📚 docs: document token refresh logic
