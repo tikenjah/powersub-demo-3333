@@ -3147,3 +3147,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0714. 📚 docs: improve code comments in utils
 0459. 🔧 refactor: organize models into subfolders
+0212. 🎨 style: standardize quote style
