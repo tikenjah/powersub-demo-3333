@@ -3166,3 +3166,4 @@
 0486. ✨ feat: add export to CSV option
 0800. 🚀 perf: optimize database query for quiz results
 0524. ♻️ chore: rename env.example
+0517. ✅ test: mock database connection in test suite
