@@ -7630,3 +7630,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0342. 🚀 perf: cache repeated calculations
 0684. 🚀 perf: reduce image load time
+0698. 🐛 fix: handle 500 error in quiz API
