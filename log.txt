@@ -10617,3 +10617,4 @@
 0300. ✨ feat: add export to CSV option
 0811. 🎨 style: reformat files with black
 0480. ♻️ chore: add GitHub actions badge
+0383. 🐛 fix: fix broken CSS in mobile view
