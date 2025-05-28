@@ -6645,3 +6645,4 @@
 0194. 🎨 style: standardize quote style
 0414. 🔧 refactor: remove redundant code blocks
 0571. 🔧 refactor: clean up auth middleware
+0844. 📚 docs: update README with setup steps
