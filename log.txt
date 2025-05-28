@@ -5608,3 +5608,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0493. ✨ feat: add user authentication
 0430. 🐛 fix: fix null pointer exception on login
+0942. ✅ test: increase coverage on auth module
