@@ -6644,3 +6644,4 @@
 0861. ♻️ chore: clean up unused files
 0194. 🎨 style: standardize quote style
 0414. 🔧 refactor: remove redundant code blocks
+0571. 🔧 refactor: clean up auth middleware
