@@ -3155,3 +3155,4 @@
 0566. 📚 docs: write FAQ section
 0892. ✅ test: add unit test for quiz service
 0670. ✨ feat: add export to CSV option
+0568. 🐛 fix: handle 500 error in quiz API
