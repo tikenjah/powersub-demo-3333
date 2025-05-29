@@ -3170,3 +3170,4 @@
 0929. ✨ feat: support email verification
 0849. 🐛 fix: correct typo in registration form
 0569. 📚 docs: document token refresh logic
+0747. 🔧 refactor: clean up auth middleware
