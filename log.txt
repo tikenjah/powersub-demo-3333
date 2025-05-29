@@ -7634,3 +7634,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0141. 📚 docs: document token refresh logic
 0443. 🎨 style: standardize quote style
+0721. 🚀 perf: optimize database query for quiz results
