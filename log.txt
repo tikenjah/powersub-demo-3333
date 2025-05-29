@@ -8630,3 +8630,4 @@
 0029. 🚀 perf: lazy-load components
 0086. 🐛 fix: correct typo in registration form
 0485. 📚 docs: update README with setup steps
+0349. ✅ test: increase coverage on auth module
