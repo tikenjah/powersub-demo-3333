@@ -9627,3 +9627,4 @@
 0100. ♻️ chore: update .gitignore
 0912. 📚 docs: document token refresh logic
 0832. 🔧 refactor: remove redundant code blocks
+0320. 📚 docs: update README with setup steps
