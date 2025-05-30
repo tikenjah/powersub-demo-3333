@@ -6648,3 +6648,4 @@
 0844. 📚 docs: update README with setup steps
 0599. ✅ test: test user registration edge cases
 0115. 🚀 perf: reduce image load time
+0276. ✅ test: add integration test for /submit endpoint
