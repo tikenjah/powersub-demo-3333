@@ -8632,3 +8632,4 @@
 0485. 📚 docs: update README with setup steps
 0349. ✅ test: increase coverage on auth module
 0400. 🐛 fix: fix null pointer exception on login
+0688. 🚀 perf: reduce image load time
