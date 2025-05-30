@@ -5612,3 +5612,4 @@
 0570. 🎨 style: apply consistent indentation
 0939. 📚 docs: update README with setup steps
 0643. 🎨 style: apply consistent indentation
+0522. 🐛 fix: handle 500 error in quiz API
