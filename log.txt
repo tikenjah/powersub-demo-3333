@@ -3185,3 +3185,4 @@
 0187. ✨ feat: support email verification
 0231. 🔧 refactor: clean up auth middleware
 0752. ✅ test: add integration test for /submit endpoint
+0779. 🔧 refactor: organize models into subfolders
