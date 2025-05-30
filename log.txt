@@ -3183,3 +3183,4 @@
 0297. 🎨 style: remove trailing whitespace
 0061. ✨ feat: create admin dashboard
 0187. ✨ feat: support email verification
+0231. 🔧 refactor: clean up auth middleware
