@@ -3179,3 +3179,4 @@
 0205. 📚 docs: update README with setup steps
 0525. ✅ test: mock database connection in test suite
 0695. ✨ feat: create admin dashboard
+0545. 🎨 style: standardize quote style
