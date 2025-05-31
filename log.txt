@@ -8635,3 +8635,4 @@
 0688. 🚀 perf: reduce image load time
 0306. 🎨 style: apply consistent indentation
 0454. ♻️ chore: bump dependencies
+0511. 🐛 fix: fix broken CSS in mobile view
