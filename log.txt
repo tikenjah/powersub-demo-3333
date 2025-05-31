@@ -10626,3 +10626,4 @@
 0707. 🎨 style: apply consistent indentation
 0636. ✅ test: increase coverage on auth module
 0100. ♻️ chore: update .gitignore
+0110. 🐛 fix: prevent crash on empty input
