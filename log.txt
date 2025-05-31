@@ -3198,3 +3198,4 @@
 0826. 📚 docs: clarify environment setup
 0772. 🐛 fix: fix null pointer exception on login
 0385. ♻️ chore: clean up unused files
+0875. ✅ test: increase coverage on auth module
