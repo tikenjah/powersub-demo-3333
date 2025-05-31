@@ -10624,3 +10624,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0723. 🔧 refactor: remove redundant code blocks
 0707. 🎨 style: apply consistent indentation
+0636. ✅ test: increase coverage on auth module
