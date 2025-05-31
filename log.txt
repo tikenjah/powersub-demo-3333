@@ -3195,3 +3195,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0222. 🐛 fix: handle 500 error in quiz API
 0597. 🚀 perf: cache repeated calculations
+0826. 📚 docs: clarify environment setup
