@@ -3211,3 +3211,4 @@
 0582. ✨ feat: add export to CSV option
 0995. ✅ test: mock database connection in test suite
 0257. 📚 docs: clarify environment setup
+0226. 🚀 perf: lazy-load components
