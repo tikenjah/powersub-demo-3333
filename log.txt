@@ -10627,3 +10627,4 @@
 0636. ✅ test: increase coverage on auth module
 0100. ♻️ chore: update .gitignore
 0110. 🐛 fix: prevent crash on empty input
+0500. ✅ test: add integration test for /submit endpoint
