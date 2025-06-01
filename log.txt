@@ -3212,3 +3212,4 @@
 0995. ✅ test: mock database connection in test suite
 0257. 📚 docs: clarify environment setup
 0226. 🚀 perf: lazy-load components
+0552. 🐛 fix: fix null pointer exception on login
