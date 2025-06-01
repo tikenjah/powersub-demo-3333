@@ -7641,3 +7641,4 @@
 0960. ✅ test: increase coverage on auth module
 0545. 🎨 style: standardize quote style
 0398. 🚀 perf: cache repeated calculations
+0898. 🐛 fix: fix broken CSS in mobile view
