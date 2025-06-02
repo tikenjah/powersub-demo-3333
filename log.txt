@@ -3223,3 +3223,4 @@
 0501. ✨ feat: add export to CSV option
 0874. 🔧 refactor: split large controller into smaller functions
 0971. 🎨 style: standardize quote style
+0915. 🚀 perf: cache repeated calculations
