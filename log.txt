@@ -6659,3 +6659,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0589. 🐛 fix: fix broken CSS in mobile view
 0048. 📚 docs: update README with setup steps
+0677. 📚 docs: add API usage examples
