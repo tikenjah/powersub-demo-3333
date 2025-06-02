@@ -3217,3 +3217,4 @@
 0257. 📚 docs: clarify environment setup
 0852. ✨ feat: enable dark mode toggle
 0545. 🎨 style: standardize quote style
+0604. 📚 docs: add API usage examples
