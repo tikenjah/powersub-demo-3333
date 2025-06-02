@@ -5618,3 +5618,4 @@
 0770. ♻️ chore: rename env.example
 0557. 🔧 refactor: clean up auth middleware
 0437. 📚 docs: clarify environment setup
+0651. ✨ feat: enable dark mode toggle
