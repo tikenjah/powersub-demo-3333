@@ -3230,3 +3230,4 @@
 0575. ✅ test: add unit test for quiz service
 0972. 🔧 refactor: refactor quiz grading logic
 0288. 🔧 refactor: refactor quiz grading logic
+0704. 🚀 perf: cache repeated calculations
