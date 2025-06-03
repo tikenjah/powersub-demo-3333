@@ -5623,3 +5623,4 @@
 0854. ♻️ chore: rename env.example
 0069. 🎨 style: rename variables for clarity
 0045. 🎨 style: apply consistent indentation
+0642. 🚀 perf: optimize database query for quiz results
