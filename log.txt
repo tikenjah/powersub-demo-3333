@@ -8647,3 +8647,4 @@
 0502. 📚 docs: update README with setup steps
 0948. 🐛 fix: fix broken CSS in mobile view
 0564. 📚 docs: clarify environment setup
+0360. ✨ feat: add export to CSV option
