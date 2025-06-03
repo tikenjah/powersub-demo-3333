@@ -6660,3 +6660,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0048. 📚 docs: update README with setup steps
 0677. 📚 docs: add API usage examples
+0290. ✅ test: test user registration edge cases
