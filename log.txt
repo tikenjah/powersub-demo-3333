@@ -7648,3 +7648,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0831. 📚 docs: clarify environment setup
 0681. ✨ feat: create admin dashboard
+0287. 📚 docs: write FAQ section
