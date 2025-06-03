@@ -10633,3 +10633,4 @@
 0873. 🚀 perf: cache repeated calculations
 0563. 📚 docs: clarify environment setup
 0495. 🔧 refactor: remove redundant code blocks
+0096. 🐛 fix: prevent crash on empty input
