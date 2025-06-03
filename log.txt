@@ -3237,3 +3237,4 @@
 0683. ✅ test: mock database connection in test suite
 0563. 📚 docs: clarify environment setup
 0318. 🔧 refactor: refactor quiz grading logic
+0270. ♻️ chore: rename env.example
