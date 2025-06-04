@@ -10637,3 +10637,4 @@
 0839. 🎨 style: apply consistent indentation
 0818. 🔧 refactor: remove redundant code blocks
 0980. 🎨 style: reformat files with black
+0088. 📚 docs: add API usage examples
