@@ -3259,3 +3259,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0169. 📚 docs: add API usage examples
 0209. ✨ feat: implement quiz timer feature
+0718. 🐛 fix: resolve issue with date parsing
