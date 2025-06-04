@@ -3256,3 +3256,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0919. 🚀 perf: optimize database query for quiz results
 0719. 🎨 style: apply consistent indentation
+0821. ✅ test: add integration test for /submit endpoint
