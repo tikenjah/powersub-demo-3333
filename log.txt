@@ -3253,3 +3253,4 @@
 0809. ♻️ chore: rename env.example
 0541. 🐛 fix: correct typo in registration form
 0100. ♻️ chore: update .gitignore
+0945. ♻️ chore: add GitHub actions badge
