@@ -3241,3 +3241,4 @@
 0993. ✨ feat: implement quiz timer feature
 0850. ♻️ chore: rename env.example
 0947. 📚 docs: write FAQ section
+0320. 📚 docs: update README with setup steps
