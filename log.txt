@@ -8649,3 +8649,4 @@
 0564. 📚 docs: clarify environment setup
 0360. ✨ feat: add export to CSV option
 0052. 🎨 style: standardize quote style
+0800. 🚀 perf: optimize database query for quiz results
