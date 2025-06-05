@@ -8653,3 +8653,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0460. 📚 docs: write FAQ section
 0515. 🚀 perf: optimize database query for quiz results
+0804. ♻️ chore: add GitHub actions badge
