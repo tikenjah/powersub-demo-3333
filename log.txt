@@ -3268,3 +3268,4 @@
 0184. 📚 docs: improve code comments in utils
 0162. ♻️ chore: add GitHub actions badge
 0728. 🔧 refactor: split large controller into smaller functions
+0997. ✅ test: increase coverage on auth module
