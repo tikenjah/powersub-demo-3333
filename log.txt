@@ -3266,3 +3266,4 @@
 0670. ✨ feat: add export to CSV option
 0557. 🔧 refactor: clean up auth middleware
 0184. 📚 docs: improve code comments in utils
+0162. ♻️ chore: add GitHub actions badge
