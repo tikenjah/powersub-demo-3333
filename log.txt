@@ -9645,3 +9645,4 @@
 0493. ✨ feat: add user authentication
 0735. ♻️ chore: add GitHub actions badge
 0269. ✅ test: test user registration edge cases
+0448. 🐛 fix: correct typo in registration form
