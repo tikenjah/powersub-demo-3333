@@ -3264,3 +3264,4 @@
 0940. 📚 docs: document token refresh logic
 0381. ♻️ chore: clean up unused files
 0670. ✨ feat: add export to CSV option
+0557. 🔧 refactor: clean up auth middleware
