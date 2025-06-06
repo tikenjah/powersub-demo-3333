@@ -3277,3 +3277,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0392. 🎨 style: remove trailing whitespace
 0064. 📚 docs: clarify environment setup
+0066. 🔧 refactor: clean up auth middleware
