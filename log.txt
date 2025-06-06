@@ -9652,3 +9652,4 @@
 0016. 🎨 style: apply consistent indentation
 0162. ♻️ chore: add GitHub actions badge
 0170. ✅ test: increase coverage on auth module
+0256. ✅ test: mock database connection in test suite
