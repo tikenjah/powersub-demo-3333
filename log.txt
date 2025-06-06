@@ -9651,3 +9651,4 @@
 0009. ✨ feat: enable dark mode toggle
 0016. 🎨 style: apply consistent indentation
 0162. ♻️ chore: add GitHub actions badge
+0170. ✅ test: increase coverage on auth module
