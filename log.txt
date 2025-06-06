@@ -3271,3 +3271,4 @@
 0997. ✅ test: increase coverage on auth module
 0939. 📚 docs: update README with setup steps
 0383. 🐛 fix: fix broken CSS in mobile view
+0374. 🎨 style: standardize quote style
