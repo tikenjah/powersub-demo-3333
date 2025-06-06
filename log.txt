@@ -8657,3 +8657,4 @@
 0407. 🚀 perf: cache repeated calculations
 0455. ♻️ chore: clean up unused files
 0970. ♻️ chore: update .gitignore
+0957. 🐛 fix: fix null pointer exception on login
