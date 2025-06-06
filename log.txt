@@ -5630,3 +5630,4 @@
 0927. ♻️ chore: bump dependencies
 0150. 🎨 style: remove trailing whitespace
 0754. 🐛 fix: handle 500 error in quiz API
+0359. 🔧 refactor: clean up auth middleware
