@@ -5629,3 +5629,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0927. ♻️ chore: bump dependencies
 0150. 🎨 style: remove trailing whitespace
+0754. 🐛 fix: handle 500 error in quiz API
