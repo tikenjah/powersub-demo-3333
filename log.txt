@@ -7661,3 +7661,4 @@
 0559. 🔧 refactor: split large controller into smaller functions
 0163. ✨ feat: implement quiz timer feature
 0647. 🐛 fix: prevent crash on empty input
+0308. 🚀 perf: reduce image load time
