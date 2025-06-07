@@ -3289,3 +3289,4 @@
 0372. ✨ feat: add user authentication
 0495. 🔧 refactor: remove redundant code blocks
 0735. ♻️ chore: add GitHub actions badge
+0357. ✅ test: add unit test for quiz service
