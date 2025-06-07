@@ -3292,3 +3292,4 @@
 0357. ✅ test: add unit test for quiz service
 0225. 🚀 perf: reduce image load time
 0340. 🚀 perf: optimize database query for quiz results
+0841. 🚀 perf: optimize database query for quiz results
