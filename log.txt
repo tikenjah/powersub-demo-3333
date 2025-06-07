@@ -10647,3 +10647,4 @@
 0995. ✅ test: mock database connection in test suite
 0809. ♻️ chore: rename env.example
 0102. ✨ feat: support email verification
+0510. 🎨 style: rename variables for clarity
