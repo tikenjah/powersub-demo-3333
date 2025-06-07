@@ -3293,3 +3293,4 @@
 0225. 🚀 perf: reduce image load time
 0340. 🚀 perf: optimize database query for quiz results
 0841. 🚀 perf: optimize database query for quiz results
+0265. 🎨 style: reformat files with black
