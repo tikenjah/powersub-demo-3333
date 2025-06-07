@@ -3295,3 +3295,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0265. 🎨 style: reformat files with black
 0232. 🎨 style: apply consistent indentation
+0776. ✅ test: add integration test for /submit endpoint
