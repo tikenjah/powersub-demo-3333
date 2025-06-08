@@ -3307,3 +3307,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0905. ♻️ chore: bump dependencies
 0666. 🐛 fix: fix broken CSS in mobile view
+0231. 🔧 refactor: clean up auth middleware
