@@ -3299,3 +3299,4 @@
 0137. 🎨 style: rename variables for clarity
 0951. 🎨 style: rename variables for clarity
 0298. ♻️ chore: update .gitignore
+0629. 🔧 refactor: organize models into subfolders
