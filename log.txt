@@ -3301,3 +3301,4 @@
 0298. ♻️ chore: update .gitignore
 0629. 🔧 refactor: organize models into subfolders
 0092. 🚀 perf: reduce image load time
+0369. 🎨 style: standardize quote style
