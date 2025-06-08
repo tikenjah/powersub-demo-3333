@@ -10652,3 +10652,4 @@
 0846. ✨ feat: implement quiz timer feature
 0120. ✅ test: add integration test for /submit endpoint
 0855. 🎨 style: reformat files with black
+0646. ✅ test: test user registration edge cases
