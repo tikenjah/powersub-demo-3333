@@ -9658,3 +9658,4 @@
 0180. ✨ feat: add export to CSV option
 0919. 🚀 perf: optimize database query for quiz results
 0550. 🔧 refactor: split large controller into smaller functions
+0514. 🐛 fix: fix broken CSS in mobile view
