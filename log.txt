@@ -5641,3 +5641,4 @@
 0090. ✅ test: increase coverage on auth module
 0898. 🐛 fix: fix broken CSS in mobile view
 0944. ✨ feat: add user authentication
+0546. 🐛 fix: fix null pointer exception on login
