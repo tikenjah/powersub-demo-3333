@@ -3317,3 +3317,4 @@
 0771. 🚀 perf: cache repeated calculations
 0191. 🔧 refactor: refactor quiz grading logic
 0133. 🐛 fix: fix null pointer exception on login
+0489. 🔧 refactor: organize models into subfolders
