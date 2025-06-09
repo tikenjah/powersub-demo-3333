@@ -3311,3 +3311,4 @@
 0914. ✅ test: test user registration edge cases
 0996. ✅ test: test user registration edge cases
 0687. 🎨 style: remove trailing whitespace
+0927. ♻️ chore: bump dependencies
