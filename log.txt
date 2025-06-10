@@ -3339,3 +3339,4 @@
 0566. 📚 docs: write FAQ section
 0023. 📚 docs: clarify environment setup
 0236. 🔧 refactor: remove redundant code blocks
+0201. 🔧 refactor: clean up auth middleware
