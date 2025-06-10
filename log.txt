@@ -3331,3 +3331,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0379. ✨ feat: support email verification
 0596. ♻️ chore: update .gitignore
+0247. 🎨 style: apply consistent indentation
