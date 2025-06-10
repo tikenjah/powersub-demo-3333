@@ -3329,3 +3329,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0128. ♻️ chore: rename env.example
 0882. 🚀 perf: optimize database query for quiz results
+0379. ✨ feat: support email verification
