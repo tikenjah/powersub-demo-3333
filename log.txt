@@ -7673,3 +7673,4 @@
 0682. ♻️ chore: rename env.example
 0666. 🐛 fix: fix broken CSS in mobile view
 0883. 📚 docs: improve code comments in utils
+0150. 🎨 style: remove trailing whitespace
