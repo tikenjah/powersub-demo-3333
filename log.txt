@@ -3337,3 +3337,4 @@
 0314. ✨ feat: implement quiz timer feature
 0765. ♻️ chore: clean up unused files
 0566. 📚 docs: write FAQ section
+0023. 📚 docs: clarify environment setup
