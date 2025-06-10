@@ -5644,3 +5644,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0435. ✅ test: add unit test for quiz service
 0197. 📚 docs: update README with setup steps
+0604. 📚 docs: add API usage examples
