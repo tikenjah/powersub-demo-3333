@@ -3349,3 +3349,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0112. ✨ feat: enable dark mode toggle
 0912. 📚 docs: document token refresh logic
+0451. ✨ feat: support email verification
