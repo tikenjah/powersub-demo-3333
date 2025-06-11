@@ -3343,3 +3343,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0789. ✨ feat: create admin dashboard
 0032. 🎨 style: apply consistent indentation
+0866. 📚 docs: add API usage examples
