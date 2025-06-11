@@ -7674,3 +7674,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0883. 📚 docs: improve code comments in utils
 0150. 🎨 style: remove trailing whitespace
+0300. ✨ feat: add export to CSV option
