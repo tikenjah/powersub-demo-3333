@@ -3351,3 +3351,4 @@
 0912. 📚 docs: document token refresh logic
 0451. ✨ feat: support email verification
 0328. 🐛 fix: resolve issue with date parsing
+0948. 🐛 fix: fix broken CSS in mobile view
