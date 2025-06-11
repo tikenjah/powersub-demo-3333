@@ -8666,3 +8666,4 @@
 0782. 📚 docs: improve code comments in utils
 0333. 🚀 perf: cache repeated calculations
 0273. 🚀 perf: reduce image load time
+0298. ♻️ chore: update .gitignore
