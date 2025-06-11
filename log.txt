@@ -3342,3 +3342,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0878. 🔧 refactor: split large controller into smaller functions
 0789. ✨ feat: create admin dashboard
+0032. 🎨 style: apply consistent indentation
