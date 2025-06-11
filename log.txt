@@ -8668,3 +8668,4 @@
 0273. 🚀 perf: reduce image load time
 0298. ♻️ chore: update .gitignore
 0839. 🎨 style: apply consistent indentation
+0686. 🎨 style: standardize quote style
