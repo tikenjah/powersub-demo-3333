@@ -8669,3 +8669,4 @@
 0298. ♻️ chore: update .gitignore
 0839. 🎨 style: apply consistent indentation
 0686. 🎨 style: standardize quote style
+0109. 🚀 perf: lazy-load components
