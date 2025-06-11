@@ -9664,3 +9664,4 @@
 0619. ✨ feat: create admin dashboard
 0242. ♻️ chore: clean up unused files
 0287. 📚 docs: write FAQ section
+0479. 🐛 fix: fix null pointer exception on login
