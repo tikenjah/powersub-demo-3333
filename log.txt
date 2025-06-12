@@ -6677,3 +6677,4 @@
 0078. ♻️ chore: update .gitignore
 0358. 🚀 perf: reduce image load time
 0162. ♻️ chore: add GitHub actions badge
+0317. ✅ test: test user registration edge cases
