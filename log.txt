@@ -8670,3 +8670,4 @@
 0839. 🎨 style: apply consistent indentation
 0686. 🎨 style: standardize quote style
 0109. 🚀 perf: lazy-load components
+0172. 📚 docs: add API usage examples
