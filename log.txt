@@ -3370,3 +3370,4 @@
 0387. ✨ feat: enable dark mode toggle
 0290. ✅ test: test user registration edge cases
 0273. 🚀 perf: reduce image load time
+0699. 🎨 style: standardize quote style
