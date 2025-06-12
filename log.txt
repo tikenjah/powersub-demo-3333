@@ -9670,3 +9670,4 @@
 0789. ✨ feat: create admin dashboard
 0407. 🚀 perf: cache repeated calculations
 0943. 🎨 style: rename variables for clarity
+0909. 🔧 refactor: organize models into subfolders
