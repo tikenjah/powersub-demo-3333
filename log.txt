@@ -10663,3 +10663,4 @@
 0301. 🎨 style: apply consistent indentation
 0673. 🐛 fix: correct typo in registration form
 0481. ✅ test: add unit test for quiz service
+0096. 🐛 fix: prevent crash on empty input
