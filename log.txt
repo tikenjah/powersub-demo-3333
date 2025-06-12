@@ -3377,3 +3377,4 @@
 0252. 🎨 style: remove trailing whitespace
 0012. 🚀 perf: cache repeated calculations
 0602. 🔧 refactor: remove redundant code blocks
+0378. 🐛 fix: prevent crash on empty input
