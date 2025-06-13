@@ -7678,3 +7678,4 @@
 0250. 📚 docs: update README with setup steps
 0113. ✨ feat: add user authentication
 0751. 🐛 fix: handle 500 error in quiz API
+0558. ✨ feat: enable dark mode toggle
