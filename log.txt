@@ -7676,3 +7676,4 @@
 0150. 🎨 style: remove trailing whitespace
 0300. ✨ feat: add export to CSV option
 0250. 📚 docs: update README with setup steps
+0113. ✨ feat: add user authentication
