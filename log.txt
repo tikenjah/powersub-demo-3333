@@ -9674,3 +9674,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0108. 🎨 style: remove trailing whitespace
 0384. 📚 docs: clarify environment setup
+0485. 📚 docs: update README with setup steps
