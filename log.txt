@@ -8673,3 +8673,4 @@
 0172. 📚 docs: add API usage examples
 0989. 📚 docs: write FAQ section
 0979. 🎨 style: standardize quote style
+0075. ✅ test: mock database connection in test suite
