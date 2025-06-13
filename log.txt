@@ -10666,3 +10666,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0038. 🎨 style: rename variables for clarity
 0501. ✨ feat: add export to CSV option
+0551. 📚 docs: write FAQ section
