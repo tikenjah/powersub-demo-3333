@@ -6679,3 +6679,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0317. ✅ test: test user registration edge cases
 0136. 🚀 perf: lazy-load components
+0189. 📚 docs: clarify environment setup
