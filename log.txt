@@ -8677,3 +8677,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0839. 🎨 style: apply consistent indentation
 0816. 🔧 refactor: organize models into subfolders
+0364. 🐛 fix: resolve issue with date parsing
