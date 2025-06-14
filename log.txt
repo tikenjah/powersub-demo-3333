@@ -9680,3 +9680,4 @@
 0720. ✨ feat: add export to CSV option
 0852. ✨ feat: enable dark mode toggle
 0751. 🐛 fix: handle 500 error in quiz API
+0658. 🎨 style: rename variables for clarity
