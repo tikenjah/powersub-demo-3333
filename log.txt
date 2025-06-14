@@ -9678,3 +9678,4 @@
 0839. 🎨 style: apply consistent indentation
 0396. 🔧 refactor: split large controller into smaller functions
 0720. ✨ feat: add export to CSV option
+0852. ✨ feat: enable dark mode toggle
