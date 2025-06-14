@@ -7679,3 +7679,4 @@
 0113. ✨ feat: add user authentication
 0751. 🐛 fix: handle 500 error in quiz API
 0558. ✨ feat: enable dark mode toggle
+0264. 🚀 perf: optimize database query for quiz results
