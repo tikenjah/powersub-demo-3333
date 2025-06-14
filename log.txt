@@ -6681,3 +6681,4 @@
 0136. 🚀 perf: lazy-load components
 0189. 📚 docs: clarify environment setup
 0217. 🚀 perf: reduce image load time
+0393. 🚀 perf: lazy-load components
