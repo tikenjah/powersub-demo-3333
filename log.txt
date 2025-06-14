@@ -5653,3 +5653,4 @@
 0012. 🚀 perf: cache repeated calculations
 0036. 🔧 refactor: clean up auth middleware
 0878. 🔧 refactor: split large controller into smaller functions
+0315. ✅ test: add integration test for /submit endpoint
