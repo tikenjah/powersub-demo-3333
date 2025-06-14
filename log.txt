@@ -10668,3 +10668,4 @@
 0501. ✨ feat: add export to CSV option
 0551. 📚 docs: write FAQ section
 0927. ♻️ chore: bump dependencies
+0841. 🚀 perf: optimize database query for quiz results
