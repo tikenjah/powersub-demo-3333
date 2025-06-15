@@ -3400,3 +3400,4 @@
 0879. 🎨 style: standardize quote style
 0524. ♻️ chore: rename env.example
 0682. ♻️ chore: rename env.example
+0697. ♻️ chore: bump dependencies
