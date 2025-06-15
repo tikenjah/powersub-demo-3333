@@ -3403,3 +3403,4 @@
 0697. ♻️ chore: bump dependencies
 0178. ✨ feat: support email verification
 0612. ✅ test: test user registration edge cases
+0525. ✅ test: mock database connection in test suite
