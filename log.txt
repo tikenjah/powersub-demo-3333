@@ -8680,3 +8680,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0109. 🚀 perf: lazy-load components
 0640. ♻️ chore: bump dependencies
+0025. 🚀 perf: optimize database query for quiz results
