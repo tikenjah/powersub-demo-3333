@@ -3402,3 +3402,4 @@
 0682. ♻️ chore: rename env.example
 0697. ♻️ chore: bump dependencies
 0178. ✨ feat: support email verification
+0612. ✅ test: test user registration edge cases
