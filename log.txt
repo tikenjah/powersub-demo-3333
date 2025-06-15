@@ -3399,3 +3399,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0879. 🎨 style: standardize quote style
 0524. ♻️ chore: rename env.example
+0682. ♻️ chore: rename env.example
