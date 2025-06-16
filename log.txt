@@ -5659,3 +5659,4 @@
 0979. 🎨 style: standardize quote style
 0310. 🔧 refactor: refactor quiz grading logic
 0770. ♻️ chore: rename env.example
+0165. 🎨 style: remove trailing whitespace
