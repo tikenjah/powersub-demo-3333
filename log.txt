@@ -5660,3 +5660,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0770. ♻️ chore: rename env.example
 0165. 🎨 style: remove trailing whitespace
+0344. ♻️ chore: add GitHub actions badge
