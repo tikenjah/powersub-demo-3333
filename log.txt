@@ -5661,3 +5661,4 @@
 0770. ♻️ chore: rename env.example
 0165. 🎨 style: remove trailing whitespace
 0344. ♻️ chore: add GitHub actions badge
+0467. ✅ test: add integration test for /submit endpoint
