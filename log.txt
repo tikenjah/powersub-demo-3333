@@ -3435,3 +3435,4 @@
 0901. ✨ feat: add user authentication
 0583. ✅ test: increase coverage on auth module
 0395. 📚 docs: write FAQ section
+0269. ✅ test: test user registration edge cases
