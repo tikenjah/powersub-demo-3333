@@ -6683,3 +6683,4 @@
 0217. 🚀 perf: reduce image load time
 0393. 🚀 perf: lazy-load components
 0017. ✅ test: mock database connection in test suite
+0625. 🐛 fix: handle 500 error in quiz API
