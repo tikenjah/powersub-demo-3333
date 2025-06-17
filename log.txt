@@ -5667,3 +5667,4 @@
 0180. ✨ feat: add export to CSV option
 0061. ✨ feat: create admin dashboard
 0392. 🎨 style: remove trailing whitespace
+0536. ✨ feat: add user authentication
