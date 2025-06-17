@@ -3430,3 +3430,4 @@
 0035. ✅ test: increase coverage on auth module
 0578. ✅ test: add integration test for /submit endpoint
 0905. ♻️ chore: bump dependencies
+0450. 🐛 fix: fix broken CSS in mobile view
