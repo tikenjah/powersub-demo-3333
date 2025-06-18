@@ -9690,3 +9690,4 @@
 0778. 📚 docs: write FAQ section
 0680. ♻️ chore: add GitHub actions badge
 0771. 🚀 perf: cache repeated calculations
+0077. ♻️ chore: rename env.example
