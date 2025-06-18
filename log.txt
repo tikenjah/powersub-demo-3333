@@ -3445,3 +3445,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0839. 🎨 style: apply consistent indentation
 0628. ♻️ chore: add GitHub actions badge
+0055. 📚 docs: update README with setup steps
