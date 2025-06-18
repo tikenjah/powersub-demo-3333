@@ -6686,3 +6686,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0588. 🔧 refactor: organize models into subfolders
 0960. ✅ test: increase coverage on auth module
+0040. 🔧 refactor: clean up auth middleware
