@@ -3443,3 +3443,4 @@
 0921. 🐛 fix: correct typo in registration form
 0636. ✅ test: increase coverage on auth module
 0613. 🐛 fix: prevent crash on empty input
+0839. 🎨 style: apply consistent indentation
