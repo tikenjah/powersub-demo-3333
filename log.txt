@@ -9687,3 +9687,4 @@
 0454. ♻️ chore: bump dependencies
 0118. 🚀 perf: reduce image load time
 0530. 🔧 refactor: refactor quiz grading logic
+0778. 📚 docs: write FAQ section
