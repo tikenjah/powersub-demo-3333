@@ -9691,3 +9691,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0771. 🚀 perf: cache repeated calculations
 0077. ♻️ chore: rename env.example
+0371. ✅ test: add integration test for /submit endpoint
