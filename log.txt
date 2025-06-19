@@ -3452,3 +3452,4 @@
 0648. ♻️ chore: bump dependencies
 0082. 🔧 refactor: refactor quiz grading logic
 0786. ✨ feat: enable dark mode toggle
+0827. 🚀 perf: optimize database query for quiz results
