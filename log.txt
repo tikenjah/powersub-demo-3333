@@ -10683,3 +10683,4 @@
 0689. 🎨 style: reformat files with black
 0847. ♻️ chore: clean up unused files
 0227. ✅ test: test user registration edge cases
+0258. 🐛 fix: prevent crash on empty input
