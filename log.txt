@@ -8688,3 +8688,4 @@
 0899. 🚀 perf: cache repeated calculations
 0944. ✨ feat: add user authentication
 0632. 🎨 style: remove trailing whitespace
+0703. 🔧 refactor: clean up auth middleware
