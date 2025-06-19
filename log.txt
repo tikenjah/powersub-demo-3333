@@ -3457,3 +3457,4 @@
 0028. 🎨 style: standardize quote style
 0265. 🎨 style: reformat files with black
 0850. ♻️ chore: rename env.example
+0146. 🎨 style: apply consistent indentation
