@@ -10684,3 +10684,4 @@
 0847. ♻️ chore: clean up unused files
 0227. ✅ test: test user registration edge cases
 0258. 🐛 fix: prevent crash on empty input
+0081. 🐛 fix: fix null pointer exception on login
