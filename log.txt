@@ -6689,3 +6689,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0237. 🎨 style: standardize quote style
 0680. ♻️ chore: add GitHub actions badge
+0321. 🔧 refactor: organize models into subfolders
