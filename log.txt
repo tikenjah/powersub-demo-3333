@@ -3467,3 +3467,4 @@
 0470. 🎨 style: remove trailing whitespace
 0582. ✨ feat: add export to CSV option
 0938. 🎨 style: rename variables for clarity
+0257. 📚 docs: clarify environment setup
