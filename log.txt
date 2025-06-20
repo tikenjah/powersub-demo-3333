@@ -3461,3 +3461,4 @@
 0482. ✨ feat: add export to CSV option
 0443. 🎨 style: standardize quote style
 0463. 🚀 perf: reduce image load time
+0700. 🎨 style: rename variables for clarity
