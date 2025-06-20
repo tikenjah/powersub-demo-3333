@@ -9694,3 +9694,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0298. ♻️ chore: update .gitignore
 0784. ♻️ chore: clean up unused files
+0317. ✅ test: test user registration edge cases
