@@ -3470,3 +3470,4 @@
 0257. 📚 docs: clarify environment setup
 0112. ✨ feat: enable dark mode toggle
 0293. ✅ test: add integration test for /submit endpoint
+0618. ✨ feat: support email verification
