@@ -3468,3 +3468,4 @@
 0582. ✨ feat: add export to CSV option
 0938. 🎨 style: rename variables for clarity
 0257. 📚 docs: clarify environment setup
+0112. ✨ feat: enable dark mode toggle
