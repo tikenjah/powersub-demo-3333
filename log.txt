@@ -7700,3 +7700,4 @@
 0888. 🚀 perf: lazy-load components
 0801. ✨ feat: enable dark mode toggle
 0838. 🎨 style: standardize quote style
+0030. 🐛 fix: fix null pointer exception on login
