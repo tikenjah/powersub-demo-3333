@@ -3477,3 +3477,4 @@
 0781. 🚀 perf: reduce image load time
 0101. 📚 docs: clarify environment setup
 0398. 🚀 perf: cache repeated calculations
+0547. 📚 docs: write FAQ section
