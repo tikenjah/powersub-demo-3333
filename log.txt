@@ -9697,3 +9697,4 @@
 0317. ✅ test: test user registration edge cases
 0456. 🚀 perf: optimize database query for quiz results
 0989. 📚 docs: write FAQ section
+0460. 📚 docs: write FAQ section
