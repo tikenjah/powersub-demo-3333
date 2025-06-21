@@ -5674,3 +5674,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0438. ♻️ chore: bump dependencies
 0975. 🎨 style: apply consistent indentation
+0502. 📚 docs: update README with setup steps
