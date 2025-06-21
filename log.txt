@@ -6693,3 +6693,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0375. 🐛 fix: handle 500 error in quiz API
 0712. 🎨 style: apply consistent indentation
+0041. 🐛 fix: fix broken CSS in mobile view
