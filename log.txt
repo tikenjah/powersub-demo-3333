@@ -9699,3 +9699,4 @@
 0989. 📚 docs: write FAQ section
 0460. 📚 docs: write FAQ section
 0602. 🔧 refactor: remove redundant code blocks
+0754. 🐛 fix: handle 500 error in quiz API
