@@ -3478,3 +3478,4 @@
 0101. 📚 docs: clarify environment setup
 0398. 🚀 perf: cache repeated calculations
 0547. 📚 docs: write FAQ section
+0037. 🐛 fix: correct typo in registration form
