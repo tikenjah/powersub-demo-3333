@@ -3497,3 +3497,4 @@
 0982. 🚀 perf: lazy-load components
 0149. ✨ feat: add export to CSV option
 0477. 🐛 fix: fix broken CSS in mobile view
+0625. 🐛 fix: handle 500 error in quiz API
