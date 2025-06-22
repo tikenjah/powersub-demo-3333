@@ -5680,3 +5680,4 @@
 0476. 🚀 perf: reduce image load time
 0156. 🎨 style: rename variables for clarity
 0694. 🎨 style: rename variables for clarity
+0777. 📚 docs: document token refresh logic
