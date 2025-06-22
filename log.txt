@@ -3489,3 +3489,4 @@
 0922. 📚 docs: write FAQ section
 0899. 🚀 perf: cache repeated calculations
 0032. 🎨 style: apply consistent indentation
+0293. ✅ test: add integration test for /submit endpoint
