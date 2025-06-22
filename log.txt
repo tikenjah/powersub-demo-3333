@@ -9700,3 +9700,4 @@
 0460. 📚 docs: write FAQ section
 0602. 🔧 refactor: remove redundant code blocks
 0754. 🐛 fix: handle 500 error in quiz API
+0986. 📚 docs: document token refresh logic
