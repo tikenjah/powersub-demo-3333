@@ -3495,3 +3495,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0697. ♻️ chore: bump dependencies
 0982. 🚀 perf: lazy-load components
+0149. ✨ feat: add export to CSV option
