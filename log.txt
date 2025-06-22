@@ -3494,3 +3494,4 @@
 0233. 🚀 perf: lazy-load components
 0710. 🐛 fix: fix broken CSS in mobile view
 0697. ♻️ chore: bump dependencies
+0982. 🚀 perf: lazy-load components
