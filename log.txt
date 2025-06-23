@@ -5684,3 +5684,4 @@
 0411. ✅ test: add unit test for quiz service
 0330. ✅ test: test user registration edge cases
 0292. 📚 docs: clarify environment setup
+0471. ✨ feat: support email verification
