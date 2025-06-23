@@ -3500,3 +3500,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0463. 🚀 perf: reduce image load time
 0749. ✨ feat: support email verification
+0971. 🎨 style: standardize quote style
