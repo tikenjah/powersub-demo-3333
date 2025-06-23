@@ -5683,3 +5683,4 @@
 0777. 📚 docs: document token refresh logic
 0411. ✅ test: add unit test for quiz service
 0330. ✅ test: test user registration edge cases
+0292. 📚 docs: clarify environment setup
