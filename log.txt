@@ -5686,3 +5686,4 @@
 0292. 📚 docs: clarify environment setup
 0471. ✨ feat: support email verification
 0035. ✅ test: increase coverage on auth module
+0389. 📚 docs: improve code comments in utils
