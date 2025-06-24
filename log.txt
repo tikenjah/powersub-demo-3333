@@ -3532,3 +3532,4 @@
 0755. 🚀 perf: cache repeated calculations
 0655. 🚀 perf: cache repeated calculations
 0672. 🐛 fix: fix broken CSS in mobile view
+0921. 🐛 fix: correct typo in registration form
