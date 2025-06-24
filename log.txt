@@ -3526,3 +3526,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0647. 🐛 fix: prevent crash on empty input
 0314. ✨ feat: implement quiz timer feature
+0911. ✅ test: increase coverage on auth module
