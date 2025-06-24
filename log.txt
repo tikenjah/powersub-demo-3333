@@ -3522,3 +3522,4 @@
 0104. 🎨 style: apply consistent indentation
 0418. ✅ test: mock database connection in test suite
 0613. 🐛 fix: prevent crash on empty input
+0961. 📚 docs: add API usage examples
