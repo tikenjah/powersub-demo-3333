@@ -10696,3 +10696,4 @@
 0381. ♻️ chore: clean up unused files
 0641. 📚 docs: write FAQ section
 0123. ✨ feat: implement quiz timer feature
+0565. ♻️ chore: add GitHub actions badge
