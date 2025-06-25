@@ -3537,3 +3537,4 @@
 0960. ✅ test: increase coverage on auth module
 0653. 🐛 fix: prevent crash on empty input
 0798. 🚀 perf: reduce image load time
+0804. ♻️ chore: add GitHub actions badge
