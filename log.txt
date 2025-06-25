@@ -3541,3 +3541,4 @@
 0317. ✅ test: test user registration edge cases
 0867. 🔧 refactor: refactor quiz grading logic
 0821. ✅ test: add integration test for /submit endpoint
+0963. 🚀 perf: reduce image load time
