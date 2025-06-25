@@ -3538,3 +3538,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0798. 🚀 perf: reduce image load time
 0804. ♻️ chore: add GitHub actions badge
+0317. ✅ test: test user registration edge cases
