@@ -3534,3 +3534,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0921. 🐛 fix: correct typo in registration form
 0679. ♻️ chore: bump dependencies
+0960. ✅ test: increase coverage on auth module
