@@ -3535,3 +3535,4 @@
 0921. 🐛 fix: correct typo in registration form
 0679. ♻️ chore: bump dependencies
 0960. ✅ test: increase coverage on auth module
+0653. 🐛 fix: prevent crash on empty input
