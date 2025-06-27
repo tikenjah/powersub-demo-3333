@@ -3571,3 +3571,4 @@
 0260. ✨ feat: create admin dashboard
 0124. 🎨 style: reformat files with black
 0543. ✨ feat: support email verification
+0534. 🔧 refactor: split large controller into smaller functions
