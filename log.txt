@@ -8709,3 +8709,4 @@
 0956. 📚 docs: clarify environment setup
 0565. ♻️ chore: add GitHub actions badge
 0090. ✅ test: increase coverage on auth module
+0351. ✨ feat: add export to CSV option
