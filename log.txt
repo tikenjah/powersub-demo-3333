@@ -9713,3 +9713,4 @@
 0109. 🚀 perf: lazy-load components
 0077. ♻️ chore: rename env.example
 0438. ♻️ chore: bump dependencies
+0553. 🐛 fix: correct typo in registration form
