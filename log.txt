@@ -3560,3 +3560,4 @@
 0891. ✨ feat: create admin dashboard
 0042. 📚 docs: document token refresh logic
 0335. ♻️ chore: update .gitignore
+0218. 🔧 refactor: clean up auth middleware
