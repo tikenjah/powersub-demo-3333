@@ -3566,3 +3566,4 @@
 0424. ✨ feat: add user authentication
 0291. 📚 docs: write FAQ section
 0364. 🐛 fix: resolve issue with date parsing
+0022. 📚 docs: document token refresh logic
