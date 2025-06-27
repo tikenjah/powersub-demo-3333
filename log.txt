@@ -3564,3 +3564,4 @@
 0782. 📚 docs: improve code comments in utils
 0313. 🎨 style: apply consistent indentation
 0424. ✨ feat: add user authentication
+0291. 📚 docs: write FAQ section
