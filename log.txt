@@ -6705,3 +6705,4 @@
 0649. 📚 docs: update README with setup steps
 0353. ♻️ chore: rename env.example
 0344. ♻️ chore: add GitHub actions badge
+0289. 🐛 fix: resolve issue with date parsing
