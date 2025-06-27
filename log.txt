@@ -5698,3 +5698,4 @@
 0784. ♻️ chore: clean up unused files
 0861. ♻️ chore: clean up unused files
 0852. ✨ feat: enable dark mode toggle
+0688. 🚀 perf: reduce image load time
