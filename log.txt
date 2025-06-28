@@ -6706,3 +6706,4 @@
 0353. ♻️ chore: rename env.example
 0344. ♻️ chore: add GitHub actions badge
 0289. 🐛 fix: resolve issue with date parsing
+0469. 🚀 perf: lazy-load components
