@@ -7724,3 +7724,4 @@
 0412. ✅ test: increase coverage on auth module
 0741. 🎨 style: apply consistent indentation
 0768. 🎨 style: remove trailing whitespace
+0489. 🔧 refactor: organize models into subfolders
