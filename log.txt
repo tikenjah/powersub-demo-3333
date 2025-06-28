@@ -3584,3 +3584,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0666. 🐛 fix: fix broken CSS in mobile view
 0633. ✨ feat: add user authentication
+0614. 🚀 perf: reduce image load time
