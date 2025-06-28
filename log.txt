@@ -7725,3 +7725,4 @@
 0741. 🎨 style: apply consistent indentation
 0768. 🎨 style: remove trailing whitespace
 0489. 🔧 refactor: organize models into subfolders
+0337. 📚 docs: document token refresh logic
