@@ -3580,3 +3580,4 @@
 0889. 🚀 perf: lazy-load components
 0287. 📚 docs: write FAQ section
 0684. 🚀 perf: reduce image load time
+0678. ✨ feat: add user authentication
