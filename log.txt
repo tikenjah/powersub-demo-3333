@@ -5700,3 +5700,4 @@
 0852. ✨ feat: enable dark mode toggle
 0688. 🚀 perf: reduce image load time
 0622. 🎨 style: apply consistent indentation
+0711. 🐛 fix: fix broken CSS in mobile view
