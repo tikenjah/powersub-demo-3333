@@ -6707,3 +6707,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0289. 🐛 fix: resolve issue with date parsing
 0469. 🚀 perf: lazy-load components
+0231. 🔧 refactor: clean up auth middleware
