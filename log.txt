@@ -3599,3 +3599,4 @@
 0021. ✨ feat: support email verification
 0961. 📚 docs: add API usage examples
 0341. 🚀 perf: lazy-load components
+0173. 🚀 perf: cache repeated calculations
