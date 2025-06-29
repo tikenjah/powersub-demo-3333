@@ -8711,3 +8711,4 @@
 0090. ✅ test: increase coverage on auth module
 0351. ✨ feat: add export to CSV option
 0803. ✅ test: mock database connection in test suite
+0905. ♻️ chore: bump dependencies
