@@ -3598,3 +3598,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0021. ✨ feat: support email verification
 0961. 📚 docs: add API usage examples
+0341. 🚀 perf: lazy-load components
