@@ -3591,3 +3591,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0353. ♻️ chore: rename env.example
 0483. 📚 docs: update README with setup steps
+0384. 📚 docs: clarify environment setup
