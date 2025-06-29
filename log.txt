@@ -3596,3 +3596,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0864. 🐛 fix: correct typo in registration form
 0878. 🔧 refactor: split large controller into smaller functions
+0021. ✨ feat: support email verification
