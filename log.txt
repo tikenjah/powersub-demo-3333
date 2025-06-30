@@ -8715,3 +8715,4 @@
 0444. ✅ test: add unit test for quiz service
 0643. 🎨 style: apply consistent indentation
 0381. ♻️ chore: clean up unused files
+0788. 📚 docs: add API usage examples
