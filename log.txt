@@ -3602,3 +3602,4 @@
 0173. 🚀 perf: cache repeated calculations
 0766. 🎨 style: reformat files with black
 0853. 🔧 refactor: refactor quiz grading logic
+0227. ✅ test: test user registration edge cases
