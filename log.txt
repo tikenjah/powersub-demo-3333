@@ -3614,3 +3614,4 @@
 0360. ✨ feat: add export to CSV option
 0204. 🎨 style: standardize quote style
 0231. 🔧 refactor: clean up auth middleware
+0307. ✨ feat: support email verification
