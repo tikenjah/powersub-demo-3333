@@ -10709,3 +10709,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0989. 📚 docs: write FAQ section
 0552. 🐛 fix: fix null pointer exception on login
+0603. 🐛 fix: fix broken CSS in mobile view
