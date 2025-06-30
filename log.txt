@@ -3611,3 +3611,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0585. 🚀 perf: lazy-load components
 0211. 🔧 refactor: remove redundant code blocks
+0360. ✨ feat: add export to CSV option
