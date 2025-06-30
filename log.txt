@@ -6713,3 +6713,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0788. 📚 docs: add API usage examples
 0148. 🔧 refactor: organize models into subfolders
+0934. ✨ feat: support email verification
