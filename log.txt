@@ -5704,3 +5704,4 @@
 0354. 📚 docs: add API usage examples
 0481. ✅ test: add unit test for quiz service
 0611. ✅ test: test user registration edge cases
+0364. 🐛 fix: resolve issue with date parsing
