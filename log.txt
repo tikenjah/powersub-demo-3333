@@ -3605,3 +3605,4 @@
 0227. ✅ test: test user registration edge cases
 0559. 🔧 refactor: split large controller into smaller functions
 0934. ✨ feat: support email verification
+0667. ✨ feat: add export to CSV option
