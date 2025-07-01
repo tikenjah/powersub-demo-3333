@@ -8717,3 +8717,4 @@
 0381. ♻️ chore: clean up unused files
 0788. 📚 docs: add API usage examples
 0775. 🐛 fix: fix null pointer exception on login
+0579. 📚 docs: clarify environment setup
