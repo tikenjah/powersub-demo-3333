@@ -3620,3 +3620,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0687. 🎨 style: remove trailing whitespace
 0346. ✅ test: mock database connection in test suite
+0631. ✨ feat: create admin dashboard
