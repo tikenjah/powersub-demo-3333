@@ -6716,3 +6716,4 @@
 0934. ✨ feat: support email verification
 0904. ✨ feat: implement quiz timer feature
 0158. 📚 docs: clarify environment setup
+0980. 🎨 style: reformat files with black
