@@ -3622,3 +3622,4 @@
 0346. ✅ test: mock database connection in test suite
 0631. ✨ feat: create admin dashboard
 0266. 🔧 refactor: remove redundant code blocks
+0219. ✅ test: increase coverage on auth module
