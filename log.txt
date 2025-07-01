@@ -3631,3 +3631,4 @@
 0903. ✅ test: mock database connection in test suite
 0993. ✨ feat: implement quiz timer feature
 0196. ♻️ chore: bump dependencies
+0710. 🐛 fix: fix broken CSS in mobile view
