@@ -3624,3 +3624,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0219. ✅ test: increase coverage on auth module
 0767. 🔧 refactor: remove redundant code blocks
+0197. 📚 docs: update README with setup steps
