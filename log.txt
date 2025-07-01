@@ -5710,3 +5710,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0056. ♻️ chore: rename env.example
 0636. ✅ test: increase coverage on auth module
+0038. 🎨 style: rename variables for clarity
