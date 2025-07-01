@@ -3625,3 +3625,4 @@
 0219. ✅ test: increase coverage on auth module
 0767. 🔧 refactor: remove redundant code blocks
 0197. 📚 docs: update README with setup steps
+0624. ✅ test: add unit test for quiz service
