@@ -5712,3 +5712,4 @@
 0636. ✅ test: increase coverage on auth module
 0038. 🎨 style: rename variables for clarity
 0500. ✅ test: add integration test for /submit endpoint
+0260. ✨ feat: create admin dashboard
