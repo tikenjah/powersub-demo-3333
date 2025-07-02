@@ -3638,3 +3638,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0429. ✨ feat: add user authentication
 0902. ✨ feat: enable dark mode toggle
+0850. ♻️ chore: rename env.example
