@@ -3636,3 +3636,4 @@
 0528. ♻️ chore: clean up unused files
 0215. 🎨 style: reformat files with black
 0629. 🔧 refactor: organize models into subfolders
+0429. ✨ feat: add user authentication
