@@ -8719,3 +8719,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0579. 📚 docs: clarify environment setup
 0392. 🎨 style: remove trailing whitespace
+0271. ✅ test: add unit test for quiz service
