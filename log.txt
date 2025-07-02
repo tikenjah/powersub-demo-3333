@@ -6719,3 +6719,4 @@
 0980. 🎨 style: reformat files with black
 0234. ♻️ chore: rename env.example
 0130. 🔧 refactor: split large controller into smaller functions
+0761. ✅ test: add unit test for quiz service
