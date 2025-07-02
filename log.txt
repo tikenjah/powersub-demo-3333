@@ -3639,3 +3639,4 @@
 0429. ✨ feat: add user authentication
 0902. ✨ feat: enable dark mode toggle
 0850. ♻️ chore: rename env.example
+0440. 📚 docs: update README with setup steps
