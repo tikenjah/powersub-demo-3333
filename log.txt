@@ -3649,3 +3649,4 @@
 0363. 📚 docs: clarify environment setup
 0623. 🎨 style: standardize quote style
 0412. ✅ test: increase coverage on auth module
+0480. ♻️ chore: add GitHub actions badge
