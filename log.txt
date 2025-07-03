@@ -3650,3 +3650,4 @@
 0623. 🎨 style: standardize quote style
 0412. ✅ test: increase coverage on auth module
 0480. ♻️ chore: add GitHub actions badge
+0034. 📚 docs: improve code comments in utils
