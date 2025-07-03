@@ -9725,3 +9725,4 @@
 0086. 🐛 fix: correct typo in registration form
 0536. ✨ feat: add user authentication
 0781. 🚀 perf: reduce image load time
+0315. ✅ test: add integration test for /submit endpoint
