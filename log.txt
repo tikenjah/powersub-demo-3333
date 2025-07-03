@@ -5717,3 +5717,4 @@
 0031. 📚 docs: document token refresh logic
 0110. 🐛 fix: prevent crash on empty input
 0858. ♻️ chore: clean up unused files
+0977. 🔧 refactor: organize models into subfolders
