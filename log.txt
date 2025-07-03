@@ -3653,3 +3653,4 @@
 0034. 📚 docs: improve code comments in utils
 0812. 🔧 refactor: refactor quiz grading logic
 0656. 🎨 style: apply consistent indentation
+0226. 🚀 perf: lazy-load components
