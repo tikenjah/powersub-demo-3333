@@ -8724,3 +8724,4 @@
 0476. 🚀 perf: reduce image load time
 0462. ♻️ chore: update .gitignore
 0611. ✅ test: test user registration edge cases
+0581. ✅ test: add integration test for /submit endpoint
