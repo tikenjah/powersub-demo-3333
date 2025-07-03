@@ -3659,3 +3659,4 @@
 0085. ✨ feat: support email verification
 0950. 🎨 style: reformat files with black
 0160. ♻️ chore: bump dependencies
+0924. ✅ test: mock database connection in test suite
