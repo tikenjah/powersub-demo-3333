@@ -3648,3 +3648,4 @@
 0556. ✨ feat: support email verification
 0363. 📚 docs: clarify environment setup
 0623. 🎨 style: standardize quote style
+0412. ✅ test: increase coverage on auth module
