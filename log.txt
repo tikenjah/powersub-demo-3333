@@ -8723,3 +8723,4 @@
 0028. 🎨 style: standardize quote style
 0476. 🚀 perf: reduce image load time
 0462. ♻️ chore: update .gitignore
+0611. ✅ test: test user registration edge cases
