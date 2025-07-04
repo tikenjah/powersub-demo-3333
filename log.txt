@@ -8729,3 +8729,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0014. 🔧 refactor: remove redundant code blocks
 0927. ♻️ chore: bump dependencies
+0735. ♻️ chore: add GitHub actions badge
