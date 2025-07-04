@@ -9727,3 +9727,4 @@
 0781. 🚀 perf: reduce image load time
 0315. ✅ test: add integration test for /submit endpoint
 0074. ♻️ chore: add GitHub actions badge
+0784. ♻️ chore: clean up unused files
