@@ -9729,3 +9729,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0784. ♻️ chore: clean up unused files
 0171. 🐛 fix: fix broken CSS in mobile view
+0269. ✅ test: test user registration edge cases
