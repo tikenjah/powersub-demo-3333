@@ -9737,3 +9737,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0466. 🚀 perf: optimize database query for quiz results
 0476. 🚀 perf: reduce image load time
+0782. 📚 docs: improve code comments in utils
