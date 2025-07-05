@@ -3678,3 +3678,4 @@
 0370. 🚀 perf: reduce image load time
 0158. 📚 docs: clarify environment setup
 0087. ✨ feat: add export to CSV option
+0539. 🔧 refactor: organize models into subfolders
