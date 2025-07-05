@@ -8733,3 +8733,4 @@
 0575. ✅ test: add unit test for quiz service
 0970. ♻️ chore: update .gitignore
 0305. ✨ feat: enable dark mode toggle
+0702. ✨ feat: add user authentication
