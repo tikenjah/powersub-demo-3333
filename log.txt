@@ -10728,3 +10728,4 @@
 0595. ✨ feat: enable dark mode toggle
 0820. 📚 docs: add API usage examples
 0858. ♻️ chore: clean up unused files
+0180. ✨ feat: add export to CSV option
