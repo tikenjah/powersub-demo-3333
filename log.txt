@@ -3675,3 +3675,4 @@
 0019. ✨ feat: enable dark mode toggle
 0831. 📚 docs: clarify environment setup
 0862. ♻️ chore: bump dependencies
+0370. 🚀 perf: reduce image load time
