@@ -3695,3 +3695,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0271. ✅ test: add unit test for quiz service
 0733. 🐛 fix: fix null pointer exception on login
+0349. ✅ test: increase coverage on auth module
