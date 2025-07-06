@@ -10734,3 +10734,4 @@
 0197. 📚 docs: update README with setup steps
 0639. 🐛 fix: correct typo in registration form
 0295. 🎨 style: remove trailing whitespace
+0539. 🔧 refactor: organize models into subfolders
