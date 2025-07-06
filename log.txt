@@ -3688,3 +3688,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0392. 🎨 style: remove trailing whitespace
 0551. 📚 docs: write FAQ section
+0063. 🐛 fix: handle 500 error in quiz API
