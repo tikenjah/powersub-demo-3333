@@ -9740,3 +9740,4 @@
 0782. 📚 docs: improve code comments in utils
 0074. ♻️ chore: add GitHub actions badge
 0668. 🚀 perf: optimize database query for quiz results
+0246. ✅ test: add integration test for /submit endpoint
