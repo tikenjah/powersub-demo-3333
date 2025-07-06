@@ -6726,3 +6726,4 @@
 0868. ✅ test: add unit test for quiz service
 0900. 🐛 fix: handle 500 error in quiz API
 0205. 📚 docs: update README with setup steps
+0617. ✨ feat: support email verification
