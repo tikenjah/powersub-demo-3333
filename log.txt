@@ -6728,3 +6728,4 @@
 0205. 📚 docs: update README with setup steps
 0617. ✨ feat: support email verification
 0962. ✨ feat: create admin dashboard
+0131. 📚 docs: write FAQ section
