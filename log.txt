@@ -3690,3 +3690,4 @@
 0551. 📚 docs: write FAQ section
 0063. 🐛 fix: handle 500 error in quiz API
 0867. 🔧 refactor: refactor quiz grading logic
+0315. ✅ test: add integration test for /submit endpoint
