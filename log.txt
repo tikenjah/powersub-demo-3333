@@ -10742,3 +10742,4 @@
 0944. ✨ feat: add user authentication
 0992. ♻️ chore: clean up unused files
 0870. ♻️ chore: clean up unused files
+0970. ♻️ chore: update .gitignore
