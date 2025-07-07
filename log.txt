@@ -8736,3 +8736,4 @@
 0702. ✨ feat: add user authentication
 0518. ✨ feat: support email verification
 0617. ✨ feat: support email verification
+0422. 🔧 refactor: organize models into subfolders
