@@ -8737,3 +8737,4 @@
 0518. ✨ feat: support email verification
 0617. ✨ feat: support email verification
 0422. 🔧 refactor: organize models into subfolders
+0736. 🐛 fix: fix null pointer exception on login
