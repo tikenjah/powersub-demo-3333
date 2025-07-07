@@ -7747,3 +7747,4 @@
 0034. 📚 docs: improve code comments in utils
 0704. 🚀 perf: cache repeated calculations
 0789. ✨ feat: create admin dashboard
+0159. 🚀 perf: lazy-load components
