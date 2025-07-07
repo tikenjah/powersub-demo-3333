@@ -3713,3 +3713,4 @@
 0447. ♻️ chore: bump dependencies
 0772. 🐛 fix: fix null pointer exception on login
 0635. 🎨 style: apply consistent indentation
+0629. 🔧 refactor: organize models into subfolders
