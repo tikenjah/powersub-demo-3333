@@ -3709,3 +3709,4 @@
 0667. ✨ feat: add export to CSV option
 0292. 📚 docs: clarify environment setup
 0826. 📚 docs: clarify environment setup
+0227. ✅ test: test user registration edge cases
