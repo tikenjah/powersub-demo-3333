@@ -3700,3 +3700,4 @@
 0906. 📚 docs: add API usage examples
 0124. 🎨 style: reformat files with black
 0910. 🎨 style: remove trailing whitespace
+0773. 📚 docs: document token refresh logic
