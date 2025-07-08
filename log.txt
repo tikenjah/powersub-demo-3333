@@ -6730,3 +6730,4 @@
 0962. ✨ feat: create admin dashboard
 0131. 📚 docs: write FAQ section
 0513. ♻️ chore: bump dependencies
+0343. 🚀 perf: optimize database query for quiz results
