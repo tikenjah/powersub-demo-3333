@@ -3728,3 +3728,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0836. 🚀 perf: optimize database query for quiz results
 0604. 📚 docs: add API usage examples
+0561. 📚 docs: write FAQ section
