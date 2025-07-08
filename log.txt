@@ -3725,3 +3725,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0725. 🚀 perf: lazy-load components
 0221. ✨ feat: add user authentication
+0096. 🐛 fix: prevent crash on empty input
