@@ -3726,3 +3726,4 @@
 0725. 🚀 perf: lazy-load components
 0221. ✨ feat: add user authentication
 0096. 🐛 fix: prevent crash on empty input
+0836. 🚀 perf: optimize database query for quiz results
