@@ -5728,3 +5728,4 @@
 0970. ♻️ chore: update .gitignore
 0225. 🚀 perf: reduce image load time
 0899. 🚀 perf: cache repeated calculations
+0253. 📚 docs: update README with setup steps
