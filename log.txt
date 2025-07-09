@@ -3745,3 +3745,4 @@
 0205. 📚 docs: update README with setup steps
 0344. ♻️ chore: add GitHub actions badge
 0635. 🎨 style: apply consistent indentation
+0786. ✨ feat: enable dark mode toggle
