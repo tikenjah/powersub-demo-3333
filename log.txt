@@ -3732,3 +3732,4 @@
 0839. 🎨 style: apply consistent indentation
 0481. ✅ test: add unit test for quiz service
 0875. ✅ test: increase coverage on auth module
+0816. 🔧 refactor: organize models into subfolders
