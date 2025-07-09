@@ -3731,3 +3731,4 @@
 0561. 📚 docs: write FAQ section
 0839. 🎨 style: apply consistent indentation
 0481. ✅ test: add unit test for quiz service
+0875. ✅ test: increase coverage on auth module
