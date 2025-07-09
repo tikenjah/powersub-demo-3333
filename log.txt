@@ -3738,3 +3738,4 @@
 0508. ✅ test: add unit test for quiz service
 0435. ✅ test: add unit test for quiz service
 0765. ♻️ chore: clean up unused files
+0029. 🚀 perf: lazy-load components
