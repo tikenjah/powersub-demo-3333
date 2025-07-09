@@ -10745,3 +10745,4 @@
 0970. ♻️ chore: update .gitignore
 0674. 🔧 refactor: split large controller into smaller functions
 0371. ✅ test: add integration test for /submit endpoint
+0110. 🐛 fix: prevent crash on empty input
