@@ -9745,3 +9745,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0671. 🐛 fix: fix null pointer exception on login
 0473. 📚 docs: write FAQ section
+0986. 📚 docs: document token refresh logic
