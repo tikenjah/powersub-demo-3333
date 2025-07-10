@@ -7758,3 +7758,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0690. 🚀 perf: lazy-load components
 0373. 📚 docs: document token refresh logic
+0516. ✅ test: add unit test for quiz service
