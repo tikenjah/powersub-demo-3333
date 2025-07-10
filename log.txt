@@ -3751,3 +3751,4 @@
 0461. ✨ feat: add user authentication
 0213. ✅ test: add integration test for /submit endpoint
 0697. ♻️ chore: bump dependencies
+0579. 📚 docs: clarify environment setup
