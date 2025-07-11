@@ -7761,3 +7761,4 @@
 0516. ✅ test: add unit test for quiz service
 0884. 📚 docs: clarify environment setup
 0004. 🚀 perf: optimize database query for quiz results
+0824. 🚀 perf: lazy-load components
