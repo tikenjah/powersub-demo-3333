@@ -9752,3 +9752,4 @@
 0287. 📚 docs: write FAQ section
 0938. 🎨 style: rename variables for clarity
 0888. 🚀 perf: lazy-load components
+0557. 🔧 refactor: clean up auth middleware
