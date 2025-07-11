@@ -8745,3 +8745,4 @@
 0551. 📚 docs: write FAQ section
 0584. 🚀 perf: lazy-load components
 0952. 🔧 refactor: split large controller into smaller functions
+0349. ✅ test: increase coverage on auth module
