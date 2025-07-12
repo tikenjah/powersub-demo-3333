@@ -3777,3 +3777,4 @@
 0252. 🎨 style: remove trailing whitespace
 0499. 🎨 style: reformat files with black
 0827. 🚀 perf: optimize database query for quiz results
+0028. 🎨 style: standardize quote style
