@@ -8747,3 +8747,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0349. ✅ test: increase coverage on auth module
 0025. 🚀 perf: optimize database query for quiz results
+0487. 🎨 style: reformat files with black
