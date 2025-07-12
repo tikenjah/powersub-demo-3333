@@ -3774,3 +3774,4 @@
 0185. 📚 docs: write FAQ section
 0299. 🐛 fix: resolve issue with date parsing
 0922. 📚 docs: write FAQ section
+0252. 🎨 style: remove trailing whitespace
