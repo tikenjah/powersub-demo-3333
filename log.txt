@@ -3776,3 +3776,4 @@
 0922. 📚 docs: write FAQ section
 0252. 🎨 style: remove trailing whitespace
 0499. 🎨 style: reformat files with black
+0827. 🚀 perf: optimize database query for quiz results
