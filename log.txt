@@ -9755,3 +9755,4 @@
 0557. 🔧 refactor: clean up auth middleware
 0378. 🐛 fix: prevent crash on empty input
 0852. ✨ feat: enable dark mode toggle
+0102. ✨ feat: support email verification
