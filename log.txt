@@ -3782,3 +3782,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0772. 🐛 fix: fix null pointer exception on login
 0650. ✅ test: add unit test for quiz service
+0448. 🐛 fix: correct typo in registration form
