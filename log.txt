@@ -9760,3 +9760,4 @@
 0980. 🎨 style: reformat files with black
 0576. ♻️ chore: update .gitignore
 0918. ✨ feat: enable dark mode toggle
+0370. 🚀 perf: reduce image load time
