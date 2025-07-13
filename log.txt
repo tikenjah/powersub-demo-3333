@@ -9758,3 +9758,4 @@
 0102. ✨ feat: support email verification
 0832. 🔧 refactor: remove redundant code blocks
 0980. 🎨 style: reformat files with black
+0576. ♻️ chore: update .gitignore
