@@ -3783,3 +3783,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0650. ✅ test: add unit test for quiz service
 0448. 🐛 fix: correct typo in registration form
+0968. 🎨 style: standardize quote style
