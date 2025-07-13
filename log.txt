@@ -8748,3 +8748,4 @@
 0349. ✅ test: increase coverage on auth module
 0025. 🚀 perf: optimize database query for quiz results
 0487. 🎨 style: reformat files with black
+0021. ✨ feat: support email verification
