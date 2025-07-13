@@ -8751,3 +8751,4 @@
 0021. ✨ feat: support email verification
 0562. 🔧 refactor: clean up auth middleware
 0031. 📚 docs: document token refresh logic
+0343. 🚀 perf: optimize database query for quiz results
