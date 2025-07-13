@@ -5746,3 +5746,4 @@
 0336. ✨ feat: add export to CSV option
 0723. 🔧 refactor: remove redundant code blocks
 0470. 🎨 style: remove trailing whitespace
+0940. 📚 docs: document token refresh logic
