@@ -10754,3 +10754,4 @@
 0606. 📚 docs: improve code comments in utils
 0268. 🐛 fix: prevent crash on empty input
 0831. 📚 docs: clarify environment setup
+0307. ✨ feat: support email verification
