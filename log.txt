@@ -8750,3 +8750,4 @@
 0487. 🎨 style: reformat files with black
 0021. ✨ feat: support email verification
 0562. 🔧 refactor: clean up auth middleware
+0031. 📚 docs: document token refresh logic
