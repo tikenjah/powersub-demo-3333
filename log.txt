@@ -3795,3 +3795,4 @@
 0079. 🐛 fix: correct typo in registration form
 0596. ♻️ chore: update .gitignore
 0679. ♻️ chore: bump dependencies
+0319. 🐛 fix: handle 500 error in quiz API
