@@ -3793,3 +3793,4 @@
 0439. 🐛 fix: correct typo in registration form
 0593. 🐛 fix: correct typo in registration form
 0079. 🐛 fix: correct typo in registration form
+0596. ♻️ chore: update .gitignore
