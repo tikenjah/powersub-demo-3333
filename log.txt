@@ -8754,3 +8754,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0077. ♻️ chore: rename env.example
 0748. 🚀 perf: optimize database query for quiz results
+0977. 🔧 refactor: organize models into subfolders
