@@ -3808,3 +3808,4 @@
 0844. 📚 docs: update README with setup steps
 0068. 🐛 fix: fix null pointer exception on login
 0322. 🔧 refactor: split large controller into smaller functions
+0918. ✨ feat: enable dark mode toggle
