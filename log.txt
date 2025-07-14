@@ -3806,3 +3806,4 @@
 0904. ✨ feat: implement quiz timer feature
 0355. 🚀 perf: optimize database query for quiz results
 0844. 📚 docs: update README with setup steps
+0068. 🐛 fix: fix null pointer exception on login
