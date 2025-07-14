@@ -3811,3 +3811,4 @@
 0918. ✨ feat: enable dark mode toggle
 0543. ✨ feat: support email verification
 0860. 🔧 refactor: organize models into subfolders
+0430. 🐛 fix: fix null pointer exception on login
