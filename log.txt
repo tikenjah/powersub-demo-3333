@@ -8753,3 +8753,4 @@
 0031. 📚 docs: document token refresh logic
 0343. 🚀 perf: optimize database query for quiz results
 0077. ♻️ chore: rename env.example
+0748. 🚀 perf: optimize database query for quiz results
