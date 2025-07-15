@@ -3812,3 +3812,4 @@
 0543. ✨ feat: support email verification
 0860. 🔧 refactor: organize models into subfolders
 0430. 🐛 fix: fix null pointer exception on login
+0997. ✅ test: increase coverage on auth module
