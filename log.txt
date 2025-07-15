@@ -3817,3 +3817,4 @@
 0803. ✅ test: mock database connection in test suite
 0908. ♻️ chore: bump dependencies
 0398. 🚀 perf: cache repeated calculations
+0085. ✨ feat: support email verification
