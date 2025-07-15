@@ -3822,3 +3822,4 @@
 0789. ✨ feat: create admin dashboard
 0764. ✨ feat: add user authentication
 0215. 🎨 style: reformat files with black
+0252. 🎨 style: remove trailing whitespace
