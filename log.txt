@@ -5749,3 +5749,4 @@
 0940. 📚 docs: document token refresh logic
 0498. ✅ test: mock database connection in test suite
 0277. 🎨 style: standardize quote style
+0871. ✅ test: add integration test for /submit endpoint
