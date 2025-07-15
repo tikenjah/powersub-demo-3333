@@ -3820,3 +3820,4 @@
 0085. ✨ feat: support email verification
 0249. ✅ test: increase coverage on auth module
 0789. ✨ feat: create admin dashboard
+0764. ✨ feat: add user authentication
