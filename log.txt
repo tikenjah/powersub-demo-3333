@@ -3831,3 +3831,4 @@
 0979. 🎨 style: standardize quote style
 0535. 📚 docs: write FAQ section
 0714. 📚 docs: improve code comments in utils
+0722. 📚 docs: add API usage examples
