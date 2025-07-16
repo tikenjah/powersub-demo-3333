@@ -8761,3 +8761,4 @@
 0968. 🎨 style: standardize quote style
 0162. ♻️ chore: add GitHub actions badge
 0796. 🔧 refactor: refactor quiz grading logic
+0485. 📚 docs: update README with setup steps
