@@ -3825,3 +3825,4 @@
 0252. 🎨 style: remove trailing whitespace
 0084. 🐛 fix: handle 500 error in quiz API
 0497. 🔧 refactor: refactor quiz grading logic
+0746. ♻️ chore: add GitHub actions badge
