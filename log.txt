@@ -8759,3 +8759,4 @@
 0535. 📚 docs: write FAQ section
 0107. 🐛 fix: prevent crash on empty input
 0968. 🎨 style: standardize quote style
+0162. ♻️ chore: add GitHub actions badge
