@@ -5754,3 +5754,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0480. ♻️ chore: add GitHub actions badge
 0634. 🎨 style: reformat files with black
+0451. ✨ feat: support email verification
