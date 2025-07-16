@@ -9766,3 +9766,4 @@
 0572. ✨ feat: add user authentication
 0021. ✨ feat: support email verification
 0593. 🐛 fix: correct typo in registration form
+0659. 📚 docs: add API usage examples
