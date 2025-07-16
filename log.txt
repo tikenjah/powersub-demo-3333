@@ -3835,3 +3835,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0243. 🔧 refactor: clean up auth middleware
 0133. 🐛 fix: fix null pointer exception on login
+0504. 📚 docs: document token refresh logic
