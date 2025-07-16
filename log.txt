@@ -3830,3 +3830,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0979. 🎨 style: standardize quote style
 0535. 📚 docs: write FAQ section
+0714. 📚 docs: improve code comments in utils
