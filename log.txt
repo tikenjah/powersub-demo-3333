@@ -6751,3 +6751,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0269. ✅ test: test user registration edge cases
 0863. 🐛 fix: correct typo in registration form
+0062. ♻️ chore: update .gitignore
