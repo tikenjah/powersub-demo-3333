@@ -3823,3 +3823,4 @@
 0764. ✨ feat: add user authentication
 0215. 🎨 style: reformat files with black
 0252. 🎨 style: remove trailing whitespace
+0084. 🐛 fix: handle 500 error in quiz API
