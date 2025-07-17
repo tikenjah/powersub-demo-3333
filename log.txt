@@ -6753,3 +6753,4 @@
 0863. 🐛 fix: correct typo in registration form
 0062. ♻️ chore: update .gitignore
 0427. ✅ test: mock database connection in test suite
+0474. ✅ test: add unit test for quiz service
