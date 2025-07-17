@@ -3846,3 +3846,4 @@
 0570. 🎨 style: apply consistent indentation
 0600. 🐛 fix: prevent crash on empty input
 0794. ♻️ chore: clean up unused files
+0064. 📚 docs: clarify environment setup
