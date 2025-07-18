@@ -3850,3 +3850,4 @@
 0864. 🐛 fix: correct typo in registration form
 0735. ♻️ chore: add GitHub actions badge
 0992. ♻️ chore: clean up unused files
+0376. 🎨 style: apply consistent indentation
