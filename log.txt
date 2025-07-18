@@ -5762,3 +5762,4 @@
 0498. ✅ test: mock database connection in test suite
 0410. 🎨 style: reformat files with black
 0133. 🐛 fix: fix null pointer exception on login
+0456. 🚀 perf: optimize database query for quiz results
