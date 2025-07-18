@@ -10759,3 +10759,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0811. 🎨 style: reformat files with black
 0052. 🎨 style: standardize quote style
+0127. 🐛 fix: fix null pointer exception on login
