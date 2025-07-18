@@ -7781,3 +7781,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0214. 📚 docs: improve code comments in utils
 0241. 📚 docs: add API usage examples
+0889. 🚀 perf: lazy-load components
