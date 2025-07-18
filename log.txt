@@ -3859,3 +3859,4 @@
 0584. 🚀 perf: lazy-load components
 0250. 📚 docs: update README with setup steps
 0923. ✨ feat: support email verification
+0456. 🚀 perf: optimize database query for quiz results
