@@ -6756,3 +6756,4 @@
 0474. ✅ test: add unit test for quiz service
 0991. ♻️ chore: clean up unused files
 0289. 🐛 fix: resolve issue with date parsing
+0500. ✅ test: add integration test for /submit endpoint
