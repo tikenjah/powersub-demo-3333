@@ -6755,3 +6755,4 @@
 0427. ✅ test: mock database connection in test suite
 0474. ✅ test: add unit test for quiz service
 0991. ♻️ chore: clean up unused files
+0289. 🐛 fix: resolve issue with date parsing
