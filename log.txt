@@ -3857,3 +3857,4 @@
 0834. ✅ test: increase coverage on auth module
 0119. 📚 docs: improve code comments in utils
 0584. 🚀 perf: lazy-load components
+0250. 📚 docs: update README with setup steps
