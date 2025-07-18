@@ -6758,3 +6758,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0500. ✅ test: add integration test for /submit endpoint
 0174. 📚 docs: clarify environment setup
+0524. ♻️ chore: rename env.example
