@@ -3871,3 +3871,4 @@
 0669. ✨ feat: enable dark mode toggle
 0245. 🐛 fix: resolve issue with date parsing
 0874. 🔧 refactor: split large controller into smaller functions
+0898. 🐛 fix: fix broken CSS in mobile view
