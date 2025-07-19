@@ -3873,3 +3873,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0898. 🐛 fix: fix broken CSS in mobile view
 0160. ♻️ chore: bump dependencies
+0578. ✅ test: add integration test for /submit endpoint
