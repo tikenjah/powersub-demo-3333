@@ -3867,3 +3867,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0548. 📚 docs: write FAQ section
 0574. ✨ feat: enable dark mode toggle
+0861. ♻️ chore: clean up unused files
