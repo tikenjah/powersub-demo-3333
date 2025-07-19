@@ -3875,3 +3875,4 @@
 0160. ♻️ chore: bump dependencies
 0578. ✅ test: add integration test for /submit endpoint
 0862. ♻️ chore: bump dependencies
+0397. 🐛 fix: handle 500 error in quiz API
