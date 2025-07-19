@@ -6761,3 +6761,4 @@
 0524. ♻️ chore: rename env.example
 0318. 🔧 refactor: refactor quiz grading logic
 0702. ✨ feat: add user authentication
+0895. ✨ feat: support email verification
