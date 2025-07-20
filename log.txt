@@ -3883,3 +3883,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0186. ✅ test: test user registration edge cases
 0435. ✅ test: add unit test for quiz service
+0208. 🔧 refactor: clean up auth middleware
