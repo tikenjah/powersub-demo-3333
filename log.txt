@@ -5768,3 +5768,4 @@
 0617. ✨ feat: support email verification
 0976. ✨ feat: implement quiz timer feature
 0785. ✨ feat: enable dark mode toggle
+0674. 🔧 refactor: split large controller into smaller functions
