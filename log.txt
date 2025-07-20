@@ -7784,3 +7784,4 @@
 0889. 🚀 perf: lazy-load components
 0960. ✅ test: increase coverage on auth module
 0583. ✅ test: increase coverage on auth module
+0511. 🐛 fix: fix broken CSS in mobile view
