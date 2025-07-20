@@ -3881,3 +3881,4 @@
 0170. ✅ test: increase coverage on auth module
 0024. 📚 docs: write FAQ section
 0318. 🔧 refactor: refactor quiz grading logic
+0186. ✅ test: test user registration edge cases
