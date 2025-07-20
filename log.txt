@@ -5766,3 +5766,4 @@
 0139. 📚 docs: document token refresh logic
 0144. ✅ test: increase coverage on auth module
 0617. ✨ feat: support email verification
+0976. ✨ feat: implement quiz timer feature
