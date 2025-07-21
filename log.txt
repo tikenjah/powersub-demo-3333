@@ -8769,3 +8769,4 @@
 0583. ✅ test: increase coverage on auth module
 0864. 🐛 fix: correct typo in registration form
 0469. 🚀 perf: lazy-load components
+0479. 🐛 fix: fix null pointer exception on login
