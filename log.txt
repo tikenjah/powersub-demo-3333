@@ -3905,3 +3905,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0457. 🐛 fix: handle 500 error in quiz API
 0885. ♻️ chore: update .gitignore
+0696. 🔧 refactor: clean up auth middleware
