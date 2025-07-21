@@ -3896,3 +3896,4 @@
 0194. 🎨 style: standardize quote style
 0944. ✨ feat: add user authentication
 0087. ✨ feat: add export to CSV option
+0365. 🚀 perf: reduce image load time
