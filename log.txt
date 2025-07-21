@@ -8766,3 +8766,4 @@
 0061. ✨ feat: create admin dashboard
 0403. ✅ test: mock database connection in test suite
 0853. 🔧 refactor: refactor quiz grading logic
+0583. ✅ test: increase coverage on auth module
