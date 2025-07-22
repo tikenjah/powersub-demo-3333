@@ -3912,3 +3912,4 @@
 0636. ✅ test: increase coverage on auth module
 0968. 🎨 style: standardize quote style
 0793. 📚 docs: clarify environment setup
+0003. ✅ test: increase coverage on auth module
