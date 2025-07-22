@@ -3921,3 +3921,4 @@
 0599. ✅ test: test user registration edge cases
 0600. 🐛 fix: prevent crash on empty input
 0241. 📚 docs: add API usage examples
+0970. ♻️ chore: update .gitignore
