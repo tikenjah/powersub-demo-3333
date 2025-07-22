@@ -9778,3 +9778,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0968. 🎨 style: standardize quote style
 0153. ♻️ chore: rename env.example
+0279. ✨ feat: support email verification
