@@ -3919,3 +3919,4 @@
 0673. 🐛 fix: correct typo in registration form
 0976. ✨ feat: implement quiz timer feature
 0599. ✅ test: test user registration edge cases
+0600. 🐛 fix: prevent crash on empty input
