@@ -7792,3 +7792,4 @@
 0868. ✅ test: add unit test for quiz service
 0701. 🔧 refactor: clean up auth middleware
 0641. 📚 docs: write FAQ section
+0821. ✅ test: add integration test for /submit endpoint
