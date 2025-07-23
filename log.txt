@@ -3936,3 +3936,4 @@
 0358. 🚀 perf: reduce image load time
 0658. 🎨 style: rename variables for clarity
 0276. ✅ test: add integration test for /submit endpoint
+0544. 🔧 refactor: organize models into subfolders
