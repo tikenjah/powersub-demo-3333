@@ -3929,3 +3929,4 @@
 0788. 📚 docs: add API usage examples
 0737. 🐛 fix: handle 500 error in quiz API
 0158. 📚 docs: clarify environment setup
+0460. 📚 docs: write FAQ section
