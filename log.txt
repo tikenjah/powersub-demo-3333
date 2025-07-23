@@ -8774,3 +8774,4 @@
 0528. ♻️ chore: clean up unused files
 0136. 🚀 perf: lazy-load components
 0222. 🐛 fix: handle 500 error in quiz API
+0958. 🐛 fix: prevent crash on empty input
