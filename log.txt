@@ -9784,3 +9784,4 @@
 0993. ✨ feat: implement quiz timer feature
 0671. 🐛 fix: fix null pointer exception on login
 0643. 🎨 style: apply consistent indentation
+0502. 📚 docs: update README with setup steps
