@@ -10766,3 +10766,4 @@
 0787. ♻️ chore: rename env.example
 0034. 📚 docs: improve code comments in utils
 0322. 🔧 refactor: split large controller into smaller functions
+0377. ✨ feat: add user authentication
