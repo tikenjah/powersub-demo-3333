@@ -3930,3 +3930,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0158. 📚 docs: clarify environment setup
 0460. 📚 docs: write FAQ section
+0926. 🔧 refactor: organize models into subfolders
