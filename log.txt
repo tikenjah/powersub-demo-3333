@@ -5778,3 +5778,4 @@
 0124. 🎨 style: reformat files with black
 0870. ♻️ chore: clean up unused files
 0726. ✨ feat: enable dark mode toggle
+0061. ✨ feat: create admin dashboard
