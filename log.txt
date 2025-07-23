@@ -3931,3 +3931,4 @@
 0158. 📚 docs: clarify environment setup
 0460. 📚 docs: write FAQ section
 0926. 🔧 refactor: organize models into subfolders
+0300. ✨ feat: add export to CSV option
