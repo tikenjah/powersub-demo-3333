@@ -3949,3 +3949,4 @@
 0863. 🐛 fix: correct typo in registration form
 0049. 🐛 fix: handle 500 error in quiz API
 0427. ✅ test: mock database connection in test suite
+0805. ♻️ chore: add GitHub actions badge
