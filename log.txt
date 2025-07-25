@@ -3953,3 +3953,4 @@
 0027. 📚 docs: clarify environment setup
 0566. 📚 docs: write FAQ section
 0167. 🚀 perf: reduce image load time
+0797. 📚 docs: add API usage examples
