@@ -3951,3 +3951,4 @@
 0427. ✅ test: mock database connection in test suite
 0805. ♻️ chore: add GitHub actions badge
 0027. 📚 docs: clarify environment setup
+0566. 📚 docs: write FAQ section
