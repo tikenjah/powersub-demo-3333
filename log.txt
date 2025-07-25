@@ -3950,3 +3950,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0427. ✅ test: mock database connection in test suite
 0805. ♻️ chore: add GitHub actions badge
+0027. 📚 docs: clarify environment setup
