@@ -3952,3 +3952,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0027. 📚 docs: clarify environment setup
 0566. 📚 docs: write FAQ section
+0167. 🚀 perf: reduce image load time
