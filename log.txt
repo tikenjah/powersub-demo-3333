@@ -5782,3 +5782,4 @@
 0015. ✨ feat: implement quiz timer feature
 0055. 📚 docs: update README with setup steps
 0967. ♻️ chore: add GitHub actions badge
+0888. 🚀 perf: lazy-load components
