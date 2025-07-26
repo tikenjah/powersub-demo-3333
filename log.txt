@@ -3963,3 +3963,4 @@
 0470. 🎨 style: remove trailing whitespace
 0852. ✨ feat: enable dark mode toggle
 0518. ✨ feat: support email verification
+0117. ✅ test: increase coverage on auth module
