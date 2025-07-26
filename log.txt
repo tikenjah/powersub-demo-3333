@@ -10777,3 +10777,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0746. ♻️ chore: add GitHub actions badge
 0259. 🚀 perf: lazy-load components
+0442. 🎨 style: standardize quote style
