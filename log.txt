@@ -3968,3 +3968,4 @@
 0048. 📚 docs: update README with setup steps
 0030. 🐛 fix: fix null pointer exception on login
 0487. 🎨 style: reformat files with black
+0567. 📚 docs: add API usage examples
