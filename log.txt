@@ -3964,3 +3964,4 @@
 0852. ✨ feat: enable dark mode toggle
 0518. ✨ feat: support email verification
 0117. ✅ test: increase coverage on auth module
+0180. ✨ feat: add export to CSV option
