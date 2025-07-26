@@ -6781,3 +6781,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0180. ✨ feat: add export to CSV option
 0961. 📚 docs: add API usage examples
+0877. 🚀 perf: optimize database query for quiz results
