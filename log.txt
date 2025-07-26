@@ -3959,3 +3959,4 @@
 0780. 📚 docs: add API usage examples
 0789. ✨ feat: create admin dashboard
 0369. 🎨 style: standardize quote style
+0188. 🎨 style: apply consistent indentation
