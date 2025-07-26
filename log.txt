@@ -3962,3 +3962,4 @@
 0188. 🎨 style: apply consistent indentation
 0470. 🎨 style: remove trailing whitespace
 0852. ✨ feat: enable dark mode toggle
+0518. ✨ feat: support email verification
