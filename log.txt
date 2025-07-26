@@ -3958,3 +3958,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0780. 📚 docs: add API usage examples
 0789. ✨ feat: create admin dashboard
+0369. 🎨 style: standardize quote style
