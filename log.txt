@@ -3965,3 +3965,4 @@
 0518. ✨ feat: support email verification
 0117. ✅ test: increase coverage on auth module
 0180. ✨ feat: add export to CSV option
+0048. 📚 docs: update README with setup steps
