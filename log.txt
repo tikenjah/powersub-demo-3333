@@ -3981,3 +3981,4 @@
 0432. 🎨 style: apply consistent indentation
 0083. 🎨 style: reformat files with black
 0959. 🐛 fix: fix null pointer exception on login
+0820. 📚 docs: add API usage examples
