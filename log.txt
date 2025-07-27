@@ -7801,3 +7801,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0697. ♻️ chore: bump dependencies
 0968. 🎨 style: standardize quote style
+0249. ✅ test: increase coverage on auth module
