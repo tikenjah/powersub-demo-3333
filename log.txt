@@ -9795,3 +9795,4 @@
 0529. 📚 docs: write FAQ section
 0184. 📚 docs: improve code comments in utils
 0204. 🎨 style: standardize quote style
+0887. 📚 docs: add API usage examples
