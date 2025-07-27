@@ -6786,3 +6786,4 @@
 0508. ✅ test: add unit test for quiz service
 0094. 📚 docs: document token refresh logic
 0575. ✅ test: add unit test for quiz service
+0024. 📚 docs: write FAQ section
