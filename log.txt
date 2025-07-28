@@ -6788,3 +6788,4 @@
 0575. ✅ test: add unit test for quiz service
 0024. 📚 docs: write FAQ section
 0308. 🚀 perf: reduce image load time
+0520. 🐛 fix: fix null pointer exception on login
