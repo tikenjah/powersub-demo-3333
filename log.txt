@@ -3993,3 +3993,4 @@
 0219. ✅ test: increase coverage on auth module
 0391. 🐛 fix: fix null pointer exception on login
 0565. ♻️ chore: add GitHub actions badge
+0635. 🎨 style: apply consistent indentation
