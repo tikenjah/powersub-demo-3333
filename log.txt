@@ -10786,3 +10786,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0028. 🎨 style: standardize quote style
 0335. ♻️ chore: update .gitignore
+0544. 🔧 refactor: organize models into subfolders
