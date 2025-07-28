@@ -10790,3 +10790,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0115. 🚀 perf: reduce image load time
 0631. ✨ feat: create admin dashboard
+0250. 📚 docs: update README with setup steps
