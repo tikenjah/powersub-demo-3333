@@ -10785,3 +10785,4 @@
 0031. 📚 docs: document token refresh logic
 0278. 🔧 refactor: clean up auth middleware
 0028. 🎨 style: standardize quote style
+0335. ♻️ chore: update .gitignore
