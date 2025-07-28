@@ -3987,3 +3987,4 @@
 0846. ✨ feat: implement quiz timer feature
 0571. 🔧 refactor: clean up auth middleware
 0858. ♻️ chore: clean up unused files
+0557. 🔧 refactor: clean up auth middleware
