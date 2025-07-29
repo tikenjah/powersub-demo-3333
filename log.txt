@@ -7811,3 +7811,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0987. ✨ feat: create admin dashboard
 0526. ✨ feat: add user authentication
+0889. 🚀 perf: lazy-load components
