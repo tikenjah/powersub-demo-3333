@@ -7812,3 +7812,4 @@
 0987. ✨ feat: create admin dashboard
 0526. ✨ feat: add user authentication
 0889. 🚀 perf: lazy-load components
+0324. 📚 docs: document token refresh logic
