@@ -4003,3 +4003,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0620. ✨ feat: implement quiz timer feature
 0552. 🐛 fix: fix null pointer exception on login
+0090. ✅ test: increase coverage on auth module
