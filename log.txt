@@ -9800,3 +9800,4 @@
 0601. ✨ feat: implement quiz timer feature
 0862. ♻️ chore: bump dependencies
 0480. ♻️ chore: add GitHub actions badge
+0579. 📚 docs: clarify environment setup
