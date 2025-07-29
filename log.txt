@@ -10793,3 +10793,4 @@
 0250. 📚 docs: update README with setup steps
 0160. ♻️ chore: bump dependencies
 0551. 📚 docs: write FAQ section
+0313. 🎨 style: apply consistent indentation
