@@ -7809,3 +7809,4 @@
 0887. 📚 docs: add API usage examples
 0372. ✨ feat: add user authentication
 0224. 🐛 fix: fix broken CSS in mobile view
+0987. ✨ feat: create admin dashboard
