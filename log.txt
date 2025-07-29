@@ -4010,3 +4010,4 @@
 0312. ✨ feat: add user authentication
 0487. 🎨 style: reformat files with black
 0379. ✨ feat: support email verification
+0749. ✨ feat: support email verification
