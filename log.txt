@@ -4011,3 +4011,4 @@
 0487. 🎨 style: reformat files with black
 0379. ✨ feat: support email verification
 0749. ✨ feat: support email verification
+0472. 🐛 fix: fix null pointer exception on login
