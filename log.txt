@@ -9802,3 +9802,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0579. 📚 docs: clarify environment setup
 0530. 🔧 refactor: refactor quiz grading logic
+0224. 🐛 fix: fix broken CSS in mobile view
