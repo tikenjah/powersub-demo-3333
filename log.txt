@@ -6792,3 +6792,4 @@
 0215. 🎨 style: reformat files with black
 0319. 🐛 fix: handle 500 error in quiz API
 0138. 🎨 style: rename variables for clarity
+0901. ✨ feat: add user authentication
