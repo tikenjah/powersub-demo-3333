@@ -4012,3 +4012,4 @@
 0379. ✨ feat: support email verification
 0749. ✨ feat: support email verification
 0472. 🐛 fix: fix null pointer exception on login
+0213. ✅ test: add integration test for /submit endpoint
