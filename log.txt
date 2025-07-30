@@ -5796,3 +5796,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0813. 🔧 refactor: organize models into subfolders
 0619. ✨ feat: create admin dashboard
+0770. ♻️ chore: rename env.example
