@@ -10796,3 +10796,4 @@
 0313. 🎨 style: apply consistent indentation
 0849. 🐛 fix: correct typo in registration form
 0244. ✨ feat: add export to CSV option
+0983. 🔧 refactor: split large controller into smaller functions
