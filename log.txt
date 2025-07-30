@@ -10794,3 +10794,4 @@
 0160. ♻️ chore: bump dependencies
 0551. 📚 docs: write FAQ section
 0313. 🎨 style: apply consistent indentation
+0849. 🐛 fix: correct typo in registration form
