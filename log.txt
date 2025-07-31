@@ -4026,3 +4026,4 @@
 0214. 📚 docs: improve code comments in utils
 0299. 🐛 fix: resolve issue with date parsing
 0927. ♻️ chore: bump dependencies
+0336. ✨ feat: add export to CSV option
