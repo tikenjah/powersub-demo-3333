@@ -5799,3 +5799,4 @@
 0770. ♻️ chore: rename env.example
 0173. 🚀 perf: cache repeated calculations
 0989. 📚 docs: write FAQ section
+0906. 📚 docs: add API usage examples
