@@ -6797,3 +6797,4 @@
 0851. ✅ test: mock database connection in test suite
 0325. 🎨 style: rename variables for clarity
 0918. ✨ feat: enable dark mode toggle
+0725. 🚀 perf: lazy-load components
