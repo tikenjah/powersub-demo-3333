@@ -6802,3 +6802,4 @@
 0623. 🎨 style: standardize quote style
 0053. ✅ test: increase coverage on auth module
 0599. ✅ test: test user registration edge cases
+0891. ✨ feat: create admin dashboard
