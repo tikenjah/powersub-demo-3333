@@ -6801,3 +6801,4 @@
 0360. ✨ feat: add export to CSV option
 0623. 🎨 style: standardize quote style
 0053. ✅ test: increase coverage on auth module
+0599. ✅ test: test user registration edge cases
