@@ -4031,3 +4031,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0430. 🐛 fix: fix null pointer exception on login
 0805. ♻️ chore: add GitHub actions badge
+0503. ♻️ chore: rename env.example
