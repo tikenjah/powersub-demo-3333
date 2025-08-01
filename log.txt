@@ -9809,3 +9809,4 @@
 0398. 🚀 perf: cache repeated calculations
 0948. 🐛 fix: fix broken CSS in mobile view
 0007. 🎨 style: rename variables for clarity
+0826. 📚 docs: clarify environment setup
