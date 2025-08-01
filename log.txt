@@ -4035,3 +4035,4 @@
 0139. 📚 docs: document token refresh logic
 0515. 🚀 perf: optimize database query for quiz results
 0008. 🚀 perf: reduce image load time
+0294. 🐛 fix: prevent crash on empty input
