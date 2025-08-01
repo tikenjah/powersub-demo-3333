@@ -4041,3 +4041,4 @@
 0260. ✨ feat: create admin dashboard
 0893. 🐛 fix: handle 500 error in quiz API
 0882. 🚀 perf: optimize database query for quiz results
+0760. 🐛 fix: resolve issue with date parsing
