@@ -9813,3 +9813,4 @@
 0943. 🎨 style: rename variables for clarity
 0505. ♻️ chore: add GitHub actions badge
 0075. ✅ test: mock database connection in test suite
+0481. ✅ test: add unit test for quiz service
