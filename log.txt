@@ -4054,3 +4054,4 @@
 0142. ✨ feat: implement quiz timer feature
 0125. ✅ test: add integration test for /submit endpoint
 0016. 🎨 style: apply consistent indentation
+0217. 🚀 perf: reduce image load time
