@@ -4064,3 +4064,4 @@
 0307. ✨ feat: support email verification
 0792. 🎨 style: standardize quote style
 0060. ♻️ chore: clean up unused files
+0355. 🚀 perf: optimize database query for quiz results
