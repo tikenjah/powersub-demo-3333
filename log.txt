@@ -6810,3 +6810,4 @@
 0149. ✨ feat: add export to CSV option
 0952. 🔧 refactor: split large controller into smaller functions
 0666. 🐛 fix: fix broken CSS in mobile view
+0712. 🎨 style: apply consistent indentation
