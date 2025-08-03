@@ -7824,3 +7824,4 @@
 0404. 📚 docs: improve code comments in utils
 0969. ✨ feat: create admin dashboard
 0012. 🚀 perf: cache repeated calculations
+0400. 🐛 fix: fix null pointer exception on login
