@@ -4062,3 +4062,4 @@
 0444. ✅ test: add unit test for quiz service
 0594. 🎨 style: reformat files with black
 0307. ✨ feat: support email verification
+0792. 🎨 style: standardize quote style
