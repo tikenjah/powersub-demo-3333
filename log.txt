@@ -5810,3 +5810,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0797. 📚 docs: add API usage examples
 0227. ✅ test: test user registration edge cases
+0664. ✅ test: add unit test for quiz service
