@@ -9822,3 +9822,4 @@
 0325. 🎨 style: rename variables for clarity
 0486. ✨ feat: add export to CSV option
 0721. 🚀 perf: optimize database query for quiz results
+0557. 🔧 refactor: clean up auth middleware
