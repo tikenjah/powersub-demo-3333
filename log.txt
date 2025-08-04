@@ -7827,3 +7827,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0353. ♻️ chore: rename env.example
 0759. 🔧 refactor: organize models into subfolders
+0092. 🚀 perf: reduce image load time
