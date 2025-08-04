@@ -5809,3 +5809,4 @@
 0197. 📚 docs: update README with setup steps
 0479. 🐛 fix: fix null pointer exception on login
 0797. 📚 docs: add API usage examples
+0227. ✅ test: test user registration edge cases
