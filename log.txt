@@ -5811,3 +5811,4 @@
 0797. 📚 docs: add API usage examples
 0227. ✅ test: test user registration edge cases
 0664. ✅ test: add unit test for quiz service
+0855. 🎨 style: reformat files with black
