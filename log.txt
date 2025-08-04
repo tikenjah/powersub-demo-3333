@@ -4084,3 +4084,4 @@
 0034. 📚 docs: improve code comments in utils
 0153. ♻️ chore: rename env.example
 0544. 🔧 refactor: organize models into subfolders
+0888. 🚀 perf: lazy-load components
