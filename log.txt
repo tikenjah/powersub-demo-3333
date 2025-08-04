@@ -5812,3 +5812,4 @@
 0227. ✅ test: test user registration edge cases
 0664. ✅ test: add unit test for quiz service
 0855. 🎨 style: reformat files with black
+0812. 🔧 refactor: refactor quiz grading logic
