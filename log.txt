@@ -5817,3 +5817,4 @@
 0638. 📚 docs: improve code comments in utils
 0183. 🔧 refactor: split large controller into smaller functions
 0555. ✨ feat: create admin dashboard
+0165. 🎨 style: remove trailing whitespace
