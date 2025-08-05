@@ -4095,3 +4095,4 @@
 0374. 🎨 style: standardize quote style
 0125. ✅ test: add integration test for /submit endpoint
 0006. 🐛 fix: prevent crash on empty input
+0751. 🐛 fix: handle 500 error in quiz API
