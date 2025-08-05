@@ -4091,3 +4091,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0758. 🚀 perf: optimize database query for quiz results
 0802. 🔧 refactor: remove redundant code blocks
+0026. 🔧 refactor: clean up auth middleware
