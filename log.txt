@@ -4109,3 +4109,4 @@
 0570. 🎨 style: apply consistent indentation
 0699. 🎨 style: standardize quote style
 0553. 🐛 fix: correct typo in registration form
+0859. ✨ feat: create admin dashboard
