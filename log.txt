@@ -8809,3 +8809,4 @@
 0279. ✨ feat: support email verification
 0948. 🐛 fix: fix broken CSS in mobile view
 0461. ✨ feat: add user authentication
+0879. 🎨 style: standardize quote style
