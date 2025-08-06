@@ -4107,3 +4107,4 @@
 0915. 🚀 perf: cache repeated calculations
 0869. ♻️ chore: bump dependencies
 0570. 🎨 style: apply consistent indentation
+0699. 🎨 style: standardize quote style
