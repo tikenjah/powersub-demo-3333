@@ -4111,3 +4111,4 @@
 0553. 🐛 fix: correct typo in registration form
 0859. ✨ feat: create admin dashboard
 0982. 🚀 perf: lazy-load components
+0117. ✅ test: increase coverage on auth module
