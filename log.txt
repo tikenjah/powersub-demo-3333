@@ -10809,3 +10809,4 @@
 0399. ✅ test: mock database connection in test suite
 0212. 🎨 style: standardize quote style
 0545. 🎨 style: standardize quote style
+0826. 📚 docs: clarify environment setup
