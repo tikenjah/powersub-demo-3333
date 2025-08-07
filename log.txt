@@ -9829,3 +9829,4 @@
 0868. ✅ test: add unit test for quiz service
 0069. 🎨 style: rename variables for clarity
 0558. ✨ feat: enable dark mode toggle
+0278. 🔧 refactor: clean up auth middleware
