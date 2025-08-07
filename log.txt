@@ -4112,3 +4112,4 @@
 0859. ✨ feat: create admin dashboard
 0982. 🚀 perf: lazy-load components
 0117. ✅ test: increase coverage on auth module
+0287. 📚 docs: write FAQ section
