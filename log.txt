@@ -10812,3 +10812,4 @@
 0826. 📚 docs: clarify environment setup
 0024. 📚 docs: write FAQ section
 0252. 🎨 style: remove trailing whitespace
+0923. ✨ feat: support email verification
