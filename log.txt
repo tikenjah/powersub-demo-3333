@@ -4117,3 +4117,4 @@
 0673. 🐛 fix: correct typo in registration form
 0282. 🔧 refactor: remove redundant code blocks
 0230. ✨ feat: create admin dashboard
+0936. 🔧 refactor: organize models into subfolders
