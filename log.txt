@@ -4127,3 +4127,4 @@
 0914. ✅ test: test user registration edge cases
 0301. 🎨 style: apply consistent indentation
 0533. ♻️ chore: add GitHub actions badge
+0514. 🐛 fix: fix broken CSS in mobile view
