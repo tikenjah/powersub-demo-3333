@@ -4114,3 +4114,4 @@
 0117. ✅ test: increase coverage on auth module
 0287. 📚 docs: write FAQ section
 0530. 🔧 refactor: refactor quiz grading logic
+0673. 🐛 fix: correct typo in registration form
