@@ -6819,3 +6819,4 @@
 0106. 🎨 style: reformat files with black
 0174. 📚 docs: clarify environment setup
 0732. ♻️ chore: add GitHub actions badge
+0799. ♻️ chore: clean up unused files
