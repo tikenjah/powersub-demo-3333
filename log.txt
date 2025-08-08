@@ -4143,3 +4143,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0444. ✅ test: add unit test for quiz service
 0840. 🔧 refactor: refactor quiz grading logic
+0790. 📚 docs: write FAQ section
