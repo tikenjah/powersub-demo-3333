@@ -8818,3 +8818,4 @@
 0468. 📚 docs: update README with setup steps
 0167. 🚀 perf: reduce image load time
 0150. 🎨 style: remove trailing whitespace
+0424. ✨ feat: add user authentication
