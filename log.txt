@@ -10814,3 +10814,4 @@
 0252. 🎨 style: remove trailing whitespace
 0923. ✨ feat: support email verification
 0303. 🎨 style: rename variables for clarity
+0811. 🎨 style: reformat files with black
