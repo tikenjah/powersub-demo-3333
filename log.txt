@@ -4135,3 +4135,4 @@
 0046. 🎨 style: rename variables for clarity
 0942. ✅ test: increase coverage on auth module
 0843. 📚 docs: document token refresh logic
+0866. 📚 docs: add API usage examples
