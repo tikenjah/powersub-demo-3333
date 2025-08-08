@@ -4131,3 +4131,4 @@
 0987. ✨ feat: create admin dashboard
 0605. ✨ feat: support email verification
 0289. 🐛 fix: resolve issue with date parsing
+0456. 🚀 perf: optimize database query for quiz results
