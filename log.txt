@@ -4151,3 +4151,4 @@
 0667. ✨ feat: add export to CSV option
 0002. 🚀 perf: cache repeated calculations
 0048. 📚 docs: update README with setup steps
+0897. 🐛 fix: prevent crash on empty input
