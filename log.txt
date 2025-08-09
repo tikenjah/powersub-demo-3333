@@ -10816,3 +10816,4 @@
 0303. 🎨 style: rename variables for clarity
 0811. 🎨 style: reformat files with black
 0932. ✅ test: add integration test for /submit endpoint
+0676. 🐛 fix: prevent crash on empty input
