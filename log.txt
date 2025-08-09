@@ -10819,3 +10819,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0473. 📚 docs: write FAQ section
 0558. ✨ feat: enable dark mode toggle
+0925. ✨ feat: add export to CSV option
