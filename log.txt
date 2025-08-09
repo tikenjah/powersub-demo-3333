@@ -9832,3 +9832,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0496. ✅ test: add integration test for /submit endpoint
 0025. 🚀 perf: optimize database query for quiz results
+0394. 🚀 perf: lazy-load components
