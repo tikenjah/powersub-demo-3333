@@ -4149,3 +4149,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0119. 📚 docs: improve code comments in utils
 0667. ✨ feat: add export to CSV option
+0002. 🚀 perf: cache repeated calculations
