@@ -4160,3 +4160,4 @@
 0429. ✨ feat: add user authentication
 0937. 🐛 fix: handle 500 error in quiz API
 0321. 🔧 refactor: organize models into subfolders
+0035. ✅ test: increase coverage on auth module
