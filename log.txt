@@ -4153,3 +4153,4 @@
 0048. 📚 docs: update README with setup steps
 0897. 🐛 fix: prevent crash on empty input
 0649. 📚 docs: update README with setup steps
+0816. 🔧 refactor: organize models into subfolders
