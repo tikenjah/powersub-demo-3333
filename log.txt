@@ -6826,3 +6826,4 @@
 0377. ✨ feat: add user authentication
 0238. 🎨 style: apply consistent indentation
 0698. 🐛 fix: handle 500 error in quiz API
+0323. 📚 docs: clarify environment setup
