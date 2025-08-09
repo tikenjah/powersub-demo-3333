@@ -4161,3 +4161,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0321. 🔧 refactor: organize models into subfolders
 0035. ✅ test: increase coverage on auth module
+0305. ✨ feat: enable dark mode toggle
