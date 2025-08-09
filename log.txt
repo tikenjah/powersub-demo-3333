@@ -4145,3 +4145,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0790. 📚 docs: write FAQ section
 0363. 📚 docs: clarify environment setup
+0135. ✅ test: test user registration edge cases
