@@ -9833,3 +9833,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0025. 🚀 perf: optimize database query for quiz results
 0394. 🚀 perf: lazy-load components
+0609. 🐛 fix: handle 500 error in quiz API
