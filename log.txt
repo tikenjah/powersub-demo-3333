@@ -4176,3 +4176,4 @@
 0518. ✨ feat: support email verification
 0711. 🐛 fix: fix broken CSS in mobile view
 0228. 🔧 refactor: remove redundant code blocks
+0360. ✨ feat: add export to CSV option
