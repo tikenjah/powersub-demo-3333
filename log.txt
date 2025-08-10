@@ -10821,3 +10821,4 @@
 0558. ✨ feat: enable dark mode toggle
 0925. ✨ feat: add export to CSV option
 0683. ✅ test: mock database connection in test suite
+0307. ✨ feat: support email verification
