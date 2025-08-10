@@ -9839,3 +9839,4 @@
 0806. 📚 docs: improve code comments in utils
 0025. 🚀 perf: optimize database query for quiz results
 0529. 📚 docs: write FAQ section
+0741. 🎨 style: apply consistent indentation
