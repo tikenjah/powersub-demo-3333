@@ -4174,3 +4174,4 @@
 0348. ✅ test: test user registration edge cases
 0809. ♻️ chore: rename env.example
 0518. ✨ feat: support email verification
+0711. 🐛 fix: fix broken CSS in mobile view
