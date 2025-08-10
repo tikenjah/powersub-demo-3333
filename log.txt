@@ -4171,3 +4171,4 @@
 0636. ✅ test: increase coverage on auth module
 0182. 🔧 refactor: remove redundant code blocks
 0811. 🎨 style: reformat files with black
+0348. ✅ test: test user registration edge cases
