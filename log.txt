@@ -5829,3 +5829,4 @@
 0802. 🔧 refactor: remove redundant code blocks
 0766. 🎨 style: reformat files with black
 0999. 🔧 refactor: split large controller into smaller functions
+0482. ✨ feat: add export to CSV option
