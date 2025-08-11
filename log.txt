@@ -4184,3 +4184,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0974. ✨ feat: add export to CSV option
 0592. 📚 docs: add API usage examples
+0617. ✨ feat: support email verification
