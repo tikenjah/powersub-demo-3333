@@ -5833,3 +5833,4 @@
 0372. ✨ feat: add user authentication
 0565. ♻️ chore: add GitHub actions badge
 0487. 🎨 style: reformat files with black
+0788. 📚 docs: add API usage examples
