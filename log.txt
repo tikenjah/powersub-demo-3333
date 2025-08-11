@@ -4187,3 +4187,4 @@
 0617. ✨ feat: support email verification
 0241. 📚 docs: add API usage examples
 0778. 📚 docs: write FAQ section
+0283. ♻️ chore: add GitHub actions badge
