@@ -8833,3 +8833,4 @@
 0189. 📚 docs: clarify environment setup
 0362. 📚 docs: add API usage examples
 0094. 📚 docs: document token refresh logic
+0809. ♻️ chore: rename env.example
