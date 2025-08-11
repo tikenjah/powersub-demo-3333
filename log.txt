@@ -4186,3 +4186,4 @@
 0592. 📚 docs: add API usage examples
 0617. ✨ feat: support email verification
 0241. 📚 docs: add API usage examples
+0778. 📚 docs: write FAQ section
