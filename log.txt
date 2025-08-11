@@ -7846,3 +7846,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0504. 📚 docs: document token refresh logic
 0901. ✨ feat: add user authentication
+0539. 🔧 refactor: organize models into subfolders
