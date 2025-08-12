@@ -10827,3 +10827,4 @@
 0311. 🎨 style: apply consistent indentation
 0480. ♻️ chore: add GitHub actions badge
 0602. 🔧 refactor: remove redundant code blocks
+0110. 🐛 fix: prevent crash on empty input
