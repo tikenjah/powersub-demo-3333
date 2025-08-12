@@ -4203,3 +4203,4 @@
 0869. ♻️ chore: bump dependencies
 0454. ♻️ chore: bump dependencies
 0959. 🐛 fix: fix null pointer exception on login
+0278. 🔧 refactor: clean up auth middleware
