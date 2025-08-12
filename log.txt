@@ -8836,3 +8836,4 @@
 0809. ♻️ chore: rename env.example
 0849. 🐛 fix: correct typo in registration form
 0589. 🐛 fix: fix broken CSS in mobile view
+0723. 🔧 refactor: remove redundant code blocks
