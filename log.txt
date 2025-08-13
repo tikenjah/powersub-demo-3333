@@ -5837,3 +5837,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0551. 📚 docs: write FAQ section
 0673. 🐛 fix: correct typo in registration form
+0234. ♻️ chore: rename env.example
