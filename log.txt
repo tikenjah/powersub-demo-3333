@@ -7853,3 +7853,4 @@
 0576. ♻️ chore: update .gitignore
 0523. ♻️ chore: bump dependencies
 0931. 🚀 perf: reduce image load time
+0870. ♻️ chore: clean up unused files
