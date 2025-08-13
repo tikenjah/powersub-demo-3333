@@ -7852,3 +7852,4 @@
 0432. 🎨 style: apply consistent indentation
 0576. ♻️ chore: update .gitignore
 0523. ♻️ chore: bump dependencies
+0931. 🚀 perf: reduce image load time
