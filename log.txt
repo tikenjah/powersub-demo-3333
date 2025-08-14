@@ -4232,3 +4232,4 @@
 0173. 🚀 perf: cache repeated calculations
 0132. ✅ test: add unit test for quiz service
 0542. 🔧 refactor: organize models into subfolders
+0294. 🐛 fix: prevent crash on empty input
