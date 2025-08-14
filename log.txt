@@ -6837,3 +6837,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0281. ✨ feat: support email verification
 0773. 📚 docs: document token refresh logic
+0393. 🚀 perf: lazy-load components
