@@ -6835,3 +6835,4 @@
 0771. 🚀 perf: cache repeated calculations
 0919. 🚀 perf: optimize database query for quiz results
 0179. 🔧 refactor: split large controller into smaller functions
+0281. ✨ feat: support email verification
