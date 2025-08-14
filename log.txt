@@ -7856,3 +7856,4 @@
 0870. ♻️ chore: clean up unused files
 0574. ✨ feat: enable dark mode toggle
 0133. 🐛 fix: fix null pointer exception on login
+0998. 🐛 fix: fix null pointer exception on login
