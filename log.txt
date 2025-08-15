@@ -5842,3 +5842,4 @@
 0354. 📚 docs: add API usage examples
 0267. 📚 docs: improve code comments in utils
 0505. ♻️ chore: add GitHub actions badge
+0842. 🎨 style: remove trailing whitespace
