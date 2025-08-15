@@ -6839,3 +6839,4 @@
 0773. 📚 docs: document token refresh logic
 0393. 🚀 perf: lazy-load components
 0048. 📚 docs: update README with setup steps
+0400. 🐛 fix: fix null pointer exception on login
