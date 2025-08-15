@@ -8843,3 +8843,4 @@
 0209. ✨ feat: implement quiz timer feature
 0095. ✅ test: mock database connection in test suite
 0633. ✨ feat: add user authentication
+0865. ♻️ chore: add GitHub actions badge
