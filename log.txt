@@ -4248,3 +4248,4 @@
 0123. ✨ feat: implement quiz timer feature
 0529. 📚 docs: write FAQ section
 0410. 🎨 style: reformat files with black
+0030. 🐛 fix: fix null pointer exception on login
