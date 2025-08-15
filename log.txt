@@ -8844,3 +8844,4 @@
 0095. ✅ test: mock database connection in test suite
 0633. ✨ feat: add user authentication
 0865. ♻️ chore: add GitHub actions badge
+0970. ♻️ chore: update .gitignore
