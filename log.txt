@@ -5844,3 +5844,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0842. 🎨 style: remove trailing whitespace
 0766. 🎨 style: reformat files with black
+0760. 🐛 fix: resolve issue with date parsing
