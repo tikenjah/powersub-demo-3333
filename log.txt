@@ -5845,3 +5845,4 @@
 0842. 🎨 style: remove trailing whitespace
 0766. 🎨 style: reformat files with black
 0760. 🐛 fix: resolve issue with date parsing
+0397. 🐛 fix: handle 500 error in quiz API
