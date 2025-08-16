@@ -4256,3 +4256,4 @@
 0044. ✅ test: add unit test for quiz service
 0766. 🎨 style: reformat files with black
 0510. 🎨 style: rename variables for clarity
+0989. 📚 docs: write FAQ section
