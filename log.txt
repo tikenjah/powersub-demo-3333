@@ -4254,3 +4254,4 @@
 0493. ✨ feat: add user authentication
 0713. 🐛 fix: handle 500 error in quiz API
 0044. ✅ test: add unit test for quiz service
+0766. 🎨 style: reformat files with black
