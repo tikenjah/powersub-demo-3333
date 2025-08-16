@@ -4259,3 +4259,4 @@
 0989. 📚 docs: write FAQ section
 0400. 🐛 fix: fix null pointer exception on login
 0302. ✨ feat: implement quiz timer feature
+0947. 📚 docs: write FAQ section
