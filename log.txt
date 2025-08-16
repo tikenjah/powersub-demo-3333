@@ -8845,3 +8845,4 @@
 0633. ✨ feat: add user authentication
 0865. ♻️ chore: add GitHub actions badge
 0970. ♻️ chore: update .gitignore
+0305. ✨ feat: enable dark mode toggle
