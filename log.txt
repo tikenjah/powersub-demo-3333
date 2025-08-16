@@ -4263,3 +4263,4 @@
 0922. 📚 docs: write FAQ section
 0432. 🎨 style: apply consistent indentation
 0179. 🔧 refactor: split large controller into smaller functions
+0458. ✨ feat: create admin dashboard
