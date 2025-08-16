@@ -4266,3 +4266,4 @@
 0458. ✨ feat: create admin dashboard
 0358. 🚀 perf: reduce image load time
 0577. ✨ feat: implement quiz timer feature
+0762. 🚀 perf: lazy-load components
