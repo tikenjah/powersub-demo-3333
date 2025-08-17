@@ -10837,3 +10837,4 @@
 0314. ✨ feat: implement quiz timer feature
 0831. 📚 docs: clarify environment setup
 0874. 🔧 refactor: split large controller into smaller functions
+0616. 🚀 perf: lazy-load components
