@@ -6842,3 +6842,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0764. ✨ feat: add user authentication
 0515. 🚀 perf: optimize database query for quiz results
+0695. ✨ feat: create admin dashboard
