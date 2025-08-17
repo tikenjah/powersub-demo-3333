@@ -8847,3 +8847,4 @@
 0970. ♻️ chore: update .gitignore
 0305. ✨ feat: enable dark mode toggle
 0935. 📚 docs: update README with setup steps
+0940. 📚 docs: document token refresh logic
