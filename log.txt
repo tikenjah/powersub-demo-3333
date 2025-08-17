@@ -8850,3 +8850,4 @@
 0940. 📚 docs: document token refresh logic
 0153. ♻️ chore: rename env.example
 0920. 🔧 refactor: organize models into subfolders
+0848. 📚 docs: update README with setup steps
