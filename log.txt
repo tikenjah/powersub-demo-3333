@@ -10849,3 +10849,4 @@
 0051. ✨ feat: enable dark mode toggle
 0217. 🚀 perf: reduce image load time
 0347. ♻️ chore: update .gitignore
+0584. 🚀 perf: lazy-load components
