@@ -6848,3 +6848,4 @@
 0519. 📚 docs: document token refresh logic
 0349. ✅ test: increase coverage on auth module
 0473. 📚 docs: write FAQ section
+0009. ✨ feat: enable dark mode toggle
