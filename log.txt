@@ -4283,3 +4283,4 @@
 0351. ✨ feat: add export to CSV option
 0881. 🔧 refactor: split large controller into smaller functions
 0455. ♻️ chore: clean up unused files
+0908. ♻️ chore: bump dependencies
