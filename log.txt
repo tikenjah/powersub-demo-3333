@@ -4279,3 +4279,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0751. 🐛 fix: handle 500 error in quiz API
 0243. 🔧 refactor: clean up auth middleware
+0693. 📚 docs: add API usage examples
