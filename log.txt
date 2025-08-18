@@ -5852,3 +5852,4 @@
 0896. 🚀 perf: reduce image load time
 0790. 📚 docs: write FAQ section
 0158. 📚 docs: clarify environment setup
+0650. ✅ test: add unit test for quiz service
