@@ -4298,3 +4298,4 @@
 0381. ♻️ chore: clean up unused files
 0852. ✨ feat: enable dark mode toggle
 0239. 🎨 style: standardize quote style
+0763. 🔧 refactor: organize models into subfolders
