@@ -4292,3 +4292,4 @@
 0839. 🎨 style: apply consistent indentation
 0579. 📚 docs: clarify environment setup
 0670. ✨ feat: add export to CSV option
+0837. 🚀 perf: cache repeated calculations
