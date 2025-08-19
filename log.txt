@@ -6853,3 +6853,4 @@
 0927. ♻️ chore: bump dependencies
 0224. 🐛 fix: fix broken CSS in mobile view
 0041. 🐛 fix: fix broken CSS in mobile view
+0430. 🐛 fix: fix null pointer exception on login
