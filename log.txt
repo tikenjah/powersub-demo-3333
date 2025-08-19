@@ -6852,3 +6852,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0927. ♻️ chore: bump dependencies
 0224. 🐛 fix: fix broken CSS in mobile view
+0041. 🐛 fix: fix broken CSS in mobile view
