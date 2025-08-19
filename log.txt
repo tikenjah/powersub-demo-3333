@@ -4296,3 +4296,4 @@
 0792. 🎨 style: standardize quote style
 0091. ✨ feat: add user authentication
 0381. ♻️ chore: clean up unused files
+0852. ✨ feat: enable dark mode toggle
