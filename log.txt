@@ -6851,3 +6851,4 @@
 0009. ✨ feat: enable dark mode toggle
 0757. 🔧 refactor: remove redundant code blocks
 0927. ♻️ chore: bump dependencies
+0224. 🐛 fix: fix broken CSS in mobile view
