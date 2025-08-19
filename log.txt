@@ -4294,3 +4294,4 @@
 0670. ✨ feat: add export to CSV option
 0837. 🚀 perf: cache repeated calculations
 0792. 🎨 style: standardize quote style
+0091. ✨ feat: add user authentication
