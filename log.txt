@@ -5854,3 +5854,4 @@
 0158. 📚 docs: clarify environment setup
 0650. ✅ test: add unit test for quiz service
 0794. ♻️ chore: clean up unused files
+0850. ♻️ chore: rename env.example
