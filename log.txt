@@ -4308,3 +4308,4 @@
 0376. 🎨 style: apply consistent indentation
 0988. 🐛 fix: fix broken CSS in mobile view
 0731. 🎨 style: standardize quote style
+0669. ✨ feat: enable dark mode toggle
