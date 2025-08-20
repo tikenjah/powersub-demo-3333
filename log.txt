@@ -4304,3 +4304,4 @@
 0493. ✨ feat: add user authentication
 0669. ✨ feat: enable dark mode toggle
 0684. 🚀 perf: reduce image load time
+0592. 📚 docs: add API usage examples
