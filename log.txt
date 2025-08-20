@@ -7870,3 +7870,4 @@
 0845. 🚀 perf: cache repeated calculations
 0207. 🐛 fix: prevent crash on empty input
 0370. 🚀 perf: reduce image load time
+0360. ✨ feat: add export to CSV option
