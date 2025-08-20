@@ -6856,3 +6856,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0195. 📚 docs: clarify environment setup
 0873. 🚀 perf: cache repeated calculations
+0830. 🎨 style: apply consistent indentation
