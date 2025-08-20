@@ -6857,3 +6857,4 @@
 0195. 📚 docs: clarify environment setup
 0873. 🚀 perf: cache repeated calculations
 0830. 🎨 style: apply consistent indentation
+0773. 📚 docs: document token refresh logic
