@@ -4299,3 +4299,4 @@
 0852. ✨ feat: enable dark mode toggle
 0239. 🎨 style: standardize quote style
 0763. 🔧 refactor: organize models into subfolders
+0957. 🐛 fix: fix null pointer exception on login
