@@ -6859,3 +6859,4 @@
 0830. 🎨 style: apply consistent indentation
 0773. 📚 docs: document token refresh logic
 0124. 🎨 style: reformat files with black
+0611. ✅ test: test user registration edge cases
