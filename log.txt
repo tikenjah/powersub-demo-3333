@@ -10852,3 +10852,4 @@
 0584. 🚀 perf: lazy-load components
 0697. ♻️ chore: bump dependencies
 0708. ✅ test: add integration test for /submit endpoint
+0998. 🐛 fix: fix null pointer exception on login
