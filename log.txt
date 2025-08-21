@@ -9858,3 +9858,4 @@
 0085. ✨ feat: support email verification
 0774. 🔧 refactor: refactor quiz grading logic
 0008. 🚀 perf: reduce image load time
+0493. ✨ feat: add user authentication
