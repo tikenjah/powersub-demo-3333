@@ -9860,3 +9860,4 @@
 0008. 🚀 perf: reduce image load time
 0493. ✨ feat: add user authentication
 0192. ✨ feat: enable dark mode toggle
+0031. 📚 docs: document token refresh logic
