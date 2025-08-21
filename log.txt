@@ -4318,3 +4318,4 @@
 0526. ✨ feat: add user authentication
 0963. 🚀 perf: reduce image load time
 0188. 🎨 style: apply consistent indentation
+0198. 📚 docs: clarify environment setup
