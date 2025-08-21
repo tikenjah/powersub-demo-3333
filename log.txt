@@ -5861,3 +5861,4 @@
 0950. 🎨 style: reformat files with black
 0639. 🐛 fix: correct typo in registration form
 0161. ✨ feat: create admin dashboard
+0441. 📚 docs: add API usage examples
