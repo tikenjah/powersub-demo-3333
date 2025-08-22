@@ -8861,3 +8861,4 @@
 0742. 📚 docs: clarify environment setup
 0302. ✨ feat: implement quiz timer feature
 0995. ✅ test: mock database connection in test suite
+0926. 🔧 refactor: organize models into subfolders
