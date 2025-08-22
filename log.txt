@@ -4340,3 +4340,4 @@
 0143. ✨ feat: implement quiz timer feature
 0306. 🎨 style: apply consistent indentation
 0254. 🚀 perf: reduce image load time
+0409. 🚀 perf: lazy-load components
