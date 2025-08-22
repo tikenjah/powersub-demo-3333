@@ -10854,3 +10854,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0998. 🐛 fix: fix null pointer exception on login
 0738. 🐛 fix: prevent crash on empty input
+0149. ✨ feat: add export to CSV option
