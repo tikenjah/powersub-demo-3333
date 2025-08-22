@@ -4344,3 +4344,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0154. 🐛 fix: prevent crash on empty input
 0507. 🔧 refactor: clean up auth middleware
+0890. 🔧 refactor: organize models into subfolders
