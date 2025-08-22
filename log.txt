@@ -4341,3 +4341,4 @@
 0306. 🎨 style: apply consistent indentation
 0254. 🚀 perf: reduce image load time
 0409. 🚀 perf: lazy-load components
+0791. 🔧 refactor: clean up auth middleware
