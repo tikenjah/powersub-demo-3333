@@ -10856,3 +10856,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0149. ✨ feat: add export to CSV option
 0781. 🚀 perf: reduce image load time
+0838. 🎨 style: standardize quote style
