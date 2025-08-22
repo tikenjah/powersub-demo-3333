@@ -4335,3 +4335,4 @@
 0823. ✨ feat: add user authentication
 0865. ♻️ chore: add GitHub actions badge
 0242. ♻️ chore: clean up unused files
+0935. 📚 docs: update README with setup steps
