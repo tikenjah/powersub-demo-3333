@@ -4365,3 +4365,4 @@
 0901. ✨ feat: add user authentication
 0166. 🚀 perf: cache repeated calculations
 0750. 🎨 style: apply consistent indentation
+0362. 📚 docs: add API usage examples
