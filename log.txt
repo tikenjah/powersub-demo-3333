@@ -5866,3 +5866,4 @@
 0205. 📚 docs: update README with setup steps
 0223. 🔧 refactor: remove redundant code blocks
 0538. 🐛 fix: fix broken CSS in mobile view
+0852. ✨ feat: enable dark mode toggle
