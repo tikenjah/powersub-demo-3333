@@ -4358,3 +4358,4 @@
 0504. 📚 docs: document token refresh logic
 0372. ✨ feat: add user authentication
 0911. ✅ test: increase coverage on auth module
+0725. 🚀 perf: lazy-load components
