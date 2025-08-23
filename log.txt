@@ -4360,3 +4360,4 @@
 0911. ✅ test: increase coverage on auth module
 0725. 🚀 perf: lazy-load components
 0723. 🔧 refactor: remove redundant code blocks
+0962. ✨ feat: create admin dashboard
