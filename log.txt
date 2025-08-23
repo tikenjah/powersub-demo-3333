@@ -7874,3 +7874,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0445. 📚 docs: improve code comments in utils
 0784. ♻️ chore: clean up unused files
+0599. ✅ test: test user registration edge cases
