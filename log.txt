@@ -5868,3 +5868,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0852. ✨ feat: enable dark mode toggle
 0151. ✅ test: add unit test for quiz service
+0768. 🎨 style: remove trailing whitespace
