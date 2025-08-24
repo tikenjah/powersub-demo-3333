@@ -7877,3 +7877,4 @@
 0599. ✅ test: test user registration edge cases
 0354. 📚 docs: add API usage examples
 0093. ✅ test: add unit test for quiz service
+0221. ✨ feat: add user authentication
