@@ -4380,3 +4380,4 @@
 0121. ✨ feat: support email verification
 0743. 🎨 style: apply consistent indentation
 0987. ✨ feat: create admin dashboard
+0048. 📚 docs: update README with setup steps
