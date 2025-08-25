@@ -10865,3 +10865,4 @@
 0048. 📚 docs: update README with setup steps
 0494. 🎨 style: rename variables for clarity
 0859. ✨ feat: create admin dashboard
+0456. 🚀 perf: optimize database query for quiz results
