@@ -4391,3 +4391,4 @@
 0354. 📚 docs: add API usage examples
 0761. ✅ test: add unit test for quiz service
 0820. 📚 docs: add API usage examples
+0873. 🚀 perf: cache repeated calculations
