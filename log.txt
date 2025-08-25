@@ -8869,3 +8869,4 @@
 0313. 🎨 style: apply consistent indentation
 0964. ♻️ chore: clean up unused files
 0906. 📚 docs: add API usage examples
+0295. 🎨 style: remove trailing whitespace
