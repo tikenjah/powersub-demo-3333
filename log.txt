@@ -5873,3 +5873,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0502. 📚 docs: update README with setup steps
 0930. 🎨 style: apply consistent indentation
+0558. ✨ feat: enable dark mode toggle
