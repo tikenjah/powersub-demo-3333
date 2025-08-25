@@ -4377,3 +4377,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0882. 🚀 perf: optimize database query for quiz results
 0824. 🚀 perf: lazy-load components
+0121. ✨ feat: support email verification
