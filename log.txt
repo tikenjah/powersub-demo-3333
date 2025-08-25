@@ -8871,3 +8871,4 @@
 0906. 📚 docs: add API usage examples
 0295. 🎨 style: remove trailing whitespace
 0965. 🎨 style: reformat files with black
+0882. 🚀 perf: optimize database query for quiz results
