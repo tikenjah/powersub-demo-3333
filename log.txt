@@ -7879,3 +7879,4 @@
 0093. ✅ test: add unit test for quiz service
 0221. ✨ feat: add user authentication
 0411. ✅ test: add unit test for quiz service
+0863. 🐛 fix: correct typo in registration form
