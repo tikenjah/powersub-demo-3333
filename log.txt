@@ -4384,3 +4384,4 @@
 0969. ✨ feat: create admin dashboard
 0114. ♻️ chore: update .gitignore
 0334. 🚀 perf: cache repeated calculations
+0850. ♻️ chore: rename env.example
