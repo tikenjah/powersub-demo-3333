@@ -4400,3 +4400,4 @@
 0050. ✨ feat: enable dark mode toggle
 0982. 🚀 perf: lazy-load components
 0389. 📚 docs: improve code comments in utils
+0174. 📚 docs: clarify environment setup
