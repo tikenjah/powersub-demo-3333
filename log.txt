@@ -7883,3 +7883,4 @@
 0087. ✨ feat: add export to CSV option
 0272. 🔧 refactor: remove redundant code blocks
 0726. ✨ feat: enable dark mode toggle
+0306. 🎨 style: apply consistent indentation
