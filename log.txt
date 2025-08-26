@@ -10868,3 +10868,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0211. 🔧 refactor: remove redundant code blocks
 0954. 🚀 perf: cache repeated calculations
+0563. 📚 docs: clarify environment setup
