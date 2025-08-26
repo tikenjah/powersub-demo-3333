@@ -5880,3 +5880,4 @@
 0009. ✨ feat: enable dark mode toggle
 0340. 🚀 perf: optimize database query for quiz results
 0563. 📚 docs: clarify environment setup
+0799. ♻️ chore: clean up unused files
