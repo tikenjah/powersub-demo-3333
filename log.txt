@@ -6871,3 +6871,4 @@
 0700. 🎨 style: rename variables for clarity
 0656. 🎨 style: apply consistent indentation
 0575. ✅ test: add unit test for quiz service
+0298. ♻️ chore: update .gitignore
