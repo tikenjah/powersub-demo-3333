@@ -10869,3 +10869,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0954. 🚀 perf: cache repeated calculations
 0563. 📚 docs: clarify environment setup
+0820. 📚 docs: add API usage examples
