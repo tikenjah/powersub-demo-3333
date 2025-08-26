@@ -4393,3 +4393,4 @@
 0820. 📚 docs: add API usage examples
 0873. 🚀 perf: cache repeated calculations
 0263. 📚 docs: add API usage examples
+0319. 🐛 fix: handle 500 error in quiz API
