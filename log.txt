@@ -4402,3 +4402,4 @@
 0389. 📚 docs: improve code comments in utils
 0174. 📚 docs: clarify environment setup
 0438. ♻️ chore: bump dependencies
+0730. ✅ test: test user registration edge cases
