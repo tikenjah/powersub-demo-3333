@@ -4396,3 +4396,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0689. 🎨 style: reformat files with black
 0308. 🚀 perf: reduce image load time
+0882. 🚀 perf: optimize database query for quiz results
