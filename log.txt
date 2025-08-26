@@ -9869,3 +9869,4 @@
 0984. ♻️ chore: clean up unused files
 0441. 📚 docs: add API usage examples
 0256. ✅ test: mock database connection in test suite
+0588. 🔧 refactor: organize models into subfolders
