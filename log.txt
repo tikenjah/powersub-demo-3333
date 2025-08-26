@@ -5877,3 +5877,4 @@
 0592. 📚 docs: add API usage examples
 0261. 🔧 refactor: refactor quiz grading logic
 0946. ✅ test: add unit test for quiz service
+0009. ✨ feat: enable dark mode toggle
