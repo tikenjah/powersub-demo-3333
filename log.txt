@@ -4415,3 +4415,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0707. 🎨 style: apply consistent indentation
 0902. ✨ feat: enable dark mode toggle
+0564. 📚 docs: clarify environment setup
