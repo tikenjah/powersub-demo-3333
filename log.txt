@@ -10871,3 +10871,4 @@
 0563. 📚 docs: clarify environment setup
 0820. 📚 docs: add API usage examples
 0489. 🔧 refactor: organize models into subfolders
+0331. 🐛 fix: fix broken CSS in mobile view
