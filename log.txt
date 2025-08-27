@@ -4408,3 +4408,4 @@
 0434. 📚 docs: document token refresh logic
 0470. 🎨 style: remove trailing whitespace
 0139. 📚 docs: document token refresh logic
+0567. 📚 docs: add API usage examples
