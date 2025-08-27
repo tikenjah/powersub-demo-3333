@@ -4417,3 +4417,4 @@
 0902. ✨ feat: enable dark mode toggle
 0564. 📚 docs: clarify environment setup
 0013. ✅ test: increase coverage on auth module
+0373. 📚 docs: document token refresh logic
