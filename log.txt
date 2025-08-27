@@ -4412,3 +4412,4 @@
 0843. 📚 docs: document token refresh logic
 0696. 🔧 refactor: clean up auth middleware
 0516. ✅ test: add unit test for quiz service
+0628. ♻️ chore: add GitHub actions badge
