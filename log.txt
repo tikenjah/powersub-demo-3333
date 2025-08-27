@@ -5882,3 +5882,4 @@
 0563. 📚 docs: clarify environment setup
 0799. ♻️ chore: clean up unused files
 0129. 🔧 refactor: organize models into subfolders
+0185. 📚 docs: write FAQ section
