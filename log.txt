@@ -4414,3 +4414,4 @@
 0516. ✅ test: add unit test for quiz service
 0628. ♻️ chore: add GitHub actions badge
 0707. 🎨 style: apply consistent indentation
+0902. ✨ feat: enable dark mode toggle
