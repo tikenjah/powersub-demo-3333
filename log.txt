@@ -4419,3 +4419,4 @@
 0013. ✅ test: increase coverage on auth module
 0373. 📚 docs: document token refresh logic
 0199. ✨ feat: create admin dashboard
+0793. 📚 docs: clarify environment setup
