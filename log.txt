@@ -4428,3 +4428,4 @@
 0144. ✅ test: increase coverage on auth module
 0741. 🎨 style: apply consistent indentation
 0446. 🎨 style: apply consistent indentation
+0111. 📚 docs: update README with setup steps
