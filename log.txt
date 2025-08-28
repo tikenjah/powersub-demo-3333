@@ -4429,3 +4429,4 @@
 0741. 🎨 style: apply consistent indentation
 0446. 🎨 style: apply consistent indentation
 0111. 📚 docs: update README with setup steps
+0049. 🐛 fix: handle 500 error in quiz API
