@@ -4435,3 +4435,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0864. 🐛 fix: correct typo in registration form
 0718. 🐛 fix: resolve issue with date parsing
+0269. ✅ test: test user registration edge cases
