@@ -4426,3 +4426,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0076. 🎨 style: reformat files with black
 0144. ✅ test: increase coverage on auth module
+0741. 🎨 style: apply consistent indentation
