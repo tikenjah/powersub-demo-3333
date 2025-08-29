@@ -10880,3 +10880,4 @@
 0447. ♻️ chore: bump dependencies
 0444. ✅ test: add unit test for quiz service
 0993. ✨ feat: implement quiz timer feature
+0340. 🚀 perf: optimize database query for quiz results
