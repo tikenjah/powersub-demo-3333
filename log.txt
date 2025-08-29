@@ -6876,3 +6876,4 @@
 0655. 🚀 perf: cache repeated calculations
 0905. ♻️ chore: bump dependencies
 0870. ♻️ chore: clean up unused files
+0395. 📚 docs: write FAQ section
