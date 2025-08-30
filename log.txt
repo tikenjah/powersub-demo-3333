@@ -4449,3 +4449,4 @@
 0094. 📚 docs: document token refresh logic
 0736. 🐛 fix: fix null pointer exception on login
 0506. 🐛 fix: handle 500 error in quiz API
+0819. 🚀 perf: reduce image load time
