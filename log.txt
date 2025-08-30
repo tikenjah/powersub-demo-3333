@@ -9880,3 +9880,4 @@
 0899. 🚀 perf: cache repeated calculations
 0451. ✨ feat: support email verification
 0281. ✨ feat: support email verification
+0795. 📚 docs: update README with setup steps
