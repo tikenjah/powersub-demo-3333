@@ -4456,3 +4456,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0553. 🐛 fix: correct typo in registration form
 0001. 🚀 perf: cache repeated calculations
+0736. 🐛 fix: fix null pointer exception on login
