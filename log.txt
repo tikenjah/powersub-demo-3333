@@ -6885,3 +6885,4 @@
 0596. ♻️ chore: update .gitignore
 0620. ✨ feat: implement quiz timer feature
 0976. ✨ feat: implement quiz timer feature
+0355. 🚀 perf: optimize database query for quiz results
