@@ -4457,3 +4457,4 @@
 0553. 🐛 fix: correct typo in registration form
 0001. 🚀 perf: cache repeated calculations
 0736. 🐛 fix: fix null pointer exception on login
+0828. ♻️ chore: add GitHub actions badge
