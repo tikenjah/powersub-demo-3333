@@ -9881,3 +9881,4 @@
 0451. ✨ feat: support email verification
 0281. ✨ feat: support email verification
 0795. 📚 docs: update README with setup steps
+0903. ✅ test: mock database connection in test suite
