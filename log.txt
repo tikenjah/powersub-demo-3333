@@ -4465,3 +4465,4 @@
 0173. 🚀 perf: cache repeated calculations
 0244. ✨ feat: add export to CSV option
 0186. ✅ test: test user registration edge cases
+0174. 📚 docs: clarify environment setup
