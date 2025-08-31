@@ -8884,3 +8884,4 @@
 0722. 📚 docs: add API usage examples
 0105. 🐛 fix: correct typo in registration form
 0285. 🐛 fix: resolve issue with date parsing
+0022. 📚 docs: document token refresh logic
