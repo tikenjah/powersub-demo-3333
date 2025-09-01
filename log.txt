@@ -4478,3 +4478,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0687. 🎨 style: remove trailing whitespace
 0665. ♻️ chore: update .gitignore
+0269. ✅ test: test user registration edge cases
