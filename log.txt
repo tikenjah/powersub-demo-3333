@@ -4475,3 +4475,4 @@
 0070. ✨ feat: implement quiz timer feature
 0399. ✅ test: mock database connection in test suite
 0259. 🚀 perf: lazy-load components
+0081. 🐛 fix: fix null pointer exception on login
