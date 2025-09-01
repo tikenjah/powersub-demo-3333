@@ -5893,3 +5893,4 @@
 0210. 🎨 style: apply consistent indentation
 0480. ♻️ chore: add GitHub actions badge
 0451. ✨ feat: support email verification
+0320. 📚 docs: update README with setup steps
