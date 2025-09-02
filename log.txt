@@ -4493,3 +4493,4 @@
 0986. 📚 docs: document token refresh logic
 0985. 📚 docs: document token refresh logic
 0806. 📚 docs: improve code comments in utils
+0003. ✅ test: increase coverage on auth module
