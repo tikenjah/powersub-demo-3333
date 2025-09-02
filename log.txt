@@ -4498,3 +4498,4 @@
 0382. 📚 docs: improve code comments in utils
 0163. ✨ feat: implement quiz timer feature
 0686. 🎨 style: standardize quote style
+0721. 🚀 perf: optimize database query for quiz results
