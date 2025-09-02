@@ -6891,3 +6891,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0980. 🎨 style: reformat files with black
 0401. 🚀 perf: reduce image load time
+0400. 🐛 fix: fix null pointer exception on login
