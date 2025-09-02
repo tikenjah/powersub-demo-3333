@@ -8891,3 +8891,4 @@
 0317. ✅ test: test user registration edge cases
 0073. 🔧 refactor: split large controller into smaller functions
 0148. 🔧 refactor: organize models into subfolders
+0919. 🚀 perf: optimize database query for quiz results
