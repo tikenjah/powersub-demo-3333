@@ -9888,3 +9888,4 @@
 0524. ♻️ chore: rename env.example
 0715. ✨ feat: create admin dashboard
 0995. ✅ test: mock database connection in test suite
+0980. 🎨 style: reformat files with black
