@@ -6893,3 +6893,4 @@
 0401. 🚀 perf: reduce image load time
 0400. 🐛 fix: fix null pointer exception on login
 0383. 🐛 fix: fix broken CSS in mobile view
+0610. 🚀 perf: lazy-load components
