@@ -5896,3 +5896,4 @@
 0320. 📚 docs: update README with setup steps
 0857. 🎨 style: rename variables for clarity
 0498. ✅ test: mock database connection in test suite
+0922. 📚 docs: write FAQ section
