@@ -7904,3 +7904,4 @@
 0260. ✨ feat: create admin dashboard
 0898. 🐛 fix: fix broken CSS in mobile view
 0987. ✨ feat: create admin dashboard
+0416. 🎨 style: rename variables for clarity
