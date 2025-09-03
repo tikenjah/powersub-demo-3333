@@ -7902,3 +7902,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0176. 🔧 refactor: remove redundant code blocks
 0260. ✨ feat: create admin dashboard
+0898. 🐛 fix: fix broken CSS in mobile view
