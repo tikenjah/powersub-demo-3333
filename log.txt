@@ -4500,3 +4500,4 @@
 0686. 🎨 style: standardize quote style
 0721. 🚀 perf: optimize database query for quiz results
 0087. ✨ feat: add export to CSV option
+0080. ✨ feat: support email verification
