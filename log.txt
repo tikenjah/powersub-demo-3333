@@ -4502,3 +4502,4 @@
 0087. ✨ feat: add export to CSV option
 0080. ✨ feat: support email verification
 0677. 📚 docs: add API usage examples
+0432. 🎨 style: apply consistent indentation
