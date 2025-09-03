@@ -10888,3 +10888,4 @@
 0064. 📚 docs: clarify environment setup
 0054. ♻️ chore: update .gitignore
 0705. 🔧 refactor: refactor quiz grading logic
+0947. 📚 docs: write FAQ section
