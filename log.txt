@@ -8893,3 +8893,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0919. 🚀 perf: optimize database query for quiz results
 0603. 🐛 fix: fix broken CSS in mobile view
+0801. ✨ feat: enable dark mode toggle
