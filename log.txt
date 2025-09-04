@@ -4512,3 +4512,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0402. 🎨 style: reformat files with black
 0519. 📚 docs: document token refresh logic
+0097. 🐛 fix: handle 500 error in quiz API
