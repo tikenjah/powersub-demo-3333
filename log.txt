@@ -4518,3 +4518,4 @@
 0069. 🎨 style: rename variables for clarity
 0420. 🚀 perf: reduce image load time
 0380. 🐛 fix: fix null pointer exception on login
+0219. ✅ test: increase coverage on auth module
