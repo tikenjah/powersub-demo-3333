@@ -4525,3 +4525,4 @@
 0624. ✅ test: add unit test for quiz service
 0445. 📚 docs: improve code comments in utils
 0657. 🎨 style: standardize quote style
+0676. 🐛 fix: prevent crash on empty input
