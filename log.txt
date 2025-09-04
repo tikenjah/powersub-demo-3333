@@ -4521,3 +4521,4 @@
 0219. ✅ test: increase coverage on auth module
 0891. ✨ feat: create admin dashboard
 0779. 🔧 refactor: organize models into subfolders
+0498. ✅ test: mock database connection in test suite
