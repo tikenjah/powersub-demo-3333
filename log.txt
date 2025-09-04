@@ -4520,3 +4520,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0219. ✅ test: increase coverage on auth module
 0891. ✨ feat: create admin dashboard
+0779. 🔧 refactor: organize models into subfolders
