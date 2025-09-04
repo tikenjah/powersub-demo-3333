@@ -4516,3 +4516,4 @@
 0750. 🎨 style: apply consistent indentation
 0128. ♻️ chore: rename env.example
 0069. 🎨 style: rename variables for clarity
+0420. 🚀 perf: reduce image load time
