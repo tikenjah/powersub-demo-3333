@@ -5900,3 +5900,4 @@
 0091. ✨ feat: add user authentication
 0805. ♻️ chore: add GitHub actions badge
 0864. 🐛 fix: correct typo in registration form
+0564. 📚 docs: clarify environment setup
