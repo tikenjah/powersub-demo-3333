@@ -4537,3 +4537,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0705. 🔧 refactor: refactor quiz grading logic
 0658. 🎨 style: rename variables for clarity
+0096. 🐛 fix: prevent crash on empty input
