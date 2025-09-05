@@ -4533,3 +4533,4 @@
 0554. 📚 docs: improve code comments in utils
 0485. 📚 docs: update README with setup steps
 0572. ✨ feat: add user authentication
+0706. ✨ feat: support email verification
