@@ -4544,3 +4544,4 @@
 0105. 🐛 fix: correct typo in registration form
 0178. ✨ feat: support email verification
 0727. ♻️ chore: add GitHub actions badge
+0414. 🔧 refactor: remove redundant code blocks
