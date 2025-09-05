@@ -4542,3 +4542,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0002. 🚀 perf: cache repeated calculations
 0105. 🐛 fix: correct typo in registration form
+0178. ✨ feat: support email verification
