@@ -7912,3 +7912,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0655. 🚀 perf: cache repeated calculations
 0859. ✨ feat: create admin dashboard
+0888. 🚀 perf: lazy-load components
