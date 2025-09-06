@@ -4549,3 +4549,4 @@
 0145. 📚 docs: improve code comments in utils
 0377. ✨ feat: add user authentication
 0253. 📚 docs: update README with setup steps
+0096. 🐛 fix: prevent crash on empty input
