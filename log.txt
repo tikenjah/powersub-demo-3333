@@ -10896,3 +10896,4 @@
 0387. ✨ feat: enable dark mode toggle
 0690. 🚀 perf: lazy-load components
 0201. 🔧 refactor: clean up auth middleware
+0922. 📚 docs: write FAQ section
