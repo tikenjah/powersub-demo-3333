@@ -5903,3 +5903,4 @@
 0564. 📚 docs: clarify environment setup
 0315. ✅ test: add integration test for /submit endpoint
 0986. 📚 docs: document token refresh logic
+0629. 🔧 refactor: organize models into subfolders
