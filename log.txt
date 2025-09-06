@@ -9898,3 +9898,4 @@
 0941. 🚀 perf: cache repeated calculations
 0356. 📚 docs: write FAQ section
 0524. ♻️ chore: rename env.example
+0544. 🔧 refactor: organize models into subfolders
