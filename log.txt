@@ -10895,3 +10895,4 @@
 0569. 📚 docs: document token refresh logic
 0387. ✨ feat: enable dark mode toggle
 0690. 🚀 perf: lazy-load components
+0201. 🔧 refactor: clean up auth middleware
