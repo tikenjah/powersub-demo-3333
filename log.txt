@@ -8899,3 +8899,4 @@
 0906. 📚 docs: add API usage examples
 0923. ✨ feat: support email verification
 0999. 🔧 refactor: split large controller into smaller functions
+0190. 🎨 style: rename variables for clarity
