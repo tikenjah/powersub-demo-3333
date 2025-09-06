@@ -10899,3 +10899,4 @@
 0922. 📚 docs: write FAQ section
 0677. 📚 docs: add API usage examples
 0458. ✨ feat: create admin dashboard
+0233. 🚀 perf: lazy-load components
