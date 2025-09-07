@@ -6902,3 +6902,4 @@
 0339. 📚 docs: update README with setup steps
 0267. 📚 docs: improve code comments in utils
 0624. ✅ test: add unit test for quiz service
+0249. ✅ test: increase coverage on auth module
