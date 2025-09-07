@@ -6903,3 +6903,4 @@
 0267. 📚 docs: improve code comments in utils
 0624. ✅ test: add unit test for quiz service
 0249. ✅ test: increase coverage on auth module
+0777. 📚 docs: document token refresh logic
