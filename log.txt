@@ -10902,3 +10902,4 @@
 0233. 🚀 perf: lazy-load components
 0885. ♻️ chore: update .gitignore
 0274. 🔧 refactor: refactor quiz grading logic
+0040. 🔧 refactor: clean up auth middleware
