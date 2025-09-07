@@ -5906,3 +5906,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0612. ✅ test: test user registration edge cases
 0089. 🔧 refactor: remove redundant code blocks
+0897. 🐛 fix: prevent crash on empty input
