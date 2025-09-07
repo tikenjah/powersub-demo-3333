@@ -4561,3 +4561,4 @@
 0251. ♻️ chore: update .gitignore
 0162. ♻️ chore: add GitHub actions badge
 0117. ✅ test: increase coverage on auth module
+0007. 🎨 style: rename variables for clarity
