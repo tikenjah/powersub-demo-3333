@@ -4562,3 +4562,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0117. ✅ test: increase coverage on auth module
 0007. 🎨 style: rename variables for clarity
+0544. 🔧 refactor: organize models into subfolders
