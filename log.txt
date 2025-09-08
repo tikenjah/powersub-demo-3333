@@ -8904,3 +8904,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0908. ♻️ chore: bump dependencies
 0612. ✅ test: test user registration edge cases
+0433. 🐛 fix: prevent crash on empty input
