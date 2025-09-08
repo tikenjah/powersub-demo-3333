@@ -7922,3 +7922,4 @@
 0503. ♻️ chore: rename env.example
 0538. 🐛 fix: fix broken CSS in mobile view
 0049. 🐛 fix: handle 500 error in quiz API
+0356. 📚 docs: write FAQ section
