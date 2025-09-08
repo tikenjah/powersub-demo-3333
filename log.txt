@@ -4570,3 +4570,4 @@
 0471. ✨ feat: support email verification
 0139. 📚 docs: document token refresh logic
 0196. ♻️ chore: bump dependencies
+0533. ♻️ chore: add GitHub actions badge
