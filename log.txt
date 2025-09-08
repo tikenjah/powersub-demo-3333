@@ -6909,3 +6909,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0773. 📚 docs: document token refresh logic
 0232. 🎨 style: apply consistent indentation
+0175. 📚 docs: add API usage examples
