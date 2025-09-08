@@ -7921,3 +7921,4 @@
 0273. 🚀 perf: reduce image load time
 0503. ♻️ chore: rename env.example
 0538. 🐛 fix: fix broken CSS in mobile view
+0049. 🐛 fix: handle 500 error in quiz API
