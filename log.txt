@@ -4572,3 +4572,4 @@
 0196. ♻️ chore: bump dependencies
 0533. ♻️ chore: add GitHub actions badge
 0797. 📚 docs: add API usage examples
+0121. ✨ feat: support email verification
