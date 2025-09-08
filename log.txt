@@ -7924,3 +7924,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0356. 📚 docs: write FAQ section
 0460. 📚 docs: write FAQ section
+0118. 🚀 perf: reduce image load time
