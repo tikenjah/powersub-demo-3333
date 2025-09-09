@@ -9906,3 +9906,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0134. ✨ feat: implement quiz timer feature
 0310. 🔧 refactor: refactor quiz grading logic
+0467. ✅ test: add integration test for /submit endpoint
