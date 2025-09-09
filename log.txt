@@ -4582,3 +4582,4 @@
 0518. ✨ feat: support email verification
 0965. 🎨 style: reformat files with black
 0388. 🎨 style: reformat files with black
+0336. ✨ feat: add export to CSV option
