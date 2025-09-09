@@ -4579,3 +4579,4 @@
 0445. 📚 docs: improve code comments in utils
 0455. ♻️ chore: clean up unused files
 0704. 🚀 perf: cache repeated calculations
+0518. ✨ feat: support email verification
