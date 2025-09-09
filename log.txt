@@ -7925,3 +7925,4 @@
 0356. 📚 docs: write FAQ section
 0460. 📚 docs: write FAQ section
 0118. 🚀 perf: reduce image load time
+0574. ✨ feat: enable dark mode toggle
