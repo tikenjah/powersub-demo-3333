@@ -10907,3 +10907,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0489. 🔧 refactor: organize models into subfolders
 0710. 🐛 fix: fix broken CSS in mobile view
+0535. 📚 docs: write FAQ section
