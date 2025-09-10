@@ -9907,3 +9907,4 @@
 0134. ✨ feat: implement quiz timer feature
 0310. 🔧 refactor: refactor quiz grading logic
 0467. ✅ test: add integration test for /submit endpoint
+0040. 🔧 refactor: clean up auth middleware
