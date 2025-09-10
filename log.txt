@@ -10906,3 +10906,4 @@
 0244. ✨ feat: add export to CSV option
 0026. 🔧 refactor: clean up auth middleware
 0489. 🔧 refactor: organize models into subfolders
+0710. 🐛 fix: fix broken CSS in mobile view
