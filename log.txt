@@ -4604,3 +4604,4 @@
 0284. ✨ feat: implement quiz timer feature
 0344. ♻️ chore: add GitHub actions badge
 0340. 🚀 perf: optimize database query for quiz results
+0041. 🐛 fix: fix broken CSS in mobile view
