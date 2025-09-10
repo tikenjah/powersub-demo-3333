@@ -8909,3 +8909,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0565. ♻️ chore: add GitHub actions badge
 0143. ✨ feat: implement quiz timer feature
+0394. 🚀 perf: lazy-load components
