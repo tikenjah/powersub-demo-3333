@@ -4609,3 +4609,4 @@
 0392. 🎨 style: remove trailing whitespace
 0262. 🎨 style: remove trailing whitespace
 0831. 📚 docs: clarify environment setup
+0715. ✨ feat: create admin dashboard
