@@ -7932,3 +7932,4 @@
 0153. ♻️ chore: rename env.example
 0784. ♻️ chore: clean up unused files
 0893. 🐛 fix: handle 500 error in quiz API
+0243. 🔧 refactor: clean up auth middleware
