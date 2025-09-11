@@ -4611,3 +4611,4 @@
 0831. 📚 docs: clarify environment setup
 0715. ✨ feat: create admin dashboard
 0729. 🔧 refactor: refactor quiz grading logic
+0685. ✅ test: test user registration edge cases
