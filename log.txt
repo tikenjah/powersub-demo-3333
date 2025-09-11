@@ -4608,3 +4608,4 @@
 0320. 📚 docs: update README with setup steps
 0392. 🎨 style: remove trailing whitespace
 0262. 🎨 style: remove trailing whitespace
+0831. 📚 docs: clarify environment setup
