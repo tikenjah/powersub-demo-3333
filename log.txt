@@ -9910,3 +9910,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0447. ♻️ chore: bump dependencies
 0634. 🎨 style: reformat files with black
+0631. ✨ feat: create admin dashboard
