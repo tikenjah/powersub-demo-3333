@@ -4626,3 +4626,4 @@
 0855. 🎨 style: reformat files with black
 0932. ✅ test: add integration test for /submit endpoint
 0023. 📚 docs: clarify environment setup
+0502. 📚 docs: update README with setup steps
