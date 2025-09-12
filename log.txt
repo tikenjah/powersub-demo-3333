@@ -9911,3 +9911,4 @@
 0447. ♻️ chore: bump dependencies
 0634. 🎨 style: reformat files with black
 0631. ✨ feat: create admin dashboard
+0676. 🐛 fix: prevent crash on empty input
