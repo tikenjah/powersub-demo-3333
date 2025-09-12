@@ -5920,3 +5920,4 @@
 0903. ✅ test: mock database connection in test suite
 0927. ♻️ chore: bump dependencies
 0281. ✨ feat: support email verification
+0387. ✨ feat: enable dark mode toggle
