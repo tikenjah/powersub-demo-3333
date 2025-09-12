@@ -10909,3 +10909,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0535. 📚 docs: write FAQ section
 0679. ♻️ chore: bump dependencies
+0266. 🔧 refactor: remove redundant code blocks
