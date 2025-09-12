@@ -8916,3 +8916,4 @@
 0034. 📚 docs: improve code comments in utils
 0444. ✅ test: add unit test for quiz service
 0129. 🔧 refactor: organize models into subfolders
+0609. 🐛 fix: handle 500 error in quiz API
