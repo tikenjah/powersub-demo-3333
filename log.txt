@@ -4622,3 +4622,4 @@
 0962. ✨ feat: create admin dashboard
 0457. 🐛 fix: handle 500 error in quiz API
 0457. 🐛 fix: handle 500 error in quiz API
+0600. 🐛 fix: prevent crash on empty input
