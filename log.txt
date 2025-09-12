@@ -4630,3 +4630,4 @@
 0295. 🎨 style: remove trailing whitespace
 0454. ♻️ chore: bump dependencies
 0519. 📚 docs: document token refresh logic
+0649. 📚 docs: update README with setup steps
