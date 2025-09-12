@@ -5922,3 +5922,4 @@
 0281. ✨ feat: support email verification
 0387. ✨ feat: enable dark mode toggle
 0148. 🔧 refactor: organize models into subfolders
+0475. 🔧 refactor: clean up auth middleware
