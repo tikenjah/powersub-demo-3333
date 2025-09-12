@@ -5919,3 +5919,4 @@
 0987. ✨ feat: create admin dashboard
 0903. ✅ test: mock database connection in test suite
 0927. ♻️ chore: bump dependencies
+0281. ✨ feat: support email verification
