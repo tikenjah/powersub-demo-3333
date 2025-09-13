@@ -10916,3 +10916,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0705. 🔧 refactor: refactor quiz grading logic
 0816. 🔧 refactor: organize models into subfolders
+0135. ✅ test: test user registration edge cases
