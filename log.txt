@@ -9914,3 +9914,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0419. 🎨 style: remove trailing whitespace
 0788. 📚 docs: add API usage examples
+0779. 🔧 refactor: organize models into subfolders
