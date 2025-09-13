@@ -4635,3 +4635,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0777. 📚 docs: document token refresh logic
 0176. 🔧 refactor: remove redundant code blocks
+0806. 📚 docs: improve code comments in utils
