@@ -5925,3 +5925,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0673. 🐛 fix: correct typo in registration form
 0780. 📚 docs: add API usage examples
+0117. ✅ test: increase coverage on auth module
