@@ -4645,3 +4645,4 @@
 0923. ✨ feat: support email verification
 0614. 🚀 perf: reduce image load time
 0959. 🐛 fix: fix null pointer exception on login
+0751. 🐛 fix: handle 500 error in quiz API
