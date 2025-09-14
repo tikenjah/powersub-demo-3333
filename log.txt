@@ -10919,3 +10919,4 @@
 0135. ✅ test: test user registration edge cases
 0983. 🔧 refactor: split large controller into smaller functions
 0770. ♻️ chore: rename env.example
+0753. 🔧 refactor: remove redundant code blocks
