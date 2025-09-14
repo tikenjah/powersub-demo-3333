@@ -6927,3 +6927,4 @@
 0390. 🎨 style: standardize quote style
 0150. 🎨 style: remove trailing whitespace
 0679. ♻️ chore: bump dependencies
+0399. ✅ test: mock database connection in test suite
