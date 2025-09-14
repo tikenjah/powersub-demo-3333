@@ -5930,3 +5930,4 @@
 0194. 🎨 style: standardize quote style
 0746. ♻️ chore: add GitHub actions badge
 0083. 🎨 style: reformat files with black
+0062. ♻️ chore: update .gitignore
