@@ -5927,3 +5927,4 @@
 0780. 📚 docs: add API usage examples
 0117. ✅ test: increase coverage on auth module
 0363. 📚 docs: clarify environment setup
+0194. 🎨 style: standardize quote style
