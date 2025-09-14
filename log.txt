@@ -4654,3 +4654,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0297. 🎨 style: remove trailing whitespace
 0050. ✨ feat: enable dark mode toggle
+0109. 🚀 perf: lazy-load components
