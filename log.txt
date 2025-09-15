@@ -4672,3 +4672,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0325. 🎨 style: rename variables for clarity
 0767. 🔧 refactor: remove redundant code blocks
+0110. 🐛 fix: prevent crash on empty input
