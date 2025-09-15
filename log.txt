@@ -4660,3 +4660,4 @@
 0756. ✨ feat: support email verification
 0216. 🎨 style: rename variables for clarity
 0040. 🔧 refactor: clean up auth middleware
+0100. ♻️ chore: update .gitignore
