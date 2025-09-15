@@ -5932,3 +5932,4 @@
 0083. 🎨 style: reformat files with black
 0062. ♻️ chore: update .gitignore
 0004. 🚀 perf: optimize database query for quiz results
+0250. 📚 docs: update README with setup steps
