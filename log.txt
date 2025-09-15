@@ -10921,3 +10921,4 @@
 0770. ♻️ chore: rename env.example
 0753. 🔧 refactor: remove redundant code blocks
 0335. ♻️ chore: update .gitignore
+0657. 🎨 style: standardize quote style
