@@ -9923,3 +9923,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0478. 🐛 fix: resolve issue with date parsing
 0867. 🔧 refactor: refactor quiz grading logic
+0443. 🎨 style: standardize quote style
