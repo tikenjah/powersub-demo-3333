@@ -8923,3 +8923,4 @@
 0714. 📚 docs: improve code comments in utils
 0227. ✅ test: test user registration edge cases
 0111. 📚 docs: update README with setup steps
+0732. ♻️ chore: add GitHub actions badge
