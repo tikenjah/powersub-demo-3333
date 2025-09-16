@@ -6932,3 +6932,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0305. ✨ feat: enable dark mode toggle
 0180. ✨ feat: add export to CSV option
+0570. 🎨 style: apply consistent indentation
