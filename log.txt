@@ -8922,3 +8922,4 @@
 0664. ✅ test: add unit test for quiz service
 0714. 📚 docs: improve code comments in utils
 0227. ✅ test: test user registration edge cases
+0111. 📚 docs: update README with setup steps
