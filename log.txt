@@ -4687,3 +4687,4 @@
 0160. ♻️ chore: bump dependencies
 0741. 🎨 style: apply consistent indentation
 0053. ✅ test: increase coverage on auth module
+0816. 🔧 refactor: organize models into subfolders
