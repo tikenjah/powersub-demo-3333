@@ -10931,3 +10931,4 @@
 0143. ✨ feat: implement quiz timer feature
 0878. 🔧 refactor: split large controller into smaller functions
 0644. 🎨 style: apply consistent indentation
+0375. 🐛 fix: handle 500 error in quiz API
