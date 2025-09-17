@@ -4696,3 +4696,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0730. ✅ test: test user registration edge cases
 0108. 🎨 style: remove trailing whitespace
+0178. ✨ feat: support email verification
