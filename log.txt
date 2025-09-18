@@ -4711,3 +4711,4 @@
 0312. ✨ feat: add user authentication
 0781. 🚀 perf: reduce image load time
 0851. ✅ test: mock database connection in test suite
+0965. 🎨 style: reformat files with black
