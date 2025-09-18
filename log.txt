@@ -7944,3 +7944,4 @@
 0921. 🐛 fix: correct typo in registration form
 0715. ✨ feat: create admin dashboard
 0572. ✨ feat: add user authentication
+0762. 🚀 perf: lazy-load components
