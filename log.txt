@@ -4719,3 +4719,4 @@
 0174. 📚 docs: clarify environment setup
 0190. 🎨 style: rename variables for clarity
 0989. 📚 docs: write FAQ section
+0178. ✨ feat: support email verification
