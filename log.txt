@@ -4708,3 +4708,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0142. ✨ feat: implement quiz timer feature
 0108. 🎨 style: remove trailing whitespace
+0312. ✨ feat: add user authentication
