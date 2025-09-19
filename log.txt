@@ -4721,3 +4721,4 @@
 0989. 📚 docs: write FAQ section
 0178. ✨ feat: support email verification
 0133. 🐛 fix: fix null pointer exception on login
+0228. 🔧 refactor: remove redundant code blocks
