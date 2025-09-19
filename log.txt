@@ -4727,3 +4727,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0955. 🔧 refactor: remove redundant code blocks
 0660. 🐛 fix: correct typo in registration form
+0368. 🚀 perf: lazy-load components
