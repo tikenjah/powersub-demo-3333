@@ -4726,3 +4726,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0680. ♻️ chore: add GitHub actions badge
 0955. 🔧 refactor: remove redundant code blocks
+0660. 🐛 fix: correct typo in registration form
