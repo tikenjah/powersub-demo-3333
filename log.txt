@@ -8933,3 +8933,4 @@
 0513. ♻️ chore: bump dependencies
 0388. 🎨 style: reformat files with black
 0412. ✅ test: increase coverage on auth module
+0547. 📚 docs: write FAQ section
