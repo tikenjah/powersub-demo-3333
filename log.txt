@@ -8936,3 +8936,4 @@
 0547. 📚 docs: write FAQ section
 0626. 🎨 style: standardize quote style
 0767. 🔧 refactor: remove redundant code blocks
+0874. 🔧 refactor: split large controller into smaller functions
