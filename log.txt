@@ -8934,3 +8934,4 @@
 0388. 🎨 style: reformat files with black
 0412. ✅ test: increase coverage on auth module
 0547. 📚 docs: write FAQ section
+0626. 🎨 style: standardize quote style
