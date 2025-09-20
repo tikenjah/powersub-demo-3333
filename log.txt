@@ -7946,3 +7946,4 @@
 0572. ✨ feat: add user authentication
 0762. 🚀 perf: lazy-load components
 0209. ✨ feat: implement quiz timer feature
+0201. 🔧 refactor: clean up auth middleware
