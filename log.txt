@@ -7953,3 +7953,4 @@
 0005. ✅ test: add unit test for quiz service
 0339. 📚 docs: update README with setup steps
 0415. 🐛 fix: handle 500 error in quiz API
+0439. 🐛 fix: correct typo in registration form
