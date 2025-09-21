@@ -4759,3 +4759,4 @@
 0017. ✅ test: mock database connection in test suite
 0777. 📚 docs: document token refresh logic
 0422. 🔧 refactor: organize models into subfolders
+0136. 🚀 perf: lazy-load components
