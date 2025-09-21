@@ -8939,3 +8939,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0287. 📚 docs: write FAQ section
 0015. ✨ feat: implement quiz timer feature
+0254. 🚀 perf: reduce image load time
