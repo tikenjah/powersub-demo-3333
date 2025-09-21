@@ -9935,3 +9935,4 @@
 0336. ✨ feat: add export to CSV option
 0933. 📚 docs: clarify environment setup
 0962. ✨ feat: create admin dashboard
+0747. 🔧 refactor: clean up auth middleware
