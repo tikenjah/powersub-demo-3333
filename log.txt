@@ -7952,3 +7952,4 @@
 0933. 📚 docs: clarify environment setup
 0005. ✅ test: add unit test for quiz service
 0339. 📚 docs: update README with setup steps
+0415. 🐛 fix: handle 500 error in quiz API
