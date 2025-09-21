@@ -4756,3 +4756,4 @@
 0771. 🚀 perf: cache repeated calculations
 0481. ✅ test: add unit test for quiz service
 0421. 🔧 refactor: split large controller into smaller functions
+0017. ✅ test: mock database connection in test suite
