@@ -10937,3 +10937,4 @@
 0198. 📚 docs: clarify environment setup
 0719. 🎨 style: apply consistent indentation
 0703. 🔧 refactor: clean up auth middleware
+0068. 🐛 fix: fix null pointer exception on login
