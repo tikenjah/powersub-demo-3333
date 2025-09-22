@@ -6944,3 +6944,4 @@
 0987. ✨ feat: create admin dashboard
 0815. 🔧 refactor: split large controller into smaller functions
 0159. 🚀 perf: lazy-load components
+0226. 🚀 perf: lazy-load components
