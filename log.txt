@@ -4766,3 +4766,4 @@
 0458. ✨ feat: create admin dashboard
 0229. 🚀 perf: optimize database query for quiz results
 0541. 🐛 fix: correct typo in registration form
+0576. ♻️ chore: update .gitignore
