@@ -4763,3 +4763,4 @@
 0007. 🎨 style: rename variables for clarity
 0633. ✨ feat: add user authentication
 0864. 🐛 fix: correct typo in registration form
+0458. ✨ feat: create admin dashboard
