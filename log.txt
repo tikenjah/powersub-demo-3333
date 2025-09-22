@@ -4770,3 +4770,4 @@
 0169. 📚 docs: add API usage examples
 0474. ✅ test: add unit test for quiz service
 0324. 📚 docs: document token refresh logic
+0496. ✅ test: add integration test for /submit endpoint
