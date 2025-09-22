@@ -10940,3 +10940,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0760. 🐛 fix: resolve issue with date parsing
 0165. 🎨 style: remove trailing whitespace
+0932. ✅ test: add integration test for /submit endpoint
