@@ -7954,3 +7954,4 @@
 0339. 📚 docs: update README with setup steps
 0415. 🐛 fix: handle 500 error in quiz API
 0439. 🐛 fix: correct typo in registration form
+0053. ✅ test: increase coverage on auth module
