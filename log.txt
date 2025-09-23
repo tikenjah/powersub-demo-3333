@@ -7958,3 +7958,4 @@
 0769. ✨ feat: create admin dashboard
 0255. 🔧 refactor: refactor quiz grading logic
 0873. 🚀 perf: cache repeated calculations
+0424. ✨ feat: add user authentication
