@@ -4781,3 +4781,4 @@
 0798. 🚀 perf: reduce image load time
 0444. ✅ test: add unit test for quiz service
 0036. 🔧 refactor: clean up auth middleware
+0305. ✨ feat: enable dark mode toggle
