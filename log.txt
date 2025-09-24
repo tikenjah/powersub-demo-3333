@@ -4792,3 +4792,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0558. ✨ feat: enable dark mode toggle
 0162. ♻️ chore: add GitHub actions badge
+0362. 📚 docs: add API usage examples
