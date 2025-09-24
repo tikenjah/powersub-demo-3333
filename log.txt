@@ -4790,3 +4790,4 @@
 0875. ✅ test: increase coverage on auth module
 0347. ♻️ chore: update .gitignore
 0246. ✅ test: add integration test for /submit endpoint
+0558. ✨ feat: enable dark mode toggle
