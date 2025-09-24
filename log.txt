@@ -4788,3 +4788,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0092. 🚀 perf: reduce image load time
 0875. ✅ test: increase coverage on auth module
+0347. ♻️ chore: update .gitignore
