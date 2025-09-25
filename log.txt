@@ -7965,3 +7965,4 @@
 0872. 🎨 style: rename variables for clarity
 0863. 🐛 fix: correct typo in registration form
 1000. ✅ test: increase coverage on auth module
+0141. 📚 docs: document token refresh logic
