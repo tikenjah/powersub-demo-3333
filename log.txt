@@ -5962,3 +5962,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0307. ✨ feat: support email verification
 0119. 📚 docs: improve code comments in utils
+0414. 🔧 refactor: remove redundant code blocks
