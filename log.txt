@@ -6948,3 +6948,4 @@
 0372. ✨ feat: add user authentication
 0961. 📚 docs: add API usage examples
 0579. 📚 docs: clarify environment setup
+0131. 📚 docs: write FAQ section
