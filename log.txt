@@ -4814,3 +4814,4 @@
 0868. ✅ test: add unit test for quiz service
 0709. ♻️ chore: bump dependencies
 0766. 🎨 style: reformat files with black
+0052. 🎨 style: standardize quote style
