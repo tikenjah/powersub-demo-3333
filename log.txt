@@ -4806,3 +4806,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0903. ✅ test: mock database connection in test suite
 0507. 🔧 refactor: clean up auth middleware
+0116. ✨ feat: support email verification
