@@ -5964,3 +5964,4 @@
 0119. 📚 docs: improve code comments in utils
 0414. 🔧 refactor: remove redundant code blocks
 0545. 🎨 style: standardize quote style
+0793. 📚 docs: clarify environment setup
