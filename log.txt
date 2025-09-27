@@ -4816,3 +4816,4 @@
 0766. 🎨 style: reformat files with black
 0052. 🎨 style: standardize quote style
 0829. 🔧 refactor: organize models into subfolders
+0546. 🐛 fix: fix null pointer exception on login
