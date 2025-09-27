@@ -5967,3 +5967,4 @@
 0793. 📚 docs: clarify environment setup
 0520. 🐛 fix: fix null pointer exception on login
 0299. 🐛 fix: resolve issue with date parsing
+0779. 🔧 refactor: organize models into subfolders
