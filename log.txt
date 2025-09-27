@@ -4818,3 +4818,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0546. 🐛 fix: fix null pointer exception on login
 0568. 🐛 fix: handle 500 error in quiz API
+0660. 🐛 fix: correct typo in registration form
