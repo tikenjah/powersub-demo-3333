@@ -4821,3 +4821,4 @@
 0660. 🐛 fix: correct typo in registration form
 0952. 🔧 refactor: split large controller into smaller functions
 0676. 🐛 fix: prevent crash on empty input
+0896. 🚀 perf: reduce image load time
