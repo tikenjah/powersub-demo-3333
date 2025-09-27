@@ -10953,3 +10953,4 @@
 0719. 🎨 style: apply consistent indentation
 0370. 🚀 perf: reduce image load time
 0065. ✅ test: add integration test for /submit endpoint
+0343. 🚀 perf: optimize database query for quiz results
