@@ -4829,3 +4829,4 @@
 0010. ✨ feat: add user authentication
 0332. 🎨 style: standardize quote style
 0356. 📚 docs: write FAQ section
+0180. ✨ feat: add export to CSV option
