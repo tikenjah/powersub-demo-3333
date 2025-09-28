@@ -7971,3 +7971,4 @@
 0517. ✅ test: mock database connection in test suite
 0420. 🚀 perf: reduce image load time
 0231. 🔧 refactor: clean up auth middleware
+0809. ♻️ chore: rename env.example
