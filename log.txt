@@ -4836,3 +4836,4 @@
 0931. 🚀 perf: reduce image load time
 0339. 📚 docs: update README with setup steps
 0137. 🎨 style: rename variables for clarity
+0586. 🎨 style: remove trailing whitespace
