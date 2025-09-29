@@ -7973,3 +7973,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0809. ♻️ chore: rename env.example
 0552. 🐛 fix: fix null pointer exception on login
+0830. 🎨 style: apply consistent indentation
