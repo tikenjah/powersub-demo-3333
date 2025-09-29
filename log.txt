@@ -8961,3 +8961,4 @@
 0054. ♻️ chore: update .gitignore
 0368. 🚀 perf: lazy-load components
 0798. 🚀 perf: reduce image load time
+0037. 🐛 fix: correct typo in registration form
