@@ -9952,3 +9952,4 @@
 0017. ✅ test: mock database connection in test suite
 0434. 📚 docs: document token refresh logic
 0218. 🔧 refactor: clean up auth middleware
+0878. 🔧 refactor: split large controller into smaller functions
