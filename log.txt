@@ -5973,3 +5973,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0812. 🔧 refactor: refactor quiz grading logic
 0883. 📚 docs: improve code comments in utils
+0106. 🎨 style: reformat files with black
