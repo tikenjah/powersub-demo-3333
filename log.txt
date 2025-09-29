@@ -4847,3 +4847,4 @@
 0929. ✨ feat: support email verification
 0287. 📚 docs: write FAQ section
 0723. 🔧 refactor: remove redundant code blocks
+0218. 🔧 refactor: clean up auth middleware
