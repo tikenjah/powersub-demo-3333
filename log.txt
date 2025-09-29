@@ -7975,3 +7975,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0830. 🎨 style: apply consistent indentation
 0600. 🐛 fix: prevent crash on empty input
+0213. ✅ test: add integration test for /submit endpoint
