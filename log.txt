@@ -10962,3 +10962,4 @@
 0742. 📚 docs: clarify environment setup
 0976. ✨ feat: implement quiz timer feature
 0640. ♻️ chore: bump dependencies
+0114. ♻️ chore: update .gitignore
