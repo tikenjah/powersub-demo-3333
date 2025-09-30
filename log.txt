@@ -4864,3 +4864,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0404. 📚 docs: improve code comments in utils
 0795. 📚 docs: update README with setup steps
+0081. 🐛 fix: fix null pointer exception on login
