@@ -4860,3 +4860,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0609. 🐛 fix: handle 500 error in quiz API
 0568. 🐛 fix: handle 500 error in quiz API
+0096. 🐛 fix: prevent crash on empty input
