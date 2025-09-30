@@ -4854,3 +4854,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0137. 🎨 style: rename variables for clarity
 0675. 🔧 refactor: organize models into subfolders
+0078. ♻️ chore: update .gitignore
