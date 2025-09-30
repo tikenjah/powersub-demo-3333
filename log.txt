@@ -6964,3 +6964,4 @@
 0342. 🚀 perf: cache repeated calculations
 0968. 🎨 style: standardize quote style
 0261. 🔧 refactor: refactor quiz grading logic
+0732. ♻️ chore: add GitHub actions badge
