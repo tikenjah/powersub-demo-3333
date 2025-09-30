@@ -8964,3 +8964,4 @@
 0037. 🐛 fix: correct typo in registration form
 0960. ✅ test: increase coverage on auth module
 0091. ✨ feat: add user authentication
+0117. ✅ test: increase coverage on auth module
