@@ -8963,3 +8963,4 @@
 0798. 🚀 perf: reduce image load time
 0037. 🐛 fix: correct typo in registration form
 0960. ✅ test: increase coverage on auth module
+0091. ✨ feat: add user authentication
