@@ -9955,3 +9955,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0900. 🐛 fix: handle 500 error in quiz API
 0967. ♻️ chore: add GitHub actions badge
+0500. ✅ test: add integration test for /submit endpoint
