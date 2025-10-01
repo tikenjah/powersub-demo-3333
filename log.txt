@@ -4875,3 +4875,4 @@
 0553. 🐛 fix: correct typo in registration form
 0061. ✨ feat: create admin dashboard
 0129. 🔧 refactor: organize models into subfolders
+0863. 🐛 fix: correct typo in registration form
