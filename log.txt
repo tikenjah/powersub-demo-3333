@@ -4871,3 +4871,4 @@
 0313. 🎨 style: apply consistent indentation
 0462. ♻️ chore: update .gitignore
 0843. 📚 docs: document token refresh logic
+0678. ✨ feat: add user authentication
