@@ -4870,3 +4870,4 @@
 0215. 🎨 style: reformat files with black
 0313. 🎨 style: apply consistent indentation
 0462. ♻️ chore: update .gitignore
+0843. 📚 docs: document token refresh logic
