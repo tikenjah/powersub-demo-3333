@@ -10963,3 +10963,4 @@
 0976. ✨ feat: implement quiz timer feature
 0640. ♻️ chore: bump dependencies
 0114. ♻️ chore: update .gitignore
+0727. ♻️ chore: add GitHub actions badge
