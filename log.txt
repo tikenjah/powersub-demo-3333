@@ -10966,3 +10966,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0930. 🎨 style: apply consistent indentation
 0531. 🐛 fix: prevent crash on empty input
+0892. ✅ test: add unit test for quiz service
