@@ -8968,3 +8968,4 @@
 0052. 🎨 style: standardize quote style
 0524. ♻️ chore: rename env.example
 0895. ✨ feat: support email verification
+0937. 🐛 fix: handle 500 error in quiz API
