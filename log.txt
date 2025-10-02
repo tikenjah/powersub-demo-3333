@@ -4880,3 +4880,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0181. ♻️ chore: add GitHub actions badge
 0895. ✨ feat: support email verification
+0335. ♻️ chore: update .gitignore
