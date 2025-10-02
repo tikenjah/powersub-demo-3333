@@ -7979,3 +7979,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0245. 🐛 fix: resolve issue with date parsing
 0756. ✨ feat: support email verification
+0986. 📚 docs: document token refresh logic
