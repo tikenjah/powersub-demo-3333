@@ -4890,3 +4890,4 @@
 0852. ✨ feat: enable dark mode toggle
 0121. ✨ feat: support email verification
 0251. ♻️ chore: update .gitignore
+0341. 🚀 perf: lazy-load components
