@@ -9962,3 +9962,4 @@
 0227. ✅ test: test user registration edge cases
 0665. ♻️ chore: update .gitignore
 0454. ♻️ chore: bump dependencies
+0030. 🐛 fix: fix null pointer exception on login
