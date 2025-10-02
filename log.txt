@@ -10967,3 +10967,4 @@
 0930. 🎨 style: apply consistent indentation
 0531. 🐛 fix: prevent crash on empty input
 0892. ✅ test: add unit test for quiz service
+0578. ✅ test: add integration test for /submit endpoint
