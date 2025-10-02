@@ -4881,3 +4881,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0895. ✨ feat: support email verification
 0335. ♻️ chore: update .gitignore
+0499. 🎨 style: reformat files with black
