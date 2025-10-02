@@ -4887,3 +4887,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0109. 🚀 perf: lazy-load components
 0706. ✨ feat: support email verification
+0852. ✨ feat: enable dark mode toggle
