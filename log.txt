@@ -4892,3 +4892,4 @@
 0251. ♻️ chore: update .gitignore
 0341. 🚀 perf: lazy-load components
 0233. 🚀 perf: lazy-load components
+0702. ✨ feat: add user authentication
