@@ -6976,3 +6976,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0326. 🚀 perf: cache repeated calculations
 0749. ✨ feat: support email verification
+0592. 📚 docs: add API usage examples
