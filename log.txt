@@ -6977,3 +6977,4 @@
 0326. 🚀 perf: cache repeated calculations
 0749. ✨ feat: support email verification
 0592. 📚 docs: add API usage examples
+0672. 🐛 fix: fix broken CSS in mobile view
