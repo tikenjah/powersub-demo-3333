@@ -4907,3 +4907,4 @@
 0969. ✨ feat: create admin dashboard
 0667. ✨ feat: add export to CSV option
 0463. 🚀 perf: reduce image load time
+0970. ♻️ chore: update .gitignore
