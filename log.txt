@@ -9966,3 +9966,4 @@
 0325. 🎨 style: rename variables for clarity
 0470. 🎨 style: remove trailing whitespace
 0071. 🔧 refactor: refactor quiz grading logic
+0888. 🚀 perf: lazy-load components
