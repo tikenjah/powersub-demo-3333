@@ -10975,3 +10975,4 @@
 0102. ✨ feat: support email verification
 0537. 🔧 refactor: remove redundant code blocks
 0076. 🎨 style: reformat files with black
+0493. ✨ feat: add user authentication
