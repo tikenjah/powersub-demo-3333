@@ -6979,3 +6979,4 @@
 0592. 📚 docs: add API usage examples
 0672. 🐛 fix: fix broken CSS in mobile view
 0117. ✅ test: increase coverage on auth module
+0611. ✅ test: test user registration edge cases
