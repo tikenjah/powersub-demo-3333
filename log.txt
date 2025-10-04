@@ -8975,3 +8975,4 @@
 0854. ♻️ chore: rename env.example
 0733. 🐛 fix: fix null pointer exception on login
 0145. 📚 docs: improve code comments in utils
+0524. ♻️ chore: rename env.example
