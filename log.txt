@@ -5983,3 +5983,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0413. ✅ test: add integration test for /submit endpoint
 0849. 🐛 fix: correct typo in registration form
+0120. ✅ test: add integration test for /submit endpoint
