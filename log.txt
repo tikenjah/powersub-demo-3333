@@ -4928,3 +4928,4 @@
 0966. 📚 docs: improve code comments in utils
 0448. 🐛 fix: correct typo in registration form
 0967. ♻️ chore: add GitHub actions badge
+0529. 📚 docs: write FAQ section
