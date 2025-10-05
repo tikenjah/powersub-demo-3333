@@ -4926,3 +4926,4 @@
 0686. 🎨 style: standardize quote style
 0709. ♻️ chore: bump dependencies
 0966. 📚 docs: improve code comments in utils
+0448. 🐛 fix: correct typo in registration form
