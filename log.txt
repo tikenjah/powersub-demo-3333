@@ -7987,3 +7987,4 @@
 0256. ✅ test: mock database connection in test suite
 0820. 📚 docs: add API usage examples
 0714. 📚 docs: improve code comments in utils
+0657. 🎨 style: standardize quote style
