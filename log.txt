@@ -4922,3 +4922,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0600. 🐛 fix: prevent crash on empty input
 0766. 🎨 style: reformat files with black
+0627. 📚 docs: document token refresh logic
