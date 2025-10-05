@@ -8977,3 +8977,4 @@
 0145. 📚 docs: improve code comments in utils
 0524. ♻️ chore: rename env.example
 0498. ✅ test: mock database connection in test suite
+0030. 🐛 fix: fix null pointer exception on login
