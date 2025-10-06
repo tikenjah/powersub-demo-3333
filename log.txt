@@ -7990,3 +7990,4 @@
 0657. 🎨 style: standardize quote style
 0436. ✅ test: add integration test for /submit endpoint
 0996. ✅ test: test user registration edge cases
+0362. 📚 docs: add API usage examples
