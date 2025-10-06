@@ -4930,3 +4930,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0529. 📚 docs: write FAQ section
 0812. 🔧 refactor: refactor quiz grading logic
+0958. 🐛 fix: prevent crash on empty input
