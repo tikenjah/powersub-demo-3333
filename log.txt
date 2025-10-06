@@ -8982,3 +8982,4 @@
 0889. 🚀 perf: lazy-load components
 0850. ♻️ chore: rename env.example
 0258. 🐛 fix: prevent crash on empty input
+0217. 🚀 perf: reduce image load time
