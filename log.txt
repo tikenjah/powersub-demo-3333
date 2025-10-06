@@ -8981,3 +8981,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0889. 🚀 perf: lazy-load components
 0850. ♻️ chore: rename env.example
+0258. 🐛 fix: prevent crash on empty input
