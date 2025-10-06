@@ -5989,3 +5989,4 @@
 0252. 🎨 style: remove trailing whitespace
 0736. 🐛 fix: fix null pointer exception on login
 0181. ♻️ chore: add GitHub actions badge
+0340. 🚀 perf: optimize database query for quiz results
