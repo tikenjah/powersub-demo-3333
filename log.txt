@@ -4933,3 +4933,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0150. 🎨 style: remove trailing whitespace
 0896. 🚀 perf: reduce image load time
+0293. ✅ test: add integration test for /submit endpoint
