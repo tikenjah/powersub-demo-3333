@@ -9974,3 +9974,4 @@
 0376. 🎨 style: apply consistent indentation
 0354. 📚 docs: add API usage examples
 0215. 🎨 style: reformat files with black
+0653. 🐛 fix: prevent crash on empty input
