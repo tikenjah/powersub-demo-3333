@@ -9976,3 +9976,4 @@
 0215. 🎨 style: reformat files with black
 0653. 🐛 fix: prevent crash on empty input
 0253. 📚 docs: update README with setup steps
+0693. 📚 docs: add API usage examples
