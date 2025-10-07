@@ -10984,3 +10984,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0879. 🎨 style: standardize quote style
 0762. 🚀 perf: lazy-load components
+0063. 🐛 fix: handle 500 error in quiz API
