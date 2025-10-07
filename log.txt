@@ -6990,3 +6990,4 @@
 0923. ✨ feat: support email verification
 0233. 🚀 perf: lazy-load components
 0595. ✨ feat: enable dark mode toggle
+0029. 🚀 perf: lazy-load components
