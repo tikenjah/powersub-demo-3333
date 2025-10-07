@@ -7992,3 +7992,4 @@
 0996. ✅ test: test user registration edge cases
 0362. 📚 docs: add API usage examples
 0032. 🎨 style: apply consistent indentation
+0201. 🔧 refactor: clean up auth middleware
