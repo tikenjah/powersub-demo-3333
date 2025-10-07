@@ -4941,3 +4941,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0151. ✅ test: add unit test for quiz service
 0384. 📚 docs: clarify environment setup
+0585. 🚀 perf: lazy-load components
