@@ -4952,3 +4952,4 @@
 0619. ✨ feat: create admin dashboard
 0173. 🚀 perf: cache repeated calculations
 0336. ✨ feat: add export to CSV option
+0936. 🔧 refactor: organize models into subfolders
