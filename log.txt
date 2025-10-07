@@ -8986,3 +8986,4 @@
 0409. 🚀 perf: lazy-load components
 0372. ✨ feat: add user authentication
 0686. 🎨 style: standardize quote style
+0420. 🚀 perf: reduce image load time
