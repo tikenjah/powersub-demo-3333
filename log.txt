@@ -4948,3 +4948,4 @@
 0105. 🐛 fix: correct typo in registration form
 0378. 🐛 fix: prevent crash on empty input
 0103. 🔧 refactor: remove redundant code blocks
+0171. 🐛 fix: fix broken CSS in mobile view
