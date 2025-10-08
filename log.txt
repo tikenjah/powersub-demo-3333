@@ -8990,3 +8990,4 @@
 0142. ✨ feat: implement quiz timer feature
 0716. ✨ feat: implement quiz timer feature
 0172. 📚 docs: add API usage examples
+0603. 🐛 fix: fix broken CSS in mobile view
