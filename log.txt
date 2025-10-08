@@ -5993,3 +5993,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0854. ♻️ chore: rename env.example
 0999. 🔧 refactor: split large controller into smaller functions
+0587. 🔧 refactor: remove redundant code blocks
