@@ -9981,3 +9981,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0884. 📚 docs: clarify environment setup
 0242. ♻️ chore: clean up unused files
+0659. 📚 docs: add API usage examples
