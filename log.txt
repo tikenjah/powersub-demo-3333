@@ -4966,3 +4966,4 @@
 0846. ✨ feat: implement quiz timer feature
 0569. 📚 docs: document token refresh logic
 0854. ♻️ chore: rename env.example
+0583. ✅ test: increase coverage on auth module
