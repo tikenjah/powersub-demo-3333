@@ -4956,3 +4956,4 @@
 0077. ♻️ chore: rename env.example
 0373. 📚 docs: document token refresh logic
 0822. 🔧 refactor: remove redundant code blocks
+0849. 🐛 fix: correct typo in registration form
