@@ -9982,3 +9982,4 @@
 0884. 📚 docs: clarify environment setup
 0242. ♻️ chore: clean up unused files
 0659. 📚 docs: add API usage examples
+0541. 🐛 fix: correct typo in registration form
