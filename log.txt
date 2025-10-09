@@ -10988,3 +10988,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0226. 🚀 perf: lazy-load components
 0070. ✨ feat: implement quiz timer feature
+0035. ✅ test: increase coverage on auth module
