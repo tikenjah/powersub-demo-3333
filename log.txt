@@ -6993,3 +6993,4 @@
 0029. 🚀 perf: lazy-load components
 0263. 📚 docs: add API usage examples
 0605. ✨ feat: support email verification
+0922. 📚 docs: write FAQ section
