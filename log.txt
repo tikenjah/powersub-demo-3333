@@ -4980,3 +4980,4 @@
 0173. 🚀 perf: cache repeated calculations
 1000. ✅ test: increase coverage on auth module
 0430. 🐛 fix: fix null pointer exception on login
+0258. 🐛 fix: prevent crash on empty input
