@@ -8993,3 +8993,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0728. 🔧 refactor: split large controller into smaller functions
 0832. 🔧 refactor: remove redundant code blocks
+0630. 🚀 perf: lazy-load components
