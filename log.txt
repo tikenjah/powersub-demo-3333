@@ -9992,3 +9992,4 @@
 0837. 🚀 perf: cache repeated calculations
 0151. ✅ test: add unit test for quiz service
 0187. ✨ feat: support email verification
+0585. 🚀 perf: lazy-load components
