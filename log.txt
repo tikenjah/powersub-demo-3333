@@ -9987,3 +9987,4 @@
 0886. ♻️ chore: clean up unused files
 0405. ✅ test: mock database connection in test suite
 0946. ✅ test: add unit test for quiz service
+0393. 🚀 perf: lazy-load components
