@@ -4992,3 +4992,4 @@
 0704. 🚀 perf: cache repeated calculations
 0878. 🔧 refactor: split large controller into smaller functions
 0532. 🔧 refactor: split large controller into smaller functions
+0367. 🐛 fix: fix null pointer exception on login
