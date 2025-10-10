@@ -6997,3 +6997,4 @@
 0851. ✅ test: mock database connection in test suite
 0650. ✅ test: add unit test for quiz service
 0119. 📚 docs: improve code comments in utils
+0875. ✅ test: increase coverage on auth module
