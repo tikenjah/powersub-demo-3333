@@ -5997,3 +5997,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0760. 🐛 fix: resolve issue with date parsing
 0566. 📚 docs: write FAQ section
+0143. ✨ feat: implement quiz timer feature
