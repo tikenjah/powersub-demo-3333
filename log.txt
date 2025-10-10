@@ -4997,3 +4997,4 @@
 0251. ♻️ chore: update .gitignore
 0909. 🔧 refactor: organize models into subfolders
 0059. ♻️ chore: bump dependencies
+0298. ♻️ chore: update .gitignore
