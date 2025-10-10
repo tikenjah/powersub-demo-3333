@@ -4995,3 +4995,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0980. 🎨 style: reformat files with black
 0251. ♻️ chore: update .gitignore
+0909. 🔧 refactor: organize models into subfolders
