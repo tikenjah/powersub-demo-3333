@@ -9994,3 +9994,4 @@
 0187. ✨ feat: support email verification
 0585. 🚀 perf: lazy-load components
 0441. 📚 docs: add API usage examples
+0801. ✨ feat: enable dark mode toggle
