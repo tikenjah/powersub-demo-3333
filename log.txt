@@ -8997,3 +8997,4 @@
 0326. 🚀 perf: cache repeated calculations
 0644. 🎨 style: apply consistent indentation
 0786. ✨ feat: enable dark mode toggle
+0374. 🎨 style: standardize quote style
