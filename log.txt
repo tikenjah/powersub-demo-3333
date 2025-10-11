@@ -10996,3 +10996,4 @@
 0152. ✨ feat: add user authentication
 0626. 🎨 style: standardize quote style
 0856. 🐛 fix: fix null pointer exception on login
+0308. 🚀 perf: reduce image load time
