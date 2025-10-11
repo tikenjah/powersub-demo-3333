@@ -10995,3 +10995,4 @@
 0094. 📚 docs: document token refresh logic
 0152. ✨ feat: add user authentication
 0626. 🎨 style: standardize quote style
+0856. 🐛 fix: fix null pointer exception on login
